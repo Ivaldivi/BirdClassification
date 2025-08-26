@@ -1,0 +1,1622 @@
+[
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/557966867/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-28.0703257387",
+    "longitude": "145.7047816815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557859917/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-26.4102703628",
+    "longitude": "146.2916746616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/557769394/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-32.5242932264",
+    "longitude": "142.3034016766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557555902/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-34.76081",
+    "longitude": "142.3416983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557500307/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-38.0034627699",
+    "longitude": "144.4100619884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557489028/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-16.684169804",
+    "longitude": "135.7264917344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557471961/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-34.0703070032",
+    "longitude": "150.7681056202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/557451157/square.jpg",
+    "date": "2024-06-02",
+    "latitude": "-24.0977685219",
+    "longitude": "143.3547934851",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557449891/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-31.2628013682",
+    "longitude": "149.1443631409",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/557435832/square.jpg",
+    "date": "2024-06-01",
+    "latitude": "-22.3830892",
+    "longitude": "143.0156035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557429643/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.3995027778",
+    "longitude": "150.4909888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557400136/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.290451861",
+    "longitude": "143.5488432949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557399441/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.2903982073",
+    "longitude": "143.5494180655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557372977/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7967224674",
+    "longitude": "143.423648854",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557386565/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-37.6513950044",
+    "longitude": "145.1054760816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557194878/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7953885698",
+    "longitude": "143.4215556102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557194566/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7954771467",
+    "longitude": "143.421572995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557166469/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7954727236",
+    "longitude": "143.4238814431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557166410/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7951993541",
+    "longitude": "143.4231836145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557166106/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7951345392",
+    "longitude": "143.4229330684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557332695/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.7651134989",
+    "longitude": "140.1258965863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557206003/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-21.9888870092",
+    "longitude": "146.333199693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557083609/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-35.0952800556",
+    "longitude": "139.0762038395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557072640/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-35.0990135497",
+    "longitude": "139.0796619466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557067351/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-35.0999868633",
+    "longitude": "139.0796316294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556935755/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-31.6357654253",
+    "longitude": "138.5727522998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556932185/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.5969462137",
+    "longitude": "151.9435217232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/556914874/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.4303568847",
+    "longitude": "149.5518373588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556914988/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.0598468594",
+    "longitude": "148.2369650155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556908399/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.263365",
+    "longitude": "149.1124083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556888042/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-34.78988",
+    "longitude": "142.48115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556889684/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.0200238677",
+    "longitude": "149.3027887121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556877448/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-35.7790566667",
+    "longitude": "143.120575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556879627/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-31.3284533333",
+    "longitude": "148.4719033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/556867298/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-23.56585128",
+    "longitude": "145.2666721546",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556859361/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-37.9585598115",
+    "longitude": "144.4256235001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556858233/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-29.4151566667",
+    "longitude": "147.9890233333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556857865/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.7520725457",
+    "longitude": "142.3442973197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556843020/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-26.7366416667",
+    "longitude": "150.623985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556793990/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.7513973619",
+    "longitude": "142.3466429114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/556770181/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-35.2271896282",
+    "longitude": "149.1755651428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556767161/square.jpg",
+    "date": "2025-04-08",
+    "latitude": "-28.0204584361",
+    "longitude": "152.115190917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556737265/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.0734945",
+    "longitude": "139.0958861667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/556685131/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-36.4466781046",
+    "longitude": "146.1157867705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556384951/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-23.401431",
+    "longitude": "150.4915111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556380854/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.215379033",
+    "longitude": "142.2325836495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/556315307/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-21.9888891",
+    "longitude": "146.3331812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556306162/square.jpg",
+    "date": "2018-09-26",
+    "latitude": "-34.7594053625",
+    "longitude": "142.3575313801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556301443/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-21.9888362783",
+    "longitude": "146.3335994565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556297019/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.2823492217",
+    "longitude": "149.079961137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/556216330/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-23.6506149722",
+    "longitude": "145.216104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556167024/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-34.0701221667",
+    "longitude": "150.7678966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/555981001/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-35.0977971667",
+    "longitude": "139.0829305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555926093/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-32.3319191359",
+    "longitude": "150.3436768467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/555932359/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-28.5397745077",
+    "longitude": "150.2963585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555913055/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-26.613242",
+    "longitude": "144.270542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555842485/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-24.7238660248",
+    "longitude": "150.9944405034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/555752365/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-28.3863701946",
+    "longitude": "151.22845117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/555484290/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-34.3419638857",
+    "longitude": "141.3356653601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555457330/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-36.77549",
+    "longitude": "144.32327",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/555446730/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-36.1244954195",
+    "longitude": "144.7341549397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555411763/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-25.4833057",
+    "longitude": "149.6506842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555184878/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-34.6959003054",
+    "longitude": "138.9553210188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/555081361/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-35.1052388333",
+    "longitude": "139.0800333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555079782/square.jpg",
+    "date": "2016-07-06",
+    "latitude": "-27.9841573695",
+    "longitude": "145.6229857063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555302621/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-37.9543054199",
+    "longitude": "144.4432713477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555003720/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-37.5544186057",
+    "longitude": "143.8238800252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554920260/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-34.2442162671",
+    "longitude": "142.2363682562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea cinerea",
+    "common name": "Southern Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554879452/square.jpg",
+    "date": "2014-05-02",
+    "latitude": "-34.761933845",
+    "longitude": "142.3000180754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554621688/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-33.759445",
+    "longitude": "143.022405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554618255/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-34.7527366667",
+    "longitude": "142.3430266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554617935/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-34.7692633333",
+    "longitude": "142.352295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554584000/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-34.8442646",
+    "longitude": "138.6875063997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554567232/square.jpg",
+    "date": "2019-03-09",
+    "latitude": "-37.0186957998",
+    "longitude": "143.3845089527",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554561894/square.jpg",
+    "date": "2022-09-24",
+    "latitude": "-32.1784472222",
+    "longitude": "138.0057861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554426366/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-20.4413976249",
+    "longitude": "145.5329597369",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554199185/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-35.8538333333",
+    "longitude": "146.5314888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554150210/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-29.4617793653",
+    "longitude": "147.9844924641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554138233/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-25.0708720997",
+    "longitude": "148.2705416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554087153/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-35.3091520993",
+    "longitude": "149.1421736014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554057938/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-34.3591480688",
+    "longitude": "139.4876559342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554057767/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-34.3548245979",
+    "longitude": "139.4929196802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553973288/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-35.2662511271",
+    "longitude": "140.9104980307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553972241/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-35.2567403349",
+    "longitude": "141.1032999643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553650709/square.jpg",
+    "date": "2021-01-01",
+    "latitude": "-28.8309616667",
+    "longitude": "151.9347833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553648864/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-30.0249111667",
+    "longitude": "150.8017583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553605177/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-31.4498716667",
+    "longitude": "138.7600383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553574033/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-37.6687166667",
+    "longitude": "145.102525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553475397/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.7908616667",
+    "longitude": "150.8450616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea cinerea",
+    "common name": "Southern Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553460896/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.7909757419",
+    "longitude": "150.8451791392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/553159738/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-34.359325",
+    "longitude": "139.4876716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/553147349/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-34.357005",
+    "longitude": "139.4912716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553110495/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-34.0701945",
+    "longitude": "150.7677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553084423/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-27.411505",
+    "longitude": "151.8842916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553059063/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-29.4247883333",
+    "longitude": "147.9958633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553047261/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-34.7634039503",
+    "longitude": "142.3608033777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552962901/square.jpg",
+    "date": "2025-02-21",
+    "latitude": "-35.2769966667",
+    "longitude": "149.1078638333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552623333/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-28.5456176569",
+    "longitude": "150.323892273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552598760/square.jpg",
+    "date": "2024-08-19",
+    "latitude": "-18.3015696391",
+    "longitude": "143.3517862381",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552229803/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-38.0043017434",
+    "longitude": "144.4094957405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552226380/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-38.0040903945",
+    "longitude": "144.4098176056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552225704/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-38.0042145289",
+    "longitude": "144.4098390633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552224058/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-38.0027454491",
+    "longitude": "144.4098436362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552558433/square.jpg",
+    "date": "2024-08-17",
+    "latitude": "-16.5291918",
+    "longitude": "145.1398937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/552544278/square.jpg",
+    "date": "2024-08-11",
+    "latitude": "-37.0543072",
+    "longitude": "144.098413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552217645/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-36.3717411133",
+    "longitude": "145.3493294467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552208581/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-19.43",
+    "longitude": "145.988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552188842/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-22.38248126",
+    "longitude": "143.0403475067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552176303/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-34.6845129755",
+    "longitude": "139.4299385892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552152410/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-37.6413185566",
+    "longitude": "144.8496987843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552118460/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-37.0702459456",
+    "longitude": "142.6662823814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/552096994/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-35.0858974765",
+    "longitude": "139.082865268",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552080498/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-35.2645996398",
+    "longitude": "149.1543431337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552039730/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-31.5055937492",
+    "longitude": "138.6210489732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551783699/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-24.875177",
+    "longitude": "151.85363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/551779236/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-16.2540595",
+    "longitude": "133.369423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551766885/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-36.1704420817",
+    "longitude": "144.2415139567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551716294/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-35.1111211595",
+    "longitude": "139.2623315884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/551609131/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-35.26",
+    "longitude": "149.0472222217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551579381/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-29.4150966667",
+    "longitude": "147.989105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551378577/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-34.7105935323",
+    "longitude": "139.0123340301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/551237822/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-26.3630780678",
+    "longitude": "146.1537347911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551230588/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-30.4396288589",
+    "longitude": "151.8775851489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551227027/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-33.8313786936",
+    "longitude": "139.0440034506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551217209/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-33.8313876928",
+    "longitude": "139.0440410149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551212483/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-33.831096024",
+    "longitude": "139.0442986229",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551170181/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-29.7909466658",
+    "longitude": "151.1378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551038546/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "-35.2738717108",
+    "longitude": "149.1097987675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550923952/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-34.7387516863",
+    "longitude": "138.9527219822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550843189/square.jpg",
+    "date": "2017-11-09",
+    "latitude": "-38.4749786947",
+    "longitude": "146.7264082051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550801187/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-32.7847301201",
+    "longitude": "149.080529809",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550742777/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-27.5639588001",
+    "longitude": "152.857972607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550633778/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-33.1241344117",
+    "longitude": "150.2823909383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550618392/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-27.3029620866",
+    "longitude": "151.8579285018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550249361/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-36.9050965754",
+    "longitude": "143.5214191302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550190215/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-36.1421725008",
+    "longitude": "146.615543156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550190192/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-36.1420363956",
+    "longitude": "146.6156263982",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550174400/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-37.5520790371",
+    "longitude": "143.8225942043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550148067/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-35.2741866667",
+    "longitude": "149.08624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550071852/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-35.2752427217",
+    "longitude": "149.1067125876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/549703314/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-35.2784437804",
+    "longitude": "149.1759183093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549698566/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-35.2655388889",
+    "longitude": "149.1553694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/549306578/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-22.8283839722",
+    "longitude": "149.9333029722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549253779/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-36.168875",
+    "longitude": "146.8785111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549252499/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-36.1689472222",
+    "longitude": "146.8813027778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548832376/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-34.0697605838",
+    "longitude": "150.7672027498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548778128/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-23.2753298268",
+    "longitude": "144.1276062127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea dalyi",
+    "common name": "Northern Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548781978/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-16.1072663013",
+    "longitude": "144.7770018876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548759526/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-36.0796958604",
+    "longitude": "142.4035515306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548743361/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-14.4672142753",
+    "longitude": "132.2667820752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/548718526/square.jpg",
+    "date": "2024-11-29",
+    "latitude": "-34.751168",
+    "longitude": "142.326188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548697416/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-29.8664436",
+    "longitude": "150.5755074997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548664695/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-23.659055",
+    "longitude": "148.0777445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/548340836/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-32.1851134846",
+    "longitude": "138.0139375402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/548338066/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-34.347146694",
+    "longitude": "138.9175674449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548312158/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-34.7388728028",
+    "longitude": "138.8506224443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548307414/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-34.7331328146",
+    "longitude": "138.8516644676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548285709/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-25.8472533333",
+    "longitude": "148.557005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/548284934/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-30.5760133333",
+    "longitude": "151.7254466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548284052/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-32.885895",
+    "longitude": "151.64682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547866087/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-35.1440109276",
+    "longitude": "139.2221427393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547862936/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-35.1451400389",
+    "longitude": "139.2222391361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547754919/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-37.8441703959",
+    "longitude": "140.8866539924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547352383/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-37.7307588778",
+    "longitude": "145.2422552431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548310963/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-32.2827605",
+    "longitude": "148.5771809997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547317941/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-35.082427722",
+    "longitude": "138.6423934843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547290485/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-32.1830666667",
+    "longitude": "138.00853055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547282564/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-32.8596446492",
+    "longitude": "150.8099877416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547249706/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-26.4757527778",
+    "longitude": "147.9286333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547201620/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-14.954845",
+    "longitude": "133.2185533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546770179/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-33.25592",
+    "longitude": "149.0959305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546763773/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-37.0556070285",
+    "longitude": "145.2501326914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea",
+    "common name": "Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546739592/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-18.2937215442",
+    "longitude": "143.5490129326",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Struthidea cinerea cinerea",
+    "common name": "Southern Apostlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546653438/square.jpg",
+    "date": "2022-09-13",
+    "latitude": "-31.5672122879",
+    "longitude": "147.2015698245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546626908/square.jpg",
+    "date": "2016-03-13",
+    "latitude": "-38.4753466991",
+    "longitude": "146.7258670989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546626451/square.jpg",
+    "date": "2015-12-15",
+    "latitude": "-38.4757545156",
+    "longitude": "146.7259067452",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546626076/square.jpg",
+    "date": "2015-11-15",
+    "latitude": "-38.475580619",
+    "longitude": "146.7256760067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546625725/square.jpg",
+    "date": "2015-11-08",
+    "latitude": "-38.4754960723",
+    "longitude": "146.725922411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546583605/square.jpg",
+    "date": "2015-03-01",
+    "latitude": "-38.4751479697",
+    "longitude": "146.7261351374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corcorax melanorhamphos",
+    "common name": "White-winged Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546549007/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-37.6434333333",
+    "longitude": "145.2327",
+    "quality_grade": "research"
+  }
+]

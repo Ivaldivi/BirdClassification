@@ -1,0 +1,371 @@
+[
+  {
+    "species": "Atrichornis rufescens ferrieri",
+    "common name": "Southern Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556457279/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-31.0470700183",
+    "longitude": "152.3211095382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545854483/square.jpg",
+    "date": "2024-04-23",
+    "latitude": "-34.9170694719",
+    "longitude": "118.5977840468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545854481/square.jpg",
+    "date": "2024-04-23",
+    "latitude": "-34.831174264",
+    "longitude": "118.5592895047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542277563/square.jpg",
+    "date": "2024-04-23",
+    "latitude": "-34.8669664974",
+    "longitude": "118.5890895762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542277563/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-34.8305811756",
+    "longitude": "118.2769775552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens rufescens",
+    "common name": "Northern Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510645659/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-28.3616720173",
+    "longitude": "153.1855576033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens",
+    "common name": "Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510645659/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-32.0733786955",
+    "longitude": "151.5530922996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens",
+    "common name": "Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484024927/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-28.2375254252",
+    "longitude": "153.1966882059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484024927/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-34.8164008133",
+    "longitude": "118.4179203026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens",
+    "common name": "Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457781893/square.jpg",
+    "date": "2024-10-05",
+    "latitude": "-31.141129",
+    "longitude": "152.366818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457781893/square.jpg",
+    "date": "2024-10-03",
+    "latitude": "-34.8560496544",
+    "longitude": "118.3978347542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens rufescens",
+    "common name": "Northern Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457781893/square.jpg",
+    "date": "2024-09-27",
+    "latitude": "-28.307449331",
+    "longitude": "153.1975354013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens rufescens",
+    "common name": "Northern Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435052202/square.jpeg",
+    "date": "2024-09-25",
+    "latitude": "-28.352906636",
+    "longitude": "153.0558787157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens rufescens",
+    "common name": "Northern Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435052202/square.jpeg",
+    "date": "2024-09-25",
+    "latitude": "-28.3837065073",
+    "longitude": "153.112191297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435052202/square.jpeg",
+    "date": "2024-07-01",
+    "latitude": "-34.8922909976",
+    "longitude": "118.491262727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435052202/square.jpeg",
+    "date": "2024-05-12",
+    "latitude": "-34.8823535791",
+    "longitude": "118.5444090978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435052202/square.jpeg",
+    "date": "2024-05-12",
+    "latitude": "-34.8146970818",
+    "longitude": "118.5737145856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364312353/square.jpeg",
+    "date": "2024-01-02",
+    "latitude": "-34.9946753921",
+    "longitude": "118.4341696682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364312353/square.jpeg",
+    "date": "2023-10-15",
+    "latitude": "-34.8981465115",
+    "longitude": "118.5014874293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens",
+    "common name": "Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325505452/square.jpeg",
+    "date": "2023-09-25",
+    "latitude": "-32.0652951391",
+    "longitude": "151.5850851421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens ferrieri",
+    "common name": "Southern Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325505454/square.jpeg",
+    "date": "2023-09-25",
+    "latitude": "-32.0652951391",
+    "longitude": "151.5850851421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325505454/square.jpeg",
+    "date": "2023-05-23",
+    "latitude": "-34.8694942824",
+    "longitude": "118.2132911813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325505454/square.jpeg",
+    "date": "2023-04-04",
+    "latitude": "-34.8767318451",
+    "longitude": "118.5256216815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253989398/square.jpg",
+    "date": "2023-01-27",
+    "latitude": "-34.9519729327",
+    "longitude": "118.5478700962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253989398/square.jpg",
+    "date": "2022-12-15",
+    "latitude": "-34.9152710767",
+    "longitude": "118.5453075897",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens",
+    "common name": "Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253989398/square.jpg",
+    "date": "2022-09-30",
+    "latitude": "-28.2459000129",
+    "longitude": "153.2732901655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens",
+    "common name": "Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253989398/square.jpg",
+    "date": "2022-12-08",
+    "latitude": "-30.5186916581",
+    "longitude": "152.5802299324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240607983/square.jpeg",
+    "date": "2022-10-17",
+    "latitude": "-34.8780583365",
+    "longitude": "118.2721638516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237575497/square.jpg",
+    "date": "2022-10-11",
+    "latitude": "-34.9613962821",
+    "longitude": "118.5585763715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237575486/square.jpg",
+    "date": "2022-10-11",
+    "latitude": "-34.9230177433",
+    "longitude": "118.467318883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237575486/square.jpg",
+    "date": "2022-08-24",
+    "latitude": "-34.9082064965",
+    "longitude": "118.4047937831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens",
+    "common name": "Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237575486/square.jpg",
+    "date": "2022-05-07",
+    "latitude": "-28.1617315778",
+    "longitude": "153.3495571187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237575486/square.jpg",
+    "date": "2022-07-26",
+    "latitude": "-34.9230347518",
+    "longitude": "118.4708355776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237575486/square.jpg",
+    "date": "2022-07-26",
+    "latitude": "-34.9704654261",
+    "longitude": "118.5276775936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis rufescens",
+    "common name": "Rufous Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237575486/square.jpg",
+    "date": "2022-02-06",
+    "latitude": "-31.4094591696",
+    "longitude": "152.1454613027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159330993/square.jpg",
+    "date": "2018-03-09",
+    "latitude": "-34.8662054531",
+    "longitude": "118.5467103649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105946972/square.jpeg",
+    "date": "2020-11-28",
+    "latitude": "-34.8235917021",
+    "longitude": "118.2490242363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/92549750/square.jpeg",
+    "date": "2019-10-02",
+    "latitude": "-34.9432683249",
+    "longitude": "118.4914729601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://static.inaturalist.org/photos/32604702/square.jpg",
+    "date": "2019-03-09",
+    "latitude": "-34.9222045869",
+    "longitude": "118.4461160917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://static.inaturalist.org/photos/11432397/square.jpg",
+    "date": "2017-10-26",
+    "latitude": "-34.9000105084",
+    "longitude": "118.517709952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atrichornis clamosus",
+    "common name": "Noisy Scrubbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714671/square.jpg",
+    "date": "2014-03-05",
+    "latitude": "-34.9188524008",
+    "longitude": "118.2035769738",
+    "quality_grade": "research"
+  }
+]

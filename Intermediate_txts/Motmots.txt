@@ -1,0 +1,1505 @@
+[
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558172618/square.jpg",
+    "date": "2025-01-23",
+    "latitude": "18.1376410816",
+    "longitude": "-94.3989123567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/558154239/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-0.0626791889",
+    "longitude": "-78.7696243823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus ruficapillus",
+    "common name": "Rufous-capped Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558150869/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.9633783333",
+    "longitude": "-53.1268221667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557941698/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "10.157093225",
+    "longitude": "-83.9364405149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557940181/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "10.4941703504",
+    "longitude": "-84.7515319115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557940047/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "10.4915910778",
+    "longitude": "-84.7533438766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557736179/square.jpg",
+    "date": "2024-08-25",
+    "latitude": "10.411860692",
+    "longitude": "-84.1202334219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557734616/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "14.5944771378",
+    "longitude": "-90.4974062791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557701160/square.jpg",
+    "date": "2025-04-10",
+    "latitude": "16.1608708254",
+    "longitude": "-93.5478527471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557679005/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "14.78668",
+    "longitude": "-87.9774033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557662777/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "8.7851948208",
+    "longitude": "-82.9615701987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557651490/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "20.7046935584",
+    "longitude": "-103.3924955875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557600452/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-13.1606909187",
+    "longitude": "-72.5366322544",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557617898/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "10.48752",
+    "longitude": "-84.7542355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557607513/square.jpg",
+    "date": "2024-12-09",
+    "latitude": "10.5038591349",
+    "longitude": "-84.6888829446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus bahamensis",
+    "common name": "Trinidad Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557549562/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "11.3008888504",
+    "longitude": "-60.5024882681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus bahamensis",
+    "common name": "Trinidad Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557548580/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "11.3008888504",
+    "longitude": "-60.5024882681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus bahamensis",
+    "common name": "Trinidad Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557542967/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "11.2797613106",
+    "longitude": "-60.6916128331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus bahamensis",
+    "common name": "Trinidad Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557539447/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "11.2850632232",
+    "longitude": "-60.6084471487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557600511/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "17.7298114135",
+    "longitude": "-99.3368554115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557591896/square.jpg",
+    "date": "2023-06-19",
+    "latitude": "16.8179174451",
+    "longitude": "-99.5557542242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557591164/square.jpg",
+    "date": "2023-06-19",
+    "latitude": "16.8527488523",
+    "longitude": "-99.6004025216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557591061/square.jpg",
+    "date": "2023-06-19",
+    "latitude": "16.8520032816",
+    "longitude": "-99.598745413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557554320/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "4.7755470276",
+    "longitude": "-75.6366729736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus momota",
+    "common name": "Amazonian Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557403718/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-15.8511010701",
+    "longitude": "-48.9597633614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557394755/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "17.547070926",
+    "longitude": "-91.9206308997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557380789/square.jpg",
+    "date": "2024-12-13",
+    "latitude": "5.0967633",
+    "longitude": "-75.7348112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron carinatum",
+    "common name": "Keel-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557380797/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "10.5416675892",
+    "longitude": "-84.6795110271",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557349483/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.2976763054",
+    "longitude": "-80.3967686358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557349391/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.2970895321",
+    "longitude": "-80.396425313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/557326289/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.2867125876",
+    "longitude": "-80.3826095659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557306557/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "15.2085507147",
+    "longitude": "-92.6795909942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557289560/square.jpg",
+    "date": "2025-02-18",
+    "latitude": "15.1024066959",
+    "longitude": "-92.5904145182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557290994/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "8.7479328607",
+    "longitude": "-82.92824933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557239215/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "10.2985410354",
+    "longitude": "-84.8055802287",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557208141/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "10.4916969",
+    "longitude": "-84.7538427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557072898/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "20.5855355803",
+    "longitude": "-87.1278862283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus momota",
+    "common name": "Amazonian Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556954704/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-9.8381064974",
+    "longitude": "-35.9069217783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556719042/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "16.1170741239",
+    "longitude": "-90.9277610108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556648934/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "15.8861851872",
+    "longitude": "-96.3716323635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556668293/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "13.498470265",
+    "longitude": "-88.4858081862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556724307/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "10.4371956",
+    "longitude": "-84.7102524",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556563601/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "10.3223883333",
+    "longitude": "-84.8301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus momota",
+    "common name": "Amazonian Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/556550745/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-15.4640516667",
+    "longitude": "-55.7130766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/556448116/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "9.2308242486",
+    "longitude": "-83.7073145773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556355084/square.jpg",
+    "date": "2015-01-12",
+    "latitude": "10.325189",
+    "longitude": "-84.819276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/556269920/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "18.7377547",
+    "longitude": "-88.3436858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/556248516/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "10.677067148",
+    "longitude": "-85.0919162482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556156819/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "20.6473183884",
+    "longitude": "-105.2346582249",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556127929/square.jpg",
+    "date": "2023-04-02",
+    "latitude": "10.3020649495",
+    "longitude": "-84.7788466114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus ruficapillus",
+    "common name": "Rufous-capped Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/556104027/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-25.617467344",
+    "longitude": "-54.4758285244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556100033/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "21.028375",
+    "longitude": "-89.6397266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron carinatum",
+    "common name": "Keel-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556069137/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "10.4138978044",
+    "longitude": "-84.6681201297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556063140/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "10.4378543",
+    "longitude": "-84.7102475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/556056813/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "8.6150051667",
+    "longitude": "-80.149748875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556047092/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "21.1021580938",
+    "longitude": "-86.8539281745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555960634/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "9.6958559627",
+    "longitude": "-84.6398652217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555960634/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "18.0250976152",
+    "longitude": "-94.6842612602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aspatha gularis",
+    "common name": "Blue-throated Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555832968/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "14.751408",
+    "longitude": "-91.165959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aspatha gularis",
+    "common name": "Blue-throated Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555832954/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "14.751408",
+    "longitude": "-91.165959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555830768/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "12.147962166",
+    "longitude": "-86.1612854898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555799131/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "16.6861414021",
+    "longitude": "-94.9091036888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555798978/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "16.6861414021",
+    "longitude": "-94.9091036888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555787452/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "16.6815372211",
+    "longitude": "-94.9039538475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555785351/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "16.6399182486",
+    "longitude": "-95.1122802473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555787124/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "16.7263546846",
+    "longitude": "-94.9856022454",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555772807/square.jpg",
+    "date": "2022-02-17",
+    "latitude": "9.4911375046",
+    "longitude": "-84.1695861816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555765551/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "10.4502460417",
+    "longitude": "-84.0695959635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555731241/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "14.9375106907",
+    "longitude": "-87.8909991424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hylomanes momotula",
+    "common name": "Tody Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555710053/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "6.8135133333",
+    "longitude": "-75.1478216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555674256/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "17.150769445",
+    "longitude": "-89.058380555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555631345/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "18.4506773",
+    "longitude": "-95.0663752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555579220/square.jpg",
+    "date": "2019-10-04",
+    "latitude": "0.1449159",
+    "longitude": "-79.1412988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555551762/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "10.5751731851",
+    "longitude": "-85.3509931201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555551045/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "9.8296467759",
+    "longitude": "-84.1855480911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555544080/square.jpg",
+    "date": "2008-04-16",
+    "latitude": "14.9360838",
+    "longitude": "-88.864698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555421728/square.jpg",
+    "date": "2012-12-15",
+    "latitude": "20.5501224",
+    "longitude": "-87.4207518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555418826/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "10.0683315355",
+    "longitude": "-84.7255948931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555408965/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "10.1593194444",
+    "longitude": "-83.9376666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555405094/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "20.7628467909",
+    "longitude": "-103.4299921989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555396604/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "20.3137128846",
+    "longitude": "-103.2551717307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555394103/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "9.9813246",
+    "longitude": "-84.0784684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hylomanes momotula",
+    "common name": "Tody Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555388126/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "8.6218329228",
+    "longitude": "-80.104503488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555350546/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "19.0080981988",
+    "longitude": "-98.1157777338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555349657/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-10.6385633333",
+    "longitude": "-75.4338833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555348014/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "18.4503719797",
+    "longitude": "-95.0674480836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555344891/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-10.6386283333",
+    "longitude": "-75.43415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555318917/square.jpg",
+    "date": "2023-04-02",
+    "latitude": "10.3083638889",
+    "longitude": "-84.8134472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555305847/square.jpg",
+    "date": "2024-03-21",
+    "latitude": "10.465695",
+    "longitude": "-84.755056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555299776/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "10.4536578274",
+    "longitude": "-84.0675177462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555216911/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "9.1313100083",
+    "longitude": "-79.7247180683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555196180/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "8.6890926033",
+    "longitude": "-83.6627830498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555202356/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "9.1313653617",
+    "longitude": "-79.72456303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555182246/square.jpg",
+    "date": "2025-04-17",
+    "latitude": "14.3635042561",
+    "longitude": "-87.6535352487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555181309/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "20.4270215431",
+    "longitude": "-87.7418403996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555180426/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "20.4270215431",
+    "longitude": "-87.7418403996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555179846/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "20.4270215431",
+    "longitude": "-87.7418403996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555178640/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "20.4270215431",
+    "longitude": "-87.7418403996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555186598/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "6.214339831",
+    "longitude": "-75.3561067814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555178164/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "20.2703327653",
+    "longitude": "-89.5128134138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555147650/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "13.8285765",
+    "longitude": "-89.35648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555133932/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "6.2621683333",
+    "longitude": "-75.4163666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555133664/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "6.2621916667",
+    "longitude": "-75.4163666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/555118918/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "6.226023",
+    "longitude": "-75.5602376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555034104/square.jpg",
+    "date": "2022-11-08",
+    "latitude": "4.7902164",
+    "longitude": "-75.6890738",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555005634/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "17.9600659745",
+    "longitude": "-94.7078958149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555001952/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "20.7632546563",
+    "longitude": "-103.4195842221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554977143/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "6.1227841709",
+    "longitude": "-75.6019213196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554942794/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "9.1221642228",
+    "longitude": "-79.7157709818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554942753/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "9.1221753698",
+    "longitude": "-79.7158030974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554933286/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "16.1173173082",
+    "longitude": "-90.9278247133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554931924/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "9.7659912713",
+    "longitude": "-83.9537356623",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554894699/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "18.5949133997",
+    "longitude": "-95.3440161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554877542/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "20.5809351449",
+    "longitude": "-87.120118551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554865949/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "20.6281482789",
+    "longitude": "-87.0759114775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554865655/square.jpg",
+    "date": "2022-04-03",
+    "latitude": "19.2692858",
+    "longitude": "-103.7263078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554863506/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "9.8848453",
+    "longitude": "-84.0344777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus ruficapillus",
+    "common name": "Rufous-capped Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554856502/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-23.739299361",
+    "longitude": "-45.285718292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554836446/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "20.6402177957",
+    "longitude": "-87.0843859902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554836434/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "20.6357197298",
+    "longitude": "-87.0727130166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554826494/square.jpg",
+    "date": "2024-04-08",
+    "latitude": "5.4655421435",
+    "longitude": "-75.8649885087",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus ruficapillus",
+    "common name": "Rufous-capped Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554784960/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-26.5189415",
+    "longitude": "-53.9840745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554775439/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "12.0201880548",
+    "longitude": "-86.1446156073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554736745/square.jpg",
+    "date": "2017-05-17",
+    "latitude": "18.5042589644",
+    "longitude": "-89.8641840999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554738371/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "6.1776133333",
+    "longitude": "-75.5770116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554734747/square.jpg",
+    "date": "2022-06-29",
+    "latitude": "9.3469252239",
+    "longitude": "-75.3809436235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554734234/square.jpg",
+    "date": "2025-04-16",
+    "latitude": "6.2672916667",
+    "longitude": "-75.4957883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus ruficapillus",
+    "common name": "Rufous-capped Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554713505/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-23.7344946",
+    "longitude": "-46.1817205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554559364/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "20.7041",
+    "longitude": "-103.3915033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus martii",
+    "common name": "Rufous Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554552920/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "0.0294071",
+    "longitude": "-78.6805499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554508196/square.jpg",
+    "date": "2019-05-14",
+    "latitude": "16.5547565968",
+    "longitude": "-88.7056332298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554467488/square.jpg",
+    "date": "2024-08-10",
+    "latitude": "8.9019855",
+    "longitude": "-82.9501558",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554466738/square.jpg",
+    "date": "2024-12-22",
+    "latitude": "8.9019855",
+    "longitude": "-82.9501558",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554473264/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "20.97593",
+    "longitude": "-87.43266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554461556/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "20.7627376922",
+    "longitude": "-103.4230948985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554430583/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "20.7626847103",
+    "longitude": "-103.4231927991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554427447/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "20.7622207639",
+    "longitude": "-103.4228548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554411884/square.jpg",
+    "date": "2017-12-26",
+    "latitude": "6.157919697",
+    "longitude": "-75.6341797464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554407691/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "14.9796017102",
+    "longitude": "-88.2299716102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus ruficapillus",
+    "common name": "Rufous-capped Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554416968/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.7638996473",
+    "longitude": "-45.3297752514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus momota",
+    "common name": "Amazonian Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554407502/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-6.9912534182",
+    "longitude": "-34.9566606513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554395543/square.jpg",
+    "date": "2024-04-19",
+    "latitude": "9.9191066",
+    "longitude": "-84.2725753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554397088/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "0.0311263761",
+    "longitude": "-78.8663537116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554321776/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "21.0292611073",
+    "longitude": "-89.6396174007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554335632/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "12.1088979722",
+    "longitude": "-86.2697519722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554282073/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "10.3054833333",
+    "longitude": "-84.8110116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554245549/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-8.9074375849",
+    "longitude": "-63.2194094986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554090776/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "13.7172718258",
+    "longitude": "-89.724846594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Electron platyrhynchum",
+    "common name": "Broad-billed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554076894/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "0.146483",
+    "longitude": "-79.141519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554012789/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "6.2524367154",
+    "longitude": "-75.4565061629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/553978779/square.jpg",
+    "date": "2021-11-22",
+    "latitude": "8.4791139417",
+    "longitude": "-83.5936485994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553947568/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "5.1014599638",
+    "longitude": "-75.6976275725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553890565/square.jpg",
+    "date": "2023-09-03",
+    "latitude": "9.389925",
+    "longitude": "-84.1442166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553812467/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "20.3589916667",
+    "longitude": "-89.7719633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553809619/square.jpg",
+    "date": "2025-02-15",
+    "latitude": "9.1218331465",
+    "longitude": "-79.69845432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553773440/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "9.9801261",
+    "longitude": "-84.0788308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553734537/square.jpg",
+    "date": "2022-10-17",
+    "latitude": "18.7161545461",
+    "longitude": "-88.3985909595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus mexicanus",
+    "common name": "Russet-crowned Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/553733916/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "18.9735418536",
+    "longitude": "-99.0760531649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553730545/square.jpg",
+    "date": "2022-09-08",
+    "latitude": "18.7161545461",
+    "longitude": "-88.3985909595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus lessonii",
+    "common name": "Lesson's Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553701438/square.jpg",
+    "date": "2024-12-05",
+    "latitude": "9.9075137",
+    "longitude": "-83.9804665997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553631475/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "9.1224554617",
+    "longitude": "-79.6911719483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Baryphthengus ruficapillus",
+    "common name": "Rufous-capped Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553516851/square.jpg",
+    "date": "2002-11-30",
+    "latitude": "-23.6986044676",
+    "longitude": "-46.248934418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://static.inaturalist.org/photos/554013966/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "6.6335883333",
+    "longitude": "-73.223495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus subrufescens",
+    "common name": "Whooping Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553478099/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "9.1214969894",
+    "longitude": "-79.715503715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eumomota superciliosa",
+    "common name": "Turquoise-browed Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553462234/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "10.1973699",
+    "longitude": "-85.2360189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553460122/square.jpg",
+    "date": "2023-01-03",
+    "latitude": "6.1915057578",
+    "longitude": "-75.3114902973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Momotus aequatorialis",
+    "common name": "Andean Motmot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553458463/square.jpg",
+    "date": "2024-07-12",
+    "latitude": "6.18349474",
+    "longitude": "-75.2812018438",
+    "quality_grade": "research"
+  }
+]

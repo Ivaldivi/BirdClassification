@@ -1,0 +1,1658 @@
+[
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557868105/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "3.400997",
+    "longitude": "101.846822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557455685/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "1.3927741668",
+    "longitude": "116.4055340427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557129938/square.jpg",
+    "date": "2025-01-15",
+    "latitude": "11.5279295",
+    "longitude": "76.6499258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556456170/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "6.7295722914",
+    "longitude": "80.8241685275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556433802/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "6.7295700452",
+    "longitude": "80.8242096247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555907445/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "3.5220209868",
+    "longitude": "117.8117462958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555573942/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "6.5772708414",
+    "longitude": "100.5758467476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/555440813/square.jpg",
+    "date": "2023-08-18",
+    "latitude": "3.400997",
+    "longitude": "101.846822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555427827/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "4.9681866667",
+    "longitude": "117.80562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555039874/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "3.9994071733",
+    "longitude": "101.3919231413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/554701664/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.7556798183",
+    "longitude": "78.2594886795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/554559462/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.7747921348",
+    "longitude": "78.2097052038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/553685999/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "4.0166336111",
+    "longitude": "101.4019316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/553595469/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "4.3069372395",
+    "longitude": "101.1743193199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/553699458/square.jpg",
+    "date": "2023-01-30",
+    "latitude": "14.5524800921",
+    "longitude": "121.4625288455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553569360/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.900118169",
+    "longitude": "132.8690335753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553376171/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "8.713492935",
+    "longitude": "99.686817307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553170745/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.7747921348",
+    "longitude": "78.2097052038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553166423/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.7747921348",
+    "longitude": "78.2097052038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553089615/square.jpg",
+    "date": "2022-07-09",
+    "latitude": "4.9618399",
+    "longitude": "117.6892165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553060592/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "4.0161316667",
+    "longitude": "101.401685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552808227/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.8496733333",
+    "longitude": "78.2892033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552807856/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.8496733333",
+    "longitude": "78.2892033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552788222/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.85026",
+    "longitude": "78.2889166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552787677/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.8501833333",
+    "longitude": "78.2889466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552787364/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.8499966667",
+    "longitude": "78.2889916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552782135/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.8499966667",
+    "longitude": "78.2889916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552782046/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.8499966667",
+    "longitude": "78.2889916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552781780/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.85003",
+    "longitude": "78.289005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551568225/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "5.7424750966",
+    "longitude": "100.4417518526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/550781665/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "18.9847885484",
+    "longitude": "79.3085207965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550758263/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "27.5420566389",
+    "longitude": "84.4621532778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550758081/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "27.5420566389",
+    "longitude": "84.4621532778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550662506/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-6.0783138889",
+    "longitude": "141.4294444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549874059/square.jpg",
+    "date": "2023-04-16",
+    "latitude": "1.3145326424",
+    "longitude": "103.8409626632",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549756063/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "12.8141901754",
+    "longitude": "77.5757144764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549756963/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "12.8141901754",
+    "longitude": "77.5757144764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549220130/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "5.0784823239",
+    "longitude": "102.8210353302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548557491/square.jpg",
+    "date": "2024-07-31",
+    "latitude": "1.3670006",
+    "longitude": "111.8346908",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548340863/square.jpg",
+    "date": "2025-01-25",
+    "latitude": "21.6266751196",
+    "longitude": "101.5748697746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/548315915/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "1.3229333296",
+    "longitude": "124.8405080661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548296769/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "6.2365470382",
+    "longitude": "100.8621354408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/547936834/square.jpg",
+    "date": "2018-03-11",
+    "latitude": "11.987909",
+    "longitude": "77.1571443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547698740/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "4.8482843",
+    "longitude": "100.7655389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547363957/square.jpg",
+    "date": "2010-02-03",
+    "latitude": "9.0926343",
+    "longitude": "98.2951581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547350843/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-2.0863063085",
+    "longitude": "101.25516374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/547342121/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "4.665188212",
+    "longitude": "102.1102050023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547333959/square.jpg",
+    "date": "2007-12-16",
+    "latitude": "6.7117002601",
+    "longitude": "100.1706659656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547324310/square.jpg",
+    "date": "2012-05-14",
+    "latitude": "5.8317024478",
+    "longitude": "101.8040458942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547324308/square.jpg",
+    "date": "2012-05-13",
+    "latitude": "5.8317024478",
+    "longitude": "101.8040458942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546854060/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "4.8495415074",
+    "longitude": "100.7654530741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546733049/square.jpg",
+    "date": "2007-04-03",
+    "latitude": "7.9843109",
+    "longitude": "98.3307468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546733031/square.jpg",
+    "date": "2006-12-23",
+    "latitude": "7.9843109",
+    "longitude": "98.3307468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546733012/square.jpg",
+    "date": "2006-12-29",
+    "latitude": "7.9843109",
+    "longitude": "98.3307468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546733013/square.jpg",
+    "date": "2008-04-01",
+    "latitude": "7.9843109",
+    "longitude": "98.3307468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546732997/square.jpg",
+    "date": "2006-09-20",
+    "latitude": "7.9843109",
+    "longitude": "98.3307468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546733005/square.jpg",
+    "date": "2006-05-09",
+    "latitude": "7.9843109",
+    "longitude": "98.3307468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546695577/square.jpg",
+    "date": "2014-11-06",
+    "latitude": "12.8090684193",
+    "longitude": "99.4686684784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546400464/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "21.2633306521",
+    "longitude": "76.5185833945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546395307/square.jpg",
+    "date": "2024-07-17",
+    "latitude": "-0.2356015575",
+    "longitude": "130.488745594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546388255/square.jpg",
+    "date": "2024-07-18",
+    "latitude": "-0.2422100463",
+    "longitude": "130.48051696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546342777/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-8.2339117318",
+    "longitude": "114.5129991688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546341922/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-8.1282043505",
+    "longitude": "114.5850690718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/546167241/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "7.3161302489",
+    "longitude": "126.2522371486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545901285/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "6.5404672815",
+    "longitude": "81.2905822223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545891471/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "8.724194",
+    "longitude": "99.667972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545891497/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "8.724194",
+    "longitude": "99.667972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545891434/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "8.724194",
+    "longitude": "99.667972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545375452/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "3.6987336313",
+    "longitude": "101.7508321938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545230156/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "19.35362",
+    "longitude": "98.98932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544518396/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-8.1227433012",
+    "longitude": "114.4869842829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/543558653/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "5.0212166664",
+    "longitude": "117.7466499996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543252955/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "6.0597283693",
+    "longitude": "101.4018864557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543087546/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "21.2955408331",
+    "longitude": "76.5099030064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542764003/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "11.7848454049",
+    "longitude": "76.5650980303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542764056/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "11.7848454049",
+    "longitude": "76.5650980303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542708612/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "3.1439503369",
+    "longitude": "113.1180327344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542156500/square.jpg",
+    "date": "2019-07-05",
+    "latitude": "5.3672322159",
+    "longitude": "117.431414659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/541822901/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "2.2960816458",
+    "longitude": "103.6634908989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/541822702/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "2.295899067",
+    "longitude": "103.6571162939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541709587/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "6.3256706",
+    "longitude": "100.922969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541707360/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "6.3256706",
+    "longitude": "100.922969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541584498/square.jpg",
+    "date": "2024-01-25",
+    "latitude": "1.612769",
+    "longitude": "110.196905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540255433/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "5.9489996962",
+    "longitude": "116.0478030673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/540209834/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "1.5615523",
+    "longitude": "125.1534588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539469204/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "6.0828063459",
+    "longitude": "101.3707369566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539004201/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "-5.5375915202",
+    "longitude": "150.1218416382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/539009631/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "5.0197400306",
+    "longitude": "117.7460705861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538986302/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "19.6877456164",
+    "longitude": "99.1490024739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538986279/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "19.6877456164",
+    "longitude": "99.1490024739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538986280/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "19.6877456164",
+    "longitude": "99.1490024739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538899201/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "21.3038165736",
+    "longitude": "76.5578726405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538899121/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "21.3038165736",
+    "longitude": "76.5578726405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538855600/square.jpg",
+    "date": "2024-11-01",
+    "latitude": "11.7926048559",
+    "longitude": "78.2294462167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538001657/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "21.2426838888",
+    "longitude": "76.5857953834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538001642/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "21.2426838888",
+    "longitude": "76.5857953834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/537289219/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "2.8016956793",
+    "longitude": "102.1624747664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536899372/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "6.0824184495",
+    "longitude": "101.3711978521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536899370/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "6.0824184495",
+    "longitude": "101.3711978521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata comata",
+    "common name": "Whiskered Treeswift (Sunda)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536862079/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "6.3235525781",
+    "longitude": "100.92050069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/536338980/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-6.7384017102",
+    "longitude": "106.5298161446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis harterti",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/535973579/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "4.8577947",
+    "longitude": "100.7564656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/535924567/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "2.9893927301",
+    "longitude": "101.7125610103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/535322279/square.jpg",
+    "date": "2023-09-15",
+    "latitude": "-4.3498420717",
+    "longitude": "103.1691484511",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535303148/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-11.6899782644",
+    "longitude": "160.3197872266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/534877895/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "14.9760305",
+    "longitude": "74.2061931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534572454/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "5.0738583333",
+    "longitude": "117.7148722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/534288267/square.jpg",
+    "date": "2017-05-14",
+    "latitude": "10.5257218397",
+    "longitude": "76.2717236951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533378827/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "3.1043088",
+    "longitude": "101.8121582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533372273/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "3.1043088",
+    "longitude": "101.8121582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533015572/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "3.1043088",
+    "longitude": "101.8121582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532562062/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-8.1010610648",
+    "longitude": "114.4681995316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532470445/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-7.7519942924",
+    "longitude": "110.1359522459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532470432/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-7.7519942924",
+    "longitude": "110.1359522459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531249674/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "6.0329764721",
+    "longitude": "116.1236744374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531116195/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "4.9599",
+    "longitude": "117.8016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531110739/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "4.9661",
+    "longitude": "117.8038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530787538/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "3.5724283333",
+    "longitude": "101.7380916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530780728/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "3.5721766667",
+    "longitude": "101.7385216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530573043/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-0.2208041468",
+    "longitude": "130.7736715427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530309937/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "3.22599",
+    "longitude": "101.6204016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529171767/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "-7.9389317821",
+    "longitude": "110.4202504074",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528682383/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "4.9822300543",
+    "longitude": "117.9607039383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528367585/square.jpg",
+    "date": "2022-04-30",
+    "latitude": "5.8555633",
+    "longitude": "101.2356767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527977693/square.jpg",
+    "date": "2009-05-30",
+    "latitude": "5.8063702801",
+    "longitude": "101.8033252294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea woodfordiana",
+    "common name": "Moustached Treeswift (Solomon Islands)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527974863/square.jpg",
+    "date": "2011-04-30",
+    "latitude": "-11.6632521",
+    "longitude": "160.2646431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/527653696/square.jpg",
+    "date": "2024-05-20",
+    "latitude": "4.9649593262",
+    "longitude": "117.8040361584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/527651648/square.jpg",
+    "date": "2024-05-17",
+    "latitude": "4.9649593262",
+    "longitude": "117.8040361584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata comata",
+    "common name": "Whiskered Treeswift (Sunda)",
+    "observation photo url": "https://static.inaturalist.org/photos/527556715/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "4.28920841",
+    "longitude": "101.32109146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis harterti",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/527556498/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "4.3114915",
+    "longitude": "101.328747",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/526512300/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "3.5710719409",
+    "longitude": "101.736693103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526332795/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "0.8976716667",
+    "longitude": "127.524975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526015243/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "1.560845",
+    "longitude": "125.1545783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526015241/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "1.560845",
+    "longitude": "125.1545783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526015231/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "1.560845",
+    "longitude": "125.1545783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524989407/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "0.507763292",
+    "longitude": "123.2910653718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524852294/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "22.4420610192",
+    "longitude": "78.2633138448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524727737/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-7.2831885634",
+    "longitude": "110.442727973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524391317/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "0.7260441527",
+    "longitude": "124.3244570635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524365297/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "3.14314749",
+    "longitude": "113.1176496189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524290979/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "0.69949409",
+    "longitude": "124.1167505252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523368357/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "4.8784064235",
+    "longitude": "117.9559597881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523206238/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "0.8046335726",
+    "longitude": "127.8323365375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522910435/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "6.4585006966",
+    "longitude": "80.3780822749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522862663/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "4.8451546355",
+    "longitude": "117.8058998244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522862493/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "4.849000713",
+    "longitude": "117.8284936036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522842247/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "6.4450359879",
+    "longitude": "81.4521578429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522842251/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "6.4450359879",
+    "longitude": "81.4521578429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522315491/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "6.1338257597",
+    "longitude": "124.8986558247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521943868/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "4.8543935864",
+    "longitude": "117.9808636173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521932973/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "5.0943801183",
+    "longitude": "118.0147769999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521311230/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "6.1324625652",
+    "longitude": "124.9060821123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521203748/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "3.2310806921",
+    "longitude": "101.778108709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/520653210/square.jpg",
+    "date": "2025-04-15",
+    "latitude": "6.021255",
+    "longitude": "116.5462981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/520605501/square.jpg",
+    "date": "2025-05-07",
+    "latitude": "0.187991334",
+    "longitude": "117.4998481572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/519768064/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "2.9868213103",
+    "longitude": "101.7123893489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/518817423/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "2.3006826238",
+    "longitude": "103.6533471197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517857508/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "21.1244253432",
+    "longitude": "70.9563895101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517536612/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "12.803923",
+    "longitude": "99.427773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517232344/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "8.570969",
+    "longitude": "99.754574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517129741/square.jpg",
+    "date": "2025-02-05",
+    "latitude": "19.054618",
+    "longitude": "79.221917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517042178/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "5.9859281428",
+    "longitude": "116.0963283443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517033230/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "-0.9120185579",
+    "longitude": "100.463127919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516908053/square.jpg",
+    "date": "2023-07-30",
+    "latitude": "6.427846",
+    "longitude": "81.544092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515515466/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "8.770278",
+    "longitude": "99.657222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/515477995/square.jpg",
+    "date": "2025-02-20",
+    "latitude": "4.9624218062",
+    "longitude": "117.8025403543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515248125/square.jpg",
+    "date": "2024-09-05",
+    "latitude": "-3.010383",
+    "longitude": "107.5978577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515236842/square.jpg",
+    "date": "2024-09-05",
+    "latitude": "-2.896759",
+    "longitude": "107.463358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514993920/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "8.7324369018",
+    "longitude": "99.6666513656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514947725/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-0.7493050896",
+    "longitude": "130.7487924417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514919586/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "8.7337943078",
+    "longitude": "99.6616730611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514882661/square.jpg",
+    "date": "2023-09-23",
+    "latitude": "-5.4303357056",
+    "longitude": "150.0698968023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis harterti",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514627225/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "6.8438995363",
+    "longitude": "100.1571459985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514619492/square.jpg",
+    "date": "2025-03-12",
+    "latitude": "5.923283",
+    "longitude": "116.0512391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514057780/square.jpg",
+    "date": "2024-10-09",
+    "latitude": "14.6701192",
+    "longitude": "99.0128926",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne mystacea",
+    "common name": "Moustached Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513993547/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-0.042615",
+    "longitude": "129.387536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513378172/square.jpg",
+    "date": "2025-02-16",
+    "latitude": "3.2172054",
+    "longitude": "101.8830808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513373011/square.jpg",
+    "date": "2025-02-16",
+    "latitude": "3.2172054",
+    "longitude": "101.8830808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/510397001/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "18.373728",
+    "longitude": "73.714006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne coronata",
+    "common name": "Crested Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/510396995/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "18.373728",
+    "longitude": "73.714006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://static.inaturalist.org/photos/509606508/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "2.9875070229",
+    "longitude": "101.7114452114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508783312/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "8.9124626643",
+    "longitude": "98.5134463606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne comata",
+    "common name": "Whiskered Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508772138/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "4.615",
+    "longitude": "116.67",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hemiprocne longipennis",
+    "common name": "Gray-rumped Treeswift",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508588737/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "12.82838725",
+    "longitude": "99.36263275",
+    "quality_grade": "research"
+  }
+]

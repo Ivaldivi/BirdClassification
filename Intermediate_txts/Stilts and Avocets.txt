@@ -1,0 +1,1568 @@
+[
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/558177354/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1313939224",
+    "longitude": "1.7691711095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558174751/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.6299878999",
+    "longitude": "0.1316520961",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558158253/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "28.2623013608",
+    "longitude": "-105.4782050641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160521/square.jpg",
+    "date": "2024-03-18",
+    "latitude": "29.73014195",
+    "longitude": "35.1284691418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/558148037/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.7763252442",
+    "longitude": "-2.2337818891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/558147527/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.7761343055",
+    "longitude": "-2.2325564548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/558145741/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.776026617",
+    "longitude": "-2.2336806357",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/558135842/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-16.37918539",
+    "longitude": "-56.62097125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558129890/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.67907",
+    "longitude": "-63.7394533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558127210/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "39.25109",
+    "longitude": "-76.3666226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558100776/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.2927233333",
+    "longitude": "-98.4974933333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558069912/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "22.2114496558",
+    "longitude": "-159.4101857597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558059391/square.jpg",
+    "date": "2008-08-12",
+    "latitude": "46.7737707",
+    "longitude": "36.8034779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558047716/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "14.7842265677",
+    "longitude": "79.0750565876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025814/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.2495665235",
+    "longitude": "35.3005998885",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558035229/square.jpg",
+    "date": "2017-05-12",
+    "latitude": "43.4875747273",
+    "longitude": "4.4064456132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558021141/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "11.9415891324",
+    "longitude": "79.808313176",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/558017487/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.791595",
+    "longitude": "16.9077233333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/558012228/square.jpg",
+    "date": "2022-03-26",
+    "latitude": "43.51",
+    "longitude": "3.85",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558009468/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.9353789713",
+    "longitude": "43.5814797878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557988557/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.0152768242",
+    "longitude": "120.3583047124",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557988584/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.0152772721",
+    "longitude": "120.3583221262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557990596/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.7631694997",
+    "longitude": "4.0538088997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987542/square.jpg",
+    "date": "2024-11-10",
+    "latitude": "17.6688007",
+    "longitude": "75.3452859313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557983612/square.jpg",
+    "date": "2024-11-10",
+    "latitude": "17.6690904995",
+    "longitude": "75.3461488257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557974427/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "38.5711083333",
+    "longitude": "-7.5797416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557961628/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "44.9745986429",
+    "longitude": "38.858435484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557953547/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "24.0135333333",
+    "longitude": "120.3777783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557944517/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.4733194444",
+    "longitude": "31.9737777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557945798/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-32.0260906113",
+    "longitude": "115.8131715283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557942345/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "40.9102601049",
+    "longitude": "9.5571708984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/557906852/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2321969444",
+    "longitude": "120.1180761111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557906845/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2321969444",
+    "longitude": "120.1180761111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557906723/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2359698437",
+    "longitude": "120.1110030588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557905681/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2393037351",
+    "longitude": "120.1452899241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557905637/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2393489961",
+    "longitude": "120.1453876255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557905267/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2396127778",
+    "longitude": "120.1459827778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557926002/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8330913404",
+    "longitude": "55.2521206171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557921326/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557921311/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "24.6476435",
+    "longitude": "121.7731749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557915106/square.jpg",
+    "date": "2025-01-27",
+    "latitude": "11.2674594",
+    "longitude": "75.9425235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557910947/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.6861642654",
+    "longitude": "-1.2861473392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557910395/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.6919260684",
+    "longitude": "-1.2036242688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557904656/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-46.4713918",
+    "longitude": "168.3003849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557903226/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "24.6476466667",
+    "longitude": "121.75667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557899555/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.2830866667",
+    "longitude": "-103.5054433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557898615/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "49.9727576044",
+    "longitude": "88.6854766303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557897641/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.6275901906",
+    "longitude": "12.9300224036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557891197/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "24.8111899328",
+    "longitude": "120.9096988745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557885099/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.3658365914",
+    "longitude": "139.1563982556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557882148/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "38.5614856",
+    "longitude": "-121.6290339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557877337/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-43.4875121169",
+    "longitude": "172.6968766066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557877333/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-43.4876001737",
+    "longitude": "172.6967639538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557877840/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.6144804029",
+    "longitude": "-117.8956224449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557875591/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "24.8112097619",
+    "longitude": "120.9097410977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557869452/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.6611633333",
+    "longitude": "-117.844825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557864558/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "24.0524445",
+    "longitude": "120.3978283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557858597/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.5421055556",
+    "longitude": "-61.0706361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557848828/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.4388692237",
+    "longitude": "-121.9634449129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557827485/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.4398363323",
+    "longitude": "-121.9600754498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557858666/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "13.4867448652",
+    "longitude": "100.3365401924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557848424/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.2830866667",
+    "longitude": "-103.5054433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557846893/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-33.0592430094",
+    "longitude": "137.549475702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557843560/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "27.6433300582",
+    "longitude": "-82.7431798436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557836797/square.jpg",
+    "date": "2024-05-21",
+    "latitude": "39.276572",
+    "longitude": "-75.478258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557829169/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.8101999817",
+    "longitude": "-99.7593062997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557821686/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.7993873",
+    "longitude": "-99.7912843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557820600/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "13.3379568356",
+    "longitude": "-87.8397137295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557814306/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "41.9722553378",
+    "longitude": "-87.9905641057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557810952/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-0.4936166667",
+    "longitude": "-90.3388666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557801449/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "33.6633458035",
+    "longitude": "-117.8448593052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557801411/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "33.6633458035",
+    "longitude": "-117.8448593052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557801345/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "33.6633458035",
+    "longitude": "-117.8448593052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557800657/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.5977903803",
+    "longitude": "-95.977475681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557802368/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-0.4901987",
+    "longitude": "-90.2865114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557785805/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-37.1816374777",
+    "longitude": "175.3230419406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557780149/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.8559063215",
+    "longitude": "-117.7982274253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557771422/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.8571058929",
+    "longitude": "-117.7939968433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557758440/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "27.3203671597",
+    "longitude": "-97.6852469965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557759910/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "51.547464",
+    "longitude": "0.533669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557757926/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-0.4941716667",
+    "longitude": "-90.344055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557751842/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.8089197393",
+    "longitude": "-118.2052730913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557751090/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.0134916667",
+    "longitude": "-117.25021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557742776/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.8081714251",
+    "longitude": "-118.2045928667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557733937/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.7942074541",
+    "longitude": "-107.45677537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557724022/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8330733852",
+    "longitude": "55.2521583089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557715263/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.3858548648",
+    "longitude": "-89.9867070208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/557696722/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "39.2581196803",
+    "longitude": "-75.463040359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/557671664/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.7383057645",
+    "longitude": "-2.4049395453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649798/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-32.8213913441",
+    "longitude": "18.1942280793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649737/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-32.8188663711",
+    "longitude": "18.192411043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557655627/square.jpg",
+    "date": "2023-05-21",
+    "latitude": "54.5585779784",
+    "longitude": "8.9314398542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557655039/square.jpg",
+    "date": "2023-05-24",
+    "latitude": "54.8933981629",
+    "longitude": "8.6446020752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557650745/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.0464333333",
+    "longitude": "-7.7596666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557639322/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "22.5063779578",
+    "longitude": "114.1100654472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557630018/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "52.7533676264",
+    "longitude": "5.0554147038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557622468/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.7481342584",
+    "longitude": "78.0606840178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557614704/square.jpg",
+    "date": "2024-08-09",
+    "latitude": "36.8088235842",
+    "longitude": "-121.7897996731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557604488/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.966212",
+    "longitude": "0.608569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557601744/square.jpg",
+    "date": "2019-02-17",
+    "latitude": "21.276677",
+    "longitude": "81.6446049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557601677/square.jpg",
+    "date": "2019-02-17",
+    "latitude": "21.276677",
+    "longitude": "81.6446049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557591558/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "37.9375259384",
+    "longitude": "-75.3968403715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/557587900/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.7367880924",
+    "longitude": "-121.801768998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557586962/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "37.8318549",
+    "longitude": "-0.7715168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557580295/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "33.7703411985",
+    "longitude": "-101.9393335293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557580252/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "33.7703411985",
+    "longitude": "-101.9393335293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557580233/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "33.7703411985",
+    "longitude": "-101.9393335293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557577491/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-23.108904",
+    "longitude": "31.435554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557576068/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "20.2717885",
+    "longitude": "79.3875706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557574321/square.jpg",
+    "date": "2013-08-16",
+    "latitude": "33.9916648741",
+    "longitude": "-117.5754246368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557570257/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.0561090542",
+    "longitude": "-112.2111823069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557569248/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "37.8318549",
+    "longitude": "-0.7715168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557558608/square.jpg",
+    "date": "2017-02-05",
+    "latitude": "17.9007571293",
+    "longitude": "-62.8368136818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557558081/square.jpg",
+    "date": "2019-12-03",
+    "latitude": "17.900328271",
+    "longitude": "-62.8368211436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557557951/square.jpg",
+    "date": "2020-11-06",
+    "latitude": "17.9037455565",
+    "longitude": "-62.7984051619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557557081/square.jpg",
+    "date": "2022-11-23",
+    "latitude": "17.9034983662",
+    "longitude": "-62.7985222968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557556695/square.jpg",
+    "date": "2008-04-23",
+    "latitude": "17.8935967778",
+    "longitude": "-62.8261366825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557556314/square.jpg",
+    "date": "2012-05-10",
+    "latitude": "17.8915883585",
+    "longitude": "-62.8230942262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557556316/square.jpg",
+    "date": "2012-04-26",
+    "latitude": "17.9038293997",
+    "longitude": "-62.7986875046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557556290/square.jpg",
+    "date": "2008-06-02",
+    "latitude": "17.8915883585",
+    "longitude": "-62.8230942262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557556289/square.jpg",
+    "date": "2008-11-05",
+    "latitude": "17.8915883585",
+    "longitude": "-62.8230942262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557555866/square.jpg",
+    "date": "2011-01-11",
+    "latitude": "17.905513382",
+    "longitude": "-62.7974543679",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557555646/square.jpg",
+    "date": "2010-10-10",
+    "latitude": "17.9053660233",
+    "longitude": "-62.7975932568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557555164/square.jpg",
+    "date": "2012-12-13",
+    "latitude": "17.90452126",
+    "longitude": "-62.7977511278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557557986/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "42.2244606",
+    "longitude": "3.0937856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557549972/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "22.5088052466",
+    "longitude": "114.1130595806",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557550245/square.jpg",
+    "date": "2023-04-02",
+    "latitude": "25.9775867",
+    "longitude": "76.5532869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557549867/square.jpg",
+    "date": "2023-04-02",
+    "latitude": "25.9775867",
+    "longitude": "76.5532869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557540046/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.8410883333",
+    "longitude": "-121.7390933333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557502258/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "16.3167045568",
+    "longitude": "-86.5285331066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557492840/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "41.2492010912",
+    "longitude": "22.7382039529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557483857/square.jpg",
+    "date": "2013-05-04",
+    "latitude": "41.0922724794",
+    "longitude": "20.799874616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557473968/square.jpg",
+    "date": "2024-12-01",
+    "latitude": "-25.2564932309",
+    "longitude": "152.8066248368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557475312/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.6928271942",
+    "longitude": "-2.7001440643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557475299/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.6935595155",
+    "longitude": "-2.6996212132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557475293/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.693292827",
+    "longitude": "-2.7024121415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557475288/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.6931379752",
+    "longitude": "-2.7021643054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557464379/square.jpg",
+    "date": "2025-04-01",
+    "latitude": "42.0293574104",
+    "longitude": "21.4807459171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557455608/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-38.0010634238",
+    "longitude": "144.4117842558",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557453859/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.9340068754",
+    "longitude": "15.5137471934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557451662/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.6958474355",
+    "longitude": "-118.0372976767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557435662/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "45.9889626217",
+    "longitude": "43.5762423392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557438125/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-37.8740679021",
+    "longitude": "144.8113903584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557421567/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.4310978512",
+    "longitude": "-121.9643226098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557428436/square.jpg",
+    "date": "2025-05-08",
+    "latitude": "43.4877373488",
+    "longitude": "4.4056454583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557425135/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-36.9080283333",
+    "longitude": "174.84877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557420296/square.jpg",
+    "date": "2025-05-06",
+    "latitude": "43.461561057",
+    "longitude": "4.465985733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557417671/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.8129080556",
+    "longitude": "-121.784845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557417677/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-37.8328616667",
+    "longitude": "144.90843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557416809/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "43.4858161616",
+    "longitude": "4.4072717695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557416840/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "43.4876439407",
+    "longitude": "4.4072753458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557416312/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "43.486146083",
+    "longitude": "4.4060308009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557394837/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.6093879117",
+    "longitude": "152.8741738604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557392893/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "13.1663179324",
+    "longitude": "100.0489716841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557392289/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.6104078231",
+    "longitude": "152.8762686508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557389448/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.9353789713",
+    "longitude": "43.5814797878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557388324/square.jpg",
+    "date": "2024-12-25",
+    "latitude": "33.7053",
+    "longitude": "-118.049334",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557373781/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "35.7933853538",
+    "longitude": "-84.1213474534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus leucocephalus",
+    "common name": "Pied Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557373585/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-30.5076397222",
+    "longitude": "115.0801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557370982/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.4583",
+    "longitude": "-122.1085888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557370730/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.458375",
+    "longitude": "-122.1088777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557366814/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.45685",
+    "longitude": "-122.1096305556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra avosetta",
+    "common name": "Pied Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/557365989/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.7647283333",
+    "longitude": "17.0296666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557355679/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.1531811626",
+    "longitude": "-96.9985697856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557364256/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.7647366667",
+    "longitude": "17.0296683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557355283/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.0638820068",
+    "longitude": "-112.218866199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557354860/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.0654351345",
+    "longitude": "-112.2257326541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557347101/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "31.7966920884",
+    "longitude": "-111.0147569329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557345030/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "26.6575066667",
+    "longitude": "-80.4930183333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557344996/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "26.6575066667",
+    "longitude": "-80.4930183333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557344798/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "26.6475133333",
+    "longitude": "-80.5900083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557335096/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "9.003211",
+    "longitude": "-79.493697",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Recurvirostra americana",
+    "common name": "American Avocet",
+    "observation photo url": "https://static.inaturalist.org/photos/557335468/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "40.5577313616",
+    "longitude": "-80.2173285681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus mexicanus",
+    "common name": "Black-necked Stilt",
+    "observation photo url": "https://static.inaturalist.org/photos/557325891/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-38.8950671",
+    "longitude": "-60.3191029",
+    "quality_grade": "research"
+  }
+]

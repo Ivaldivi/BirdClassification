@@ -1,0 +1,1415 @@
+[
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185692/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.5016283333",
+    "longitude": "-80.8446366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558175999/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.2410966667",
+    "longitude": "-75.6112583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/558173295/square.jpg",
+    "date": "2024-04-15",
+    "latitude": "38.6343297",
+    "longitude": "-90.2943999997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/558170947/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "41.8184192004",
+    "longitude": "-86.256114319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169359/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.9635895",
+    "longitude": "-66.6431151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/558162941/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.1262722222",
+    "longitude": "-84.2473861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/558160620/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "29.9509957484",
+    "longitude": "-90.1189342705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558158837/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.8140841",
+    "longitude": "-76.0550855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina ciris",
+    "common name": "Painted Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157305/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "31.3910642703",
+    "longitude": "-97.6580131315",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558154357/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.3079292284",
+    "longitude": "-72.2329176924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153996/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.0327156",
+    "longitude": "-88.0374079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina ciris",
+    "common name": "Painted Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153242/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "31.2266652598",
+    "longitude": "-97.8227215951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152293/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "40.3750169722",
+    "longitude": "-79.380043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558148142/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "26.5589269126",
+    "longitude": "-80.1093300033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/558145326/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "29.9509957484",
+    "longitude": "-90.1189342705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558137062/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.3534177",
+    "longitude": "-97.0436328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga rubra",
+    "common name": "Summer Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558137057/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.3534177",
+    "longitude": "-97.0436328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558137016/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.3534177",
+    "longitude": "-97.0436328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina caerulea",
+    "common name": "Blue Grosbeak",
+    "observation photo url": "https://static.inaturalist.org/photos/558135853/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.0780670878",
+    "longitude": "-111.5477697127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus ludovicianus",
+    "common name": "Rose-breasted Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558134966/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "43.5402556211",
+    "longitude": "-80.5663274462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558135059/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "43.71583",
+    "longitude": "-79.365325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558134978/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "43.7157866667",
+    "longitude": "-79.36528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://static.inaturalist.org/photos/558134867/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.1973351746",
+    "longitude": "-111.5284634852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/558134722/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.0172270812",
+    "longitude": "-111.4223106934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558134235/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "43.7157833333",
+    "longitude": "-79.3654116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558131074/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.7629911911",
+    "longitude": "-79.2681954056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130052/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.7629911911",
+    "longitude": "-79.2681954056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558129232/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.7629911911",
+    "longitude": "-79.2681954056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558129232/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.6638037612",
+    "longitude": "-79.7016894593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558128561/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.7629911911",
+    "longitude": "-79.2681954056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga flava",
+    "common name": "Hepatic Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/558125542/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-22.6343683225",
+    "longitude": "-45.5934979783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga flava",
+    "common name": "Hepatic Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/558125486/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-22.6344194444",
+    "longitude": "-45.5934055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina ciris",
+    "common name": "Painted Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558125597/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.2090412487",
+    "longitude": "-93.5863313824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558124988/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "39.8548094815",
+    "longitude": "-86.140666266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina ciris",
+    "common name": "Painted Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/558124265/square.jpg",
+    "date": "2025-04-17",
+    "latitude": "19.5925994182",
+    "longitude": "-99.0548898652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina ciris",
+    "common name": "Painted Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/558124212/square.jpg",
+    "date": "2025-04-18",
+    "latitude": "19.5922544945",
+    "longitude": "-99.0548979118",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558124094/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.7629911911",
+    "longitude": "-79.2681954056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558119458/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.7629911911",
+    "longitude": "-79.2681954056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga rubra",
+    "common name": "Summer Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558112460/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.8760610642",
+    "longitude": "-97.1688308458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina caerulea",
+    "common name": "Blue Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558111778/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "28.202922",
+    "longitude": "-110.611791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina caerulea",
+    "common name": "Blue Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558102627/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "35.5677425471",
+    "longitude": "-106.1069039209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558097626/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.1855697632",
+    "longitude": "-97.4047546387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558092739/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.4143119097",
+    "longitude": "-78.3147901297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus chrysopeplus",
+    "common name": "Yellow Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558090907/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.3518247447",
+    "longitude": "-105.5165725613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558090352/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.9635895",
+    "longitude": "-66.6431151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://static.inaturalist.org/photos/558087443/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.3876076594",
+    "longitude": "-111.4364868389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Spiza americana",
+    "common name": "Dickcissel",
+    "observation photo url": "https://static.inaturalist.org/photos/558085567/square.jpg",
+    "date": "2023-07-19",
+    "latitude": "40.6712381992",
+    "longitude": "-98.8824700937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina versicolor",
+    "common name": "Varied Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/558081968/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "18.3223184096",
+    "longitude": "-97.4963986874",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina ciris",
+    "common name": "Painted Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558078785/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.6161644826",
+    "longitude": "-79.9952785092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina ciris",
+    "common name": "Painted Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558078752/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.6161555853",
+    "longitude": "-79.9952581677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina caerulea",
+    "common name": "Blue Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558076576/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "20.0962476715",
+    "longitude": "-103.8770352394",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558126410/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.7669416667",
+    "longitude": "-73.9733716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558053614/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.9470083451",
+    "longitude": "-96.5338088572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/558052642/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.3214369404",
+    "longitude": "-91.5266059694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga olivacea",
+    "common name": "Scarlet Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/558036465/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.5611214686",
+    "longitude": "-74.4262820102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558042668/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "30.3705000666",
+    "longitude": "-92.1802096016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/558035858/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.6369593831",
+    "longitude": "-90.3017389763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558036528/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.7603246098",
+    "longitude": "-70.0907169371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558033812/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.6127165751",
+    "longitude": "-80.251069422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558030549/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.9635895",
+    "longitude": "-66.6431151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558023031/square.jpg",
+    "date": "2013-08-06",
+    "latitude": "40.7728212859",
+    "longitude": "-73.9715188682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557888052/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.9111183333",
+    "longitude": "-121.6605916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga flava",
+    "common name": "Hepatic Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558018476/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-34.7903557538",
+    "longitude": "-55.9322633661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina caerulea",
+    "common name": "Blue Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558018476/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.5031282027",
+    "longitude": "-76.6877189745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558012927/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.5314985496",
+    "longitude": "-82.9094399884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558003027/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "40.0211333333",
+    "longitude": "-75.59668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga flava",
+    "common name": "Hepatic Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557999793/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-31.3209568005",
+    "longitude": "-58.0862225369",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557999793/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.2810619453",
+    "longitude": "-92.8138480583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987021/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "32.2152283333",
+    "longitude": "-80.8515083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557976710/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.5651728815",
+    "longitude": "-97.2893697923",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557974978/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "26.8239383333",
+    "longitude": "-80.0850833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557966464/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "27.1143039778",
+    "longitude": "-80.2595047553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557920302/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "40.7761352372",
+    "longitude": "-73.9704624423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga rubra",
+    "common name": "Summer Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/557901610/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.5413065566",
+    "longitude": "-90.6505054235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga flava",
+    "common name": "Hepatic Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/557899410/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "17.3040090223",
+    "longitude": "-96.4470119029",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/557888274/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "24.8534366667",
+    "longitude": "-99.573875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina amoena",
+    "common name": "Lazuli Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557876868/square.jpg",
+    "date": "2025-04-29",
+    "latitude": "34.0495926375",
+    "longitude": "-116.5687284035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina amoena",
+    "common name": "Lazuli Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557876802/square.jpg",
+    "date": "2025-04-29",
+    "latitude": "34.0495926375",
+    "longitude": "-116.5687284035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557876779/square.jpg",
+    "date": "2025-04-29",
+    "latitude": "34.0495926375",
+    "longitude": "-116.5687284035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557875184/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "43.1498111667",
+    "longitude": "-73.733275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557874623/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "42.9274261997",
+    "longitude": "-76.5514086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557871682/square.jpg",
+    "date": "2025-01-07",
+    "latitude": "30.3410655",
+    "longitude": "-97.5576772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina amoena",
+    "common name": "Lazuli Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/557869655/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.3446095499",
+    "longitude": "-116.9042558851",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557867736/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "38.8070913599",
+    "longitude": "-90.1605219843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557858749/square.jpg",
+    "date": "2025-02-25",
+    "latitude": "28.3726869096",
+    "longitude": "-82.5347505217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557856280/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "43.9327351015",
+    "longitude": "-115.6709017176",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557855615/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "43.9318055688",
+    "longitude": "-115.671660959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557864779/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "36.8668936302",
+    "longitude": "-76.1224293709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina amoena",
+    "common name": "Lazuli Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862488/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862384/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862359/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862339/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina amoena",
+    "common name": "Lazuli Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862329/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga rubra",
+    "common name": "Summer Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861751/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861617/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861089/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina amoena",
+    "common name": "Lazuli Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861080/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861072/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861057/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861044/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina amoena",
+    "common name": "Lazuli Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861018/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557860935/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "34.050071725",
+    "longitude": "-116.5691446201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557853582/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "29.7645611111",
+    "longitude": "-95.4494166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus ludovicianus",
+    "common name": "Rose-breasted Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557850876/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "40.1271287543",
+    "longitude": "-88.2105287919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus ludovicianus",
+    "common name": "Rose-breasted Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557847132/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "40.1269747283",
+    "longitude": "-88.2101640112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557859710/square.jpg",
+    "date": "2025-04-05",
+    "latitude": "32.41638121",
+    "longitude": "-94.9702906696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/557857625/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "41.7218212831",
+    "longitude": "-73.2083194703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557852838/square.jpg",
+    "date": "2023-08-23",
+    "latitude": "37.7331168334",
+    "longitude": "-77.637875245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557850686/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "44.9377800049",
+    "longitude": "-93.1682009041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557846846/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "42.4229356229",
+    "longitude": "-83.4793917322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina caerulea",
+    "common name": "Blue Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557838595/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.2836348",
+    "longitude": "-102.0097188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557840774/square.jpg",
+    "date": "2010-05-16",
+    "latitude": "40.2679786682",
+    "longitude": "-80.2041931152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558104356/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.5654116667",
+    "longitude": "-79.6708666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557832233/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "30.4131116667",
+    "longitude": "-97.7611833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina ciris",
+    "common name": "Painted Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830975/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "31.0758528193",
+    "longitude": "-97.9284426672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830476/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.1927616667",
+    "longitude": "-77.5127716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830413/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.1926833333",
+    "longitude": "-77.5127116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830261/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.1926883333",
+    "longitude": "-77.5127333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://static.inaturalist.org/photos/557829933/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.5547051951",
+    "longitude": "-117.0856559819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/557826524/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "32.7278565206",
+    "longitude": "-97.1580065405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/557825951/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "32.665230271",
+    "longitude": "-97.1537570388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Spiza americana",
+    "common name": "Dickcissel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557821945/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.0238870216",
+    "longitude": "-97.1456828841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/557822523/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.0883445",
+    "longitude": "-79.0729221667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557810841/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "48.0685409246",
+    "longitude": "-123.7944991932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557814723/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "42.2067538111",
+    "longitude": "-85.5864496019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557809833/square.jpg",
+    "date": "2025-02-21",
+    "latitude": "28.4220755139",
+    "longitude": "-82.656841279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina versicolor",
+    "common name": "Varied Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557805565/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "31.7984221723",
+    "longitude": "-110.7849094913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557813106/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.7382046819",
+    "longitude": "-73.8164672898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina caerulea",
+    "common name": "Blue Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557802603/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "19.5904067",
+    "longitude": "-98.8689935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808667/square.jpg",
+    "date": "2018-03-25",
+    "latitude": "23.250790792",
+    "longitude": "-106.3600377473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus chrysopeplus",
+    "common name": "Yellow Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557800635/square.jpg",
+    "date": "2018-03-19",
+    "latitude": "23.2460056203",
+    "longitude": "-106.3575355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocompsa parellina",
+    "common name": "Blue Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557800544/square.jpg",
+    "date": "2018-03-19",
+    "latitude": "23.2459420755",
+    "longitude": "-106.3574801048",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga olivacea",
+    "common name": "Scarlet Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557804894/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.3745229854",
+    "longitude": "-75.7953693027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557809021/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.5251433333",
+    "longitude": "-86.7874816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808990/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.5247733333",
+    "longitude": "-86.7874266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808984/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.52068",
+    "longitude": "-86.789765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/557810636/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.0875805556",
+    "longitude": "-87.8982055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina amoena",
+    "common name": "Lazuli Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808351/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "33.6336941484",
+    "longitude": "-117.9450975878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus melanocephalus",
+    "common name": "Black-headed Grosbeak",
+    "observation photo url": "https://static.inaturalist.org/photos/557807474/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.5734067343",
+    "longitude": "-112.433396774",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808486/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.45798",
+    "longitude": "-72.5800116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557806760/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.1167829124",
+    "longitude": "-80.657293052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557805820/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "29.2721901381",
+    "longitude": "-103.1362554611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557437709/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "49.0682277549",
+    "longitude": "-120.8981509549",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557802084/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.2853672332",
+    "longitude": "-72.5749047338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/557797142/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "42.8493618747",
+    "longitude": "-78.8559075779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557800360/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.4579116667",
+    "longitude": "-72.580025",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis sinuatus",
+    "common name": "Pyrrhuloxia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557799565/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.2791492263",
+    "longitude": "-103.3700036802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga rubra",
+    "common name": "Summer Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557799194/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "29.4368021895",
+    "longitude": "-98.4965598275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina caerulea",
+    "common name": "Blue Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557796545/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "35.9512018486",
+    "longitude": "-83.6904312801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cardinalis cardinalis",
+    "common name": "Northern Cardinal",
+    "observation photo url": "https://static.inaturalist.org/photos/557793472/square.jpg",
+    "date": "2024-05-13",
+    "latitude": "39.058758",
+    "longitude": "-77.31421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Passerina cyanea",
+    "common name": "Indigo Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/557793320/square.jpg",
+    "date": "2024-05-13",
+    "latitude": "39.059522",
+    "longitude": "-77.307555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocompsa parellina",
+    "common name": "Blue Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557794819/square.jpg",
+    "date": "2018-03-15",
+    "latitude": "23.2458240843",
+    "longitude": "-106.357475445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus chrysopeplus",
+    "common name": "Yellow Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557794669/square.jpg",
+    "date": "2018-03-15",
+    "latitude": "23.246118797",
+    "longitude": "-106.3575707156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocompsa parellina",
+    "common name": "Blue Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557794626/square.jpg",
+    "date": "2018-03-15",
+    "latitude": "23.2459152608",
+    "longitude": "-106.3575240141",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocompsa parellina",
+    "common name": "Blue Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557794243/square.jpg",
+    "date": "2018-03-15",
+    "latitude": "23.2460793656",
+    "longitude": "-106.3577209193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pheucticus chrysopeplus",
+    "common name": "Yellow Grosbeak",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557794207/square.jpg",
+    "date": "2018-03-15",
+    "latitude": "23.2459260914",
+    "longitude": "-106.3574804411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piranga ludoviciana",
+    "common name": "Western Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/557797720/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "40.0135214293",
+    "longitude": "-105.3903690496",
+    "quality_grade": "research"
+  }
+]

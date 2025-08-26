@@ -1,0 +1,1442 @@
+[
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558184845/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.5726046127",
+    "longitude": "-122.8382486698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558189452/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.2769162606",
+    "longitude": "-7.9191154019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/558164168/square.jpg",
+    "date": "2025-04-24",
+    "latitude": "48.8772122208",
+    "longitude": "4.4314986998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558177095/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "45.091646387",
+    "longitude": "7.5895095617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157935/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.7611166667",
+    "longitude": "8.0169278333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157132/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.7607583333",
+    "longitude": "8.0167166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558146178/square.jpg",
+    "date": "2023-10-21",
+    "latitude": "48.3277980461",
+    "longitude": "11.9157580094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139071/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.6684211466",
+    "longitude": "-8.1897791583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/558139483/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.2329953519",
+    "longitude": "12.3932003975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558131058/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.3729320747",
+    "longitude": "30.633911451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130149/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.3731096004",
+    "longitude": "30.6340658076",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558129042/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.3730193998",
+    "longitude": "30.6339729259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558127607/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.3742667814",
+    "longitude": "30.632001327",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558127266/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.3742075757",
+    "longitude": "30.6320830467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558117807/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "47.5870989352",
+    "longitude": "1.605147009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558111189/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "52.0983",
+    "longitude": "-1.8325833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558110886/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "52.0982638333",
+    "longitude": "-1.8325883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/558101638/square.jpg",
+    "date": "2024-11-08",
+    "latitude": "62.9444184507",
+    "longitude": "7.5192822888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558079013/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "47.811307773",
+    "longitude": "-2.4034252713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558080093/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.7635509722",
+    "longitude": "0.4676379722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558030220/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "41.5036037227",
+    "longitude": "-7.6653583839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558024920/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.8325871083",
+    "longitude": "4.8990777561",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558019480/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "58.1508576666",
+    "longitude": "52.5925311797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558012800/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.5730691211",
+    "longitude": "37.4327297476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus caudatus",
+    "common name": "Northern Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558008470/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "43.3112233333",
+    "longitude": "145.5560516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus caudatus",
+    "common name": "Northern Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558004997/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "43.3114366667",
+    "longitude": "145.5558883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus caudatus",
+    "common name": "Northern Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558003874/square.gif",
+    "date": "2025-03-08",
+    "latitude": "43.3114366667",
+    "longitude": "145.5558883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus caudatus",
+    "common name": "Northern Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558001832/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "43.31038",
+    "longitude": "145.5573",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus caudatus",
+    "common name": "Northern Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557998831/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "43.3102183333",
+    "longitude": "145.5568466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus caudatus",
+    "common name": "Northern Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557993223/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "43.310045",
+    "longitude": "145.5572766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558003257/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "54.7300469262",
+    "longitude": "56.3242381811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos glaucogularis",
+    "common name": "Silver-throated Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557984729/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.9285755543",
+    "longitude": "120.1983402904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963782/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.844610942",
+    "longitude": "37.3276430368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557943364/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "56.9161566667",
+    "longitude": "60.658715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus trivirgatus",
+    "common name": "Honshu Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557939597/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.6566860768",
+    "longitude": "139.4468887611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557913252/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "55.0390268044",
+    "longitude": "58.1503871504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557879468/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.584385",
+    "longitude": "-117.8531683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557875926/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.4657211237",
+    "longitude": "-123.4340371643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557875984/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.465670616",
+    "longitude": "-123.4339953914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557860427/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "34.0322794278",
+    "longitude": "-118.6848274003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus rosaceus",
+    "common name": "British Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/557807840/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "52.2503580084",
+    "longitude": "-1.4449611959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557776786/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.4108366667",
+    "longitude": "-123.343505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557711188/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.8130467633",
+    "longitude": "-1.187185052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus rosaceus",
+    "common name": "British Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557734705/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.7308803139",
+    "longitude": "-1.7638783782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557745087/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.4835679174",
+    "longitude": "-0.2156718107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557738791/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "19.5627680498",
+    "longitude": "-97.1699987137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557717283/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "31.3732431223",
+    "longitude": "-110.286999451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/557703060/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.7960254044",
+    "longitude": "32.1191556903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557657694/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "53.464908",
+    "longitude": "58.31874054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557654745/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.3813476563",
+    "longitude": "-4.4619503021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557621923/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "41.1679786479",
+    "longitude": "-8.5617589359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557602928/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.97807",
+    "longitude": "4.9450633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557601721/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.9774834064",
+    "longitude": "57.2729660198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557579432/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "45.7860390329",
+    "longitude": "2.994496464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557579432/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "55.818888",
+    "longitude": "12.451404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557574034/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.8705003",
+    "longitude": "-6.9089327997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557570199/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "55.8248843",
+    "longitude": "47.0409893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557566422/square.jpg",
+    "date": "2023-05-23",
+    "latitude": "29.2669634407",
+    "longitude": "-103.3025828913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557556708/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "54.0230292",
+    "longitude": "38.3109777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557532741/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.5451073754",
+    "longitude": "36.8964672105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptopoecile sophiae",
+    "common name": "White-browed Tit-Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557547854/square.jpg",
+    "date": "2010-05-20",
+    "latitude": "43.0126326352",
+    "longitude": "76.9763849492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557540755/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "54.8389955145",
+    "longitude": "58.8615079969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557535877/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.3393961915",
+    "longitude": "-6.2591155733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557529658/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.6349747857",
+    "longitude": "9.494043254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos iouschistos",
+    "common name": "Black-browed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/557521502/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "27.4900174225",
+    "longitude": "89.7501308037",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus caudatus",
+    "common name": "Northern Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557466048/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "56.8341466217",
+    "longitude": "60.6739276798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557464381/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "41.0897800839",
+    "longitude": "20.8021685903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/557481128/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "60.0213272555",
+    "longitude": "29.9741775915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557454085/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.7491595394",
+    "longitude": "-3.7696848079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos concinnus",
+    "common name": "Black-throated Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557445815/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "24.3506890158",
+    "longitude": "121.3100059741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557441085/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "51.4693208309",
+    "longitude": "0.203294009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557439316/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "48.6138236014",
+    "longitude": "1.9598398358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557434794/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.6642695808",
+    "longitude": "-117.8421019984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557429078/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.3427902254",
+    "longitude": "3.5033042728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557421417/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "38.8446034381",
+    "longitude": "-104.8868185656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557387777/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "49.1553833",
+    "longitude": "-123.947726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557378352/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.7398944444",
+    "longitude": "-109.5121444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557376381/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "33.3466582548",
+    "longitude": "-116.9073578591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557362467/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "35.1288677428",
+    "longitude": "-106.6867230088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557344483/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.2469423347",
+    "longitude": "-121.8710339146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557319028/square.jpg",
+    "date": "2013-06-25",
+    "latitude": "37.4681380556",
+    "longitude": "-122.434525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557248547/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.9812469632",
+    "longitude": "-105.1648580656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557220707/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "46.1946286216",
+    "longitude": "6.0847535117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557209563/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "47.5769917109",
+    "longitude": "-3.0368353302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/557214370/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.5035152326",
+    "longitude": "-2.170095183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557185829/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.1794124979",
+    "longitude": "-3.509019499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557185852/square.jpg",
+    "date": "2024-03-02",
+    "latitude": "52.2803406053",
+    "longitude": "9.8169243196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557171102/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "34.999295",
+    "longitude": "-106.3583633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557150129/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "54.4024160429",
+    "longitude": "22.4994727728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557149868/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "54.4024160429",
+    "longitude": "22.4884864447",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557149892/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "54.3868848489",
+    "longitude": "22.4994727728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557148887/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.859216979",
+    "longitude": "7.5382937863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/557132852/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.1360333333",
+    "longitude": "8.5410333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557125591/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "61.6745644019",
+    "longitude": "50.7405535877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557112374/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "55.8450061529",
+    "longitude": "49.2232266069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557102999/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "30.6419197923",
+    "longitude": "-104.1620075764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557103004/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "30.6419197923",
+    "longitude": "-104.1620075764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557102997/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "30.6419197923",
+    "longitude": "-104.1620075764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557073463/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "32.832327104",
+    "longitude": "-116.7769345061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557073184/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.84627",
+    "longitude": "60.7609766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557052598/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "51.4902337326",
+    "longitude": "-2.7432670338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/557060174/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.5184059845",
+    "longitude": "-121.6924987493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557052984/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "54.2908262429",
+    "longitude": "-4.4901464744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus rosaceus",
+    "common name": "British Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/557029310/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.3098413222",
+    "longitude": "0.6346815014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557023893/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.8375690122",
+    "longitude": "7.2401461407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557009279/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.0465943714",
+    "longitude": "8.2355190958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/557004306/square.jpg",
+    "date": "2024-10-25",
+    "latitude": "48.0422832392",
+    "longitude": "-0.7352042189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557003229/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.7193756394",
+    "longitude": "8.3443260938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556978892/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "49.5197408969",
+    "longitude": "20.003362298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos concinnus annamensis",
+    "common name": "Grey-crowned Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556969374/square.jpg",
+    "date": "2024-11-17",
+    "latitude": "12.0381926872",
+    "longitude": "108.4257407713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556956724/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "57.1665433333",
+    "longitude": "65.4434816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556959585/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "53.2796585102",
+    "longitude": "-3.8037667478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556942620/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.9984302511",
+    "longitude": "23.9830570428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus caudatus",
+    "common name": "Northern Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556910103/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "56.7721764425",
+    "longitude": "60.7016056404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556907691/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.9979194915",
+    "longitude": "11.3084322882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos concinnus",
+    "common name": "Black-throated Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556903583/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "25.7051395147",
+    "longitude": "100.1493246853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus rosaceus",
+    "common name": "British Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556896898/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.733105",
+    "longitude": "-1.24747",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556894736/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "46.1601391929",
+    "longitude": "14.7095601261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556885048/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.0765929821",
+    "longitude": "16.2709347471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556880246/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.7692915063",
+    "longitude": "40.823446131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556869738/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "39.3939929586",
+    "longitude": "-121.146562421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos concinnus",
+    "common name": "Black-throated Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556830880/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "30.0715170215",
+    "longitude": "80.237339884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556816312/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.8261720567",
+    "longitude": "-117.8687652766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556778935/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "19.6842510176",
+    "longitude": "-101.1825670066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556778946/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "19.6842510176",
+    "longitude": "-101.1825670066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556755610/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.3332482",
+    "longitude": "-122.1089714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556755569/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.3332482",
+    "longitude": "-122.1089714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556755534/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.3332482",
+    "longitude": "-122.1089714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556755499/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.3332482",
+    "longitude": "-122.1089714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556730640/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "41.7120964913",
+    "longitude": "-122.6564761777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556722526/square.jpg",
+    "date": "2024-05-10",
+    "latitude": "33.009200654",
+    "longitude": "-117.2379410803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556676404/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.0231971667",
+    "longitude": "-122.996255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556672791/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "52.1319432177",
+    "longitude": "1.3689932049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556671228/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "44.1211918403",
+    "longitude": "-123.2845429362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556664188/square.jpg",
+    "date": "2009-12-26",
+    "latitude": "47.6628954199",
+    "longitude": "-122.43140237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556598324/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.8598025255",
+    "longitude": "-122.2484081985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556547046/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.9105136303",
+    "longitude": "-122.2945410216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556537758/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "38.5250483333",
+    "longitude": "-9.1428783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556526587/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "54.5072540405",
+    "longitude": "54.0146067879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556512221/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.5239986679",
+    "longitude": "-123.1293661392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556506807/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "51.7498971548",
+    "longitude": "-1.2977466845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556492999/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "57.9467568232",
+    "longitude": "48.3407684668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556490318/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "47.9758725291",
+    "longitude": "3.6929711132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos concinnus",
+    "common name": "Black-throated Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556490894/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "30.2773233333",
+    "longitude": "120.0836366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556465388/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "57.4587534687",
+    "longitude": "56.9795050867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556468460/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "50.45685682",
+    "longitude": "3.56102474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556460582/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "58.6723903387",
+    "longitude": "34.0830315386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556460582/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.8544359264",
+    "longitude": "11.0120914131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556442298/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "54.9468972049",
+    "longitude": "20.2110610604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556426259/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.0410078483",
+    "longitude": "23.963911187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556426613/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "56.9213459513",
+    "longitude": "60.6380527529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556397524/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "57.1646297882",
+    "longitude": "65.3900420699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556378694/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.5998801481",
+    "longitude": "44.6545172805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://static.inaturalist.org/photos/556378694/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.636035096",
+    "longitude": "-2.9959600791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://static.inaturalist.org/photos/556361737/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "37.5663261142",
+    "longitude": "-121.8324281807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos caudatus",
+    "common name": "Long-tailed Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556337197/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "46.767802422",
+    "longitude": "23.5757642984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556326810/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "49.1394437407",
+    "longitude": "-123.1389312636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556326272/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "49.1546809993",
+    "longitude": "-123.1434796785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psaltriparus minimus",
+    "common name": "Bushtit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556296741/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "38.578009045",
+    "longitude": "-121.4588384923",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithalos glaucogularis",
+    "common name": "Silver-throated Tit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556286720/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.0313081704",
+    "longitude": "116.3868316963",
+    "quality_grade": "research"
+  }
+]

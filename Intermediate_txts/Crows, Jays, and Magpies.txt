@@ -1,0 +1,1001 @@
+[
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558189514/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "34.0233911448",
+    "longitude": "-83.6315080441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185796/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.1497796825",
+    "longitude": "-3.9251876349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185025/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.0942579",
+    "longitude": "12.1145098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corax",
+    "common name": "Common Raven",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182872/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "58.2990996291",
+    "longitude": "-134.4212520566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558183649/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.0110285207",
+    "longitude": "10.5126362666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyrrhocorax pyrrhocorax",
+    "common name": "Red-billed Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182505/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.1358715409",
+    "longitude": "-8.8655905977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558163890/square.jpg",
+    "date": "2025-04-01",
+    "latitude": "48.789111491",
+    "longitude": "4.9085253528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://static.inaturalist.org/photos/558163360/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "48.6976904901",
+    "longitude": "6.1839165562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558180930/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "60.3914472222",
+    "longitude": "25.6653194444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558179513/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.7822510201",
+    "longitude": "-3.1104423799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558179453/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.7822531684",
+    "longitude": "-3.1104396977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://static.inaturalist.org/photos/558173089/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "49.7029640849",
+    "longitude": "0.1900413707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558171351/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "30.0379955",
+    "longitude": "-95.381209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558172915/square.jpg",
+    "date": "2024-06-12",
+    "latitude": "38.8999999997",
+    "longitude": "-77.5",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nucifraga caryocatactes",
+    "common name": "Northern Nutcracker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151647/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "44.1519433333",
+    "longitude": "7.236655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nucifraga caryocatactes",
+    "common name": "Northern Nutcracker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151041/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "44.1515916667",
+    "longitude": "7.2405316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyrrhocorax graculus",
+    "common name": "Yellow-billed Chough",
+    "observation photo url": "https://static.inaturalist.org/photos/558168195/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "46.5006675997",
+    "longitude": "11.8083656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta stelleri",
+    "common name": "Steller's Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558166925/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "37.617725555",
+    "longitude": "-105.547721945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558166735/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "36.1515766032",
+    "longitude": "-86.8144623935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://static.inaturalist.org/photos/558164440/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.2254906977",
+    "longitude": "-2.880133912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://static.inaturalist.org/photos/558148378/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "62.9336338832",
+    "longitude": "27.6731188912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://static.inaturalist.org/photos/558148337/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "62.9329182563",
+    "longitude": "27.6731413251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558161992/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.62648",
+    "longitude": "-71.3608783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocorax formosus",
+    "common name": "White-throated Magpie-Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558161530/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "10.7736290803",
+    "longitude": "-85.3497117385",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta stelleri",
+    "common name": "Steller's Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558161113/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.4736451025",
+    "longitude": "-122.1996620654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocorax morio",
+    "common name": "Brown Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160091/square.jpg",
+    "date": "2025-02-09",
+    "latitude": "9.8024485393",
+    "longitude": "-83.8369269554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159154/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.8140841",
+    "longitude": "-76.0550855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157873/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.6690483093",
+    "longitude": "-89.6082229614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558156258/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "29.9509957484",
+    "longitude": "-90.1189342705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corax",
+    "common name": "Common Raven",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155318/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.4715892845",
+    "longitude": "-122.4467645865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152433/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.8193612033",
+    "longitude": "-74.6455173175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153279/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "52.64323467",
+    "longitude": "1.1750722173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153550/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.4100186",
+    "longitude": "-3.9978929997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160451/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "56.3428416667",
+    "longitude": "43.9375333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corone",
+    "common name": "Carrion Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558147782/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "57.1724145719",
+    "longitude": "-2.0965309061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyrrhocorax graculus",
+    "common name": "Yellow-billed Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558144973/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "46.6366007",
+    "longitude": "12.3114363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyrrhocorax graculus",
+    "common name": "Yellow-billed Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558144442/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "46.6178097222",
+    "longitude": "12.3109413889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus frugilegus",
+    "common name": "Rook",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558144411/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "57.1728743119",
+    "longitude": "-2.0980160182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyrrhocorax pyrrhocorax",
+    "common name": "Red-billed Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558142998/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "28.4812193925",
+    "longitude": "-17.8564521298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558133635/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.1809612248",
+    "longitude": "-1.6134349524",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corone",
+    "common name": "Carrion Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558132509/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.1615699908",
+    "longitude": "-1.5959957156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558129248/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.1520989752",
+    "longitude": "-1.5817017483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558128618/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.1484443043",
+    "longitude": "-1.5768952298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558142551/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "57.1728329851",
+    "longitude": "-2.0952930626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocorax mystacalis",
+    "common name": "White-tailed Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558142275/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-4.3718763845",
+    "longitude": "-79.9003484845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica hudsonia",
+    "common name": "Black-billed Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141815/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "37.9354528674",
+    "longitude": "-107.8063867569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus brachyrhynchos",
+    "common name": "American Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141632/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.2649700949",
+    "longitude": "-124.2993141433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus brachyrhynchos",
+    "common name": "American Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140768/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "47.4769988813",
+    "longitude": "-123.8311021748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus brachyrhynchos",
+    "common name": "American Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140423/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "47.4769075265",
+    "longitude": "-123.8314066803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139513/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "60.7120038247",
+    "longitude": "28.7438124418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corax",
+    "common name": "Common Raven",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139298/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "54.9598116667",
+    "longitude": "44.0142633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corax",
+    "common name": "Common Raven",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558135188/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "46.4347880556",
+    "longitude": "12.0987913889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558133311/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "56.3335858333",
+    "longitude": "9.9655363889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corone",
+    "common name": "Carrion Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558132734/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.7417337678",
+    "longitude": "4.884351853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558132093/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "54.5437601533",
+    "longitude": "37.0912968367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558129311/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "60.673237253",
+    "longitude": "17.1224959134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus frugilegus",
+    "common name": "Rook",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130147/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "52.1393262133",
+    "longitude": "-10.2743099883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130126/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "52.1392575633",
+    "longitude": "-10.2739380183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta stelleri",
+    "common name": "Steller's Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558130984/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.5261833333",
+    "longitude": "-121.5616916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558129412/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.3865373483",
+    "longitude": "-73.7087821215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558126364/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.2385952615",
+    "longitude": "-2.3655851959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix \u00d7 corone",
+    "common name": "Hooded \u00d7 Carrion Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558123660/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.35016537",
+    "longitude": "12.3640389101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corone",
+    "common name": "Carrion Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558123515/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.3458679742",
+    "longitude": "12.3692356189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558123135/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "52.1385683333",
+    "longitude": "-10.2708416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corone",
+    "common name": "Carrion Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558123135/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "52.1385683333",
+    "longitude": "-10.2708416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corone",
+    "common name": "Carrion Crow",
+    "observation photo url": "https://static.inaturalist.org/photos/558124569/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.8878333333",
+    "longitude": "9.1769527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558122578/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "57.1775514619",
+    "longitude": "-2.0999947867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus brachyrhynchos",
+    "common name": "American Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558120810/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.3578913161",
+    "longitude": "-79.7220031264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558120333/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.416338",
+    "longitude": "30.561247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aphelocoma californica",
+    "common name": "California Scrub-Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558119295/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.7099111111",
+    "longitude": "-117.6191666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corax",
+    "common name": "Common Raven",
+    "observation photo url": "https://static.inaturalist.org/photos/558117179/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.7269822",
+    "longitude": "-86.9482191997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558116036/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.320295",
+    "longitude": "-75.9575416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta stelleri",
+    "common name": "Steller's Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115231/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "37.0399124102",
+    "longitude": "-122.0645007732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115479/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.6976960947",
+    "longitude": "7.4582087828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyrrhocorax graculus",
+    "common name": "Yellow-billed Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558110953/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "46.635505",
+    "longitude": "12.312349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://static.inaturalist.org/photos/558107969/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.6640444444",
+    "longitude": "12.5360611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyrrhocorax graculus",
+    "common name": "Yellow-billed Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558107490/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.6327171403",
+    "longitude": "11.6764175949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanopica cooki",
+    "common name": "Iberian Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558107275/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.0982695",
+    "longitude": "-8.6756616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558105990/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.5401217684",
+    "longitude": "-80.2176499829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558104652/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "60.29256",
+    "longitude": "24.8802433167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558104323/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.4160301112",
+    "longitude": "-3.6872883886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocorax yncas",
+    "common name": "Green Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558103876/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "6.6140906027",
+    "longitude": "-75.5881238356",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://static.inaturalist.org/photos/558098458/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.238112486",
+    "longitude": "44.1865482101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corax",
+    "common name": "Common Raven",
+    "observation photo url": "https://static.inaturalist.org/photos/558098384/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2614768577",
+    "longitude": "44.1631213948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nucifraga caryocatactes",
+    "common name": "Northern Nutcracker",
+    "observation photo url": "https://static.inaturalist.org/photos/558103802/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "58.3922666574",
+    "longitude": "13.8457433134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://static.inaturalist.org/photos/558101656/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.1885625736",
+    "longitude": "-6.7147401258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyrrhocorax graculus",
+    "common name": "Yellow-billed Chough",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558101550/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "46.5474511",
+    "longitude": "7.9851501997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558100944/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.2265019511",
+    "longitude": "-4.1484699067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://static.inaturalist.org/photos/558100049/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "57.1098043229",
+    "longitude": "-3.9728605002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus corax",
+    "common name": "Common Raven",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558099629/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "48.7539216667",
+    "longitude": "-123.2378533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558097929/square.jpg",
+    "date": "2025-04-30",
+    "latitude": "46.2577437941",
+    "longitude": "14.3634854257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558096969/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "64.2649585118",
+    "longitude": "60.8954614498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558088128/square.jpg",
+    "date": "2024-11-01",
+    "latitude": "52.8357487537",
+    "longitude": "-6.3057561145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558095157/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "55.8287360841",
+    "longitude": "37.617559743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus cornix",
+    "common name": "Hooded Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558094057/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "51.6055940997",
+    "longitude": "82.3356306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558089635/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.3578613277",
+    "longitude": "-3.8008768245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aphelocoma wollweberi",
+    "common name": "Mexican Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558091156/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.8727783333",
+    "longitude": "-108.2183783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558091098/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.20668438",
+    "longitude": "-0.8073092716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558090945/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.2065893207",
+    "longitude": "-0.8070864156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aphelocoma californica",
+    "common name": "California Scrub-Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558090433/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "45.6793203475",
+    "longitude": "-121.8680271774",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558089896/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.3383977",
+    "longitude": "9.6825337997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus albus",
+    "common name": "Pied Crow",
+    "observation photo url": "https://static.inaturalist.org/photos/558087163/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-1.9440727",
+    "longitude": "30.0618851",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558088790/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "52.0975886999",
+    "longitude": "-1.8346526037",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558089077/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.2828483582",
+    "longitude": "6.8314824104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corvus brachyrhynchos",
+    "common name": "American Crow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558087719/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.4297316667",
+    "longitude": "-123.4020983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dendrocitta vagabunda",
+    "common name": "Rufous Treepie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558087381/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "18.5492583333",
+    "longitude": "73.7838966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558087238/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "54.5527660747",
+    "longitude": "-113.3454641519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086738/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "54.5527660747",
+    "longitude": "-113.3454641519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nucifraga caryocatactes",
+    "common name": "Northern Nutcracker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086242/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "45.1316402511",
+    "longitude": "5.8923851024",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558084981/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.8760621835",
+    "longitude": "20.6059098244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aphelocoma californica",
+    "common name": "California Scrub-Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558084920/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.9710366667",
+    "longitude": "-117.0491028333",
+    "quality_grade": "research"
+  }
+]

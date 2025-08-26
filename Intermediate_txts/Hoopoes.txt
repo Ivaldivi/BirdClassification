@@ -1,0 +1,1685 @@
+[
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558179503/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.7822462581",
+    "longitude": "-3.1104115345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155617/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.3589015",
+    "longitude": "10.7399473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153554/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.811270078",
+    "longitude": "4.4444763847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152870/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.8244683933",
+    "longitude": "-4.0240437537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140823/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.962465992",
+    "longitude": "9.5202278319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/558115368/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.3879833333",
+    "longitude": "3.1600111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/558106961/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.0982695",
+    "longitude": "-8.6756616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558098528/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "27.7699083333",
+    "longitude": "-15.5422216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/558088896/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "48.4304885926",
+    "longitude": "2.6784307978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/558088869/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "48.4304885926",
+    "longitude": "2.6784307978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558044324/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.1324111667",
+    "longitude": "8.8766366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025909/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.2627393715",
+    "longitude": "35.3333945548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa marginata",
+    "common name": "Madagascar Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558033887/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-22.5304577472",
+    "longitude": "45.2730739428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558023164/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "39.4778493",
+    "longitude": "-0.3718324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/558021143/square.jpg",
+    "date": "2023-02-09",
+    "latitude": "43.6108535",
+    "longitude": "3.8761323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/558011617/square.jpg",
+    "date": "2022-04-29",
+    "latitude": "43.5141873626",
+    "longitude": "7.0525373891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987276/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.0706488005",
+    "longitude": "-3.6134756729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557984198/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.9270328243",
+    "longitude": "120.1944497305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557981161/square.jpg",
+    "date": "2022-01-01",
+    "latitude": "25.0190288374",
+    "longitude": "121.9214458294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557968723/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "35.3058124608",
+    "longitude": "-0.093991825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557937963/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "42.5065959926",
+    "longitude": "2.7910836443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557941811/square.jpg",
+    "date": "2020-09-06",
+    "latitude": "51.3359896274",
+    "longitude": "15.0635910919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557938123/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.5189561344",
+    "longitude": "8.9645618071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557932860/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.436675",
+    "longitude": "17.386305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557928578/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.2490833846",
+    "longitude": "25.9960866827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557913740/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "27.4006944444",
+    "longitude": "89.6585166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557911233/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.8911353963",
+    "longitude": "14.9329448864",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557889544/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "48.77514075",
+    "longitude": "44.58949175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557889487/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "48.7741873",
+    "longitude": "44.58772433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862401/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "40.9835367226",
+    "longitude": "28.7823916898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557771162/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "36.9341883333",
+    "longitude": "127.0332195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557723728/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "43.8766497306",
+    "longitude": "10.243363624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557702836/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "36.4398820646",
+    "longitude": "-6.2116921766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557655007/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "41.3335971031",
+    "longitude": "-8.5443666949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557647642/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "27.91843",
+    "longitude": "34.32986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557625773/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "36.886900231",
+    "longitude": "-3.6144361046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557623055/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.5474333333",
+    "longitude": "2.1189861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557603965/square.jpg",
+    "date": "2019-02-18",
+    "latitude": "20.6821703",
+    "longitude": "81.1692374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557573990/square.jpg",
+    "date": "2019-01-13",
+    "latitude": "20.7709926",
+    "longitude": "79.6102029",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557559635/square.jpg",
+    "date": "2019-01-20",
+    "latitude": "21.3550114",
+    "longitude": "81.7284553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557556478/square.jpg",
+    "date": "2019-01-01",
+    "latitude": "21.4511246",
+    "longitude": "82.5185837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557553876/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.7232133333",
+    "longitude": "17.8631083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557546396/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.1499499578",
+    "longitude": "76.9583865275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557532072/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.516748589",
+    "longitude": "13.2219962776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557523450/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.9026993",
+    "longitude": "-0.955204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557521056/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "31.1231692828",
+    "longitude": "-7.9210851502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557519519/square.jpg",
+    "date": "2024-10-20",
+    "latitude": "27.9654050742",
+    "longitude": "34.3617766723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557490827/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.9400312999",
+    "longitude": "25.544604499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557486004/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.1790682993",
+    "longitude": "-7.4490405992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557473717/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "39.4958611511",
+    "longitude": "2.7453596145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557473314/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "47.5450869117",
+    "longitude": "0.8350276574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557470699/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.0095026367",
+    "longitude": "-7.184638828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557464906/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.3193780009",
+    "longitude": "14.0872217485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557457281/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.8862302826",
+    "longitude": "29.7419394568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557454276/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.2356379",
+    "longitude": "3.1199542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557435735/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.9889626217",
+    "longitude": "43.5762423392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557440239/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.802663429",
+    "longitude": "44.969217293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433359/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "29.9206976767",
+    "longitude": "75.6526088342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557432959/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "18.233355",
+    "longitude": "109.64592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557427429/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "25.3862750027",
+    "longitude": "56.3181531373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557257134/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557237991/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "47.1228979607",
+    "longitude": "19.2514545749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557102591/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "39.400136134",
+    "longitude": "-9.1988820129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557105389/square.jpg",
+    "date": "2024-02-13",
+    "latitude": "38.6602520394",
+    "longitude": "-9.088358022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557071324/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.4944487015",
+    "longitude": "0.7393522306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557042374/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.1792153822",
+    "longitude": "13.1185226887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557039550/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.876375",
+    "longitude": "18.6066016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557036359/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.1149273",
+    "longitude": "34.8242585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557031075/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-2.4181632384",
+    "longitude": "34.8600797722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/557015338/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "34.7543624",
+    "longitude": "97.6188773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557019472/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "39.5360775068",
+    "longitude": "3.3306949222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557016672/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "27.8503519154",
+    "longitude": "34.3155032622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556995379/square.jpg",
+    "date": "2017-08-02",
+    "latitude": "38.6419485153",
+    "longitude": "-9.233455252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556973648/square.jpg",
+    "date": "2024-04-10",
+    "latitude": "30.4356360557",
+    "longitude": "77.6772314696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556985301/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "52.4969466667",
+    "longitude": "12.785155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556945269/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.7633893424",
+    "longitude": "-8.6598229619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556946278/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.4010521",
+    "longitude": "-3.7052288997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556941100/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "42.5690041029",
+    "longitude": "27.7669864203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556936593/square.jpg",
+    "date": "2024-02-16",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556927496/square.jpg",
+    "date": "2024-02-13",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556927026/square.jpg",
+    "date": "2024-02-13",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556923097/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-25.7691740544",
+    "longitude": "28.2269346238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556918086/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.8101292285",
+    "longitude": "116.2347980592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556917942/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.9347833333",
+    "longitude": "-6.8290466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556904936/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.5119274584",
+    "longitude": "-4.0853088694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556870138/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "46.8237648827",
+    "longitude": "12.8138659894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556869005/square.jpg",
+    "date": "2024-02-28",
+    "latitude": "22.090888961",
+    "longitude": "88.7613659352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556706812/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.0878903121",
+    "longitude": "-8.1227499218",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556678215/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.5343549997",
+    "longitude": "-3.6763509997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556640322/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.5343966667",
+    "longitude": "-3.67647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556631701/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "12.5657344",
+    "longitude": "99.796477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556574540/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "36.8293429853",
+    "longitude": "31.5178584019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556607968/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.7064042174",
+    "longitude": "6.9755140319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556588475/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.7779520798",
+    "longitude": "8.1773766875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556558181/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.8418879895",
+    "longitude": "10.9983229637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556545887/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.1165982997",
+    "longitude": "2.2881436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops epops",
+    "common name": "Eurasian hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556534697/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "41.9728510997",
+    "longitude": "2.8168381997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556493080/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.3682326807",
+    "longitude": "-3.7033987418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556444476/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.2483633333",
+    "longitude": "10.527195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556427951/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "44.5001415058",
+    "longitude": "7.7012560858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops epops",
+    "common name": "Eurasian hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556403184/square.jpg",
+    "date": "2020-01-26",
+    "latitude": "40.3267193493",
+    "longitude": "-3.9078704238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556379278/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "28.3599966624",
+    "longitude": "77.0465270345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556377257/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "55.1441818865",
+    "longitude": "39.1325975766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556369818/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.0284667917",
+    "longitude": "116.3818446487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556367931/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.2313840263",
+    "longitude": "11.5281437177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556365946/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.9709318997",
+    "longitude": "23.7358226997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556363542/square.jpg",
+    "date": "2024-01-28",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556357595/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.5863651103",
+    "longitude": "3.5017635608",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556343634/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.3715002938",
+    "longitude": "40.1951198055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556341661/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "47.3706343445",
+    "longitude": "40.1937660781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556340445/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "47.3572070612",
+    "longitude": "40.2001220022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556341015/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "44.6242416667",
+    "longitude": "33.5136416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556339912/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.4334861111",
+    "longitude": "6.1492638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556335758/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "27.0907361111",
+    "longitude": "33.8511972222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556321776/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.4565659414",
+    "longitude": "-3.7706387043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556298399/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.0303800671",
+    "longitude": "116.3836252951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556286271/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "36.4805876312",
+    "longitude": "115.4349632458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556285863/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "13.1027078628",
+    "longitude": "100.9300308225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556267414/square.jpg",
+    "date": "2024-04-21",
+    "latitude": "40.0143266764",
+    "longitude": "116.3874829892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556259516/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-19.1804883333",
+    "longitude": "15.916265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556227325/square.jpg",
+    "date": "2025-01-11",
+    "latitude": "12.0734366",
+    "longitude": "76.1510815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556341445/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "28.0585783037",
+    "longitude": "34.2167066486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556121876/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "37.5488442513",
+    "longitude": "43.9618698213",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556126760/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "42.3494158984",
+    "longitude": "-3.6700226739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556112634/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "39.6791528761",
+    "longitude": "3.0319655253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556094061/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "48.2946749135",
+    "longitude": "17.237049723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556077977/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "54.2326416916",
+    "longitude": "39.028704688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556069190/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "30.033825",
+    "longitude": "31.4088883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556068918/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "30.0339861667",
+    "longitude": "31.4086966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556068762/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "30.0338333333",
+    "longitude": "31.408895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556068706/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "30.0339861667",
+    "longitude": "31.4087033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556067355/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "30.0342111667",
+    "longitude": "31.4085033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556067342/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "30.0342111667",
+    "longitude": "31.4085033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556067294/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "30.0342471667",
+    "longitude": "31.408495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556067169/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "30.0373278333",
+    "longitude": "31.410005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556066680/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "30.0348",
+    "longitude": "31.4083966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556066752/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "30.0347971667",
+    "longitude": "31.4083966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556064597/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "45.476375",
+    "longitude": "10.7956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556059500/square.jpg",
+    "date": "2020-06-04",
+    "latitude": "47.3067229169",
+    "longitude": "0.2748282328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556027166/square.jpg",
+    "date": "2024-01-22",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556022807/square.jpg",
+    "date": "2018-01-16",
+    "latitude": "21.1610957",
+    "longitude": "81.7864088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556017336/square.jpg",
+    "date": "2018-01-02",
+    "latitude": "21.055945",
+    "longitude": "81.9690886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556008729/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "35.9244947646",
+    "longitude": "120.1920312939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556012206/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.5171093976",
+    "longitude": "13.2222775742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555987241/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "38.2565416667",
+    "longitude": "34.30033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555956407/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "48.1220388333",
+    "longitude": "16.25045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555950113/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "40.7251577443",
+    "longitude": "-3.8173171878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555950043/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "40.7251577443",
+    "longitude": "-3.8173171878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555947338/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "43.8865010889",
+    "longitude": "10.4605675939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/555945306/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.915025",
+    "longitude": "4.8788633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555944609/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "35.6860616814",
+    "longitude": "127.9255878154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555942380/square.jpg",
+    "date": "2024-01-16",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555940903/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "54.2330690943",
+    "longitude": "39.0300612152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555938820/square.jpg",
+    "date": "2017-11-06",
+    "latitude": "20.2717885",
+    "longitude": "79.3875706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555934176/square.jpg",
+    "date": "2017-11-14",
+    "latitude": "21.2344613",
+    "longitude": "81.7387855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555925830/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "45.8630366667",
+    "longitude": "12.036485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555915303/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.2437465",
+    "longitude": "-0.3237987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555914555/square.jpg",
+    "date": "2024-09-30",
+    "latitude": "40.3290829975",
+    "longitude": "-3.8011220022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555903645/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "41.76918145",
+    "longitude": "12.9066868499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555895980/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "50.0877211482",
+    "longitude": "88.4319856081",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555878681/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-33.4813465271",
+    "longitude": "18.3495714787",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555877181/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "44.7311099699",
+    "longitude": "0.4074007114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555876813/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "38.051748",
+    "longitude": "43.0471519722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555869143/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.0523065577",
+    "longitude": "22.3757876242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555719702/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "35.3058124608",
+    "longitude": "-0.093991825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555719595/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "35.3058124608",
+    "longitude": "-0.093991825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555699835/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "35.9010251283",
+    "longitude": "128.8539946452",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555671409/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.9735768885",
+    "longitude": "8.7521918491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/555664214/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "40.8781849321",
+    "longitude": "14.9358839169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555661661/square.jpg",
+    "date": "2021-05-08",
+    "latitude": "48.4871788022",
+    "longitude": "-0.7031074761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/555655618/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "39.566325",
+    "longitude": "2.6452883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555641469/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "42.5137425236",
+    "longitude": "78.1523411236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555644533/square.jpg",
+    "date": "2019-09-04",
+    "latitude": "39.9267583333",
+    "longitude": "116.3885716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555638594/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-20.2083295943",
+    "longitude": "28.5774069879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555633023/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "44.8963527",
+    "longitude": "13.8033947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555622840/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "46.3438683805",
+    "longitude": "-1.4389109239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555618610/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "46.5706166667",
+    "longitude": "-0.0224666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555608572/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "43.7772272592",
+    "longitude": "11.1178546026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555605426/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "55.3670310575",
+    "longitude": "24.969308932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555597347/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "35.9258285508",
+    "longitude": "120.1940712045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555599675/square.jpg",
+    "date": "2017-10-29",
+    "latitude": "21.3479616",
+    "longitude": "81.7075878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops africana",
+    "common name": "African Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555583047/square.jpg",
+    "date": "2024-01-13",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555580828/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.6523978991",
+    "longitude": "-0.2572872117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/555570489/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "24.4953126997",
+    "longitude": "54.3602692997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555519155/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "28.4612625",
+    "longitude": "76.8903594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/555973161/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "47.310105",
+    "longitude": "10.8397033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Upupa epops",
+    "common name": "Common Hoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555506040/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-22.5783527778",
+    "longitude": "17.2272944444",
+    "quality_grade": "research"
+  }
+]

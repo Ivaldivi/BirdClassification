@@ -1,0 +1,1388 @@
+[
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558175164/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-21.933198",
+    "longitude": "-46.7131079722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558163752/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "10.7751599997",
+    "longitude": "-85.3468299997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis squamata",
+    "common name": "Scaled Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/558161395/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-29.8833896",
+    "longitude": "-50.9842405997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis erythroptera",
+    "common name": "Rufous-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558144826/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-4.335467751",
+    "longitude": "-79.8642784788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558143997/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.581053215",
+    "longitude": "-58.4094320026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/558125585/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.634205",
+    "longitude": "-45.5935316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558098994/square.jpg",
+    "date": "2025-04-29",
+    "latitude": "-19.2216612281",
+    "longitude": "-42.4867661297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558091725/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "10.3323278",
+    "longitude": "-84.6050261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086347/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-19.5014883333",
+    "longitude": "-42.554575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipile jacutinga",
+    "common name": "Black-fronted Piping-Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558073132/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.7776498757",
+    "longitude": "-54.5378539912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipile jacutinga",
+    "common name": "Black-fronted Piping-Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558072415/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.603521272",
+    "longitude": "-54.5085142422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis squamata",
+    "common name": "Scaled Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/558064401/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-29.5726016997",
+    "longitude": "-51.0802357997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipile cujubi",
+    "common name": "Red-throated Piping-Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558044669/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-16.5458693561",
+    "longitude": "-56.7237781812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis araucuan",
+    "common name": "East Brazilian Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/558045728/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-16.807849903",
+    "longitude": "-39.1465880005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis columbiana",
+    "common name": "Colombian Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558034854/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "6.2079107081",
+    "longitude": "-75.5525450036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558012690/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-20.7650350181",
+    "longitude": "-42.8599643335",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558011650/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "26.2065033333",
+    "longitude": "-98.2661883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope bridgesi",
+    "common name": "Yungas Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/557984531/square.jpg",
+    "date": "2022-07-30",
+    "latitude": "-24.8952709054",
+    "longitude": "-64.6122620427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557973141/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "10.35268633",
+    "longitude": "-84.33977716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax fasciolata",
+    "common name": "Bare-faced Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557959252/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.5967107981",
+    "longitude": "-56.6345029571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/557857812/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "26.1872890544",
+    "longitude": "-97.6630230613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope montagnii",
+    "common name": "Andean Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/557850684/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "4.6082948",
+    "longitude": "-74.0583564",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipile cumanensis",
+    "common name": "Blue-throated Piping-Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/557842450/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-12.5697977",
+    "longitude": "-70.1002122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mitu tuberosum",
+    "common name": "Razor-billed Curassow",
+    "observation photo url": "https://static.inaturalist.org/photos/557842073/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-12.5685283",
+    "longitude": "-70.0994541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis poliocephala",
+    "common name": "West Mexican Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557842436/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "20.4653179",
+    "longitude": "-105.2920021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax fasciolata",
+    "common name": "Bare-faced Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557814702/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-6.0529743323",
+    "longitude": "-50.0207445041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis wagleri",
+    "common name": "Rufous-bellied Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557811039/square.jpg",
+    "date": "2018-03-25",
+    "latitude": "23.243098531",
+    "longitude": "-106.359949352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis ruficeps",
+    "common name": "Chestnut-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557810223/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-6.0714448216",
+    "longitude": "-50.0629758403",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope pileata",
+    "common name": "White-crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557807283/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-6.1096726063",
+    "longitude": "-50.1530862165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipile grayi",
+    "common name": "White-throated Piping-Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557796432/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-17.2880311937",
+    "longitude": "-56.664522995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis wagleri",
+    "common name": "Rufous-bellied Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557794189/square.jpg",
+    "date": "2018-03-15",
+    "latitude": "23.2459807871",
+    "longitude": "-106.3575492579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557763824/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-19.9354913784",
+    "longitude": "-40.5995045477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557783778/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "26.2387276603",
+    "longitude": "-97.3594899518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis canicollis",
+    "common name": "Chaco Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557763810/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-18.6845310169",
+    "longitude": "-56.591857748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chamaepetes unicolor",
+    "common name": "Black Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557746900/square.jpg",
+    "date": "2024-08-25",
+    "latitude": "10.2222375",
+    "longitude": "-84.1673281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipile grayi",
+    "common name": "White-throated Piping-Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557744446/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-16.6787915476",
+    "longitude": "-56.9411169641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557745092/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-23.5778028428",
+    "longitude": "-47.5877473131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope superciliaris",
+    "common name": "Rusty-margined Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557741123/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-19.8635286174",
+    "longitude": "-44.0095394331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipile jacutinga",
+    "common name": "Black-fronted Piping-Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557716205/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-25.7949318905",
+    "longitude": "-54.4334161965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope montagnii",
+    "common name": "Andean Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557709899/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "4.6086981248",
+    "longitude": "-74.0588658449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chamaepetes unicolor",
+    "common name": "Black Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557700844/square.jpg",
+    "date": "2024-08-02",
+    "latitude": "10.2205437715",
+    "longitude": "-84.2942837799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/557669084/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "8.474549677",
+    "longitude": "-83.5916960866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557670022/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "18.1420045089",
+    "longitude": "-94.1470079989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/557657131/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "8.7005538105",
+    "longitude": "-83.1999828338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/557648152/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "8.700541724",
+    "longitude": "-83.2188151548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://static.inaturalist.org/photos/557642483/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "8.6821027685",
+    "longitude": "-83.3561878732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557616626/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "10.4611593322",
+    "longitude": "-84.6921764306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557616633/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "10.5070394825",
+    "longitude": "-84.6646346272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557616549/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "10.5037641934",
+    "longitude": "-84.6890063262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557514770/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "10.4379349828",
+    "longitude": "-84.7101671621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557514752/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "10.4379349828",
+    "longitude": "-84.7101671621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557514615/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "10.4046973025",
+    "longitude": "-84.6669831225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis columbiana",
+    "common name": "Colombian Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/557505283/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "6.8380511132",
+    "longitude": "-73.0495685712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/557488867/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-22.1683629",
+    "longitude": "-44.3952834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope montagnii",
+    "common name": "Andean Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557381636/square.jpg",
+    "date": "2024-12-14",
+    "latitude": "5.0246781",
+    "longitude": "-75.3695416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis erythroptera",
+    "common name": "Rufous-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/557349173/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.2901319614",
+    "longitude": "-80.2463821603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis erythroptera",
+    "common name": "Rufous-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/557349036/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.2333573715",
+    "longitude": "-80.3291555515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557376730/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "10.5991822787",
+    "longitude": "-84.7262029421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557354041/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "17.5370448403",
+    "longitude": "-91.9435008344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557357930/square.jpg",
+    "date": "2023-11-19",
+    "latitude": "25.606875143",
+    "longitude": "-100.2638771147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557343978/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "26.2289869217",
+    "longitude": "-97.3471200094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis erythroptera",
+    "common name": "Rufous-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/557327001/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.2391132152",
+    "longitude": "-80.388043376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557316387/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "21.0644064145",
+    "longitude": "-89.5372354366",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557312470/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "18.8576562",
+    "longitude": "-89.5184604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis erythroptera",
+    "common name": "Rufous-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557304518/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-0.2556342721",
+    "longitude": "-80.0469069147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis canicollis",
+    "common name": "Chaco Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557283086/square.jpg",
+    "date": "2023-06-12",
+    "latitude": "-15.591432191",
+    "longitude": "-56.140956059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis canicollis",
+    "common name": "Chaco Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557275203/square.jpg",
+    "date": "2023-06-11",
+    "latitude": "-15.591432191",
+    "longitude": "-56.140956059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope superciliaris",
+    "common name": "Rusty-margined Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557273616/square.jpg",
+    "date": "2025-03-19",
+    "latitude": "-9.5309886233",
+    "longitude": "-35.8484512019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557598305/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "10.5262797251",
+    "longitude": "-84.6043330696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope superciliaris",
+    "common name": "Rusty-margined Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557201172/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-22.9676510253",
+    "longitude": "-43.2243733361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557184035/square.jpg",
+    "date": "2021-03-28",
+    "latitude": "22.2889589",
+    "longitude": "-97.8837254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557126935/square.jpg",
+    "date": "2024-10-07",
+    "latitude": "-18.923595972",
+    "longitude": "-40.7482082109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://static.inaturalist.org/photos/557054207/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "9.2782590306",
+    "longitude": "-83.8082233764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557021309/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "26.1840203494",
+    "longitude": "-98.3810467714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557020073/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "26.1840718876",
+    "longitude": "-98.3810159948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax alector",
+    "common name": "Black Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556982303/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "2.2670780217",
+    "longitude": "-73.6038773267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556973025/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "10.3091166667",
+    "longitude": "-84.8187633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/556817283/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "10.5043133333",
+    "longitude": "-84.7037966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556782634/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.26557603",
+    "longitude": "-58.5192230361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556739174/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "25.6672971159",
+    "longitude": "-100.2518799528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556719166/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-22.1273678841",
+    "longitude": "-42.6190781593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis squamata",
+    "common name": "Scaled Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556671578/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-27.5268591",
+    "longitude": "-48.4272174",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556671578/square.jpg",
+    "date": "2014-11-08",
+    "latitude": "-28.3184911",
+    "longitude": "-51.1780773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis squamata",
+    "common name": "Scaled Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556671578/square.jpg",
+    "date": "2015-09-04",
+    "latitude": "-27.5998141",
+    "longitude": "-48.5113754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis canicollis",
+    "common name": "Chaco Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556671578/square.jpg",
+    "date": "2016-05-17",
+    "latitude": "-20.085995",
+    "longitude": "-56.6150677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope pileata",
+    "common name": "White-crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556591305/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-4.5191619942",
+    "longitude": "-56.2926406234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis guttata",
+    "common name": "Speckled Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556565797/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-9.9565564",
+    "longitude": "-67.8649033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis poliocephala",
+    "common name": "West Mexican Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556567739/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "19.116875",
+    "longitude": "-100.115128",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis guttata",
+    "common name": "Speckled Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556561108/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-15.1967449102",
+    "longitude": "-64.7585319355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax fasciolata",
+    "common name": "Bare-faced Curassow",
+    "observation photo url": "https://static.inaturalist.org/photos/556541362/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-20.4201198413",
+    "longitude": "-54.6803337673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax fasciolata",
+    "common name": "Bare-faced Curassow",
+    "observation photo url": "https://static.inaturalist.org/photos/556541172/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-20.5277386575",
+    "longitude": "-54.7071489822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556545074/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "10.4333260319",
+    "longitude": "-83.5705959382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://static.inaturalist.org/photos/556540046/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "9.2932071131",
+    "longitude": "-83.8774831343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556532664/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "20.3649342774",
+    "longitude": "-87.3345108703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556491517/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.3240638833",
+    "longitude": "-58.6824102329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax fasciolata",
+    "common name": "Bare-faced Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556472251/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-18.8806355367",
+    "longitude": "-48.3564221203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax fasciolata",
+    "common name": "Bare-faced Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556472256/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-18.8595994569",
+    "longitude": "-48.3987180048",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis poliocephala",
+    "common name": "West Mexican Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556472015/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "18.9659694444",
+    "longitude": "-99.2539",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/556446863/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "9.2374805109",
+    "longitude": "-83.7731568795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556407939/square.jpg",
+    "date": "2011-04-14",
+    "latitude": "26.0822067089",
+    "longitude": "-98.1357456214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/556404774/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "8.6102538233",
+    "longitude": "-80.1098089283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556405593/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "25.8942194444",
+    "longitude": "-97.4838694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope ochrogaster",
+    "common name": "Chestnut-bellied Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556315430/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-16.6725590668",
+    "longitude": "-56.9333917551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556311746/square.jpg",
+    "date": "2025-02-20",
+    "latitude": "20.7333333",
+    "longitude": "-104.8275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556311733/square.jpg",
+    "date": "2025-02-20",
+    "latitude": "20.7333333",
+    "longitude": "-104.8275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis poliocephala",
+    "common name": "West Mexican Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556303517/square.jpg",
+    "date": "2025-02-18",
+    "latitude": "20.4653179",
+    "longitude": "-105.2920021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis poliocephala",
+    "common name": "West Mexican Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556273050/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "19.2306216667",
+    "longitude": "-104.7281716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/556270411/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "18.7377547",
+    "longitude": "-88.3436858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556265989/square.jpg",
+    "date": "2002-11-30",
+    "latitude": "-23.5042944114",
+    "longitude": "-46.1912196502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis poliocephala",
+    "common name": "West Mexican Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556265989/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "16.9482000643",
+    "longitude": "-96.6813694094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis poliocephala",
+    "common name": "West Mexican Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556265989/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "16.9482510197",
+    "longitude": "-96.681369373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope superciliaris",
+    "common name": "Rusty-margined Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556217743/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-19.9263148208",
+    "longitude": "-43.8765137592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556209635/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "10.4043168762",
+    "longitude": "-84.6687890985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis guttata",
+    "common name": "Speckled Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/556137666/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-2.9920516667",
+    "longitude": "-78.4304583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556124900/square.jpg",
+    "date": "2023-04-02",
+    "latitude": "10.3020649495",
+    "longitude": "-84.7788466114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope superciliaris",
+    "common name": "Rusty-margined Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/556102988/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-25.6848859143",
+    "longitude": "-54.4457833063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/556090325/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-25.2175227419",
+    "longitude": "-48.0404917896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556078399/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "20.2145234613",
+    "longitude": "-87.4307719682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556063359/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "10.5037146194",
+    "longitude": "-84.6774452974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556063349/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "10.4378543",
+    "longitude": "-84.7102475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556063247/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "10.4378543",
+    "longitude": "-84.7102475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556059298/square.jpg",
+    "date": "2024-12-13",
+    "latitude": "10.5037672088",
+    "longitude": "-84.6889433267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/556057399/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "8.6102261317",
+    "longitude": "-80.1104926867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/556057300/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "8.6101916667",
+    "longitude": "-80.1104888883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis squamata",
+    "common name": "Scaled Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/556038689/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-28.6974828974",
+    "longitude": "-49.4056067616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556016600/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "8.8035633333",
+    "longitude": "-82.95617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax fasciolata",
+    "common name": "Bare-faced Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555997196/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-16.5908255713",
+    "longitude": "-56.7079029902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555980003/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-23.0461737",
+    "longitude": "-46.7441053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555966371/square.jpg",
+    "date": "2023-08-30",
+    "latitude": "8.5830480095",
+    "longitude": "-83.535724078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555966340/square.jpg",
+    "date": "2023-08-30",
+    "latitude": "8.5252754367",
+    "longitude": "-83.5704660602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipile jacutinga",
+    "common name": "Black-fronted Piping-Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555973940/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-25.9463385551",
+    "longitude": "-54.0070110395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope ochrogaster",
+    "common name": "Chestnut-bellied Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555958457/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-16.6761130843",
+    "longitude": "-56.8179025974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis squamata",
+    "common name": "Scaled Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/555945066/square.jpg",
+    "date": "2012-08-22",
+    "latitude": "-25.4901006751",
+    "longitude": "-48.8288896732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555927296/square.jpg",
+    "date": "2023-08-30",
+    "latitude": "8.4688770613",
+    "longitude": "-83.5908989312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555864103/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "18.4193987156",
+    "longitude": "-95.106809486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555844127/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "10.359698",
+    "longitude": "-84.790779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555812889/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "10.30452",
+    "longitude": "-84.8083716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis leucogastra",
+    "common name": "White-bellied Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555792116/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "14.9674252655",
+    "longitude": "-92.2422265027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chamaepetes goudotii",
+    "common name": "Sickle-winged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555778615/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-0.675575",
+    "longitude": "-77.601265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/555774076/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "10.4541149346",
+    "longitude": "-84.7399126996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/555774071/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "10.4674143396",
+    "longitude": "-84.6710073904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/555771313/square.jpg",
+    "date": "2013-04-09",
+    "latitude": "26.22953",
+    "longitude": "-97.34741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crax rubra",
+    "common name": "Great Curassow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555765736/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "10.467055837",
+    "longitude": "-84.0004970348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/555759645/square.jpg",
+    "date": "2013-04-07",
+    "latitude": "26.0822483333",
+    "longitude": "-98.1355866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555752296/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "8.7069241",
+    "longitude": "-83.6458539997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555750889/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-34.4886280106",
+    "longitude": "-58.4501046782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://static.inaturalist.org/photos/555728103/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-22.1501305",
+    "longitude": "-42.3904083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis canicollis",
+    "common name": "Chaco Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/555717755/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.250157434",
+    "longitude": "-57.0231350139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope obscura",
+    "common name": "Dusky-legged Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555709329/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-21.933292",
+    "longitude": "-46.713106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Penelope purpurascens",
+    "common name": "Crested Guan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555688203/square.jpg",
+    "date": "2022-08-09",
+    "latitude": "10.4494076897",
+    "longitude": "-84.73196875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis cinereiceps",
+    "common name": "Gray-headed Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555640005/square.jpg",
+    "date": "2022-08-10",
+    "latitude": "10.4699805556",
+    "longitude": "-84.6500388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555654374/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "20.7181462264",
+    "longitude": "-87.0031270537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis vetula",
+    "common name": "Plain Chachalaca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555654341/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "20.7328596219",
+    "longitude": "-87.0196065458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortalis columbiana",
+    "common name": "Colombian Chachalaca",
+    "observation photo url": "https://static.inaturalist.org/photos/555644735/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "6.1621499174",
+    "longitude": "-75.333520174",
+    "quality_grade": "research"
+  }
+]

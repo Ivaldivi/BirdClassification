@@ -1,0 +1,1595 @@
+[
+  {
+    "species": "Procnias nudicollis",
+    "common name": "Bare-throated Bellbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558190323/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-23.2508208205",
+    "longitude": "-44.9986641479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141736/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.538547",
+    "longitude": "-58.443664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558138914/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.0043358703",
+    "longitude": "-78.7032106716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Procnias tricarunculatus",
+    "common name": "Three-wattled Bellbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557972886/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "10.3135463597",
+    "longitude": "-84.8718366068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557876814/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-41.8394646248",
+    "longitude": "-73.9382236957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557876813/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-41.8394854835",
+    "longitude": "-73.9382493886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lipaugus vociferans",
+    "common name": "Screaming Piha",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557794045/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-6.0758623386",
+    "longitude": "-50.0702667382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola jucunda",
+    "common name": "Orange-breasted Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/557791715/square.jpg",
+    "date": "2014-01-13",
+    "latitude": "-0.0133724127",
+    "longitude": "-78.7313771706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phibalura flavirostris",
+    "common name": "Swallow-tailed Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557786109/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-20.4462052123",
+    "longitude": "-41.0477428183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lipaugus lanioides",
+    "common name": "Cinnamon-vented Piha",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557759583/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-20.4533827534",
+    "longitude": "-41.1656477732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/557703057/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-13.0227176009",
+    "longitude": "-72.5720920021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557653306/square.jpg",
+    "date": "2020-12-08",
+    "latitude": "-0.0041210221",
+    "longitude": "-78.6761109133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/557620053/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-13.0776936245",
+    "longitude": "-72.4475588879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Querula purpurata",
+    "common name": "Purple-throated Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557594632/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "7.954624",
+    "longitude": "-76.593134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/557568723/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-13.1213857628",
+    "longitude": "-72.5341123253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/557565606/square.jpg",
+    "date": "2023-09-14",
+    "latitude": "-13.152913944",
+    "longitude": "-71.4652155824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557522580/square.jpg",
+    "date": "2017-11-17",
+    "latitude": "-33.5705814",
+    "longitude": "-70.6353166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557344491/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-4.1879716818",
+    "longitude": "-78.9232075704",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cephalopterus ornatus",
+    "common name": "Amazonian Umbrellabird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557344196/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-4.1148473058",
+    "longitude": "-78.9663721249",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557321345/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.954395",
+    "longitude": "-60.395813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ampelion rubrocristatus",
+    "common name": "Red-crested Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557288836/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "7.2390875784",
+    "longitude": "-72.9034665116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557281410/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.9462",
+    "longitude": "-60.386473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/557265234/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-11.027368821",
+    "longitude": "-75.3877695236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557254034/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.0949415222",
+    "longitude": "-61.2652531264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557253942/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.0949701593",
+    "longitude": "-61.2652272135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma raimondii",
+    "common name": "Peruvian Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557202559/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-4.592917801",
+    "longitude": "-81.2199037441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola riefferii",
+    "common name": "Green-and-black Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/557156656/square.jpg",
+    "date": "2014-01-11",
+    "latitude": "-0.0141267114",
+    "longitude": "-78.6822399199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola riefferii",
+    "common name": "Green-and-black Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/557156640/square.jpg",
+    "date": "2014-01-11",
+    "latitude": "-0.0151674085",
+    "longitude": "-78.6810168325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola riefferii",
+    "common name": "Green-and-black Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/557156628/square.jpg",
+    "date": "2014-01-11",
+    "latitude": "-0.0145773225",
+    "longitude": "-78.6837097704",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556995063/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.8927069403",
+    "longitude": "-68.8862020545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Snowornis cryptolophus",
+    "common name": "Olivaceous Piha",
+    "observation photo url": "https://static.inaturalist.org/photos/556973972/square.jpg",
+    "date": "2014-01-10",
+    "latitude": "0.0192556643",
+    "longitude": "-78.7104665994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Snowornis cryptolophus",
+    "common name": "Olivaceous Piha",
+    "observation photo url": "https://static.inaturalist.org/photos/556973944/square.jpg",
+    "date": "2014-01-09",
+    "latitude": "0.019792106",
+    "longitude": "-78.7126123666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556911389/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-0.1599620622",
+    "longitude": "-78.7510310078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556882471/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.5888703285",
+    "longitude": "-70.3951460291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556800553/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-31.7082099412",
+    "longitude": "-65.0227261707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556783005/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.4209733819",
+    "longitude": "-70.6148292439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556781232/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.4221266195",
+    "longitude": "-70.6148831341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/556685444/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.3696022",
+    "longitude": "-58.5796075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyroderus scutatus",
+    "common name": "Red-ruffed Fruitcrow",
+    "observation photo url": "https://static.inaturalist.org/photos/556728925/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-24.0082272332",
+    "longitude": "-47.2601315752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556700719/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-36.7993423512",
+    "longitude": "-73.0406482145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gymnoderus foetidus",
+    "common name": "Bare-necked Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556689447/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "1.0083040877",
+    "longitude": "-76.2856695957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gymnoderus foetidus",
+    "common name": "Bare-necked Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556688624/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "1.0086473407",
+    "longitude": "-76.2857586359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Procnias nudicollis",
+    "common name": "Bare-throated Bellbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556688624/square.jpg",
+    "date": "2019-01-12",
+    "latitude": "-29.3152102567",
+    "longitude": "-50.3760665601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Carpornis cucullata",
+    "common name": "Hooded Berryeater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556688624/square.jpg",
+    "date": "2016-08-28",
+    "latitude": "-30.0579005348",
+    "longitude": "-51.6883344146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/556623849/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.5331852076",
+    "longitude": "-70.6699754298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/556608077/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-34.4126415386",
+    "longitude": "-58.9161429182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/556470729/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-30.2007612947",
+    "longitude": "-57.5069400434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556432927/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.5976983645",
+    "longitude": "-58.3622768149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556292978/square.jpg",
+    "date": "2025-01-22",
+    "latitude": "-33.4549175",
+    "longitude": "-70.5982915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556292259/square.jpg",
+    "date": "2025-01-23",
+    "latitude": "-33.4549175",
+    "longitude": "-70.5982915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/556276341/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "0.1624407754",
+    "longitude": "-78.7719262501",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyroderus scutatus",
+    "common name": "Red-ruffed Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556192142/square.jpg",
+    "date": "2017-12-12",
+    "latitude": "-23.1569874708",
+    "longitude": "-44.3163036255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Procnias nudicollis",
+    "common name": "Bare-throated Bellbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556131169/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.5018185589",
+    "longitude": "-43.1516638562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Carpornis melanocephala",
+    "common name": "Black-headed Berryeater",
+    "observation photo url": "https://static.inaturalist.org/photos/556092362/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-25.2028231589",
+    "longitude": "-48.1124800979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cephalopterus ornatus",
+    "common name": "Amazonian Umbrellabird",
+    "observation photo url": "https://static.inaturalist.org/photos/555902710/square.jpg",
+    "date": "2025-02-07",
+    "latitude": "-0.5356914",
+    "longitude": "-77.4268522",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/555740981/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-30.2442761373",
+    "longitude": "-57.4515169621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555695986/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-37.2801130532",
+    "longitude": "-64.5928857487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xipholena punicea",
+    "common name": "Pompadour Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555642647/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-13.8013204092",
+    "longitude": "-56.683357805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga maynana",
+    "common name": "Plum-throated Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555617537/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-2.8732742702",
+    "longitude": "-77.724541651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555599402/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-33.1225190804",
+    "longitude": "-59.2865282272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola jucunda",
+    "common name": "Orange-breasted Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555585014/square.jpg",
+    "date": "2019-10-03",
+    "latitude": "0.0239638889",
+    "longitude": "-78.7127138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555550144/square.jpg",
+    "date": "2019-08-17",
+    "latitude": "-13.1739289787",
+    "longitude": "-72.4857542104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555518139/square.jpg",
+    "date": "2017-09-27",
+    "latitude": "-33.4680777783",
+    "longitude": "-70.5960861117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555401822/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.5022617065",
+    "longitude": "-58.7987014359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola jucunda",
+    "common name": "Orange-breasted Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555357457/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.1598700369",
+    "longitude": "-78.8533272912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cephalopterus penduliger",
+    "common name": "Long-wattled Umbrellabird",
+    "observation photo url": "https://static.inaturalist.org/photos/555153456/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-3.7952711781",
+    "longitude": "-79.6134610819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555096973/square.jpg",
+    "date": "2017-08-31",
+    "latitude": "-33.430369445",
+    "longitude": "-70.6235972217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555096958/square.jpg",
+    "date": "2017-08-31",
+    "latitude": "-33.430369445",
+    "longitude": "-70.6235972217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Querula purpurata",
+    "common name": "Purple-throated Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554984626/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga cayana",
+    "common name": "Spangled Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554964743/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyroderus scutatus",
+    "common name": "Red-ruffed Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554959365/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "4.7029116942",
+    "longitude": "-75.5364833797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554933168/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.7130091358",
+    "longitude": "-77.5005863742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/554923285/square.jpg",
+    "date": "2023-05-28",
+    "latitude": "5.5620214885",
+    "longitude": "-75.8042513514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554868403/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-28.982033511",
+    "longitude": "-60.2747719735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554838634/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-28.9732982032",
+    "longitude": "-60.2701683757",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola arcuata",
+    "common name": "Barred Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554833579/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-0.1114455345",
+    "longitude": "-78.5850749449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ampelion rubrocristatus",
+    "common name": "Red-crested Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554810747/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-0.0891210612",
+    "longitude": "-78.5996960847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554622178/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-31.4543707244",
+    "longitude": "-61.1659836972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554529537/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "0.076413362",
+    "longitude": "-78.7238277338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554529517/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "0.1100780824",
+    "longitude": "-78.6306525647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/554594865/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-51.0618788771",
+    "longitude": "-72.9663067971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga cayana",
+    "common name": "Spangled Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554520780/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-0.493377",
+    "longitude": "-76.374038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga maynana",
+    "common name": "Plum-throated Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554516514/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-0.4983333333",
+    "longitude": "-76.3708333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cephalopterus penduliger",
+    "common name": "Long-wattled Umbrellabird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554515977/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-3.7670950068",
+    "longitude": "-79.7489034627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cephalopterus penduliger",
+    "common name": "Long-wattled Umbrellabird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554497077/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "0.1297526404",
+    "longitude": "-78.6474099286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cephalopterus penduliger",
+    "common name": "Long-wattled Umbrellabird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554497061/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "0.134863248",
+    "longitude": "-78.70560998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554469985/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "0.14645431",
+    "longitude": "-78.7072278263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554453666/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-32.8763575137",
+    "longitude": "-71.2181126699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554445320/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-34.5009085489",
+    "longitude": "-56.8964251131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554425642/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "0.1927170462",
+    "longitude": "-78.7292260455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554425536/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "0.0011330153",
+    "longitude": "-78.6548330013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyroderus scutatus",
+    "common name": "Red-ruffed Fruitcrow",
+    "observation photo url": "https://static.inaturalist.org/photos/554415742/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.753337772",
+    "longitude": "-45.3344986215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554377491/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-30.2049580632",
+    "longitude": "-61.1575086698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554078333/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-32.8352666667",
+    "longitude": "-60.6854466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/554063275/square.jpg",
+    "date": "2024-10-19",
+    "latitude": "-38.9120349377",
+    "longitude": "-73.2586575943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/554063274/square.jpg",
+    "date": "2023-08-06",
+    "latitude": "-38.9120626896",
+    "longitude": "-73.2586575524",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola arcuata",
+    "common name": "Barred Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554028055/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-16.3417533333",
+    "longitude": "-67.787255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola intermedia",
+    "common name": "Band-tailed Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554027679/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-16.3418566667",
+    "longitude": "-67.78743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola intermedia",
+    "common name": "Band-tailed Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554025839/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-16.345975",
+    "longitude": "-67.7982933333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554025022/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-31.762309",
+    "longitude": "-60.823463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola intermedia",
+    "common name": "Band-tailed Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554024131/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-16.33818",
+    "longitude": "-67.8050066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola arcuata",
+    "common name": "Barred Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554023771/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-16.33785",
+    "longitude": "-67.8044016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ampelion rubrocristatus",
+    "common name": "Red-crested Cotinga",
+    "observation photo url": "https://static.inaturalist.org/photos/554005152/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "-0.3224580612",
+    "longitude": "-78.1461880782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554004732/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "-36.5274480556",
+    "longitude": "-72.959475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola riefferii",
+    "common name": "Green-and-black Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553982887/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "5.8143505186",
+    "longitude": "-73.4849383606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola riefferii",
+    "common name": "Green-and-black Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553982492/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "5.814260868",
+    "longitude": "-73.4848651814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola intermedia",
+    "common name": "Band-tailed Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553958540/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-16.30880181",
+    "longitude": "-67.75051012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola arcuata",
+    "common name": "Barred Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553954342/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-16.32892071",
+    "longitude": "-67.80883713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553945822/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.4417648369",
+    "longitude": "-60.794366448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553921760/square.jpg",
+    "date": "2017-07-07",
+    "latitude": "-33.4681166667",
+    "longitude": "-70.5958138883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553921720/square.jpg",
+    "date": "2017-06-08",
+    "latitude": "-33.468130555",
+    "longitude": "-70.5957777783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553816254/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-33.4209330633",
+    "longitude": "-70.6333333034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553750617/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-33.6241283333",
+    "longitude": "-71.626595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyroderus scutatus",
+    "common name": "Red-ruffed Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553684618/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-23.340200349",
+    "longitude": "-44.8368220108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Querula purpurata",
+    "common name": "Purple-throated Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553506389/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-13.02701",
+    "longitude": "-71.4741433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola rupicola",
+    "common name": "Guianan Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553500294/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "4.85388865",
+    "longitude": "-59.2227726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola rupicola",
+    "common name": "Guianan Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553499810/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "4.85388865",
+    "longitude": "-59.2227726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Carpodectes nitidus",
+    "common name": "Snowy Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553484178/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "9.2277415618",
+    "longitude": "-82.1264354503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola rupicola",
+    "common name": "Guianan Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/553477186/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "1.1967216667",
+    "longitude": "-70.238655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola rupicola",
+    "common name": "Guianan Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/553476498/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "1.1967216667",
+    "longitude": "-70.238655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/553457845/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "-34.8528179618",
+    "longitude": "-58.0550958383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553328156/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-31.6085416667",
+    "longitude": "-60.7244611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553257831/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-31.6372419574",
+    "longitude": "-60.6740511019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lipaugus vociferans",
+    "common name": "Screaming Piha",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553257831/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-6.0641031018",
+    "longitude": "-50.0604382646",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Procnias nudicollis",
+    "common name": "Bare-throated Bellbird",
+    "observation photo url": "https://static.inaturalist.org/photos/553162147/square.jpg",
+    "date": "2021-08-22",
+    "latitude": "-23.6241631311",
+    "longitude": "-46.090739622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola frontalis",
+    "common name": "Scarlet-breasted Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552962593/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-3.8538166667",
+    "longitude": "-78.53939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola frontalis",
+    "common name": "Scarlet-breasted Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552962566/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-3.853815",
+    "longitude": "-78.539315",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Procnias nudicollis",
+    "common name": "Bare-throated Bellbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552962566/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-25.1801291428",
+    "longitude": "-48.0171195236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Carpornis cucullata",
+    "common name": "Hooded Berryeater",
+    "observation photo url": "https://static.inaturalist.org/photos/552942863/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-22.5766597929",
+    "longitude": "-43.3579766515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyroderus scutatus",
+    "common name": "Red-ruffed Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552925842/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "5.8827394681",
+    "longitude": "-76.1985925958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola jucunda",
+    "common name": "Orange-breasted Fruiteater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552925333/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "5.8827394681",
+    "longitude": "-76.1985925958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552918960/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-36.608643994",
+    "longitude": "-72.9634532332",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Procnias averano",
+    "common name": "Bearded Bellbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552918960/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-5.1117458015",
+    "longitude": "-49.3367490917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga cayana",
+    "common name": "Spangled Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552882017/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "1.1430365462",
+    "longitude": "-76.3491544395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga cayana",
+    "common name": "Spangled Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552867992/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "1.1432874327",
+    "longitude": "-76.3494347714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Carpodectes antoniae",
+    "common name": "Yellow-billed Cotinga",
+    "observation photo url": "https://static.inaturalist.org/photos/552862410/square.jpg",
+    "date": "2024-12-18",
+    "latitude": "8.6055500854",
+    "longitude": "-83.446598366",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga ridgwayi",
+    "common name": "Turquoise Cotinga",
+    "observation photo url": "https://static.inaturalist.org/photos/552862385/square.jpg",
+    "date": "2024-12-18",
+    "latitude": "8.6841879171",
+    "longitude": "-83.4778430377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Carpodectes antoniae",
+    "common name": "Yellow-billed Cotinga",
+    "observation photo url": "https://static.inaturalist.org/photos/552862387/square.jpg",
+    "date": "2024-12-18",
+    "latitude": "8.7373965854",
+    "longitude": "-83.5625064513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Procnias nudicollis",
+    "common name": "Bare-throated Bellbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552838060/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-24.0693939575",
+    "longitude": "-46.9994860999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lipaugus vociferans",
+    "common name": "Screaming Piha",
+    "observation photo url": "https://static.inaturalist.org/photos/552813754/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-19.074689635",
+    "longitude": "-39.8902061733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ampelion rubrocristatus",
+    "common name": "Red-crested Cotinga",
+    "observation photo url": "https://static.inaturalist.org/photos/552783685/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "7.4320710851",
+    "longitude": "-72.9336753488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552747006/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "0.1888431302",
+    "longitude": "-78.6534554016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lipaugus vociferans",
+    "common name": "Screaming Piha",
+    "observation photo url": "https://static.inaturalist.org/photos/552742533/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.0761231783",
+    "longitude": "-39.8897310167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552730060/square.jpg",
+    "date": "2017-03-20",
+    "latitude": "-33.5301",
+    "longitude": "-70.658205555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552729971/square.jpg",
+    "date": "2017-02-24",
+    "latitude": "-33.5300916667",
+    "longitude": "-70.6584472217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola jucunda",
+    "common name": "Orange-breasted Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552654348/square.jpg",
+    "date": "2025-02-17",
+    "latitude": "0.1607630931",
+    "longitude": "-78.8543106999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola jucunda",
+    "common name": "Orange-breasted Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552648402/square.jpg",
+    "date": "2025-02-18",
+    "latitude": "0.1628718948",
+    "longitude": "-78.8537455701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola riefferii",
+    "common name": "Green-and-black Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552643883/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "-0.0125633814",
+    "longitude": "-78.6850505391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gymnoderus foetidus",
+    "common name": "Bare-necked Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552629500/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-3.389038055",
+    "longitude": "-60.1831116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Procnias nudicollis",
+    "common name": "Bare-throated Bellbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552629500/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-25.1457838434",
+    "longitude": "-48.0829588884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gymnoderus foetidus",
+    "common name": "Bare-necked Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552622661/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "-3.0562308333",
+    "longitude": "-64.847916945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/552596711/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "0.1554019993",
+    "longitude": "-78.6116968647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga cayana",
+    "common name": "Spangled Cotinga",
+    "observation photo url": "https://static.inaturalist.org/photos/552567390/square.jpg",
+    "date": "2025-01-31",
+    "latitude": "-0.154380576",
+    "longitude": "-75.9610722804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola rupicola",
+    "common name": "Guianan Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/552508460/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "4.5516647682",
+    "longitude": "-52.1752521023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola rupicola",
+    "common name": "Guianan Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/552508318/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "4.5523572691",
+    "longitude": "-52.1752041578",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xipholena atropurpurea",
+    "common name": "White-winged Cotinga",
+    "observation photo url": "https://static.inaturalist.org/photos/552499471/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-18.8460082446",
+    "longitude": "-40.1987406559",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola chlorolepidota",
+    "common name": "Fiery-throated Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552479775/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-4.3523717096",
+    "longitude": "-78.7364943228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552440290/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-31.6083528696",
+    "longitude": "-60.7246893482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cephalopterus ornatus",
+    "common name": "Amazonian Umbrellabird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552380855/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-9.5795927942",
+    "longitude": "-55.9227022168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perissocephalus tricolor",
+    "common name": "Capuchinbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552302009/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "4.3289147179",
+    "longitude": "-52.3404955875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lipaugus ater",
+    "common name": "Black-and-gold Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552301533/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-22.3736733308",
+    "longitude": "-43.0262506517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rara",
+    "common name": "Rufous-tailed Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552210793/square.jpg",
+    "date": "2016-12-07",
+    "latitude": "-33.4681466667",
+    "longitude": "-70.59608",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rupicola peruvianus",
+    "common name": "Andean Cock-of-the-rock",
+    "observation photo url": "https://static.inaturalist.org/photos/552121918/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-12.9792302786",
+    "longitude": "-72.4603193978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cotinga cayana",
+    "common name": "Spangled Cotinga",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552117144/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-9.598707",
+    "longitude": "-55.936734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Querula purpurata",
+    "common name": "Purple-throated Fruitcrow",
+    "observation photo url": "https://static.inaturalist.org/photos/552104973/square.jpg",
+    "date": "2008-12-27",
+    "latitude": "6.0488326136",
+    "longitude": "-74.2619564812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola jucunda",
+    "common name": "Orange-breasted Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552109682/square.jpg",
+    "date": "2022-08-15",
+    "latitude": "5.8523125",
+    "longitude": "-76.1825625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ampelioides tschudii",
+    "common name": "Scaled Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552093325/square.jpg",
+    "date": "2022-08-10",
+    "latitude": "5.2431349166",
+    "longitude": "-76.0962463605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola jucunda",
+    "common name": "Orange-breasted Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552093328/square.jpg",
+    "date": "2022-08-10",
+    "latitude": "5.2431349166",
+    "longitude": "-76.0962463605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola riefferii",
+    "common name": "Green-and-black Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/552092495/square.jpg",
+    "date": "2022-08-10",
+    "latitude": "5.2515755497",
+    "longitude": "-76.110542547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552089976/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-24.4267668111",
+    "longitude": "-60.345245339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Querula purpurata",
+    "common name": "Purple-throated Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552053675/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "8.3928286818",
+    "longitude": "-77.8703132447",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Querula purpurata",
+    "common name": "Purple-throated Fruitcrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552046600/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "0.144498",
+    "longitude": "-79.142166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://static.inaturalist.org/photos/552018087/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-33.5007178391",
+    "longitude": "-58.8045576587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyroderus scutatus",
+    "common name": "Red-ruffed Fruitcrow",
+    "observation photo url": "https://static.inaturalist.org/photos/551939392/square.jpg",
+    "date": "2022-08-09",
+    "latitude": "4.7317683986",
+    "longitude": "-75.5736830904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pipreola riefferii",
+    "common name": "Green-and-black Fruiteater",
+    "observation photo url": "https://static.inaturalist.org/photos/551933544/square.jpg",
+    "date": "2022-08-07",
+    "latitude": "4.6063438",
+    "longitude": "-74.3047537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551911878/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-35.6712460708",
+    "longitude": "-59.617532206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phytotoma rutila",
+    "common name": "White-tipped Plantcutter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551911521/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-35.6712521287",
+    "longitude": "-59.6171852987",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,1487 @@
+[
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193387/square.jpg",
+    "date": "2013-08-26",
+    "latitude": "54.9704712133",
+    "longitude": "-1.3644548133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558190679/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.497795",
+    "longitude": "6.3604633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558180586/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.1689060411",
+    "longitude": "-86.6036336842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle amazona",
+    "common name": "Amazon Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558164864/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-27.4829506549",
+    "longitude": "-55.7899628819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157228/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.6856977011",
+    "longitude": "5.9222235453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558163340/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.6468852091",
+    "longitude": "-63.3741715838",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152328/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.3699552076",
+    "longitude": "30.6445969053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle americana",
+    "common name": "Green Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558143409/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.538547",
+    "longitude": "-58.443664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558136605/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.5245169245",
+    "longitude": "-82.968416065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558133988/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.9234675792",
+    "longitude": "153.0080171653",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558133728/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.2612555556",
+    "longitude": "-2.73235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558132665/square.jpg",
+    "date": "2019-08-10",
+    "latitude": "-28.1606443928",
+    "longitude": "153.1749172272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus sordidus",
+    "common name": "Torresian Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130594/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.9318510704",
+    "longitude": "153.0162472795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558127097/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.7275859",
+    "longitude": "1.2327940997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558121353/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "48.3494143203",
+    "longitude": "-123.5726430723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558121110/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "48.3494143203",
+    "longitude": "-123.5726430723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558123366/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.346608337",
+    "longitude": "12.3680816108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558122616/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "37.9501716878",
+    "longitude": "-84.5018346235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceryle rudis",
+    "common name": "Pied Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558114170/square.jpg",
+    "date": "2008-03-31",
+    "latitude": "8.2451182545",
+    "longitude": "34.5895979526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558116659/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.143069002",
+    "longitude": "-1.7342577813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558107920/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "29.2381084596",
+    "longitude": "-90.0025504455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon smyrnensis",
+    "common name": "White-throated Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558102314/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-2.0463977",
+    "longitude": "106.140451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon senegalensis",
+    "common name": "Woodland Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558100475/square.jpg",
+    "date": "2003-09-17",
+    "latitude": "1.0871426",
+    "longitude": "34.1780966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558098086/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.7566283333",
+    "longitude": "-123.2473133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558094382/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "22.3343500163",
+    "longitude": "114.1395038424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558094044/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "22.3344081119",
+    "longitude": "114.1396625531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558089587/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "22.3341867971",
+    "longitude": "114.1397907038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558092240/square.jpg",
+    "date": "2023-07-19",
+    "latitude": "40.6714017101",
+    "longitude": "-98.8844053075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceryle rudis",
+    "common name": "Pied Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558085790/square.jpg",
+    "date": "2024-05-10",
+    "latitude": "16.5344958251",
+    "longitude": "80.6388199695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086175/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.800074",
+    "longitude": "-122.3280818889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis taprobana",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063747/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.359",
+    "longitude": "81.002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558051892/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.2950521724",
+    "longitude": "-76.5376829548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythornis cristatus",
+    "common name": "Malachite Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558052975/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-2.5582239273",
+    "longitude": "30.0715803802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle torquata",
+    "common name": "Ringed Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558047538/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "7.1543844228",
+    "longitude": "-73.8725144223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon smyrnensis",
+    "common name": "White-throated Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558026885/square.jpg",
+    "date": "2025-04-30",
+    "latitude": "36.5204858656",
+    "longitude": "44.053094474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon smyrnensis",
+    "common name": "White-throated Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558026890/square.jpg",
+    "date": "2025-04-30",
+    "latitude": "36.5563115531",
+    "longitude": "44.0429556461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558038912/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.9295649648",
+    "longitude": "-74.9042466688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558038470/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-34.8869497984",
+    "longitude": "138.71884477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025569/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.0086048687",
+    "longitude": "34.9743627351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle amazona",
+    "common name": "Amazon Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032332/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.2631155506",
+    "longitude": "-56.903168065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon smyrnensis",
+    "common name": "White-throated Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558033221/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "7.7783789702",
+    "longitude": "98.308259063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle amazona",
+    "common name": "Amazon Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558023188/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-17.2797434459",
+    "longitude": "-56.7010446262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle torquata",
+    "common name": "Ringed Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558022701/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-17.2694862485",
+    "longitude": "-56.7042338334",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle americana",
+    "common name": "Green Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558021758/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.365691585",
+    "longitude": "-56.7747576652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558027793/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-32.9684060859",
+    "longitude": "151.698837547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon senegalensis",
+    "common name": "Woodland Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025980/square.jpg",
+    "date": "2014-01-12",
+    "latitude": "-22.7256469",
+    "longitude": "28.7750053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon smyrnensis",
+    "common name": "White-throated Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558015274/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "11.2875782",
+    "longitude": "75.9186346997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558013994/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "11.2873284997",
+    "longitude": "75.9185973997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558013779/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "11.2873947",
+    "longitude": "75.9184645997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558012109/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.8676235",
+    "longitude": "-113.9986563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceryle rudis",
+    "common name": "Pied Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558011199/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-2.5582239273",
+    "longitude": "30.0715803802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558000434/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.015939",
+    "longitude": "152.942328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557996241/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.3489334634",
+    "longitude": "-1.7913328427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557992509/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-27.447725",
+    "longitude": "153.0009555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557991107/square.jpg",
+    "date": "2019-12-18",
+    "latitude": "17.900921528",
+    "longitude": "-62.8394231698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557990869/square.jpg",
+    "date": "2020-03-27",
+    "latitude": "17.902658097",
+    "longitude": "-62.8347461039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557990470/square.jpg",
+    "date": "2022-03-11",
+    "latitude": "17.9011116659",
+    "longitude": "-62.8367694647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557990464/square.jpg",
+    "date": "2021-11-14",
+    "latitude": "17.9013399499",
+    "longitude": "-62.8518911201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557990446/square.jpg",
+    "date": "2020-10-21",
+    "latitude": "17.9011116659",
+    "longitude": "-62.8367694647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557990447/square.jpg",
+    "date": "2011-12-02",
+    "latitude": "17.9105327739",
+    "longitude": "-62.7987366402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987946/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.1163870631",
+    "longitude": "-85.1143220812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon albiventris",
+    "common name": "Brown-hooded Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557987772/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-29.4203333333",
+    "longitude": "31.2527116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557981280/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.5587055337",
+    "longitude": "-97.2875662823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557982984/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "47.825946015",
+    "longitude": "0.1982507855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/558023442/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.2754347",
+    "longitude": "5.7795947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557975164/square.jpg",
+    "date": "2021-11-20",
+    "latitude": "25.0194179496",
+    "longitude": "121.9243930668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557976768/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.4216118611",
+    "longitude": "-2.7534645796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557974333/square.jpg",
+    "date": "2024-08-14",
+    "latitude": "47.4599568397",
+    "longitude": "40.4335777089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557971739/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.1080064618",
+    "longitude": "-7.6617922768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus chloris",
+    "common name": "Collared Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557971747/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "1.3421583333",
+    "longitude": "103.83115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythornis cristatus",
+    "common name": "Malachite Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557970467/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-24.2250427191",
+    "longitude": "30.5859095283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle maxima maxima",
+    "common name": "Common Giant Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557969969/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-24.2258189073",
+    "longitude": "30.5856788821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus sanctus",
+    "common name": "Sacred Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963860/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon albiventris",
+    "common name": "Brown-hooded Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557964909/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-24.0961650928",
+    "longitude": "31.3176328694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus sanctus",
+    "common name": "Sacred Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557962739/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle americana",
+    "common name": "Green Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557956704/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-34.5385471279",
+    "longitude": "-58.4436640888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceryle rudis",
+    "common name": "Pied Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557950918/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.7813638889",
+    "longitude": "32.7342944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus macleayii",
+    "common name": "Forest Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557951196/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.2579066131",
+    "longitude": "153.0396623244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon smyrnensis",
+    "common name": "White-throated Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557943721/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "6.3593574534",
+    "longitude": "81.4929742196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pelargopsis capensis",
+    "common name": "Stork-billed Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557943471/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "9.4980621652",
+    "longitude": "76.3388483226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon smyrnensis",
+    "common name": "White-throated Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557940143/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "3.0970164273",
+    "longitude": "101.5134956549",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle torquata",
+    "common name": "Ringed Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557937964/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "11.0184337514",
+    "longitude": "-84.7191810918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557936804/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-27.5232805556",
+    "longitude": "153.07285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557936522/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.3986987457",
+    "longitude": "-82.8348237296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557936160/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.3955816052",
+    "longitude": "-82.8378920645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557931837/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "56.4222739822",
+    "longitude": "10.2967587779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557931867/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.1574656485",
+    "longitude": "11.4990310664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557931241/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.3781216667",
+    "longitude": "152.9973616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557928964/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-43.1429686169",
+    "longitude": "147.9653534185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557926981/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "54.6937722495",
+    "longitude": "20.5425667763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557922402/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.934998548",
+    "longitude": "117.9337679827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557922401/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.9353340679",
+    "longitude": "117.9372896918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceyx azureus",
+    "common name": "Azure Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557919113/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-21.1682273",
+    "longitude": "148.5050063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557917883/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-26.2537366667",
+    "longitude": "152.9993133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pelargopsis capensis",
+    "common name": "Stork-billed Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557913019/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "12.4253451894",
+    "longitude": "76.6561346188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceryle rudis",
+    "common name": "Pied Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557912975/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "12.4253451894",
+    "longitude": "76.6561346188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557913901/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "47.0132342616",
+    "longitude": "15.4616017179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pelargopsis capensis",
+    "common name": "Stork-billed Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557912442/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "6.0",
+    "longitude": "100.9666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pelargopsis capensis",
+    "common name": "Stork-billed Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557912435/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "6.0",
+    "longitude": "100.9666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557911847/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.050978863",
+    "longitude": "22.3718436723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557906477/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.6001151068",
+    "longitude": "153.09492349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903408/square.jpg",
+    "date": "2018-11-21",
+    "latitude": "19.1863424606",
+    "longitude": "73.4147867909",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon smyrnensis",
+    "common name": "White-throated Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903352/square.jpg",
+    "date": "2015-02-01",
+    "latitude": "19.2178826319",
+    "longitude": "73.554544887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557901072/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "43.2830039115",
+    "longitude": "-79.8810747785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus chloris",
+    "common name": "Collared Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557898163/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "13.4872678176",
+    "longitude": "100.3381515294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo meninting",
+    "common name": "Blue-eared Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557897784/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "0.3640531094",
+    "longitude": "102.7228680253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus chloris",
+    "common name": "Collared Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557897079/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "13.4877526234",
+    "longitude": "100.3371138498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557893310/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.0008924939",
+    "longitude": "16.2741080672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557891346/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.767311769",
+    "longitude": "13.4921983257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557883850/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.4426970365",
+    "longitude": "150.9322650026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557875549/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "37.8307725383",
+    "longitude": "-122.5264022583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557721998/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-18.2023566421",
+    "longitude": "144.5718881905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557675655/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-18.1930050472",
+    "longitude": "144.5507756113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus macleayii",
+    "common name": "Forest Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557673341/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-18.2023988406",
+    "longitude": "144.5526584548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus sanctus",
+    "common name": "Sacred Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557869534/square.jpg",
+    "date": "2014-08-09",
+    "latitude": "-36.8658702",
+    "longitude": "174.7952582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557873423/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "31.4838333333",
+    "longitude": "130.7162633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557871062/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.9424987893",
+    "longitude": "150.8527183682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle torquata torquata",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557865826/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "7.0945282778",
+    "longitude": "-73.756005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557865556/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.9089984",
+    "longitude": "153.0075225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus chloris",
+    "common name": "Collared Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861401/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "13.4876652476",
+    "longitude": "100.3368925676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861288/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.5023940163",
+    "longitude": "-122.4960483193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557859420/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "53.7933566898",
+    "longitude": "82.3292833195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557858659/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "22.91008",
+    "longitude": "120.5404133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557848230/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "49.2435429867",
+    "longitude": "-122.9347367267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus chloris",
+    "common name": "Collared Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557855491/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "4.3119556373",
+    "longitude": "117.9702834785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle amazona",
+    "common name": "Amazon Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557852960/square.jpg",
+    "date": "2024-05-10",
+    "latitude": "-27.2834232128",
+    "longitude": "-55.4576469585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557850097/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.9417078053",
+    "longitude": "150.8534236936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo leachii",
+    "common name": "Blue-winged Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557850097/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-25.7066107451",
+    "longitude": "115.9855526912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceyx erithaca",
+    "common name": "Black-backed Dwarf Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557848207/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "11.8152560419",
+    "longitude": "107.7819527953",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557846079/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-35.341625",
+    "longitude": "149.281005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557845656/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-35.341555",
+    "longitude": "149.2810216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557844680/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.942188146",
+    "longitude": "150.8530260993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557843643/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.833975",
+    "longitude": "-93.242592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557842446/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-38.8330069288",
+    "longitude": "143.5125973552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557837099/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.8954783333",
+    "longitude": "145.3502366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557835015/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "54.0114581",
+    "longitude": "-132.1471978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557833272/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "61.0774443465",
+    "longitude": "-149.8256451068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557832856/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "41.313302",
+    "longitude": "-81.589207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830563/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.3746461",
+    "longitude": "-75.5014924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle americana",
+    "common name": "Green Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557831538/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "25.6772279583",
+    "longitude": "-100.2329331636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557831253/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.9450315096",
+    "longitude": "-83.6718330128",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557829631/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "47.7551001305",
+    "longitude": "-122.0860950606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557824993/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.453705",
+    "longitude": "-89.1074305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557800242/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "35.9488101314",
+    "longitude": "-83.6976236027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557811532/square.jpg",
+    "date": "2019-06-17",
+    "latitude": "-28.172070024",
+    "longitude": "153.1680007205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557810527/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "26.1352482557",
+    "longitude": "119.3242136516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557807692/square.jpg",
+    "date": "2019-01-20",
+    "latitude": "-28.1192760455",
+    "longitude": "153.1088634136",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557806192/square.jpg",
+    "date": "2019-02-01",
+    "latitude": "-28.0983688969",
+    "longitude": "153.0263123786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pelargopsis capensis",
+    "common name": "Stork-billed Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557802152/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "5.8659065461",
+    "longitude": "117.9514528645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557797424/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "42.8525756724",
+    "longitude": "-78.855670111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557797148/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "42.8503112833",
+    "longitude": "-78.8579227643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557797225/square.jpg",
+    "date": "2018-12-20",
+    "latitude": "-28.1907965321",
+    "longitude": "153.132230456",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557794234/square.jpg",
+    "date": "2018-10-20",
+    "latitude": "-28.0632898319",
+    "longitude": "153.0611826269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Halcyon leucocephala",
+    "common name": "Gray-headed Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557784808/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-3.536822",
+    "longitude": "35.800685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todiramphus sanctus",
+    "common name": "Sacred Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557782920/square.jpg",
+    "date": "2018-12-15",
+    "latitude": "-28.1970817378",
+    "longitude": "153.0811646434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557776634/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.0995229707",
+    "longitude": "5.938856049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alcedo atthis",
+    "common name": "Common Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557776614/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.0995229707",
+    "longitude": "5.938856049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557774521/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "39.0699613514",
+    "longitude": "-76.7229935651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chloroceryle americana",
+    "common name": "Green Kingfisher",
+    "observation photo url": "https://static.inaturalist.org/photos/557767166/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "14.3326523048",
+    "longitude": "-89.5676950446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557766628/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.4056293994",
+    "longitude": "-123.3486242246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo novaeguineae",
+    "common name": "Laughing Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557764577/square.jpg",
+    "date": "2024-11-29",
+    "latitude": "-37.8759096432",
+    "longitude": "145.3162038814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dacelo leachii",
+    "common name": "Blue-winged Kookaburra",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557760652/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-12.7052216338",
+    "longitude": "131.6430562787",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557758264/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.6816979414",
+    "longitude": "-73.8967123455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557756319/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "47.2263334251",
+    "longitude": "-65.0831020342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megaceryle alcyon",
+    "common name": "Belted Kingfisher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557751115/square.jpg",
+    "date": "2025-05-11",
+    "latitude": "44.2551495365",
+    "longitude": "-79.1983689508",
+    "quality_grade": "research"
+  }
+]

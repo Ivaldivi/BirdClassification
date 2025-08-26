@@ -1,0 +1,1622 @@
+[
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987779/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-12.6471184997",
+    "longitude": "49.5237699997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557983196/square.jpg",
+    "date": "2023-12-20",
+    "latitude": "-27.1004998499",
+    "longitude": "152.5765687719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557811160/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-27.4729016362",
+    "longitude": "152.8745139587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557577518/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "19.5269247768",
+    "longitude": "78.9475344539",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/557441569/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "26.2204391691",
+    "longitude": "74.8606451167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556892159/square.jpg",
+    "date": "2013-05-10",
+    "latitude": "6.5023830714",
+    "longitude": "80.8934461189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556629988/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "12.5657345",
+    "longitude": "99.796477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556333020/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "20.2717885",
+    "longitude": "79.3875706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556283145/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.4500356334",
+    "longitude": "153.1964868127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555949331/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "18.3052558889",
+    "longitude": "74.6053085278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555508028/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-32.3178887995",
+    "longitude": "150.3371639336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554360444/square.jpg",
+    "date": "2019-08-31",
+    "latitude": "-8.6473382789",
+    "longitude": "115.11477626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554149121/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "13.6078262677",
+    "longitude": "99.8971829563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554095913/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-25.808617",
+    "longitude": "153.0524399",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553505026/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-36.699083983",
+    "longitude": "149.8655096406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552627346/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-25.2520409536",
+    "longitude": "152.789175409",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552618970/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-25.2647220943",
+    "longitude": "152.7201084767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552616428/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "21.4215341124",
+    "longitude": "70.7924793189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552155640/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "18.252747",
+    "longitude": "74.787823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552155637/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "18.25275",
+    "longitude": "74.787828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix sylvaticus",
+    "common name": "Common Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552155104/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "18.3362977008",
+    "longitude": "74.6075072825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552154773/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "18.252752",
+    "longitude": "74.787825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552152276/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "18.294967",
+    "longitude": "74.535343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552093101/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "14.5765237441",
+    "longitude": "75.5989534847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551739473/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-21.2745800799",
+    "longitude": "55.5081797764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/551706509/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-7.7520205153",
+    "longitude": "110.4914673418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/551355075/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "29.908628768",
+    "longitude": "71.3008537889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius varius",
+    "common name": "Australian Painted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/550932238/square.jpg",
+    "date": "2024-06-04",
+    "latitude": "-31.9430402244",
+    "longitude": "115.7720519297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/550932238/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "20.8104119533",
+    "longitude": "73.4381753951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550010551/square.jpg",
+    "date": "2021-09-01",
+    "latitude": "-32.939158945",
+    "longitude": "151.4326798709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550010213/square.jpg",
+    "date": "2021-10-24",
+    "latitude": "-32.939158945",
+    "longitude": "151.4326798709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549763358/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "24.1008446124",
+    "longitude": "120.6986385584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549727212/square.jpg",
+    "date": "2013-05-14",
+    "latitude": "6.1900658162",
+    "longitude": "81.2228053307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549729935/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "13.740833",
+    "longitude": "100.043889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549433252/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "28.338742434",
+    "longitude": "77.6192162186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548810584/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "6.4795695997",
+    "longitude": "80.9028768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/548659979/square.jpg",
+    "date": "2015-12-08",
+    "latitude": "-32.0670625",
+    "longitude": "151.6631875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548388529/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "21.2866975981",
+    "longitude": "76.5024890238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548022400/square.jpg",
+    "date": "2020-10-23",
+    "latitude": "19.3482403924",
+    "longitude": "73.6918805167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547630377/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "22.241425",
+    "longitude": "70.6977533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547454851/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-21.2540351231",
+    "longitude": "55.4936369963",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix tanki",
+    "common name": "Yellow-legged Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547434470/square.jpg",
+    "date": "2018-10-15",
+    "latitude": "16.7384403269",
+    "longitude": "98.892447783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547422353/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-4.8011838",
+    "longitude": "119.8234977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix sylvaticus",
+    "common name": "Common Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547415380/square.jpg",
+    "date": "2015-11-07",
+    "latitude": "13.4472901901",
+    "longitude": "99.6406661496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547090014/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-25.0138235306",
+    "longitude": "46.3082291299",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547089456/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-25.0138235306",
+    "longitude": "46.3082291299",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/546835484/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "20.0222279668",
+    "longitude": "73.6904093251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546342648/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-8.234594888",
+    "longitude": "114.5178423769",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545846954/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-32.8106633333",
+    "longitude": "116.87252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix sylvaticus",
+    "common name": "Common Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/545734860/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-0.0313660983",
+    "longitude": "30.0630672463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix sylvaticus",
+    "common name": "Common Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/545733767/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-0.0235196116",
+    "longitude": "30.0481002968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545696711/square.jpg",
+    "date": "2024-07-27",
+    "latitude": "-26.60515833",
+    "longitude": "152.6959414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/544990308/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-21.0728851179",
+    "longitude": "55.3863059513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/544900681/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-34.9934900001",
+    "longitude": "117.2275418044",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544893037/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "21.9770216667",
+    "longitude": "70.3234716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544382743/square.jpg",
+    "date": "2018-05-07",
+    "latitude": "6.4212370832",
+    "longitude": "81.2048113587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix maculosus",
+    "common name": "Red-backed Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/544365505/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-10.8370318997",
+    "longitude": "142.3834622997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543139753/square.jpg",
+    "date": "2024-04-22",
+    "latitude": "-32.2941063253",
+    "longitude": "116.4994334119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543139742/square.jpg",
+    "date": "2024-04-22",
+    "latitude": "-32.3778569041",
+    "longitude": "116.5584133206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543139737/square.jpg",
+    "date": "2024-04-22",
+    "latitude": "-32.2034726269",
+    "longitude": "116.5875253709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542741844/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "23.2828792193",
+    "longitude": "120.2878724731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542416061/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "6.469405",
+    "longitude": "80.889005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/542158788/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-31.9420969823",
+    "longitude": "115.7783447562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix sylvaticus lepurana",
+    "common name": "Kurrichane Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/541749070/square.jpg",
+    "date": "2016-03-05",
+    "latitude": "-27.45402",
+    "longitude": "22.31121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541707819/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-30.5445296997",
+    "longitude": "149.339987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541699604/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "-21.5149283333",
+    "longitude": "148.5914916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/541634316/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "19.9630487705",
+    "longitude": "73.7219286337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix sylvaticus lepurana",
+    "common name": "Kurrichane Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541361914/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-23.0200012908",
+    "longitude": "31.3791590987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541094112/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-34.8757070964",
+    "longitude": "138.7108405307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540125217/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-28.1535967838",
+    "longitude": "152.7938592452",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540090074/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-34.8752735876",
+    "longitude": "138.7115883239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540089930/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-34.8748384322",
+    "longitude": "138.7108026443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539644182/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-34.8751126133",
+    "longitude": "138.710892322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538992946/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-7.4448853703",
+    "longitude": "110.7566251728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538386397/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-34.7449254448",
+    "longitude": "142.3477792396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/538817454/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-6.7711033333",
+    "longitude": "110.862955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538000923/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "21.2426838888",
+    "longitude": "76.5857953834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/537948679/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "20.46624246",
+    "longitude": "77.90157629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537645838/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "28.338742434",
+    "longitude": "77.6192162186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537568222/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "14.7362116667",
+    "longitude": "79.1117861667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix velox",
+    "common name": "Little Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537224984/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-25.8643411538",
+    "longitude": "139.4664598117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/536987350/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "18.270867069",
+    "longitude": "74.7950999066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536899355/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-35.2341820396",
+    "longitude": "139.102675465",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536743904/square.jpg",
+    "date": "2023-06-27",
+    "latitude": "26.8113768435",
+    "longitude": "75.6992786005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/536577089/square.jpg",
+    "date": "2017-08-23",
+    "latitude": "10.5256971171",
+    "longitude": "76.2712274864",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536405163/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "23.1795258122",
+    "longitude": "80.0716521218",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535173758/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "24.3420796077",
+    "longitude": "120.7685569544",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534773859/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "23.1399114085",
+    "longitude": "80.0334960222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/534290857/square.jpg",
+    "date": "2017-07-23",
+    "latitude": "10.5276142652",
+    "longitude": "76.2701901421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/534023065/square.jpg",
+    "date": "2024-08-09",
+    "latitude": "12.0734366",
+    "longitude": "76.1510815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533403960/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "23.5097361111",
+    "longitude": "119.574275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533391097/square.jpg",
+    "date": "2024-06-09",
+    "latitude": "-34.8753697556",
+    "longitude": "138.7128897082",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533326226/square.jpg",
+    "date": "2024-08-27",
+    "latitude": "13.739722",
+    "longitude": "100.042222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532422648/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "24.7638494327",
+    "longitude": "97.5817144431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532242796/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-36.0312987404",
+    "longitude": "140.3302949613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531577368/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-38.4428159318",
+    "longitude": "144.0946842418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix tanki",
+    "common name": "Yellow-legged Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/531175644/square.jpg",
+    "date": "2002-01-18",
+    "latitude": "20.8129397",
+    "longitude": "76.4516089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix sylvaticus",
+    "common name": "Common Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/531175629/square.jpg",
+    "date": "2002-01-18",
+    "latitude": "20.8129397",
+    "longitude": "76.4516089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/531175578/square.jpg",
+    "date": "2002-01-18",
+    "latitude": "20.8129397",
+    "longitude": "76.4516089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/531130608/square.jpg",
+    "date": "2020-02-20",
+    "latitude": "23.675886",
+    "longitude": "120.632372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530474286/square.jpg",
+    "date": "2024-04-22",
+    "latitude": "-32.2365356765",
+    "longitude": "116.4610458918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix maculosus",
+    "common name": "Red-backed Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529661468/square.jpg",
+    "date": "2019-03-27",
+    "latitude": "-19.4969418127",
+    "longitude": "146.285213805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix tanki",
+    "common name": "Yellow-legged Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529695306/square.jpg",
+    "date": "2020-04-01",
+    "latitude": "13.7088848291",
+    "longitude": "100.8028432839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529695312/square.jpg",
+    "date": "2023-06-05",
+    "latitude": "13.7483754763",
+    "longitude": "100.7992996731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529352665/square.jpg",
+    "date": "2024-03-14",
+    "latitude": "-21.1348176124",
+    "longitude": "55.2864980989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529188051/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-21.2713504032",
+    "longitude": "47.4739161604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528584908/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "13.8223583333",
+    "longitude": "100.87905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528568262/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "12.39754",
+    "longitude": "77.7073816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528043891/square.jpg",
+    "date": "2020-07-14",
+    "latitude": "-28.24802",
+    "longitude": "151.64436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527495717/square.jpg",
+    "date": "2023-10-10",
+    "latitude": "-25.269598",
+    "longitude": "152.764556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix tanki",
+    "common name": "Yellow-legged Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526573101/square.jpg",
+    "date": "2024-10-13",
+    "latitude": "11.4102038",
+    "longitude": "76.6950324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526497437/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-31.8534672328",
+    "longitude": "115.7618270069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526158989/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-7.740708552",
+    "longitude": "110.4774956546",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525982976/square.jpg",
+    "date": "2025-03-07",
+    "latitude": "11.8800644",
+    "longitude": "108.4123498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524460916/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-22.5392763684",
+    "longitude": "45.3785647956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523982362/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "19.9161910669",
+    "longitude": "78.4410896525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/523955813/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "20.0222279668",
+    "longitude": "73.6904093251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix velox",
+    "common name": "Little Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523855911/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-22.7119033333",
+    "longitude": "131.2144466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/523844380/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "20.0222279668",
+    "longitude": "73.6904093251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523772533/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-33.8173847075",
+    "longitude": "151.2980844318",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540659823/square.jpg",
+    "date": "2025-06-11",
+    "latitude": "-25.8094126687",
+    "longitude": "153.0595692408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540659823/square.jpg",
+    "date": "2021-11-29",
+    "latitude": "-34.1429854019",
+    "longitude": "151.1134101529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522302201/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "6.4639098461",
+    "longitude": "80.8967145031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521752305/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-6.9277376182",
+    "longitude": "107.7672757647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/521762824/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "23.7727027778",
+    "longitude": "120.5503944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520882445/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "12.6831736186",
+    "longitude": "80.1512921165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520676068/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "13.1501427898",
+    "longitude": "80.26691281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix velox",
+    "common name": "Little Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520500517/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-24.1914869722",
+    "longitude": "140.5585609722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520249055/square.jpg",
+    "date": "2024-10-19",
+    "latitude": "-21.8509645",
+    "longitude": "46.8419219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519637841/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "2.5378026713",
+    "longitude": "102.1653743014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix nigricollis",
+    "common name": "Madagascar Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518681195/square.jpg",
+    "date": "2025-02-06",
+    "latitude": "-21.3263906633",
+    "longitude": "55.2403860836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/518050744/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "22.923771",
+    "longitude": "120.302992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix velox",
+    "common name": "Little Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517910884/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "-24.1952579722",
+    "longitude": "140.650395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517594271/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "28.338742434",
+    "longitude": "77.6192162186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortyxelos meiffrenii",
+    "common name": "Quail-plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517267944/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "14.663974703",
+    "longitude": "-15.8392029628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/517111847/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "27.9008204782",
+    "longitude": "75.8226139471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517033794/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "17.557375",
+    "longitude": "78.239042",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516491845/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "22.9231005312",
+    "longitude": "120.3076425622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516384782/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "23.3591908",
+    "longitude": "120.3934959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix pyrrhothorax",
+    "common name": "Red-chested Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515543544/square.jpg",
+    "date": "2017-12-08",
+    "latitude": "-20.8756398317",
+    "longitude": "147.8604677108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515213329/square.jpg",
+    "date": "2019-08-18",
+    "latitude": "24.7673666",
+    "longitude": "125.3246769",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515063158/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "12.8280083333",
+    "longitude": "99.6062883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515027120/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-33.2402884997",
+    "longitude": "121.4303507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/514551763/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-34.882285961",
+    "longitude": "138.722323738",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix velox",
+    "common name": "Little Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514415461/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-24.1348256734",
+    "longitude": "140.4957061261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514076937/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "17.5986081",
+    "longitude": "78.1227158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix tanki blanfordii",
+    "common name": "Yellow-legged Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/513852641/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "20.0904264825",
+    "longitude": "83.4585431591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/513308511/square.jpg",
+    "date": "2018-09-11",
+    "latitude": "-26.9718230898",
+    "longitude": "152.1724486448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius varius",
+    "common name": "Australian Painted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/512799241/square.jpg",
+    "date": "2022-03-25",
+    "latitude": "-38.2349626071",
+    "longitude": "142.0751446216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/512313573/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "26.651325503",
+    "longitude": "77.9535388201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512300966/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "16.8422018997",
+    "longitude": "74.6552211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512296063/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "-34.8774592175",
+    "longitude": "138.7091603861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512256205/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-26.1473207302",
+    "longitude": "152.5326991011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512238942/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-36.3667163949",
+    "longitude": "141.7851404698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix maculosus",
+    "common name": "Red-backed Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/511790481/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-13.9456859837",
+    "longitude": "143.199596107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511305300/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511305202/square.jpg",
+    "date": "2025-04-29",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511305115/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511305083/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511296732/square.jpg",
+    "date": "2025-04-24",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511296524/square.jpg",
+    "date": "2025-04-22",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511296029/square.jpg",
+    "date": "2025-04-15",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511295785/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511295577/square.jpg",
+    "date": "2025-04-09",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511295516/square.jpg",
+    "date": "2025-04-09",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511295476/square.jpg",
+    "date": "2025-04-09",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511295319/square.jpg",
+    "date": "2025-04-07",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator rostratus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/511295101/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "23.2060698768",
+    "longitude": "120.4613744049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix melanogaster",
+    "common name": "Black-breasted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510548593/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-25.8097343761",
+    "longitude": "153.0485403592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510020170/square.jpg",
+    "date": "2018-06-10",
+    "latitude": "-26.6381673901",
+    "longitude": "152.4186262331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix sylvaticus",
+    "common name": "Common Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509629120/square.jpg",
+    "date": "2024-02-01",
+    "latitude": "-9.759692587",
+    "longitude": "15.46664656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix ocellatus",
+    "common name": "Spotted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/509508070/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "15.8618399956",
+    "longitude": "120.6917764619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509055357/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "22.3505785997",
+    "longitude": "80.4297681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508199593/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "14.8813667979",
+    "longitude": "99.5006143302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508198842/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "14.8813667979",
+    "longitude": "99.5006143302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/508184709/square.jpg",
+    "date": "2021-11-06",
+    "latitude": "-38.1019483856",
+    "longitude": "145.3735087036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/508179996/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "18.5296102317",
+    "longitude": "73.8167362772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507893611/square.jpg",
+    "date": "2018-03-03",
+    "latitude": "-41.1506486794",
+    "longitude": "146.6065730432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix suscitator",
+    "common name": "Barred Buttonquail",
+    "observation photo url": "https://static.inaturalist.org/photos/507087541/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "-6.9204144997",
+    "longitude": "107.7960372997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Turnix varius",
+    "common name": "Painted Buttonquail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506042720/square.jpg",
+    "date": "2019-10-21",
+    "latitude": "-27.2999444",
+    "longitude": "153.0335611",
+    "quality_grade": "research"
+  }
+]

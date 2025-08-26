@@ -1,0 +1,1613 @@
+[
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558022405/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-17.2878670703",
+    "longitude": "-56.7132651841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/557834495/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-12.5679029",
+    "longitude": "-70.100957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557827182/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-15.19770936",
+    "longitude": "-64.76866875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamaralcyon tridactyla",
+    "common name": "Three-toed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557816846/square.jpg",
+    "date": "2025-03-30",
+    "latitude": "-22.1349317684",
+    "longitude": "-42.7090624376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula dea",
+    "common name": "Paradise Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557748689/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-4.5097435895",
+    "longitude": "-56.2940178694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557607656/square.jpg",
+    "date": "2024-12-09",
+    "latitude": "10.5038591349",
+    "longitude": "-84.6888829446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557516014/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.5016333333",
+    "longitude": "-43.90063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557405902/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-15.8498009133",
+    "longitude": "-48.9269486245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/557369957/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-11.0427028612",
+    "longitude": "-75.3729268536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/557362088/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-11.0442705388",
+    "longitude": "-75.3731987625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557283963/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-15.196805",
+    "longitude": "-64.7601816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556951887/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "17.2472527454",
+    "longitude": "-90.2926914718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula pastazae",
+    "common name": "Coppery-chested Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556793220/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-4.1758346126",
+    "longitude": "-78.9996730551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556661780/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-19.5766609285",
+    "longitude": "-57.029973698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/556653777/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-5.2249806654",
+    "longitude": "-75.4558508455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556646419/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "10.4825533333",
+    "longitude": "-84.6145783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/556474699/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-15.7465028611",
+    "longitude": "-47.8882865833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba lugubris",
+    "common name": "Brown Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/556442772/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-12.7288674717",
+    "longitude": "-60.1432730461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556187459/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-15.8725344471",
+    "longitude": "-52.2534983943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556187366/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-15.8725269492",
+    "longitude": "-52.253532816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula pastazae",
+    "common name": "Coppery-chested Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/556069785/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-2.895814047",
+    "longitude": "-78.4840213186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556131458/square.jpg",
+    "date": "2024-03-24",
+    "latitude": "-18.8741881248",
+    "longitude": "-48.2851930708",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/556077649/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.0563090919",
+    "longitude": "-40.1472205565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/556027706/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-15.7405004444",
+    "longitude": "-47.8851966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba lugubris",
+    "common name": "Brown Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/555858227/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "5.0236093",
+    "longitude": "-72.8359577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555765861/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "10.4504000822",
+    "longitude": "-84.0675350948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamaralcyon tridactyla",
+    "common name": "Three-toed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555746108/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-22.0547506846",
+    "longitude": "-42.8843583154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamaralcyon tridactyla",
+    "common name": "Three-toed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555746090/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-22.1840857402",
+    "longitude": "-42.8703193181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamaralcyon tridactyla",
+    "common name": "Three-toed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555746044/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-22.1596258343",
+    "longitude": "-42.9616758766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamaralcyon tridactyla",
+    "common name": "Three-toed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555746045/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-22.087979915",
+    "longitude": "-42.9819473994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamaralcyon tridactyla",
+    "common name": "Three-toed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555746000/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-22.1994895116",
+    "longitude": "-42.909800691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/555743146/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "7.8916422316",
+    "longitude": "-72.4866248667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555687891/square.jpg",
+    "date": "2022-08-10",
+    "latitude": "10.4714444167",
+    "longitude": "-84.6496055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555645031/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-13.7469385203",
+    "longitude": "-56.6822242364",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/555396045/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "5.8620458",
+    "longitude": "-74.8703845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555378652/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-14.8762566667",
+    "longitude": "-66.7374616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555266599/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "16.1179740653",
+    "longitude": "-90.9272386506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/555216502/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-21.8428649997",
+    "longitude": "-47.4210053997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/555196718/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "8.4765527159",
+    "longitude": "-83.5911048164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/555177221/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "10.4314362267",
+    "longitude": "-84.009864292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus purusianus",
+    "common name": "Pur\u00fas Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555154515/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus purusianus",
+    "common name": "Pur\u00fas Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555153397/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/555116977/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.0076631",
+    "longitude": "-40.1165673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554981239/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/554966917/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "10.3262",
+    "longitude": "-83.9491966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554953862/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "10.349473",
+    "longitude": "-84.80162",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554892811/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.0560706567",
+    "longitude": "-40.1450197276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanicollis",
+    "common name": "Blue-cheeked Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554760877/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-2.5336014196",
+    "longitude": "-54.923258559",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554511583/square.jpg",
+    "date": "2019-05-14",
+    "latitude": "16.5547565968",
+    "longitude": "-88.7056332298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554508016/square.jpg",
+    "date": "2019-05-13",
+    "latitude": "16.5547565968",
+    "longitude": "-88.7056332298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554480162/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "6.310707116",
+    "longitude": "-75.065048486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554195234/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-18.9092179043",
+    "longitude": "-48.2344011871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula dea",
+    "common name": "Paradise Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554145799/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "3.8626720291",
+    "longitude": "-53.3917820826",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553976191/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba lugubris",
+    "common name": "Brown Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553996531/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-15.4496298997",
+    "longitude": "-55.8249186997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/553762344/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-19.0076631",
+    "longitude": "-40.1165673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/553762317/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-19.0076631",
+    "longitude": "-40.1165673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/553658820/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-19.0076631",
+    "longitude": "-40.1165673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553503378/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-12.8978276365",
+    "longitude": "-71.3964873063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553415981/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-16.4966110121",
+    "longitude": "-56.6973468661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula pastazae",
+    "common name": "Coppery-chested Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/552967933/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-3.9781911555",
+    "longitude": "-78.598889748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/552870519/square.jpg",
+    "date": "2024-12-19",
+    "latitude": "8.626",
+    "longitude": "-82.939439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/552832098/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-19.0076631",
+    "longitude": "-40.1165673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552770286/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "11.2882597115",
+    "longitude": "-60.6076980473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba albogularis",
+    "common name": "White-throated Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552752601/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-9.9457929223",
+    "longitude": "-67.8278946876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula leucogastra",
+    "common name": "Bronzy Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552727672/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-9.610792",
+    "longitude": "-55.937201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula pastazae",
+    "common name": "Coppery-chested Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552710553/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-1.0816611786",
+    "longitude": "-77.7555346731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/552701932/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-21.9373753108",
+    "longitude": "-47.9301270191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552685137/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-17.3095319711",
+    "longitude": "-56.7298582569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula galbula",
+    "common name": "Green-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552633356/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-3.61245",
+    "longitude": "-58.0133416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula galbula",
+    "common name": "Green-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552632104/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-3.9949601883",
+    "longitude": "-59.08634988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula tombacea",
+    "common name": "White-chinned Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552629529/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-3.3913252783",
+    "longitude": "-60.1829186117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus leucotis",
+    "common name": "White-eared Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552624918/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "-2.970580555",
+    "longitude": "-64.8572986117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552619972/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-16.7462908333",
+    "longitude": "-56.8714913883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552543628/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "8.369283881",
+    "longitude": "-77.8327475488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula chalcothorax",
+    "common name": "Purplish Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/552485201/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-4.268755",
+    "longitude": "-78.6437533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus leucotis",
+    "common name": "White-eared Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552478419/square.jpg",
+    "date": "2017-01-19",
+    "latitude": "-4.8876874475",
+    "longitude": "-73.7898879736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552453555/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-16.2455133333",
+    "longitude": "-54.5962366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552369847/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-22.9185544288",
+    "longitude": "-44.013388322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552352788/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-15.8612172278",
+    "longitude": "-47.8286874667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552306314/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-17.268511945",
+    "longitude": "-56.696934445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552301475/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-16.505225555",
+    "longitude": "-56.7462713883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula dea",
+    "common name": "Paradise Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552294302/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "-11.8359077783",
+    "longitude": "-55.4997222217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552294277/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "-11.8359077783",
+    "longitude": "-55.4997222217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanicollis",
+    "common name": "Blue-cheeked Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552293949/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-9.802618055",
+    "longitude": "-56.340223055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamerops aureus",
+    "common name": "Great Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552289838/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-9.6203425",
+    "longitude": "-56.147485555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamerops aureus",
+    "common name": "Great Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552287112/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "8.9518",
+    "longitude": "-78.467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/552121844/square.jpg",
+    "date": "2025-03-13",
+    "latitude": "17.2094806018",
+    "longitude": "-89.6591095217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/552116435/square.jpg",
+    "date": "2022-08-19",
+    "latitude": "5.3357591371",
+    "longitude": "-74.7327182845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552045789/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "8.157787",
+    "longitude": "-77.6918093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552041283/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "11.3178481867",
+    "longitude": "-73.9773857199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551959644/square.jpg",
+    "date": "2019-07-19",
+    "latitude": "-17.2927047855",
+    "longitude": "-56.7098239211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba lugubris",
+    "common name": "Brown Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/551969404/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-13.5400766667",
+    "longitude": "-56.6299616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/551812874/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "6.7631571",
+    "longitude": "-74.2085518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus leucotis",
+    "common name": "White-eared Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551665289/square.jpg",
+    "date": "2025-01-23",
+    "latitude": "-3.8029972",
+    "longitude": "-70.421342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanicollis",
+    "common name": "Blue-cheeked Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551557469/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-9.5973830009",
+    "longitude": "-55.9266891473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551486149/square.jpg",
+    "date": "2019-07-18",
+    "latitude": "-17.270957155",
+    "longitude": "-56.7144339782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/551478222/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-12.5952788",
+    "longitude": "-49.9845619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/550993893/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-8.5850876936",
+    "longitude": "-63.716782678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/550993873/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-8.6020611095",
+    "longitude": "-63.7538615355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/550993814/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-8.6040978683",
+    "longitude": "-63.6968699583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/550993509/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-8.6278592444",
+    "longitude": "-63.8013838409",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550994421/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-15.9009916667",
+    "longitude": "-52.2601583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanicollis",
+    "common name": "Blue-cheeked Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/550912203/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-13.5402508",
+    "longitude": "-56.630017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550496453/square.jpg",
+    "date": "2018-08-08",
+    "latitude": "-8.4299495377",
+    "longitude": "-75.238435416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/550425090/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-13.7481285",
+    "longitude": "-56.6819067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550369966/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "10.4383553893",
+    "longitude": "-84.007604106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba lugubris",
+    "common name": "Brown Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/550355815/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-13.7481285",
+    "longitude": "-56.6819067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula leucogastra",
+    "common name": "Bronzy Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/550355402/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-13.7481285",
+    "longitude": "-56.6819067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550059942/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "10.4710764347",
+    "longitude": "-84.6510134855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550045529/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-22.4451753228",
+    "longitude": "-42.2082771175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549899045/square.jpg",
+    "date": "2020-01-11",
+    "latitude": "-19.9805873",
+    "longitude": "-43.8618432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549573563/square.jpg",
+    "date": "2024-03-20",
+    "latitude": "10.470305",
+    "longitude": "-84.650772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanicollis",
+    "common name": "Blue-cheeked Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/549296811/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-13.5400766667",
+    "longitude": "-56.6299616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549026095/square.jpg",
+    "date": "2019-07-16",
+    "latitude": "-16.5028332859",
+    "longitude": "-56.7456041749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549000222/square.jpg",
+    "date": "2022-04-11",
+    "latitude": "10.441466",
+    "longitude": "-84.791013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/548989747/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-21.953746413",
+    "longitude": "-47.4594798254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548958315/square.jpg",
+    "date": "2022-04-13",
+    "latitude": "10.4368996",
+    "longitude": "-84.72261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba albogularis",
+    "common name": "White-throated Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548923033/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-11.0369041115",
+    "longitude": "-68.7583854769",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548495885/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-11.0255764341",
+    "longitude": "-66.1001808414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba albogularis",
+    "common name": "White-throated Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/548469827/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-10.0544332974",
+    "longitude": "-67.8581991535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula albirostris",
+    "common name": "Yellow-billed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/548370147/square.jpg",
+    "date": "2012-01-30",
+    "latitude": "1.2934369",
+    "longitude": "-61.1419515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula galbula",
+    "common name": "Green-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/548370000/square.jpg",
+    "date": "2012-01-30",
+    "latitude": "1.2934369",
+    "longitude": "-61.1419515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548355455/square.jpg",
+    "date": "2019-09-27",
+    "latitude": "-23.343643897",
+    "longitude": "-44.9446028602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/548180183/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-7.1479971667",
+    "longitude": "-34.7974283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus leucotis",
+    "common name": "White-eared Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548148905/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-3.8143182579",
+    "longitude": "-70.3382069618",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus leucotis",
+    "common name": "White-eared Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548143318/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-3.8183600815",
+    "longitude": "-70.3425997496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548062635/square.jpg",
+    "date": "2019-07-14",
+    "latitude": "-16.5029258677",
+    "longitude": "-56.7454968865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/547663043/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-8.2535939343",
+    "longitude": "-63.9715497926",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547645852/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "10.3250262885",
+    "longitude": "-83.9508666471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547625653/square.jpg",
+    "date": "2024-11-29",
+    "latitude": "-18.9102972757",
+    "longitude": "-48.2348816341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547300291/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "10.3504222804",
+    "longitude": "-84.6679895953",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547137023/square.jpg",
+    "date": "2018-08-13",
+    "latitude": "10.4324066235",
+    "longitude": "-84.0136958398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/547040549/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-21.9481538062",
+    "longitude": "-47.4654725659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546621794/square.jpg",
+    "date": "2018-08-11",
+    "latitude": "10.4244626813",
+    "longitude": "-84.0195503677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/546305663/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-19.07762947",
+    "longitude": "-42.59722944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/546295091/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-13.5400766667",
+    "longitude": "-56.6299616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546194091/square.jpg",
+    "date": "2024-06-07",
+    "latitude": "8.4781866667",
+    "longitude": "-83.5912383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanescens",
+    "common name": "Bluish-fronted Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/545920827/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-11.0427364262",
+    "longitude": "-75.3702728078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula dea",
+    "common name": "Paradise Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/545647201/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-2.0201563846",
+    "longitude": "-60.0305143551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula dea",
+    "common name": "Paradise Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/545647147/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-2.0201563846",
+    "longitude": "-60.0305143551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/545638373/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.965493218",
+    "longitude": "-40.5400882289",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanicollis",
+    "common name": "Blue-cheeked Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/545563243/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-6.0632629167",
+    "longitude": "-50.0676917778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula dea",
+    "common name": "Paradise Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545525427/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-3.25113",
+    "longitude": "-72.9076",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus leucotis",
+    "common name": "White-eared Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545414342/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-3.8174327586",
+    "longitude": "-70.3302431479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545314296/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "0.1115111667",
+    "longitude": "-79.1363611667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/545203478/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "10.4395688226",
+    "longitude": "-84.7094820456",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba albogularis",
+    "common name": "White-throated Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544993263/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-9.954915",
+    "longitude": "-67.8060684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544988668/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "-22.4473440525",
+    "longitude": "-42.2214022296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544987098/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "-22.4473861403",
+    "longitude": "-42.2212445294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544986353/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "-22.4471156181",
+    "longitude": "-42.2205730157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba albogularis",
+    "common name": "White-throated Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544985549/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "-9.9457929223",
+    "longitude": "-67.8278946876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacamaralcyon tridactyla",
+    "common name": "Three-toed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/544693936/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-21.9305434557",
+    "longitude": "-42.6080220228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544577733/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "10.299979233",
+    "longitude": "-84.7828789259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544507318/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-9.4121513803",
+    "longitude": "-35.4986868126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbalcyrhynchus leucotis",
+    "common name": "White-eared Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544465549/square.jpg",
+    "date": "2023-03-06",
+    "latitude": "-0.342552",
+    "longitude": "-76.826242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula cyanicollis",
+    "common name": "Blue-cheeked Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544451219/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-2.7726851728",
+    "longitude": "-55.0066559379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544435021/square.jpg",
+    "date": "2023-05-04",
+    "latitude": "0.2172793365",
+    "longitude": "-78.9079866219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/544274504/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "10.4168551834",
+    "longitude": "-84.1241771804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/544213301/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-22.2078672029",
+    "longitude": "-47.6371122385",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba albogularis",
+    "common name": "White-throated Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544208913/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-9.9457929223",
+    "longitude": "-67.8278946876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba albogularis",
+    "common name": "White-throated Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544208907/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-9.9457929223",
+    "longitude": "-67.8278946876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula dea",
+    "common name": "Paradise Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544101114/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-3.2519080558",
+    "longitude": "-72.9073247582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543959872/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-18.9094446346",
+    "longitude": "-48.2351666175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/543676907/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-9.1883709415",
+    "longitude": "-64.0166639613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543597848/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-21.9584466566",
+    "longitude": "-47.4617639557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543542170/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-16.8895728276",
+    "longitude": "-43.7906502932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543501718/square.jpg",
+    "date": "2024-02-06",
+    "latitude": "10.4287094116",
+    "longitude": "-84.7171606925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543421500/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-15.7433396097",
+    "longitude": "-47.8850718588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543292849/square.jpg",
+    "date": "2017-10-25",
+    "latitude": "-20.4593271",
+    "longitude": "-55.7818482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543031135/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-15.5810632",
+    "longitude": "-56.1044839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543017598/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-17.235021639",
+    "longitude": "-56.8375073414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542983614/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "10.4875201196",
+    "longitude": "-84.754235521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula leucogastra",
+    "common name": "Bronzy Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/542891428/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-2.0385984085",
+    "longitude": "-60.0154939846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula albirostris",
+    "common name": "Yellow-billed Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/542890744/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-2.0385984085",
+    "longitude": "-60.0154939846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachygalba albogularis",
+    "common name": "White-throated Jacamar",
+    "observation photo url": "https://static.inaturalist.org/photos/542572184/square.jpg",
+    "date": "2022-12-22",
+    "latitude": "-9.6553216341",
+    "longitude": "-65.6825302252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542475467/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-18.7710399",
+    "longitude": "-42.0941047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542475071/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-18.7710399",
+    "longitude": "-42.0941047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galbula ruficauda",
+    "common name": "Rufous-tailed Jacamar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542451990/square.jpg",
+    "date": "2023-09-03",
+    "latitude": "8.4958868388",
+    "longitude": "-83.5775685807",
+    "quality_grade": "research"
+  }
+]

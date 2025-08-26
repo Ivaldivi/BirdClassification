@@ -1,0 +1,1667 @@
+[
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554705031/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-21.3087992184",
+    "longitude": "47.4856051998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/553589177/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-23.1625762169",
+    "longitude": "43.7174451984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/548918666/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-23.0069994056",
+    "longitude": "43.6731800507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547507797/square.jpg",
+    "date": "2022-11-08",
+    "latitude": "-24.5148636488",
+    "longitude": "47.0929687179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/539100736/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-21.3920120215",
+    "longitude": "47.5518284059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539092255/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-21.3127346466",
+    "longitude": "47.5831758123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536488303/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-21.3651138802",
+    "longitude": "47.4927068126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536487914/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-21.2658940461",
+    "longitude": "47.4221743445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536337358/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-21.2643133333",
+    "longitude": "47.42253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536337072/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-21.2349128348",
+    "longitude": "47.4196898485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535962393/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-21.2739675216",
+    "longitude": "47.454387706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535965676/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-21.3633158126",
+    "longitude": "47.4133571116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/527308188/square.jpg",
+    "date": "2025-01-08",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/527308172/square.jpg",
+    "date": "2025-01-06",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/525980932/square.jpg",
+    "date": "2025-04-02",
+    "latitude": "-21.2260856597",
+    "longitude": "47.2080488031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525489379/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-23.0729133326",
+    "longitude": "43.6331854218",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515610737/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-23.0180461928",
+    "longitude": "43.6769824435",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/511446743/square.jpg",
+    "date": "2025-04-22",
+    "latitude": "-23.0539135518",
+    "longitude": "43.7748657297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507763361/square.jpg",
+    "date": "2024-10-17",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/503782303/square.jpg",
+    "date": "2025-05-04",
+    "latitude": "-21.2836237805",
+    "longitude": "47.4483164423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/500591140/square.jpeg",
+    "date": "2025-04-30",
+    "latitude": "-23.1725551077",
+    "longitude": "43.7834782581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497890378/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "-15.5925082394",
+    "longitude": "50.0725301994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/472385526/square.jpg",
+    "date": "2025-01-08",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468602329/square.jpg",
+    "date": "2024-11-20",
+    "latitude": "-18.7706204394",
+    "longitude": "48.4321342821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465884342/square.jpeg",
+    "date": "2022-12-05",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464741373/square.jpeg",
+    "date": "2024-10-30",
+    "latitude": "-21.2436198089",
+    "longitude": "47.5686887924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463678983/square.jpg",
+    "date": "2024-11-11",
+    "latitude": "-18.7742823684",
+    "longitude": "48.5753613577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463678887/square.jpg",
+    "date": "2024-11-16",
+    "latitude": "-21.257544445",
+    "longitude": "47.4184638883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463678817/square.jpg",
+    "date": "2024-11-21",
+    "latitude": "-23.1813725815",
+    "longitude": "43.7136560491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460112638/square.jpeg",
+    "date": "2024-12-12",
+    "latitude": "-23.0948360349",
+    "longitude": "43.6226860497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458296545/square.jpeg",
+    "date": "2024-11-25",
+    "latitude": "-19.069357019",
+    "longitude": "48.4281130557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458044949/square.jpeg",
+    "date": "2024-11-21",
+    "latitude": "-21.3141054248",
+    "longitude": "47.4992833705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458028976/square.jpeg",
+    "date": "2024-11-20",
+    "latitude": "-21.3112008533",
+    "longitude": "47.4480853604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457677109/square.jpg",
+    "date": "2024-11-22",
+    "latitude": "-23.1819749555",
+    "longitude": "43.6751077426",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457368979/square.jpg",
+    "date": "2024-11-16",
+    "latitude": "-21.26296916",
+    "longitude": "47.4203126827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457368856/square.jpg",
+    "date": "2024-11-16",
+    "latitude": "-21.2638084875",
+    "longitude": "47.4200780682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457357424/square.jpg",
+    "date": "2024-11-12",
+    "latitude": "-18.9548834672",
+    "longitude": "48.4593512512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457221009/square.jpg",
+    "date": "2017-06-16",
+    "latitude": "-18.6235421997",
+    "longitude": "48.4303152104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457037320/square.jpg",
+    "date": "2024-12-13",
+    "latitude": "-18.9487532862",
+    "longitude": "48.4002396099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457016870/square.jpg",
+    "date": "2024-12-13",
+    "latitude": "-18.8556008048",
+    "longitude": "48.4313345096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456903061/square.jpeg",
+    "date": "2024-11-15",
+    "latitude": "-23.0843758718",
+    "longitude": "43.7694917892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456876046/square.jpg",
+    "date": "2017-06-09",
+    "latitude": "-23.0509167836",
+    "longitude": "43.6258910902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456738943/square.jpg",
+    "date": "2017-06-05",
+    "latitude": "-21.2631474478",
+    "longitude": "47.4200264432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456700463/square.jpeg",
+    "date": "2024-11-05",
+    "latitude": "-18.965320735",
+    "longitude": "48.4883163273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456342791/square.jpeg",
+    "date": "2024-10-31",
+    "latitude": "-21.3191943177",
+    "longitude": "47.4333406125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455855145/square.jpg",
+    "date": "2024-10-06",
+    "latitude": "-23.1760004555",
+    "longitude": "43.6563276985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455736354/square.jpeg",
+    "date": "2024-11-30",
+    "latitude": "-23.1237697526",
+    "longitude": "43.6489606861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455736131/square.jpeg",
+    "date": "2024-11-30",
+    "latitude": "-23.0725271587",
+    "longitude": "43.6795281277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455735076/square.jpeg",
+    "date": "2024-11-28",
+    "latitude": "-23.0892137298",
+    "longitude": "43.7394172815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455693081/square.jpeg",
+    "date": "2024-11-18",
+    "latitude": "-21.2900566913",
+    "longitude": "47.4221664233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455682073/square.jpeg",
+    "date": "2024-11-16",
+    "latitude": "-21.2644930561",
+    "longitude": "47.4260827681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455061569/square.jpg",
+    "date": "2024-10-31",
+    "latitude": "-21.2638721653",
+    "longitude": "47.4203730782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455058603/square.jpeg",
+    "date": "2024-10-29",
+    "latitude": "-21.2793030852",
+    "longitude": "47.4212279958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455058591/square.jpeg",
+    "date": "2024-10-29",
+    "latitude": "-21.255767434",
+    "longitude": "47.4254947342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454885565/square.jpg",
+    "date": "2024-10-31",
+    "latitude": "-21.3776278644",
+    "longitude": "47.5620818219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454716246/square.jpg",
+    "date": "2024-10-29",
+    "latitude": "-21.2780213062",
+    "longitude": "47.5839181447",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453750637/square.jpeg",
+    "date": "2024-10-22",
+    "latitude": "-23.0963098956",
+    "longitude": "43.7977381885",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/453141058/square.jpg",
+    "date": "2024-11-12",
+    "latitude": "-21.2653464531",
+    "longitude": "47.4165838775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452992590/square.jpg",
+    "date": "2024-11-05",
+    "latitude": "-18.9091116674",
+    "longitude": "48.5725332371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452732747/square.jpg",
+    "date": "2024-10-22",
+    "latitude": "-23.01152074",
+    "longitude": "43.7323253153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451084444/square.jpeg",
+    "date": "2024-10-12",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/450838557/square.jpeg",
+    "date": "2024-11-10",
+    "latitude": "-21.2640611963",
+    "longitude": "47.4192915112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/450754902/square.jpg",
+    "date": "2024-11-07",
+    "latitude": "-21.2608544896",
+    "longitude": "47.4209163368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/449956647/square.jpg",
+    "date": "2024-11-07",
+    "latitude": "-21.2614229114",
+    "longitude": "47.5403404914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449455629/square.jpeg",
+    "date": "2024-10-07",
+    "latitude": "-23.1899587118",
+    "longitude": "43.7875512237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/546774216/square.jpg",
+    "date": "2024-10-07",
+    "latitude": "-18.6612073752",
+    "longitude": "48.517348662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448938045/square.jpeg",
+    "date": "2024-10-15",
+    "latitude": "-23.002654231",
+    "longitude": "43.6720127437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446021633/square.jpeg",
+    "date": "2024-10-28",
+    "latitude": "-18.7954616667",
+    "longitude": "48.4262783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444447791/square.jpeg",
+    "date": "2016-05-05",
+    "latitude": "-21.2372185697",
+    "longitude": "47.5208282111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444446597/square.jpeg",
+    "date": "2016-05-04",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/443967251/square.jpeg",
+    "date": "2024-10-18",
+    "latitude": "-23.045260093",
+    "longitude": "43.7059805375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443912623/square.jpeg",
+    "date": "2024-10-21",
+    "latitude": "-23.1390615875",
+    "longitude": "43.727759457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441164064/square.jpeg",
+    "date": "2024-10-12",
+    "latitude": "-21.264491127",
+    "longitude": "47.4208763614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/539630037/square.jpg",
+    "date": "2024-10-12",
+    "latitude": "-21.3505284441",
+    "longitude": "47.5590454312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439917300/square.jpeg",
+    "date": "2024-10-07",
+    "latitude": "-23.0932173546",
+    "longitude": "43.7658464781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436451500/square.jpeg",
+    "date": "2024-08-22",
+    "latitude": "-21.2022691441",
+    "longitude": "47.5643975223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423309535/square.jpeg",
+    "date": "2024-08-25",
+    "latitude": "-23.1524767627",
+    "longitude": "43.7744320543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/423107691/square.jpeg",
+    "date": "2011-11-03",
+    "latitude": "-23.0328443541",
+    "longitude": "43.7370523928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/423101542/square.jpeg",
+    "date": "2011-10-30",
+    "latitude": "-15.6455867956",
+    "longitude": "49.9818270956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417750800/square.jpeg",
+    "date": "2022-10-03",
+    "latitude": "-23.0578582778",
+    "longitude": "43.6177105101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408591508/square.jpg",
+    "date": "2024-07-18",
+    "latitude": "-21.3124378485",
+    "longitude": "47.5124183245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403041380/square.jpg",
+    "date": "2023-11-09",
+    "latitude": "-23.1996350828",
+    "longitude": "43.6240423891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403040491/square.jpg",
+    "date": "2023-11-09",
+    "latitude": "-23.0913848102",
+    "longitude": "43.6292421063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400800445/square.jpeg",
+    "date": "2012-02-08",
+    "latitude": "-21.2563465081",
+    "longitude": "47.594538744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400775345/square.jpeg",
+    "date": "2012-02-07",
+    "latitude": "-21.3721663413",
+    "longitude": "47.5070651896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398068253/square.jpg",
+    "date": "2024-06-14",
+    "latitude": "-21.3552799583",
+    "longitude": "47.5922128534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397036237/square.jpeg",
+    "date": "2012-02-15",
+    "latitude": "-23.0799754954",
+    "longitude": "43.6689366538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394968940/square.jpeg",
+    "date": "2013-10-25",
+    "latitude": "-21.2813614707",
+    "longitude": "47.3643527399",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/387373490/square.jpeg",
+    "date": "2023-11-08",
+    "latitude": "-23.0232555938",
+    "longitude": "43.6539444042",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385458820/square.jpeg",
+    "date": "2024-04-13",
+    "latitude": "-18.8287828833",
+    "longitude": "48.5193971224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385234201/square.jpeg",
+    "date": "2011-09-22",
+    "latitude": "-18.8356578057",
+    "longitude": "48.4579710882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371807955/square.jpeg",
+    "date": "2024-03-14",
+    "latitude": "-15.7664839423",
+    "longitude": "49.9404616223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369610944/square.jpg",
+    "date": "2024-02-10",
+    "latitude": "-23.1645236878",
+    "longitude": "43.7999237474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368442749/square.jpeg",
+    "date": "2024-03-14",
+    "latitude": "-15.7497672648",
+    "longitude": "49.9196882201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362661080/square.jpeg",
+    "date": "2023-11-30",
+    "latitude": "-21.2352755453",
+    "longitude": "47.4020412085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/358516076/square.jpeg",
+    "date": "2024-02-12",
+    "latitude": "-23.1346320825",
+    "longitude": "43.6299335491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/358515687/square.jpeg",
+    "date": "2024-02-10",
+    "latitude": "-23.1146628371",
+    "longitude": "43.7019895036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/351304565/square.jpeg",
+    "date": "2022-07-25",
+    "latitude": "-19.749349957",
+    "longitude": "47.8802388863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347355718/square.jpg",
+    "date": "2019-10-22",
+    "latitude": "-23.0506013874",
+    "longitude": "43.7887484803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347355630/square.jpg",
+    "date": "2019-10-18",
+    "latitude": "-21.2614214943",
+    "longitude": "47.420278756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347353580/square.jpg",
+    "date": "2019-10-13",
+    "latitude": "-18.9700823495",
+    "longitude": "48.5807512313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347353491/square.jpg",
+    "date": "2019-10-10",
+    "latitude": "-12.5184835179",
+    "longitude": "49.1712865236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/342585116/square.jpeg",
+    "date": "2023-11-07",
+    "latitude": "-23.1405713956",
+    "longitude": "43.7080483898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/342580142/square.jpeg",
+    "date": "2023-11-05",
+    "latitude": "-18.8166226347",
+    "longitude": "48.4181434935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/342579879/square.jpeg",
+    "date": "2023-11-05",
+    "latitude": "-18.8503934163",
+    "longitude": "48.4330220148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342245109/square.jpeg",
+    "date": "2023-11-13",
+    "latitude": "-18.6812174377",
+    "longitude": "48.5173927605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342205923/square.jpg",
+    "date": "2023-12-23",
+    "latitude": "-18.8231783333",
+    "longitude": "48.4711666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/341969233/square.jpg",
+    "date": "2023-12-03",
+    "latitude": "-21.2630532502",
+    "longitude": "47.4210694799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/341969059/square.jpg",
+    "date": "2023-12-03",
+    "latitude": "-21.2630532502",
+    "longitude": "47.4210694799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/341830529/square.jpg",
+    "date": "2023-12-02",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341625928/square.jpeg",
+    "date": "2023-11-09",
+    "latitude": "-21.3446564111",
+    "longitude": "47.5548212849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341625511/square.jpeg",
+    "date": "2023-11-09",
+    "latitude": "-21.2602995764",
+    "longitude": "47.4245166951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340787502/square.jpeg",
+    "date": "2023-11-15",
+    "latitude": "-21.2608165195",
+    "longitude": "47.4218812627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/339593828/square.jpeg",
+    "date": "2023-11-05",
+    "latitude": "-23.0505552466",
+    "longitude": "43.7315846484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/339143815/square.jpeg",
+    "date": "2023-11-08",
+    "latitude": "-23.1857109239",
+    "longitude": "43.72312675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338873078/square.jpeg",
+    "date": "2023-10-11",
+    "latitude": "-21.264677658",
+    "longitude": "47.4190953116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337961170/square.jpeg",
+    "date": "2023-11-06",
+    "latitude": "-19.0984910177",
+    "longitude": "48.4528797229",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337075879/square.jpg",
+    "date": "2022-04-15",
+    "latitude": "-24.7718229107",
+    "longitude": "47.1512558626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/336488803/square.jpeg",
+    "date": "2023-11-04",
+    "latitude": "-18.836264",
+    "longitude": "48.431788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/336115323/square.jpg",
+    "date": "2019-10-19",
+    "latitude": "-18.7768209297",
+    "longitude": "46.9882437366",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335494514/square.jpeg",
+    "date": "2013-11-09",
+    "latitude": "-18.9090166064",
+    "longitude": "48.5589511944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/334053434/square.jpg",
+    "date": "2023-10-06",
+    "latitude": "-23.1914683716",
+    "longitude": "43.7987605643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/333787655/square.jpg",
+    "date": "2023-10-03",
+    "latitude": "-18.6145876739",
+    "longitude": "48.4360128463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/332841971/square.jpg",
+    "date": "2023-04-09",
+    "latitude": "-23.010415171",
+    "longitude": "43.6017179058",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/332841268/square.jpg",
+    "date": "2023-04-05",
+    "latitude": "-21.323406448",
+    "longitude": "47.5680670922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331910845/square.jpg",
+    "date": "2023-10-19",
+    "latitude": "-23.0897064025",
+    "longitude": "43.4304966913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331885566/square.jpeg",
+    "date": "2023-10-20",
+    "latitude": "-23.1011008324",
+    "longitude": "43.675854677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/331663855/square.jpg",
+    "date": "2023-09-26",
+    "latitude": "-18.8028697181",
+    "longitude": "48.4171514706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/331663851/square.jpg",
+    "date": "2023-09-26",
+    "latitude": "-18.8264726685",
+    "longitude": "48.4339327296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/331656712/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-19.1747811305",
+    "longitude": "48.4895520006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/327810898/square.jpg",
+    "date": "2023-09-21",
+    "latitude": "-18.8823619976",
+    "longitude": "48.5545829523",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/327790584/square.jpg",
+    "date": "2023-09-18",
+    "latitude": "-23.1929588003",
+    "longitude": "43.7905531116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/326769791/square.jpg",
+    "date": "2023-09-12",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/324850351/square.jpg",
+    "date": "2019-11-09",
+    "latitude": "-18.8368116984",
+    "longitude": "48.5101026166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/324684121/square.jpg",
+    "date": "2019-11-05",
+    "latitude": "-23.0891668391",
+    "longitude": "43.7085004488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/323021900/square.jpg",
+    "date": "2023-09-16",
+    "latitude": "-21.2629883333",
+    "longitude": "47.4223983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/315588375/square.jpeg",
+    "date": "2015-11-17",
+    "latitude": "-18.9748797289",
+    "longitude": "48.5123773259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313693189/square.jpg",
+    "date": "2023-08-05",
+    "latitude": "-23.1454824317",
+    "longitude": "43.7650348471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313598536/square.jpg",
+    "date": "2008-11-18",
+    "latitude": "-18.9094157115",
+    "longitude": "48.5238991827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313458709/square.jpeg",
+    "date": "2023-08-21",
+    "latitude": "-23.1406664766",
+    "longitude": "43.7473833726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313319529/square.jpg",
+    "date": "2008-11-10",
+    "latitude": "-23.0182947655",
+    "longitude": "43.7453330284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310299726/square.jpeg",
+    "date": "2018-12-06",
+    "latitude": "-21.2595817268",
+    "longitude": "47.421737871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297836935/square.jpeg",
+    "date": "2023-06-02",
+    "latitude": "-23.0938451287",
+    "longitude": "43.7951954719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289240458/square.jpeg",
+    "date": "2023-06-02",
+    "latitude": "-23.1685440543",
+    "longitude": "43.6968977863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282130165/square.jpg",
+    "date": "2008-06-06",
+    "latitude": "-21.3598903152",
+    "longitude": "47.5027760156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280608165/square.jpeg",
+    "date": "2018-11-11",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280008658/square.jpeg",
+    "date": "2022-06-14",
+    "latitude": "-21.3984575921",
+    "longitude": "47.5106927902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270555955/square.jpeg",
+    "date": "2022-04-18",
+    "latitude": "-23.161564712",
+    "longitude": "43.6875016959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251598455/square.jpg",
+    "date": "2023-01-11",
+    "latitude": "-23.015485092",
+    "longitude": "43.7980473857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/247861507/square.jpeg",
+    "date": "2022-12-14",
+    "latitude": "-21.2663149722",
+    "longitude": "47.42132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/247428289/square.jpg",
+    "date": "2022-11-11",
+    "latitude": "-21.2624507412",
+    "longitude": "47.4264042123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247203538/square.jpeg",
+    "date": "2022-10-25",
+    "latitude": "-21.2621861111",
+    "longitude": "47.4200638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246802956/square.jpg",
+    "date": "2022-11-25",
+    "latitude": "-19.1360271147",
+    "longitude": "48.553139633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246802950/square.jpg",
+    "date": "2022-11-25",
+    "latitude": "-19.1806384042",
+    "longitude": "48.5951584725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246802730/square.jpg",
+    "date": "2022-11-24",
+    "latitude": "-18.8298335329",
+    "longitude": "48.5866761159",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246802699/square.jpg",
+    "date": "2022-11-24",
+    "latitude": "-18.8215836894",
+    "longitude": "48.4339519916",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246365496/square.jpg",
+    "date": "2022-11-19",
+    "latitude": "-23.0887287625",
+    "longitude": "43.6761130629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245460334/square.jpg",
+    "date": "1988-10-03",
+    "latitude": "-21.277757347",
+    "longitude": "47.4097005754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245273453/square.jpg",
+    "date": "2022-11-18",
+    "latitude": "-23.0257366377",
+    "longitude": "43.7559348392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244540342/square.jpg",
+    "date": "2013-11-11",
+    "latitude": "-23.1070594725",
+    "longitude": "43.6923975736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243980963/square.jpg",
+    "date": "2022-10-10",
+    "latitude": "-23.1243473356",
+    "longitude": "43.741284356",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243226088/square.jpg",
+    "date": "2013-11-01",
+    "latitude": "-18.8040943407",
+    "longitude": "48.4525190236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242566139/square.jpg",
+    "date": "2022-10-04",
+    "latitude": "-19.06523221",
+    "longitude": "48.4736860081",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242557837/square.jpg",
+    "date": "2022-10-04",
+    "latitude": "-19.1022975096",
+    "longitude": "48.566638221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242279038/square.jpg",
+    "date": "2022-10-03",
+    "latitude": "-18.6416220822",
+    "longitude": "48.5033631799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242258370/square.jpg",
+    "date": "2013-10-31",
+    "latitude": "-18.954027351",
+    "longitude": "48.4955757849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242127348/square.jpg",
+    "date": "2022-10-03",
+    "latitude": "-18.825662",
+    "longitude": "48.433033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/232756296/square.jpeg",
+    "date": "2019-12-05",
+    "latitude": "-23.2876942902",
+    "longitude": "43.7885861185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/232755742/square.jpeg",
+    "date": "2019-11-29",
+    "latitude": "-21.2598663",
+    "longitude": "47.4514912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/224218809/square.jpeg",
+    "date": "2017-10-02",
+    "latitude": "-18.8913001143",
+    "longitude": "48.5684510817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/224218581/square.jpeg",
+    "date": "2017-10-02",
+    "latitude": "-18.8351018519",
+    "longitude": "48.4583948795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/223113802/square.jpeg",
+    "date": "2017-11-29",
+    "latitude": "-21.2460942067",
+    "longitude": "47.390164732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/222795593/square.jpg",
+    "date": "2022-07-28",
+    "latitude": "-23.0028802882",
+    "longitude": "43.7084937064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216698185/square.jpeg",
+    "date": "2017-10-02",
+    "latitude": "-18.8812348031",
+    "longitude": "48.4935554638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/211919047/square.jpg",
+    "date": "2005-09-28",
+    "latitude": "-23.0810127662",
+    "longitude": "43.6771515437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204983027/square.jpg",
+    "date": "2019-10-22",
+    "latitude": "-23.0386008359",
+    "longitude": "43.7455840461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204482494/square.jpg",
+    "date": "2014-10-26",
+    "latitude": "-21.1792098285",
+    "longitude": "47.4333846579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199990101/square.jpeg",
+    "date": "2022-05-20",
+    "latitude": "-21.2655446031",
+    "longitude": "47.4165578275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geobiastes squamiger",
+    "common name": "Scaly Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199990071/square.jpeg",
+    "date": "2022-05-20",
+    "latitude": "-21.3722626446",
+    "longitude": "47.412077223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/198568700/square.jpg",
+    "date": "2019-08-08",
+    "latitude": "-21.2051579248",
+    "longitude": "47.5386431404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191186990/square.jpeg",
+    "date": "2019-11-27",
+    "latitude": "-21.2248020172",
+    "longitude": "47.3661575317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachypteracias leptosomus",
+    "common name": "Short-legged Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182507747/square.jpg",
+    "date": "2013-11-18",
+    "latitude": "-18.9682405051",
+    "longitude": "48.4197219344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis pittoides",
+    "common name": "Pitta-like Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182414406/square.jpg",
+    "date": "2013-11-17",
+    "latitude": "-18.8348151572",
+    "longitude": "48.4586334229",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uratelornis chimaera",
+    "common name": "Long-tailed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182289451/square.jpg",
+    "date": "2013-11-13",
+    "latitude": "-23.0612687011",
+    "longitude": "43.6643374148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Atelornis crossleyi",
+    "common name": "Rufous-headed Ground-Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178272940/square.jpg",
+    "date": "2019-11-19",
+    "latitude": "-18.8606412453",
+    "longitude": "48.564739353",
+    "quality_grade": "research"
+  }
+]

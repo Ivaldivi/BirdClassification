@@ -1,0 +1,1208 @@
+[
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/558000778/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.1531984455",
+    "longitude": "-1.632320878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063531/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.375810195",
+    "longitude": "81.0488434831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia hodgsonii",
+    "common name": "Gray-breasted Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063156/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.3810278254",
+    "longitude": "81.0708451683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/558052097/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "36.0316891291",
+    "longitude": "-5.6225082255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558047544/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "14.7842265677",
+    "longitude": "79.0750565876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia subflava",
+    "common name": "Tawny-flanked Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558048246/square.jpg",
+    "date": "2003-09-15",
+    "latitude": "0.2363229926",
+    "longitude": "32.6242475158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia flaviventris",
+    "common name": "Yellow-bellied Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558033559/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.4976291",
+    "longitude": "76.9298763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia maculosa maculosa",
+    "common name": "Shrub Karoo Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557992068/square.jpg",
+    "date": "2011-01-15",
+    "latitude": "-34.3504447075",
+    "longitude": "18.9275547466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963375/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "22.3740889216",
+    "longitude": "114.2650541291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola chiniana",
+    "common name": "Rattling Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557960505/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-24.1185389485",
+    "longitude": "31.461521079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/557954620/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0133031562",
+    "longitude": "100.7299358694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia flaviventris",
+    "common name": "Yellow-bellied Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/557954614/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0159391679",
+    "longitude": "100.7304838371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apalis flavida",
+    "common name": "Yellow-breasted Apalis",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557949015/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.7313805556",
+    "longitude": "32.7463861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557946692/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "40.9100564964",
+    "longitude": "9.556237714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola chiniana",
+    "common name": "Rattling Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557944764/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.4667666667",
+    "longitude": "31.9694222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557943575/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "1.4242970448",
+    "longitude": "103.8385905325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557943019/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "1.4242970448",
+    "longitude": "103.8385905325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus atrogularis",
+    "common name": "Dark-necked Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557940049/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "3.0995638094",
+    "longitude": "101.5063229231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus atrogularis",
+    "common name": "Dark-necked Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557940012/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "3.1003032663",
+    "longitude": "101.5056587599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus atrogularis",
+    "common name": "Dark-necked Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557939995/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "3.0997461832",
+    "longitude": "101.5060916824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus atrogularis",
+    "common name": "Dark-necked Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557939979/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "3.0995287631",
+    "longitude": "101.5066266116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557941573/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "19.2577155",
+    "longitude": "73.3884185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/557921573/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.546045",
+    "longitude": "-6.2074833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557916201/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola chiniana",
+    "common name": "Rattling Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/557916711/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.80748",
+    "longitude": "16.9422316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola exilis",
+    "common name": "Golden-headed Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/557915065/square.jpg",
+    "date": "2025-04-05",
+    "latitude": "11.3361785",
+    "longitude": "76.1102499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903117/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.0208915182",
+    "longitude": "75.5626047865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557902020/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "13.0858833333",
+    "longitude": "77.5683283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia hodgsonii",
+    "common name": "Gray-breasted Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/557898489/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "18.5252033333",
+    "longitude": "73.812455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557890460/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "1.427927966",
+    "longitude": "103.8399386778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557886418/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "1.427927966",
+    "longitude": "103.8399386778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557886032/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "1.427927966",
+    "longitude": "103.8399386778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia flaviventris",
+    "common name": "Yellow-bellied Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557885733/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "22.2740301534",
+    "longitude": "114.123451598",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia flaviventris",
+    "common name": "Yellow-bellied Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557868151/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "5.5448399",
+    "longitude": "101.3403153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius edela",
+    "common name": "Javan Common Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557861802/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-7.1239817851",
+    "longitude": "110.7702212781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557824764/square.jpg",
+    "date": "2020-07-17",
+    "latitude": "22.4027084861",
+    "longitude": "114.2427661829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia flaviventris",
+    "common name": "Yellow-bellied Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/557824656/square.jpg",
+    "date": "2020-08-27",
+    "latitude": "22.4027084861",
+    "longitude": "114.2427661829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola tinniens tinniens",
+    "common name": "Southern Levaillant's Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/557699770/square.jpg",
+    "date": "2005-08-09",
+    "latitude": "-33.2398072967",
+    "longitude": "18.161326686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia subflava",
+    "common name": "Tawny-flanked Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557688442/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "-27.54363258",
+    "longitude": "31.2815629601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malcorus pectoralis",
+    "common name": "Rufous-eared Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557673810/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-33.0802757733",
+    "longitude": "20.5951126492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phragmacia substriata",
+    "common name": "Namaqua Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557673784/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-33.1087801462",
+    "longitude": "20.6084842464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola tinniens",
+    "common name": "Levaillant's Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557626988/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-33.8424102257",
+    "longitude": "18.493570324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola tinniens",
+    "common name": "Levaillant's Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557626974/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-33.8407815742",
+    "longitude": "18.4985159663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola subruficapilla",
+    "common name": "Gray-backed Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557613122/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.1748845184",
+    "longitude": "18.057751762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia maculosa",
+    "common name": "Karoo Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557613115/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.1820751032",
+    "longitude": "18.0614925973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola tinniens",
+    "common name": "Levaillant's Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557613063/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.189527518",
+    "longitude": "18.1289625559",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557616185/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "40.7343200465",
+    "longitude": "-8.5829032212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557600940/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "19.2250856939",
+    "longitude": "72.9634374753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia rufescens",
+    "common name": "Rufescent Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557592273/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "26.8372379",
+    "longitude": "88.3457906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557585322/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "20.2717885",
+    "longitude": "79.3875706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia flaviventris",
+    "common name": "Yellow-bellied Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557567560/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "0.3345775622",
+    "longitude": "102.7285194422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557562150/square.jpg",
+    "date": "2019-01-19",
+    "latitude": "21.258903506",
+    "longitude": "81.6187155763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557562061/square.jpg",
+    "date": "2019-01-19",
+    "latitude": "21.258903506",
+    "longitude": "81.6187155763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557561918/square.jpg",
+    "date": "2019-01-19",
+    "latitude": "21.258903506",
+    "longitude": "81.6187155763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557561974/square.jpg",
+    "date": "2019-01-19",
+    "latitude": "21.258903506",
+    "longitude": "81.6187155763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/557549652/square.jpg",
+    "date": "2024-07-10",
+    "latitude": "22.090888961",
+    "longitude": "88.7613659352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557541825/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.3562390739",
+    "longitude": "3.3574513056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557541723/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.3562732493",
+    "longitude": "3.3573913014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia maculosa",
+    "common name": "Karoo Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557529698/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.09050333",
+    "longitude": "18.472995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557512865/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "22.4051288527",
+    "longitude": "113.9538776415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus atrogularis",
+    "common name": "Dark-necked Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557504668/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "24.3589383907",
+    "longitude": "92.3774597794",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola exilis",
+    "common name": "Golden-headed Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557468710/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-37.8393451844",
+    "longitude": "145.2475933628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia buchanani",
+    "common name": "Rufous-fronted Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/557470148/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "26.4969952623",
+    "longitude": "74.8193769157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus atrogularis",
+    "common name": "Dark-necked Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557467793/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "4.6569088404",
+    "longitude": "101.0556193069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apalis flavida neglecta",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557464591/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-24.9809430395",
+    "longitude": "31.5653327055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola exilis",
+    "common name": "Golden-headed Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557458648/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.8665827208",
+    "longitude": "147.5591424495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia hypoxantha",
+    "common name": "Drakensberg Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557455488/square.jpg",
+    "date": "2013-03-16",
+    "latitude": "-28.6901270436",
+    "longitude": "28.9427205034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557455488/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.4491686067",
+    "longitude": "12.2054721695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sepium",
+    "common name": "Olive-backed Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557444719/square.jpg",
+    "date": "2024-12-13",
+    "latitude": "-6.8767136894",
+    "longitude": "106.9984865251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia sylvatica",
+    "common name": "Jungle Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/557440891/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "24.6342703183",
+    "longitude": "72.7607064812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/557430534/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "48.6340886944",
+    "longitude": "-2.46167209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia subflava",
+    "common name": "Tawny-flanked Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557422247/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "13.0747741312",
+    "longitude": "8.2773223766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/557420666/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "23.9910827247",
+    "longitude": "120.6423247363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557417283/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "21.5008255",
+    "longitude": "70.4535247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557410978/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "21.1879574433",
+    "longitude": "81.307486631",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557408930/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.655287",
+    "longitude": "99.650074",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia subflava",
+    "common name": "Tawny-flanked Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557398348/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.8019094355",
+    "longitude": "28.3504177071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola exilis",
+    "common name": "Golden-headed Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557394607/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "11.3361782449",
+    "longitude": "76.1102500185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557383911/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "14.3751165502",
+    "longitude": "79.9534297362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557374415/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "22.3747876625",
+    "longitude": "114.2644831436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia hodgsonii",
+    "common name": "Gray-breasted Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557359696/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "17.7689072743",
+    "longitude": "73.7422983348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557308955/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "4.8537830915",
+    "longitude": "100.7503031799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557277064/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "18.4680905",
+    "longitude": "73.9293663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/557273710/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "41.0785787596",
+    "longitude": "-8.6565600857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557692410/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.7086787623",
+    "longitude": "-7.4820633446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557214703/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "13.807756",
+    "longitude": "100.552121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557103042/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "39.400136134",
+    "longitude": "-9.1988820129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557123655/square.jpg",
+    "date": "2025-03-29",
+    "latitude": "43.1208814897",
+    "longitude": "6.0254120047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia flaviventris",
+    "common name": "Yellow-bellied Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/557105098/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "28.4781741976",
+    "longitude": "76.9403188371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus ruficeps",
+    "common name": "Ashy Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557063483/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-3.2805137182",
+    "longitude": "103.0623709887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557058467/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "22.3749495682",
+    "longitude": "114.2638647111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557053649/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "41.6380745385",
+    "longitude": "-8.9790416247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557036310/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "22.3251333929",
+    "longitude": "114.2632992938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557012507/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "23.8635852615",
+    "longitude": "120.4227145277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556999511/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "13.0831091803",
+    "longitude": "80.372613588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/556994130/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "19.0690111111",
+    "longitude": "72.8554944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556972528/square.jpg",
+    "date": "2024-04-10",
+    "latitude": "30.4356360557",
+    "longitude": "77.6772314696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556973108/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "23.0302423506",
+    "longitude": "72.5759296978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola fulvicapilla",
+    "common name": "Piping Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556968463/square.jpg",
+    "date": "2024-03-01",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sepium",
+    "common name": "Olive-backed Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556949754/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-6.3253707524",
+    "longitude": "106.9131016703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Camaroptera brachyura brachyura",
+    "common name": "Southern Green-backed Camaroptera",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556934900/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.3415998269",
+    "longitude": "31.8092360348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556930300/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.5282434656",
+    "longitude": "77.4968273698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556930208/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.5282434656",
+    "longitude": "77.4968273698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia maculosa",
+    "common name": "Karoo Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556932870/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-34.0758657334",
+    "longitude": "23.1077544183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556928175/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "11.6782746541",
+    "longitude": "78.0046476424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556927281/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "11.674200962",
+    "longitude": "78.0025957525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apalis thoracica",
+    "common name": "Bar-throated Apalis",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556924744/square.jpg",
+    "date": "2024-02-13",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apalis thoracica",
+    "common name": "Bar-throated Apalis",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556922822/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-32.2143516667",
+    "longitude": "24.6402316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola fulvicapilla",
+    "common name": "Piping Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556922484/square.jpg",
+    "date": "2024-02-13",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556916013/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "18.5459668675",
+    "longitude": "73.7848047728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/556917706/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "28.4911220409",
+    "longitude": "76.9340890384",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://static.inaturalist.org/photos/556917797/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.9570204712",
+    "longitude": "79.8079641536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://static.inaturalist.org/photos/556916019/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.1695500906",
+    "longitude": "-1.7897386278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556905710/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "25.2022833333",
+    "longitude": "75.7954638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556904222/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.4925969775",
+    "longitude": "3.6777375534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556901243/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6796916667",
+    "longitude": "77.9268616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556900499/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6796316667",
+    "longitude": "77.926845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia sylvatica",
+    "common name": "Jungle Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556896287/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6778883333",
+    "longitude": "77.926725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556895899/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.677685",
+    "longitude": "77.926725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556895715/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.677685",
+    "longitude": "77.926725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556895532/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.677685",
+    "longitude": "77.926725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556894881/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6776633333",
+    "longitude": "77.9263166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556893990/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6777683333",
+    "longitude": "77.926",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia inornata",
+    "common name": "Plain Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556893835/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.677765",
+    "longitude": "77.9260066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556893802/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.677765",
+    "longitude": "77.9260066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556893323/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6779316667",
+    "longitude": "77.9256066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556888199/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6792966667",
+    "longitude": "77.9233566667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus sutorius",
+    "common name": "Common Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556887369/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "21.0313230438",
+    "longitude": "105.8531566306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556886599/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6795666667",
+    "longitude": "77.9230466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556884945/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6796833333",
+    "longitude": "77.9229316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Prinia socialis",
+    "common name": "Ashy Prinia",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556883309/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6801433333",
+    "longitude": "77.9223016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cisticola juncidis",
+    "common name": "Zitting Cisticola",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556883008/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6805716667",
+    "longitude": "77.9207716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus ruficeps",
+    "common name": "Ashy Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556877998/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "6.870202",
+    "longitude": "101.37196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Orthotomus ruficeps",
+    "common name": "Ashy Tailorbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556877987/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "6.870202",
+    "longitude": "101.37196",
+    "quality_grade": "research"
+  }
+]

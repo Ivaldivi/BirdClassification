@@ -1,0 +1,1352 @@
+[
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/558164037/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "38.3212513941",
+    "longitude": "-123.0368485674",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/558136896/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.286399633",
+    "longitude": "-110.7816179088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558083929/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.5094619086",
+    "longitude": "-119.5794748726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558083898/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "49.4985871294",
+    "longitude": "-119.609827897",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558078848/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.2062467944",
+    "longitude": "-123.9741897859",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus cristatus",
+    "common name": "Crested Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558075629/square.jpg",
+    "date": "2020-12-15",
+    "latitude": "3.8206030794",
+    "longitude": "-72.7110349147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oreortyx pictus",
+    "common name": "Mountain Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558060945/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "36.9111150612",
+    "longitude": "-119.1210043072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558066909/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.6162033081",
+    "longitude": "-122.0176239014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558064667/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "38.970415",
+    "longitude": "-87.199768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://static.inaturalist.org/photos/558060877/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "19.50307",
+    "longitude": "-96.8264166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://static.inaturalist.org/photos/558034810/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "34.563475576",
+    "longitude": "-79.9275578791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557943574/square.jpg",
+    "date": "2013-06-23",
+    "latitude": "36.5424088038",
+    "longitude": "-121.9076967505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557943090/square.jpg",
+    "date": "2013-06-23",
+    "latitude": "36.5462426772",
+    "longitude": "-121.909071667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557915409/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.9127",
+    "longitude": "-122.6167616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557893567/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-36.6751934188",
+    "longitude": "174.7455119476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557880871/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.124375",
+    "longitude": "-117.1797416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557873401/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "37.8331450783",
+    "longitude": "-122.5349029733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557876034/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.465743534",
+    "longitude": "-123.4341834437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557876069/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.4656871567",
+    "longitude": "-123.4341968548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557876947/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "28.1108485",
+    "longitude": "-82.6948221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oreortyx pictus",
+    "common name": "Mountain Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557872075/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "36.9213666216",
+    "longitude": "-119.0279166636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oreortyx pictus",
+    "common name": "Mountain Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557871181/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "36.9213666216",
+    "longitude": "-119.0279166636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557849468/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.4394716667",
+    "longitude": "-122.3457416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus cristatus",
+    "common name": "Crested Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557839577/square.jpg",
+    "date": "2025-03-07",
+    "latitude": "7.1421790871",
+    "longitude": "-73.3245925664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808668/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "38.0402423684",
+    "longitude": "-122.8002019899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808359/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "38.0402423684",
+    "longitude": "-122.8001993077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808092/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "38.0403057214",
+    "longitude": "-122.8002100365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557808014/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "38.0403732792",
+    "longitude": "-122.8001858966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557807655/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "38.0409281046",
+    "longitude": "-122.8001625461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus leucopogon",
+    "common name": "Spot-bellied Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803452/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "15.0508578047",
+    "longitude": "-87.9633768047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://static.inaturalist.org/photos/557786644/square.jpg",
+    "date": "2023-07-11",
+    "latitude": "40.6616885",
+    "longitude": "-98.9185098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557765713/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "31.9045111111",
+    "longitude": "-109.1558611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557759589/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "31.9144837588",
+    "longitude": "-109.1443434695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557756554/square.jpg",
+    "date": "2025-04-09",
+    "latitude": "30.3046111111",
+    "longitude": "-98.1329416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557736123/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "38.0408792317",
+    "longitude": "-122.8001173063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557726769/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.323455",
+    "longitude": "-122.3127283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557702022/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.8405223614",
+    "longitude": "-90.5349913941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557695339/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "27.7844792251",
+    "longitude": "-82.141326367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557683987/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "34.5042616667",
+    "longitude": "-120.218795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557664699/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.6700866667",
+    "longitude": "-121.852555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://static.inaturalist.org/photos/557646607/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "18.691774701",
+    "longitude": "-96.2263562653",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus cristatus",
+    "common name": "Crested Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557589585/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "6.03015",
+    "longitude": "-71.3497116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philortyx fasciatus",
+    "common name": "Banded Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557592245/square.jpg",
+    "date": "2023-06-17",
+    "latitude": "16.8066174654",
+    "longitude": "-99.5417969263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus texanus",
+    "common name": "Texas bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557580082/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "25.8710027142",
+    "longitude": "-100.149529539",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557562148/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "37.3775283333",
+    "longitude": "-122.256905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557556201/square.jpg",
+    "date": "2023-05-23",
+    "latitude": "29.327800786",
+    "longitude": "-103.204974593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557549513/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "30.5910256",
+    "longitude": "-103.8807662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557530874/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.2601458169",
+    "longitude": "-102.772049199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557522676/square.jpg",
+    "date": "2017-12-05",
+    "latitude": "-33.5715971633",
+    "longitude": "-70.6326360783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557518626/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.6826882535",
+    "longitude": "-103.166065103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557438283/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "37.1249695",
+    "longitude": "-121.943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557430607/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.3947538218",
+    "longitude": "-121.8155591985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557430591/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.3947538218",
+    "longitude": "-121.8155591985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557422652/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "25.0685355393",
+    "longitude": "-101.048813872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyrtonyx montezumae",
+    "common name": "Montezuma Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557419894/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "31.423918409",
+    "longitude": "-111.1655978801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557405995/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "30.5910256",
+    "longitude": "-103.8807662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557404041/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "30.5910256",
+    "longitude": "-103.8807662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557403041/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.9005221207",
+    "longitude": "-117.2118949485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557394050/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "30.5910256",
+    "longitude": "-103.8807662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557394050/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "47.5467116983",
+    "longitude": "-117.3694507452",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557346162/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.1004634333",
+    "longitude": "-122.9404567629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Odontophorus leucolaemus",
+    "common name": "Black-breasted Wood-Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557338077/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "10.3037933242",
+    "longitude": "-84.7906726599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557323000/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.5722187097",
+    "longitude": "-112.0891399537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyrtonyx montezumae",
+    "common name": "Montezuma Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557262181/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "31.8456906713",
+    "longitude": "-109.2989143995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Odontophorus guttatus",
+    "common name": "Spotted Wood-Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557285752/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "9.5532884658",
+    "longitude": "-83.7930997421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oreortyx pictus",
+    "common name": "Mountain Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557281256/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "36.9220231829",
+    "longitude": "-119.0211521325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oreortyx pictus",
+    "common name": "Mountain Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557277384/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "36.9286598228",
+    "longitude": "-119.027211481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557273613/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "30.4567801",
+    "longitude": "-81.8372561",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557241867/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.1215869773",
+    "longitude": "-124.1570340893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557194504/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "31.3008448998",
+    "longitude": "-109.7200717668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557188095/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.4508340084",
+    "longitude": "-122.6508281443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557186773/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.4607716667",
+    "longitude": "-111.9441083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557168383/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.4495885815",
+    "longitude": "-122.6512309622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557147431/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "47.6573940603",
+    "longitude": "-117.4439871311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/557121593/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "35.412245241",
+    "longitude": "-119.0045935661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557075064/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "31.4862929",
+    "longitude": "-110.2510474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philortyx fasciatus",
+    "common name": "Banded Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557074848/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "19.2716968496",
+    "longitude": "-103.7242268398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557054114/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "34.4741533333",
+    "longitude": "-118.6212216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557047329/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.5874366667",
+    "longitude": "-104.4157333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557047329/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.9018535279",
+    "longitude": "-75.339841051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557047329/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.9025679594",
+    "longitude": "-75.3365881182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://static.inaturalist.org/photos/556948744/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "28.9859261328",
+    "longitude": "-81.0329585016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556859425/square.jpg",
+    "date": "2010-10-03",
+    "latitude": "-38.6790574556",
+    "longitude": "176.0982520172",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556856152/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "20.7422019659",
+    "longitude": "-156.8893404574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556836110/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "40.1271591896",
+    "longitude": "-123.824615788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philortyx fasciatus",
+    "common name": "Banded Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556835304/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "18.3281679543",
+    "longitude": "-99.5328310132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556818017/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "49.5947616667",
+    "longitude": "-119.5749583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556817917/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "49.5946383333",
+    "longitude": "-119.57505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556812699/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-36.9002283333",
+    "longitude": "174.7867283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556789715/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "32.2197085606",
+    "longitude": "-111.0027802343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556784963/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "38.1905416667",
+    "longitude": "-122.9559383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/556769334/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.466055",
+    "longitude": "-122.2875666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556764648/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "38.5885874551",
+    "longitude": "-121.3324120621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556758749/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "34.200466675",
+    "longitude": "-118.2128683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556739733/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "37.5565167061",
+    "longitude": "-119.896101688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556729040/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "39.1175380556",
+    "longitude": "-121.038425",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556726735/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.3679855459",
+    "longitude": "-111.8134839518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556691557/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.4501582396",
+    "longitude": "-111.9502804474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556689979/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.4490722004",
+    "longitude": "-111.9490477604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556683775/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.4507922151",
+    "longitude": "-111.9460257303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556675075/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.4525915568",
+    "longitude": "-111.9499497373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/556657209/square.jpg",
+    "date": "2009-12-12",
+    "latitude": "31.92105919",
+    "longitude": "-109.12803788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556641248/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "38.453803",
+    "longitude": "-123.0550013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/556600850/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "38.4498385173",
+    "longitude": "-122.6535741633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/556600038/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "38.4498885212",
+    "longitude": "-122.6518029533",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556601766/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "34.4531469353",
+    "longitude": "-118.5273075303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556568863/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "36.733696",
+    "longitude": "-102.690414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556568863/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "38.6708151352",
+    "longitude": "-78.5110461354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556505880/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "33.0735910286",
+    "longitude": "-116.7465886942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556505711/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "33.1554260636",
+    "longitude": "-116.7727460642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556505633/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "33.1319231174",
+    "longitude": "-116.6504726406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556505626/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "33.1600681024",
+    "longitude": "-116.7638290387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556505584/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "33.1840414987",
+    "longitude": "-116.6517686103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556505438/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "33.0549218251",
+    "longitude": "-116.6471773307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556505466/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "33.0852103246",
+    "longitude": "-116.6788654809",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556495538/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "33.0437583144",
+    "longitude": "-116.6376175528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556495522/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "33.1041384899",
+    "longitude": "-116.7113515059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556499206/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "30.9558416667",
+    "longitude": "-103.72255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556499185/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "30.969845",
+    "longitude": "-103.7189716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla squamata",
+    "common name": "Scaled Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556499174/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "30.967161065",
+    "longitude": "-103.7132853558",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556486855/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.1881829332",
+    "longitude": "-107.2070060172",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556333023/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "32.242155",
+    "longitude": "-111.1670383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556313081/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "38.774505",
+    "longitude": "-122.97387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556291269/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "27.5793547851",
+    "longitude": "-97.4377266426",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556291564/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "31.854509547",
+    "longitude": "-110.9858384545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556278009/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "40.922945",
+    "longitude": "-124.128175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556270394/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "36.66473",
+    "longitude": "-121.7715533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556268440/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.3562433597",
+    "longitude": "-120.7670722059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556265766/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "48.5574103664",
+    "longitude": "-123.4298521655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556254196/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "37.7907047348",
+    "longitude": "-122.1436015517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/556229099/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "40.5352452772",
+    "longitude": "-111.8682528378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oreortyx pictus",
+    "common name": "Mountain Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556218668/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "37.7416211",
+    "longitude": "-119.5113395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556183968/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "28.40475",
+    "longitude": "-82.3654466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556183903/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "28.404755",
+    "longitude": "-82.365455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556136365/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "34.09223",
+    "longitude": "-118.587265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Odontophorus capueira",
+    "common name": "Spot-winged Wood-Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/556124579/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-23.7704726372",
+    "longitude": "-46.4540536884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556113990/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "37.4037783333",
+    "longitude": "-122.2598583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Odontophorus hyperythrus",
+    "common name": "Chestnut Wood-Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/556106192/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "5.4092304951",
+    "longitude": "-75.6902717839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556100485/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "28.202527",
+    "longitude": "-110.591418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556097775/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "28.202527",
+    "longitude": "-110.591418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556097585/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "28.202527",
+    "longitude": "-110.591418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556095061/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "28.202527",
+    "longitude": "-110.591418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556090664/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "28.202134",
+    "longitude": "-110.591498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla gambelii",
+    "common name": "Gambel's Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556086763/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "28.197807",
+    "longitude": "-110.588449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556059169/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "40.8079415582",
+    "longitude": "-124.1075877663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556055542/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "49.2056110536",
+    "longitude": "-123.9824656914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556045200/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "49.5113079628",
+    "longitude": "-119.6462625269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://static.inaturalist.org/photos/556044980/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "39.8450366667",
+    "longitude": "-75.1659555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556037905/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "38.1935481983",
+    "longitude": "-122.9015093367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callipepla californica",
+    "common name": "California Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556037463/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "38.1355331942",
+    "longitude": "-122.9993479105",
+    "quality_grade": "research"
+  }
+]

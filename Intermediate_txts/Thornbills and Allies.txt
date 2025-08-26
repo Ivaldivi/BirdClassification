@@ -1,0 +1,1280 @@
+[
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558039479/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-38.2899074781",
+    "longitude": "144.4975564671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis maculatus",
+    "common name": "Spotted Scrubwren",
+    "observation photo url": "https://static.inaturalist.org/photos/557960426/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-26.0025925628",
+    "longitude": "113.1899710492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aphelocephala leucopsis",
+    "common name": "Southern Whiteface",
+    "observation photo url": "https://static.inaturalist.org/photos/557954797/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.4616616667",
+    "longitude": "137.74797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557949257/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.7104501",
+    "longitude": "150.3756383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone fusca",
+    "common name": "Western Gerygone",
+    "observation photo url": "https://static.inaturalist.org/photos/557947887/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-26.4870507791",
+    "longitude": "147.9829122184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza apicalis",
+    "common name": "Inland Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557947919/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-32.0194167621",
+    "longitude": "116.036600545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza lineata",
+    "common name": "Striated Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557946481/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.7272557152",
+    "longitude": "150.3726630878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://static.inaturalist.org/photos/557946884/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-26.4870507791",
+    "longitude": "147.9829122184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557941674/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-34.0779664942",
+    "longitude": "150.702557154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557940892/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-34.0784271991",
+    "longitude": "150.7666599378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis maculatus",
+    "common name": "Spotted Scrubwren",
+    "observation photo url": "https://static.inaturalist.org/photos/557895820/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.5125037788",
+    "longitude": "113.5118154491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone sulphurea",
+    "common name": "Golden-bellied Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557895930/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "13.4877555577",
+    "longitude": "100.3371158615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557887218/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-36.4205987191",
+    "longitude": "140.342695734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza uropygialis",
+    "common name": "Chestnut-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557881031/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-35.0430506016",
+    "longitude": "141.7359674935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone sulphurea",
+    "common name": "Golden-bellied Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862346/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "13.4875191865",
+    "longitude": "100.3364966065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone sulphurea",
+    "common name": "Golden-bellied Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557858481/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "13.4876267762",
+    "longitude": "100.3363299742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone sulphurea",
+    "common name": "Golden-bellied Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557853734/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "13.4875876526",
+    "longitude": "100.3363356739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557817428/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-21.1682273",
+    "longitude": "148.5050063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557810677/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-21.0753",
+    "longitude": "148.5385133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza apicalis",
+    "common name": "Inland Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557778904/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.5262316599",
+    "longitude": "145.7952280703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza uropygialis",
+    "common name": "Chestnut-rumped Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557785001/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.5265462389",
+    "longitude": "145.7952280703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza uropygialis",
+    "common name": "Chestnut-rumped Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557778027/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.552253038",
+    "longitude": "145.8267281971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza uropygialis",
+    "common name": "Chestnut-rumped Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557777758/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.5338063386",
+    "longitude": "145.779230433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza lineata",
+    "common name": "Striated Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557775386/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.6450786652",
+    "longitude": "145.3037936991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza uropygialis",
+    "common name": "Chestnut-rumped Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557773258/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-32.3077163326",
+    "longitude": "142.4963763487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557705605/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-38.3550433893",
+    "longitude": "146.3878153238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557624465/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.6452182778",
+    "longitude": "145.2952599444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557618254/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.645825",
+    "longitude": "145.2939733333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557546837/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-34.6152494712",
+    "longitude": "150.8539913222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557500748/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-38.4055097322",
+    "longitude": "144.1996918351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza ewingii",
+    "common name": "Tasmanian Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557500748/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-42.7333382492",
+    "longitude": "147.8400104163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calamanthus fuliginosus",
+    "common name": "Striated Fieldwren",
+    "observation photo url": "https://static.inaturalist.org/photos/557492725/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-41.6766770054",
+    "longitude": "145.9471524507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone igata",
+    "common name": "Grey Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557488117/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-45.8563282944",
+    "longitude": "170.6355503574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557482042/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-38.4629728287",
+    "longitude": "145.275717557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557471196/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.5129429367",
+    "longitude": "152.6984911722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557477539/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-34.0781358456",
+    "longitude": "150.7659826659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aphelocephala leucopsis",
+    "common name": "Southern Whiteface",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557471985/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.7015016667",
+    "longitude": "140.1253663889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557459516/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-28.220193224",
+    "longitude": "151.9851090387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557459022/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-37.9095444718",
+    "longitude": "147.6055638109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557458937/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-37.910052169",
+    "longitude": "147.6021496096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557458937/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.87",
+    "longitude": "145.38",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557444827/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.7893366667",
+    "longitude": "151.1473528333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557444413/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-36.235608053",
+    "longitude": "140.0886683035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557444228/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.6489892516",
+    "longitude": "145.2922281823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Origma solitaria",
+    "common name": "Rockwarbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557438041/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.6594583333",
+    "longitude": "151.1538833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557437618/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.6594583333",
+    "longitude": "151.1538833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557435658/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.6594583333",
+    "longitude": "151.1538833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557435188/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-32.344325",
+    "longitude": "138.047245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557435232/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.6591783333",
+    "longitude": "151.1539083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557434118/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.6591783333",
+    "longitude": "151.1539083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557370832/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7783962485",
+    "longitude": "143.4211972131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone igata",
+    "common name": "Grey Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557417520/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-41.2856702487",
+    "longitude": "174.7577368108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557407920/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2690620028",
+    "longitude": "152.7646460109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Origma solitaria",
+    "common name": "Rockwarbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557401730/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-34.016451",
+    "longitude": "151.001846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis humilis",
+    "common name": "Tasmanian Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557404634/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-42.6779966667",
+    "longitude": "146.71367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone olivacea",
+    "common name": "White-throated Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557390874/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2760763102",
+    "longitude": "152.7598392634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557390874/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-29.1206091392",
+    "longitude": "153.3694573077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hylacola pyrrhopygia",
+    "common name": "Chestnut-rumped Heathwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557395969/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-36.5587085826",
+    "longitude": "141.2326997631",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557389318/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.3150159099",
+    "longitude": "149.1585946798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557373361/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-41.1057124577",
+    "longitude": "146.320184276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557348465/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-38.0071471248",
+    "longitude": "145.1315228641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza uropygialis",
+    "common name": "Chestnut-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557336001/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-33.761238171",
+    "longitude": "140.1542112459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza uropygialis",
+    "common name": "Chestnut-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557332209/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.7623227861",
+    "longitude": "140.1258985759",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557322317/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-27.2493490606",
+    "longitude": "152.824376063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone olivacea",
+    "common name": "White-throated Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557319945/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-27.2386236113",
+    "longitude": "152.8103692775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis maculatus",
+    "common name": "Spotted Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557126460/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-31.870125",
+    "longitude": "116.087375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://static.inaturalist.org/photos/557104189/square.jpg",
+    "date": "2023-12-23",
+    "latitude": "-33.5008472222",
+    "longitude": "150.390975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis maculatus",
+    "common name": "Spotted Scrubwren",
+    "observation photo url": "https://static.inaturalist.org/photos/556988495/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-28.4299606501",
+    "longitude": "113.7424995847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza lineata",
+    "common name": "Striated Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556961818/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.9064794803",
+    "longitude": "145.3726158172",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris occidentalis",
+    "common name": "Southern Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556954030/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.3022570686",
+    "longitude": "116.4531558421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556930828/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-36.0939122764",
+    "longitude": "148.6365259478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556924616/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-38.3623745",
+    "longitude": "145.013098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556918126/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.0516963911",
+    "longitude": "148.2151341811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza lineata",
+    "common name": "Striated Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556914901/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.4286418246",
+    "longitude": "149.5513867476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza nana",
+    "common name": "Yellow Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556914831/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.4293454082",
+    "longitude": "149.5527633502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556914661/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-38.3211534775",
+    "longitude": "145.1912185323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calamanthus campestris",
+    "common name": "Rufous Fieldwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556877820/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-35.4440039521",
+    "longitude": "142.834166639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556877176/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-37.87685",
+    "longitude": "145.4138138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556862167/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2301264588",
+    "longitude": "153.1351889719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556861421/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2302900659",
+    "longitude": "153.1354549032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neosericornis citreogularis",
+    "common name": "Yellow-throated Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556861324/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2302900659",
+    "longitude": "153.1354549032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis magnirostra",
+    "common name": "Large-billed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556861254/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2302900659",
+    "longitude": "153.1354549032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556873805/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-30.3768166667",
+    "longitude": "152.7288",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neosericornis citreogularis",
+    "common name": "Yellow-throated Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556872091/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-30.3792222222",
+    "longitude": "152.7289138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza apicalis",
+    "common name": "Inland Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556864044/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-32.0464387664",
+    "longitude": "116.0745739824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556859526/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-37.9143874076",
+    "longitude": "145.211391306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556858256/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-38.1502365926",
+    "longitude": "144.3779200959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556849350/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "-37.8754249206",
+    "longitude": "144.8133646785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza lineata",
+    "common name": "Striated Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556855238/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.8385787017",
+    "longitude": "143.7955849845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556852476/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.8376783333",
+    "longitude": "145.342655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza lineata",
+    "common name": "Striated Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556851692/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-36.7678191504",
+    "longitude": "149.8120619547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone igata",
+    "common name": "Grey Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556844714/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-41.191537855",
+    "longitude": "174.9387681906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone igata",
+    "common name": "Grey Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556844669/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-41.191537855",
+    "longitude": "174.9387681906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556843515/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-36.8631297857",
+    "longitude": "147.2833861857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calamanthus fuliginosus",
+    "common name": "Striated Fieldwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556827720/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "-38.0051537022",
+    "longitude": "144.5900376522",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone igata",
+    "common name": "Grey Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556833070/square.jpg",
+    "date": "2010-09-22",
+    "latitude": "-43.9974666",
+    "longitude": "170.4189716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza lineata",
+    "common name": "Striated Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556827042/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-28.3465360542",
+    "longitude": "152.3451150857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone mouki",
+    "common name": "Brown Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556825779/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-28.3533248102",
+    "longitude": "152.3439055208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556831418/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-31.612155",
+    "longitude": "152.2915216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556830812/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-36.3713416667",
+    "longitude": "146.3245083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone mouki",
+    "common name": "Brown Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556828676/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-33.3434470013",
+    "longitude": "151.3676687175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556828572/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-33.3433745838",
+    "longitude": "151.3675483205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556827898/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.0157695025",
+    "longitude": "138.673696382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556817899/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.8261784433",
+    "longitude": "145.1428092067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556947438/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.8832879174",
+    "longitude": "145.1359830131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556801374/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-32.9577613454",
+    "longitude": "151.7251604108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa chrysorrhoa",
+    "common name": "Western Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556798270/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.5279515128",
+    "longitude": "116.5167559599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis maculatus maculatus",
+    "common name": "Southwestern Spotted Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556795389/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.3389711536",
+    "longitude": "116.4603267652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza apicalis whitlocki",
+    "common name": "Western Inland Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556794230/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.3030151619",
+    "longitude": "116.451922199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone igata",
+    "common name": "Grey Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556785161/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-43.77653",
+    "longitude": "172.75868",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556778073/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-37.8267449552",
+    "longitude": "145.1632587181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556777986/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-37.8262257496",
+    "longitude": "145.16354938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556759348/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.0112890236",
+    "longitude": "150.5705350356",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556748592/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-35.0163524464",
+    "longitude": "138.7143381053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556748529/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-35.0163524464",
+    "longitude": "138.7143381053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone igata",
+    "common name": "Grey Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556748529/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-43.6632952538",
+    "longitude": "172.6084486311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556726012/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.0750446702",
+    "longitude": "150.758502868",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556711907/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.3679471",
+    "longitude": "153.0995008",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556697906/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-35.2714583333",
+    "longitude": "149.1356055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556697906/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.9435528518",
+    "longitude": "153.4156289804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone levigaster",
+    "common name": "Mangrove Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556611999/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.609868812",
+    "longitude": "152.8736872988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis maculatus",
+    "common name": "Spotted Scrubwren",
+    "observation photo url": "https://static.inaturalist.org/photos/556436815/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-28.4317578672",
+    "longitude": "113.7421176353",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza nana",
+    "common name": "Yellow Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556416785/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.978491",
+    "longitude": "147.972177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556414233/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-39.0140073686",
+    "longitude": "146.3411628151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza nana",
+    "common name": "Yellow Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556412417/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.9373216667",
+    "longitude": "151.1456833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://static.inaturalist.org/photos/556405362/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-37.8582613218",
+    "longitude": "144.8672977835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556404608/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-37.8562833745",
+    "longitude": "144.8689765111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556402923/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-37.8581255249",
+    "longitude": "144.8707511276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556384494/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.3421541395",
+    "longitude": "149.1600060943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556383615/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.3424847976",
+    "longitude": "149.1607248244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556383603/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.3427070896",
+    "longitude": "149.1603042954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556383605/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.3425458652",
+    "longitude": "149.1603959073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smicrornis brevirostris",
+    "common name": "Weebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556383581/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.3420791611",
+    "longitude": "149.1603458696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza uropygialis",
+    "common name": "Chestnut-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556383717/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.2124833866",
+    "longitude": "142.2293391824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla diemenensis",
+    "common name": "Tasmanian Brown Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556382210/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-41.2387394543",
+    "longitude": "146.3262366522",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gerygone igata",
+    "common name": "Grey Gerygone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556378679/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-36.3709583333",
+    "longitude": "174.8458016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza lineata",
+    "common name": "Striated Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556370130/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-37.7394923717",
+    "longitude": "145.1769550479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza chrysorrhoa",
+    "common name": "Yellow-rumped Thornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556363165/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-38.3033322316",
+    "longitude": "144.3165728822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556352317/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.54271",
+    "longitude": "152.99501",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis magnirostra",
+    "common name": "Large-billed Scrubwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556348815/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-28.0096664791",
+    "longitude": "153.2666826104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sericornis frontalis",
+    "common name": "White-browed Scrubwren",
+    "observation photo url": "https://static.inaturalist.org/photos/556334639/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.3800483171",
+    "longitude": "153.0359631094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthiza pusilla",
+    "common name": "Brown Thornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556324627/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.3763674339",
+    "longitude": "153.0937080232",
+    "quality_grade": "research"
+  }
+]

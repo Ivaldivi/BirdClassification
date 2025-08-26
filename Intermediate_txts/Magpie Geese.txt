@@ -1,0 +1,1703 @@
+[
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557970865/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-12.896878805",
+    "longitude": "132.5172457117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557926508/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-12.895587705",
+    "longitude": "132.5182396583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557877879/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-15.50702",
+    "longitude": "145.22873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557452294/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-38.0032777833",
+    "longitude": "144.4094866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/557447312/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-29.6816894",
+    "longitude": "152.9336547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557400904/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.3018193273",
+    "longitude": "143.3510722056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557386977/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2760763102",
+    "longitude": "152.7598392634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557235043/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-28.1261361111",
+    "longitude": "153.4413833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556912471/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-27.5710490646",
+    "longitude": "152.9864266142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556894076/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-23.5346401997",
+    "longitude": "148.1660323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556839804/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "-38.0008166667",
+    "longitude": "144.4101716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556830282/square.jpg",
+    "date": "2021-11-26",
+    "latitude": "-23.2525819044",
+    "longitude": "150.8229972463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556494539/square.jpg",
+    "date": "2019-06-02",
+    "latitude": "-12.650284629",
+    "longitude": "132.5734600313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/556355006/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.3396032829",
+    "longitude": "149.7568722597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556275817/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-23.8981773973",
+    "longitude": "151.2591691056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555933494/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.2179161111",
+    "longitude": "146.7564238889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555463542/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.2006050191",
+    "longitude": "146.750628776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555451120/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.2179783976",
+    "longitude": "146.7542668718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555357902/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-23.87120588",
+    "longitude": "151.23821778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555325429/square.jpg",
+    "date": "2016-09-24",
+    "latitude": "-12.4890060711",
+    "longitude": "130.9163098303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555320689/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-12.5571664995",
+    "longitude": "131.2978308415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555881455/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-37.6704376453",
+    "longitude": "141.0053195571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555001300/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-25.3735789533",
+    "longitude": "152.672157041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554541590/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-28.5328388056",
+    "longitude": "150.3191833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554484117/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.4844067982",
+    "longitude": "153.1159713176",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554483983/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.4840101606",
+    "longitude": "153.1157727318",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554483955/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.4816220516",
+    "longitude": "153.1145749617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554390951/square.jpg",
+    "date": "2019-06-01",
+    "latitude": "-12.8650128245",
+    "longitude": "132.7957314257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554301190/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "-17.2883977542",
+    "longitude": "145.5472749594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/554188620/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-12.7173762",
+    "longitude": "131.6395141",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554135054/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-17.2986770139",
+    "longitude": "145.4762718827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/554128607/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-12.6507603997",
+    "longitude": "132.5738902997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554048617/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.8416982237",
+    "longitude": "153.3417997414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553970995/square.jpg",
+    "date": "2019-06-01",
+    "latitude": "-12.8926511998",
+    "longitude": "132.5115909666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553714160/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-17.2930116667",
+    "longitude": "145.47865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553618573/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.2320012353",
+    "longitude": "146.7596911567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/553615336/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-12.8973866",
+    "longitude": "132.5159998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553614979/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-12.8973758972",
+    "longitude": "132.5160461306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/553585587/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-28.0982343661",
+    "longitude": "153.4193438664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553581558/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-28.0734555",
+    "longitude": "148.7557966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553568063/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-38.0423340714",
+    "longitude": "140.8997085181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553554763/square.jpg",
+    "date": "2025-04-16",
+    "latitude": "-19.3525417452",
+    "longitude": "146.7324474613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553551187/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-23.89797",
+    "longitude": "151.2593833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/553153935/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-16.9030711997",
+    "longitude": "145.7490225997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553118263/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-27.9194848",
+    "longitude": "153.3770578",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552959155/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-19.2050836111",
+    "longitude": "146.7453361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/552631303/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-27.0266138333",
+    "longitude": "153.1444555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/552631147/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-27.0266138333",
+    "longitude": "153.1441028333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/552597983/square.jpg",
+    "date": "2024-08-18",
+    "latitude": "-17.298677",
+    "longitude": "145.476272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552515776/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-12.4290563889",
+    "longitude": "130.9460918889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552515924/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-17.7391797677",
+    "longitude": "123.6035156139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552511978/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-28.1078151558",
+    "longitude": "153.4453300499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552473350/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-12.896165",
+    "longitude": "132.516975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/552167410/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-27.861905",
+    "longitude": "153.3187221997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550818920/square.jpg",
+    "date": "2024-10-09",
+    "latitude": "-12.8932832675",
+    "longitude": "132.5162640835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550773782/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-16.9028984786",
+    "longitude": "145.748677569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550595340/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-19.1195735569",
+    "longitude": "146.8600698785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550594324/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-19.1300480068",
+    "longitude": "146.8399918762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550593256/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-19.1300480068",
+    "longitude": "146.8399918762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550592861/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-19.1300480068",
+    "longitude": "146.8399918762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550574243/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-19.30877",
+    "longitude": "146.7622216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550348557/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.4399344221",
+    "longitude": "130.9456620365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550239330/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-12.8654659997",
+    "longitude": "132.7972058",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550199569/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-16.8552971058",
+    "longitude": "145.7253069431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550189766/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-26.2138406",
+    "longitude": "152.6849566997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550181682/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.217895",
+    "longitude": "146.7564866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550153357/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-16.9028380631",
+    "longitude": "145.7488463657",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550153330/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-16.9028380631",
+    "longitude": "145.7488463657",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/550155166/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-19.2053016667",
+    "longitude": "146.746115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550124549/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-17.2920979955",
+    "longitude": "145.477827201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550066687/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-12.8973688464",
+    "longitude": "132.5153994193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/550099010/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-19.2258233333",
+    "longitude": "146.7601849722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549584893/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-27.0265565",
+    "longitude": "153.1439947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/549292884/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-32.8759893233",
+    "longitude": "151.6961784481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/549244969/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-16.9019290014",
+    "longitude": "145.7508692572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/549216773/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-16.5201831197",
+    "longitude": "145.4708352688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548751156/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-12.7094953124",
+    "longitude": "131.63555637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548214872/square.jpg",
+    "date": "2025-01-10",
+    "latitude": null,
+    "longitude": null,
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/547891088/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-19.120026511",
+    "longitude": "146.8602333151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/547890865/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-19.120026511",
+    "longitude": "146.8602333151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547830814/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-27.4259666631",
+    "longitude": "153.103009695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547727756/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-38.0022069915",
+    "longitude": "144.4080787032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547289054/square.jpg",
+    "date": "2024-06-11",
+    "latitude": "-14.7231443",
+    "longitude": "134.7074411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547288788/square.jpg",
+    "date": "2024-06-11",
+    "latitude": "-14.7231443",
+    "longitude": "134.7074411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547288768/square.jpg",
+    "date": "2024-06-11",
+    "latitude": "-14.7231443",
+    "longitude": "134.7074411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547282598/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-27.4884233",
+    "longitude": "153.1369883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546751849/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-24.8671416667",
+    "longitude": "152.3653416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/546671001/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-19.2166812683",
+    "longitude": "146.6031359509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546185655/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-38.321964401",
+    "longitude": "142.0760392466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546128969/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-17.2928105688",
+    "longitude": "145.4785571312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546126553/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-17.2927633333",
+    "longitude": "145.47853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546110625/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-27.4832168997",
+    "longitude": "153.1146084",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544614549/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-38.0057169",
+    "longitude": "144.4125501",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544351941/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-12.5598062851",
+    "longitude": "131.3006500807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544351936/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-12.5598062851",
+    "longitude": "131.3006500807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544351879/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-12.5598062851",
+    "longitude": "131.3006500807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544351873/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-12.5598062851",
+    "longitude": "131.3006500807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544348539/square.jpg",
+    "date": "2024-10-30",
+    "latitude": "-21.1562278333",
+    "longitude": "149.1580805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543801527/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-27.6255602",
+    "longitude": "153.1527719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543801503/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-27.6255602",
+    "longitude": "153.1527719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543801498/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-27.6255602",
+    "longitude": "153.1527719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543385060/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "30.4023857397",
+    "longitude": "-97.6896394173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543171539/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-14.7900527778",
+    "longitude": "144.1566361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542733967/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-32.8760361",
+    "longitude": "151.6959195997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542172340/square.jpg",
+    "date": "2022-08-03",
+    "latitude": "-15.50657",
+    "longitude": "145.22895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541714073/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-9.3809492258",
+    "longitude": "142.6241440844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/540825547/square.jpg",
+    "date": "2024-07-18",
+    "latitude": "-5.0573958",
+    "longitude": "138.3988186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540688211/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-27.5711622983",
+    "longitude": "152.9866512492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540651049/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-15.50465409",
+    "longitude": "145.2249668733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/540640322/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-16.5264255768",
+    "longitude": "145.47020593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540580070/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "-19.2027",
+    "longitude": "146.738",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540139312/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-12.9020491",
+    "longitude": "132.520349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540131502/square.jpg",
+    "date": "2024-11-24",
+    "latitude": "-31.0352068968",
+    "longitude": "152.9167376041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539965397/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-12.5579772459",
+    "longitude": "131.2977856285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539931712/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-27.4852461563",
+    "longitude": "153.1155986336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539606617/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-25.285933797",
+    "longitude": "152.7050038495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539441220/square.jpg",
+    "date": "2013-07-23",
+    "latitude": "-16.11885",
+    "longitude": "128.734945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539341755/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-27.483379",
+    "longitude": "153.1151729999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539341267/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-27.4833952724",
+    "longitude": "153.1150033399",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538958173/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-9.3829195688",
+    "longitude": "142.6266081234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538852097/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-27.6255602",
+    "longitude": "153.1527719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538733274/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-12.8901533333",
+    "longitude": "132.50972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538715663/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-12.8928533333",
+    "longitude": "132.5172716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538446890/square.jpg",
+    "date": "2013-09-24",
+    "latitude": "-30.3388616667",
+    "longitude": "149.7562083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538346922/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-27.1599888333",
+    "longitude": "153.00528055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/537768797/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-17.298677",
+    "longitude": "145.476272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/537768415/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-17.298677",
+    "longitude": "145.476272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537671250/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-16.9031251659",
+    "longitude": "145.7484914705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536957452/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-19.1201096523",
+    "longitude": "146.8596044164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/536382523/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-37.9209084471",
+    "longitude": "144.662588574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/535850095/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-32.8757949722",
+    "longitude": "151.695917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535804215/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-18.651405",
+    "longitude": "146.1694633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535797741/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-12.5577302334",
+    "longitude": "131.2982831449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535597572/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-32.8756488696",
+    "longitude": "151.6963792828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535261574/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-32.8753549972",
+    "longitude": "151.6965866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535228615/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-38.0039527833",
+    "longitude": "144.4095333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535221021/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-28.8270916118",
+    "longitude": "153.5313148822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535154029/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-27.3107143",
+    "longitude": "153.0217484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534851790/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-17.7402516667",
+    "longitude": "123.57549",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/534845422/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-27.5713666667",
+    "longitude": "152.9869583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534830150/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-32.8758862213",
+    "longitude": "151.6964433117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534793460/square.jpg",
+    "date": "2023-08-15",
+    "latitude": "-12.566355",
+    "longitude": "131.3073883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533876325/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "-19.2033",
+    "longitude": "146.7486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533833516/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-12.9049883764",
+    "longitude": "132.5160234373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533283025/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-21.0672083333",
+    "longitude": "149.1714869444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533282906/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-21.0675247222",
+    "longitude": "149.1716186111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533277414/square.jpg",
+    "date": "2024-05-05",
+    "latitude": "-38.01898016",
+    "longitude": "140.8731683625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533264814/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-16.9032642884",
+    "longitude": "145.7485867294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533151167/square.jpg",
+    "date": "2023-09-16",
+    "latitude": "-27.572134",
+    "longitude": "152.269912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532821960/square.jpg",
+    "date": "2021-07-01",
+    "latitude": "-15.5959357034",
+    "longitude": "128.2792537336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/532228313/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-38.3265182997",
+    "longitude": "142.0660503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532158619/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "-12.19655",
+    "longitude": "134.28015",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531631597/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-38.3265355997",
+    "longitude": "142.066012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531112011/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-36.093747809",
+    "longitude": "145.4446208104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530647187/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-16.9029213207",
+    "longitude": "145.7488964155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530547745/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-19.1210866667",
+    "longitude": "146.8595166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530165245/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-19.1205966667",
+    "longitude": "146.858485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530163502/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-19.1199916667",
+    "longitude": "146.857835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530163230/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-19.1199916667",
+    "longitude": "146.857835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530162618/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-19.1199916667",
+    "longitude": "146.857835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530121782/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "-37.9203947861",
+    "longitude": "144.6641560579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530098371/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-12.865395",
+    "longitude": "132.797195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529635245/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "-33.3868283333",
+    "longitude": "148.01347",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529163602/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-27.4262772",
+    "longitude": "153.1037228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529097480/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-16.9025270082",
+    "longitude": "145.7492559684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529050434/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-16.9033161281",
+    "longitude": "145.7485279585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529021508/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-25.2766667",
+    "longitude": "152.759647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528556757/square.jpg",
+    "date": "2023-03-04",
+    "latitude": "-38.003781254",
+    "longitude": "144.4084509272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/528548684/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-28.1086289708",
+    "longitude": "153.4449934965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528476377/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-32.875655",
+    "longitude": "151.6962133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/528339610/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-12.8824025094",
+    "longitude": "132.5007484853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527999773/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-19.2259437151",
+    "longitude": "146.7601473694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527903178/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-16.5253833333",
+    "longitude": "145.4669033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527563201/square.jpg",
+    "date": "2023-07-12",
+    "latitude": "-12.9729907882",
+    "longitude": "132.4835084337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527563212/square.jpg",
+    "date": "2023-07-12",
+    "latitude": "-12.8223879402",
+    "longitude": "132.5377753716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527563188/square.jpg",
+    "date": "2023-07-12",
+    "latitude": "-12.9897237279",
+    "longitude": "132.5896461208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527562796/square.jpg",
+    "date": "2023-07-12",
+    "latitude": "-12.844620488",
+    "longitude": "132.464324763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/527463291/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-16.526783587",
+    "longitude": "145.4714459181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527316851/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "-12.9020492259",
+    "longitude": "132.520349063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527012404/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-16.9024969031",
+    "longitude": "145.7499739202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526431700/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-27.2999444",
+    "longitude": "153.0335611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526352545/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-12.8870386945",
+    "longitude": "132.5207651154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526221781/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-19.5744451",
+    "longitude": "147.4066109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526090965/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-16.9026083333",
+    "longitude": "145.7490533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525849788/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-29.7034604205",
+    "longitude": "152.9561681436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525734568/square.jpg",
+    "date": "2024-12-18",
+    "latitude": "-12.6509991275",
+    "longitude": "132.5739718848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525569705/square.jpg",
+    "date": "2023-07-11",
+    "latitude": "-12.8249184479",
+    "longitude": "132.6346252555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525569698/square.jpg",
+    "date": "2023-07-11",
+    "latitude": "-12.8574122954",
+    "longitude": "132.7580244946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anseranas semipalmata",
+    "common name": "Magpie Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525569665/square.jpg",
+    "date": "2023-07-11",
+    "latitude": "-12.9859130794",
+    "longitude": "132.7414324252",
+    "quality_grade": "research"
+  }
+]

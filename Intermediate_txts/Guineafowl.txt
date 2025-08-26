@@ -1,0 +1,1325 @@
+[
+  {
+    "species": "Guttera edouardi",
+    "common name": "Southern Crested Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557952983/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-26.2598944444",
+    "longitude": "31.8755333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris mitratus",
+    "common name": "Bushveld Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/557751495/square.jpg",
+    "date": "2005-07-17",
+    "latitude": "-23.1076112913",
+    "longitude": "31.4322387811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557718343/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "37.8503096567",
+    "longitude": "-79.6826060207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/557710552/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.0406305",
+    "longitude": "-79.3715666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557631987/square.jpg",
+    "date": "2024-09-13",
+    "latitude": "-33.6203264543",
+    "longitude": "25.8047226749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guttera edouardi edouardi",
+    "common name": "Southern Crested Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557613856/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-28.2800466667",
+    "longitude": "32.4694866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/557595335/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.8498069",
+    "longitude": "18.6362291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557493287/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-8.5627105822",
+    "longitude": "-37.0826355168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557481805/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.8824194444",
+    "longitude": "28.2637833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557475598/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.9377403495",
+    "longitude": "25.5435938287",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434634/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-26.3131903244",
+    "longitude": "27.3668998119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557355662/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "-33.9875011",
+    "longitude": "18.432722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557355031/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "-33.9875011",
+    "longitude": "18.432722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris mitratus",
+    "common name": "Bushveld Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557263686/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-17.847057384",
+    "longitude": "25.1170909936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris mitratus",
+    "common name": "Bushveld Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557263680/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-17.847057384",
+    "longitude": "25.1170909936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557197950/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-24.50692",
+    "longitude": "31.0467805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557187785/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.1438364744",
+    "longitude": "18.8578210368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557149382/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.85140788",
+    "longitude": "-79.05667593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guttera edouardi edouardi",
+    "common name": "Southern Crested Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557094480/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.6591533333",
+    "longitude": "32.3000033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/557090093/square.jpg",
+    "date": "2025-02-15",
+    "latitude": "-33.926545",
+    "longitude": "18.8695416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557055952/square.jpg",
+    "date": "2024-07-03",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556930647/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-22.629325",
+    "longitude": "17.1148916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556925393/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-19.3203706445",
+    "longitude": "15.7988950841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556919527/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-32.2203483333",
+    "longitude": "24.6391583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris meleagris",
+    "common name": "Saharan Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556867855/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-0.608021376",
+    "longitude": "30.9747312949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556875662/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-29.8592364",
+    "longitude": "152.8470867997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556858242/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.3417062806",
+    "longitude": "31.8093474302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556852025/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-22.55392",
+    "longitude": "17.0907916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556761227/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-43.79911264",
+    "longitude": "172.353538507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556685886/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.5577719166",
+    "longitude": "-117.08529435",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556660986/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "0.6486980123",
+    "longitude": "36.5843854723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556653890/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "39.37358",
+    "longitude": "-121.3868166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556651323/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "39.37367",
+    "longitude": "-121.3867633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556645013/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-33.9891494",
+    "longitude": "18.4321272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556600492/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-33.9875009868",
+    "longitude": "18.4327220544",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556535812/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-0.0795291662",
+    "longitude": "36.9627990723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556513662/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.4634590149",
+    "longitude": "-72.3426513672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris meleagris",
+    "common name": "Saharan Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556484880/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "2.2256165752",
+    "longitude": "31.7698481306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/556484322/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "3.0414634997",
+    "longitude": "-75.7379936997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556476034/square.jpg",
+    "date": "2024-02-06",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556403740/square.jpg",
+    "date": "2024-02-02",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556386019/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "-24.6426136",
+    "longitude": "28.69471746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556353416/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-15.4359777051",
+    "longitude": "-55.7696096599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556214221/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-17.2683381308",
+    "longitude": "145.5880727457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris mitratus",
+    "common name": "Bushveld Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556197975/square.jpg",
+    "date": "2023-02-27",
+    "latitude": "-24.7524533333",
+    "longitude": "27.935375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris papillosus",
+    "common name": "Arid Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556153414/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.5750707379",
+    "longitude": "17.1278294517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556143961/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-33.7404216667",
+    "longitude": "18.9851966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556140629/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-34.0923163889",
+    "longitude": "18.8081263889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556141014/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "31.5323588997",
+    "longitude": "-81.4468169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/556138369/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "40.0291221667",
+    "longitude": "-105.1119471667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris mitratus",
+    "common name": "Bushveld Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/556061517/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-24.96901529",
+    "longitude": "31.62561664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556039288/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-26.472780809",
+    "longitude": "27.4780658557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556037959/square.jpg",
+    "date": "2015-09-08",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556023551/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.023559",
+    "longitude": "37.906193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556022290/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-33.9470101",
+    "longitude": "22.8553422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/555995636/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-19.1822583333",
+    "longitude": "15.9166316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris reichenowi",
+    "common name": "Reichenow's Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555985162/square.jpg",
+    "date": "2018-01-27",
+    "latitude": "-4.0349352728",
+    "longitude": "36.0864574884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555985084/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "38.2567033333",
+    "longitude": "34.2953866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555956248/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-33.9329083333",
+    "longitude": "18.8748666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555881407/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.1094305606",
+    "longitude": "18.0468860388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555883426/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-24.1529612662",
+    "longitude": "31.7205974087",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555843232/square.jpg",
+    "date": "2023-12-09",
+    "latitude": "-1.3727416667",
+    "longitude": "36.7964783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555782984/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "30.5053833333",
+    "longitude": "-87.4635383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555452616/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-17.0441475142",
+    "longitude": "145.3521805924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guttera edouardi edouardi",
+    "common name": "Southern Crested Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555728826/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.2617015",
+    "longitude": "32.4807983599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555556161/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-34.0411182737",
+    "longitude": "18.4624070087",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/555499903/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "3.7271065879",
+    "longitude": "33.7254946521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555480090/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-34.0175382997",
+    "longitude": "22.7740149997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555479267/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-26.8357181",
+    "longitude": "152.963113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555456218/square.jpg",
+    "date": "2023-06-25",
+    "latitude": "-21.1599919869",
+    "longitude": "22.6149833307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guttera edouardi",
+    "common name": "Southern Crested Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555438357/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-22.5119533333",
+    "longitude": "30.8637716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/555404878/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "18.1952891",
+    "longitude": "-66.5444915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555387465/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-17.0768583333",
+    "longitude": "145.36418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555351860/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-3.2219754957",
+    "longitude": "36.9017627515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555322450/square.jpg",
+    "date": "2016-07-05",
+    "latitude": "-27.8514045253",
+    "longitude": "145.6485066207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555311243/square.jpg",
+    "date": "2016-12-23",
+    "latitude": "38.6419485153",
+    "longitude": "-9.233455252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555310899/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-17.7837194444",
+    "longitude": "25.162625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555283894/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-25.880984463",
+    "longitude": "28.2957379049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555283458/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-25.8757081504",
+    "longitude": "28.2969159464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555261681/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-33.710835",
+    "longitude": "18.9916283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris reichenowi",
+    "common name": "Reichenow's Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555197222/square.jpg",
+    "date": "2018-02-02",
+    "latitude": "-3.1638059131",
+    "longitude": "35.5030907297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555163355/square.jpg",
+    "date": "2024-10-22",
+    "latitude": "-34.0246388889",
+    "longitude": "18.3834694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/555151159/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "2.3368883333",
+    "longitude": "31.4663516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555113097/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-33.738473577",
+    "longitude": "18.9541054621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guttera plumifera",
+    "common name": "Plumed Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555111595/square.jpg",
+    "date": "2024-10-21",
+    "latitude": "-1.7656261036",
+    "longitude": "12.9930233464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555095544/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "50.8891616667",
+    "longitude": "-0.1926416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554889986/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-41.1119104224",
+    "longitude": "146.063532075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554792011/square.jpg",
+    "date": "2025-03-16",
+    "latitude": "-22.20234613",
+    "longitude": "29.21431004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/554791627/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "39.9303583562",
+    "longitude": "-8.6669592932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/554741131/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-25.95228126",
+    "longitude": "27.7622166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554755227/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "53.0483474731",
+    "longitude": "-1.8664139509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554658133/square.jpg",
+    "date": "2023-12-30",
+    "latitude": "-25.2302756022",
+    "longitude": "27.1012708917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554644494/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "32.7722166667",
+    "longitude": "-79.9338216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554567462/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-33.9208038388",
+    "longitude": "18.4231418744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554560252/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.0872334882",
+    "longitude": "152.9463386536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554560120/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.0872412493",
+    "longitude": "152.9464221373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554559998/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.0872388613",
+    "longitude": "152.9464077204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554514300/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-24.1481488",
+    "longitude": "30.7005044",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554413488/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-24.0673491694",
+    "longitude": "31.4451537714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554400940/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "41.3741529988",
+    "longitude": "-70.6784479031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554358449/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-34.0573789284",
+    "longitude": "18.8242048438",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555093493/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "46.4731636047",
+    "longitude": "-95.124786377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554260880/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-19.2388286389",
+    "longitude": "16.1310577222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554184108/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-1.3407864",
+    "longitude": "36.7839725997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/554168064/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-1.5789218",
+    "longitude": "35.08605853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554140707/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "38.60625",
+    "longitude": "-90.44178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554129065/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "0.5824366667",
+    "longitude": "37.573045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554105196/square.jpg",
+    "date": "2015-09-18",
+    "latitude": "-17.1353472949",
+    "longitude": "145.3025868984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554087722/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-23.9389738622",
+    "longitude": "151.3664333776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris reichenowi",
+    "common name": "Reichenow's Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554071900/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-1.3202692241",
+    "longitude": "35.2606522139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553998300/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.5756627827",
+    "longitude": "-65.6046139201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553828669/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.6125431786",
+    "longitude": "19.4501991911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553828616/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.6125685185",
+    "longitude": "19.4501673187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553832815/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "7.5177364659",
+    "longitude": "38.6306762559",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/553795526/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-2.7358466667",
+    "longitude": "37.3737666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553783458/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-21.2149947131",
+    "longitude": "-47.7489976562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553723692/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-34.0849580556",
+    "longitude": "18.81093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553643892/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-24.7947963106",
+    "longitude": "31.8862176741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553663148/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "39.107125",
+    "longitude": "-76.1491778333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/553570526/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "45.53302",
+    "longitude": "-122.6515883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553478715/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-6.2830442279",
+    "longitude": "106.7804245283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/553397046/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-34.431385",
+    "longitude": "19.4323016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553370077/square.jpg",
+    "date": "2024-08-15",
+    "latitude": "-0.0644549086",
+    "longitude": "30.0783742068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553316237/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "27.4813502582",
+    "longitude": "-82.4894548998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acryllium vulturinum",
+    "common name": "Vulturine Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553287851/square.jpg",
+    "date": "2024-08-18",
+    "latitude": "0.6110771",
+    "longitude": "37.5375057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553283630/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-1.3843343402",
+    "longitude": "36.8686552832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acryllium vulturinum",
+    "common name": "Vulturine Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553242939/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "0.5899818246",
+    "longitude": "37.6228547265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553234349/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "6.1997883333",
+    "longitude": "33.9364466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris reichenowi",
+    "common name": "Reichenow's Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553228093/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-2.2968712",
+    "longitude": "34.8317102997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553222215/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "52.1753",
+    "longitude": "4.4823533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553150686/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-24.4837449663",
+    "longitude": "15.802169997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553150674/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-24.4837449663",
+    "longitude": "15.802169997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553150435/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-24.4837449663",
+    "longitude": "15.802169997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553115117/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "41.0522499968",
+    "longitude": "-8.6519610509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553110813/square.jpg",
+    "date": "2018-09-22",
+    "latitude": "-33.5020340814",
+    "longitude": "25.7391451622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553034739/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-29.1252808017",
+    "longitude": "24.3884258483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553032359/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "32.7786466667",
+    "longitude": "-80.2708366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553004345/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "19.5047687694",
+    "longitude": "-70.6957722718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris meleagris",
+    "common name": "Saharan Helmeted Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/552950091/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-0.0705440909",
+    "longitude": "30.0459032133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris reichenowi",
+    "common name": "Reichenow's Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552888631/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-3.7714153",
+    "longitude": "35.9717200997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552850752/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-17.8027408515",
+    "longitude": "25.1459634226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris",
+    "common name": "Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552840831/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "9.3136990414",
+    "longitude": "40.4104613222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552717492/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-33.8054617178",
+    "longitude": "18.6580795068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552708667/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-33.9884533333",
+    "longitude": "18.431075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris domesticus",
+    "common name": "Domestic Guineafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/552699735/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "29.820055",
+    "longitude": "-95.4441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552687264/square.jpg",
+    "date": "2011-02-05",
+    "latitude": "-26.1667730126",
+    "longitude": "28.0357360171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numida meleagris coronatus",
+    "common name": "Southern Helmeted Guineafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552675665/square.jpg",
+    "date": "2011-02-05",
+    "latitude": "-26.1648990059",
+    "longitude": "28.0354921141",
+    "quality_grade": "research"
+  }
+]

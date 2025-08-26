@@ -1,0 +1,1145 @@
+[
+  {
+    "species": "Vanellus indicus",
+    "common name": "Red-wattled Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558188706/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8445045087",
+    "longitude": "55.3518564805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558183479/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "9.62225",
+    "longitude": "-84.6422883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius hiaticula",
+    "common name": "Common Ringed Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558176337/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.6308287431",
+    "longitude": "0.1307085466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558170777/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "41.8012071984",
+    "longitude": "-86.7483811453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis squatarola",
+    "common name": "Black-bellied Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169263/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.6412966667",
+    "longitude": "-73.168495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/558166920/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3318278306",
+    "longitude": "-1.9965381275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160809/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "41.7259686364",
+    "longitude": "-82.6723035772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus alexandrinus",
+    "common name": "Kentish Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160330/square.jpg",
+    "date": "2024-03-18",
+    "latitude": "29.720113488",
+    "longitude": "35.0692053397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160927/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.6426894645",
+    "longitude": "-63.368413211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153135/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "51.5744385182",
+    "longitude": "-2.6533861474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558156863/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.697774",
+    "longitude": "-0.43682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus nivosus",
+    "common name": "Snowy Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155356/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.4715892845",
+    "longitude": "-122.4467645865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus nivosus",
+    "common name": "Snowy Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155326/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.4715892845",
+    "longitude": "-122.4467645865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus nivosus",
+    "common name": "Snowy Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155254/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.4715892845",
+    "longitude": "-122.4467645865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis fulva",
+    "common name": "Pacific Golden Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558154646/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "19.6439386546",
+    "longitude": "-156.011389595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis squatarola",
+    "common name": "Black-bellied Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558145886/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.7763534418",
+    "longitude": "-2.2359578311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141652/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.6467171003",
+    "longitude": "-1.0364602683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141644/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.8347861111",
+    "longitude": "-64.9325305556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus resplendens",
+    "common name": "Andean Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558138344/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-13.5080585",
+    "longitude": "-71.9840987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis squatarola",
+    "common name": "Black-bellied Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558138043/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.814028313",
+    "longitude": "-2.0600019023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus nivosus",
+    "common name": "Snowy Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558136952/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.0317295408",
+    "longitude": "-111.487877816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558133286/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "50.663322",
+    "longitude": "-109.331665",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/558135616/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-16.3786470997",
+    "longitude": "-56.6210986997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/558135355/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-16.3793103",
+    "longitude": "-56.6209131997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus indicus",
+    "common name": "Red-wattled Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558131965/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8544232282",
+    "longitude": "55.2499778268",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558126329/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.7269014",
+    "longitude": "1.2339036997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558125437/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.67907",
+    "longitude": "-63.7394533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558125214/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.67907",
+    "longitude": "-63.7394533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558124679/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.67907",
+    "longitude": "-63.7394533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558123909/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.67907",
+    "longitude": "-63.7394533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis fulva",
+    "common name": "Pacific Golden Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558122871/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "22.2168889",
+    "longitude": "-159.4034167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius",
+    "common name": "Little Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558121075/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.8879185996",
+    "longitude": "27.4093326554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558118283/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "28.3258333",
+    "longitude": "-105.4141666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/557995785/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "47.0512804603",
+    "longitude": "-1.6005016219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://static.inaturalist.org/photos/558112128/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "35.9175275736",
+    "longitude": "-78.7297838554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558105250/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "39.8678023477",
+    "longitude": "-8.8614009817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis apricaria",
+    "common name": "European Golden Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558110218/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.2490798894",
+    "longitude": "-4.0028508103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius hiaticula",
+    "common name": "Common Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558109712/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.2488154254",
+    "longitude": "-4.0023737231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558108357/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.7010416667",
+    "longitude": "-63.72947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/558098308/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2623196495",
+    "longitude": "44.1473214237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558101652/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "34.5718994141",
+    "longitude": "-77.2670135498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius",
+    "common name": "Little Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558100139/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.7197617247",
+    "longitude": "44.8874023393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558094303/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.0779122817",
+    "longitude": "-69.1423300836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558094529/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.5045640906",
+    "longitude": "-80.2284060123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558091225/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "33.6486366667",
+    "longitude": "-86.8203133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558084366/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.520635",
+    "longitude": "-80.0242383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis apricaria",
+    "common name": "European Golden Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558084368/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.0127971298",
+    "longitude": "8.9223515304",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius hiaticula",
+    "common name": "Common Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558083976/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "54.1011874006",
+    "longitude": "8.949130662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius melodus",
+    "common name": "Piping Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558083502/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "28.5279064551",
+    "longitude": "-82.7941626987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/558083060/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "6.20837",
+    "longitude": "-75.55188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558080768/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.2064141592",
+    "longitude": "-123.9693156892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558078911/square.jpg",
+    "date": "2019-03-27",
+    "latitude": "43.206175909",
+    "longitude": "-72.4421687799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis tricollaris",
+    "common name": "Three-banded Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063400/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-3.0600278378",
+    "longitude": "34.6592903137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius",
+    "common name": "Little Ringed Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558058043/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1735298395",
+    "longitude": "14.8355037927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558053771/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.8372841196",
+    "longitude": "73.5259516134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius hiaticula",
+    "common name": "Common Ringed Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558053573/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.8395860195",
+    "longitude": "73.5258166414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://static.inaturalist.org/photos/558052942/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.2500655814",
+    "longitude": "-91.6155514397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558049514/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.67708",
+    "longitude": "-63.735025",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558046967/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.1082028527",
+    "longitude": "-77.1096275866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius melodus",
+    "common name": "Piping Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558026530/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "42.101689626",
+    "longitude": "-80.0744177494",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558026464/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "42.1689739107",
+    "longitude": "-80.0619469948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558026428/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "42.1687433059",
+    "longitude": "-80.0621814028",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558036306/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "39.0598553124",
+    "longitude": "-74.7731199496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558037115/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "40.95685",
+    "longitude": "-1.4967933333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus alexandrinus",
+    "common name": "Kentish Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558036439/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "38.4866014657",
+    "longitude": "16.5942147815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558035279/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.6874516667",
+    "longitude": "-63.7413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558034781/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "52.8502116667",
+    "longitude": "0.44585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus ruficapillus",
+    "common name": "Red-capped Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558033230/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.264563381",
+    "longitude": "138.1506791643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558030891/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.216203094",
+    "longitude": "-75.1561965121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558030164/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "52.8480133333",
+    "longitude": "0.44837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558027562/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.8200866667",
+    "longitude": "-79.7230833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus atrifrons",
+    "common name": "Tibetan Sand-Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558024880/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "19.37173",
+    "longitude": "72.7603616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus atrifrons",
+    "common name": "Tibetan Sand-Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558024656/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "19.3716383333",
+    "longitude": "72.7606133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558010484/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "56.8063897019",
+    "longitude": "35.9325191194",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558021331/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "30.6821166667",
+    "longitude": "-96.5177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558021272/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "30.6817037575",
+    "longitude": "-96.5201445474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558021103/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "30.6811690535",
+    "longitude": "-96.5216894988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/558019568/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "27.6978333333",
+    "longitude": "-97.2577555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eudromias morinellus",
+    "common name": "Eurasian Dotterel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557934265/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.2638116189",
+    "longitude": "6.8722270765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus tricolor",
+    "common name": "Banded Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558007859/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.2182482513",
+    "longitude": "138.1741060487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis squatarola",
+    "common name": "Black-bellied Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558003072/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.726026",
+    "longitude": "-81.0446262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558001473/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "49.0701221667",
+    "longitude": "-106.5284716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557990654/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.7631664",
+    "longitude": "4.0538150997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus indicus",
+    "common name": "Red-wattled Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987576/square.jpg",
+    "date": "2024-11-10",
+    "latitude": "17.6693098965",
+    "longitude": "75.3439706105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/558025486/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "11.0181519984",
+    "longitude": "-74.9424667015",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://static.inaturalist.org/photos/557986189/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "32.5109191434",
+    "longitude": "-84.9107198013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://static.inaturalist.org/photos/557986184/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "32.5109766123",
+    "longitude": "-84.9106432254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus miles",
+    "common name": "Masked Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557984591/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.8584547982",
+    "longitude": "151.2157436844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557982668/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.8167103615",
+    "longitude": "-1.1868627811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557982664/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.8169815598",
+    "longitude": "-1.1871464363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557970142/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.822015547",
+    "longitude": "-1.1885667241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/557980254/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.1086825165",
+    "longitude": "8.1603644881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557976437/square.jpg",
+    "date": "2021-12-03",
+    "latitude": "24.4130920805",
+    "longitude": "120.6090493655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus miles novaehollandiae",
+    "common name": "Black-shouldered Masked Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557969279/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-25.9023175832",
+    "longitude": "153.0929470917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius",
+    "common name": "Little Ringed Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557970205/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8300351331",
+    "longitude": "55.2538931822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius",
+    "common name": "Little Ringed Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557968320/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8305664303",
+    "longitude": "55.2555895295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus ruficapillus",
+    "common name": "Red-capped Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963740/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus ruficapillus",
+    "common name": "Red-capped Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963609/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus ruficapillus",
+    "common name": "Red-capped Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963510/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus ruficapillus",
+    "common name": "Red-capped Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963382/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus miles novaehollandiae",
+    "common name": "Black-shouldered Masked Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557966309/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.4550797554",
+    "longitude": "149.074725075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis melanops",
+    "common name": "Black-fronted Dotterel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557966273/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.4550379148",
+    "longitude": "149.0747110257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis melanops",
+    "common name": "Black-fronted Dotterel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557966248/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.4554034404",
+    "longitude": "149.0749254567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557966134/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.67392338",
+    "longitude": "-1.7929400504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/557961634/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "44.9719876939",
+    "longitude": "38.8542726956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/557961643/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "44.9741099023",
+    "longitude": "38.8564613781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus armatus",
+    "common name": "Blacksmith Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557955694/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-26.1388611111",
+    "longitude": "28.0637944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anarhynchus marginatus",
+    "common name": "White-fronted Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557950701/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.7781555556",
+    "longitude": "32.7362722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus coronatus",
+    "common name": "Crowned Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557946425/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.2447805556",
+    "longitude": "31.7212972222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis tricollaris",
+    "common name": "Three-banded Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557944018/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.4735944444",
+    "longitude": "31.9730277778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus miles",
+    "common name": "Masked Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557944419/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.8781806",
+    "longitude": "151.1678398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus indicus",
+    "common name": "Red-wattled Lapwing",
+    "observation photo url": "https://static.inaturalist.org/photos/557943702/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "6.3697600331",
+    "longitude": "81.5094537118",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis tricollaris",
+    "common name": "Three-banded Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557939524/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.8132527778",
+    "longitude": "31.5826638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus armatus",
+    "common name": "Blacksmith Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557937517/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.9396222222",
+    "longitude": "31.2397166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557938615/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "56.8062739079",
+    "longitude": "35.9358880296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557938489/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "56.8055736423",
+    "longitude": "35.9353985265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557934821/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.62912",
+    "longitude": "76.5521416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus vanellus",
+    "common name": "Northern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557937563/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "56.8059466294",
+    "longitude": "35.9347732365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus coronatus coronatus",
+    "common name": "Cape Crowned Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557932329/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-26.3008700859",
+    "longitude": "27.3667066928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius curonicus",
+    "common name": "Northern Little Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/557906501/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2398982944",
+    "longitude": "120.1327591121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius curonicus",
+    "common name": "Northern Little Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/557905880/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2389027778",
+    "longitude": "120.1443966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius curonicus",
+    "common name": "Northern Little Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/557905787/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2389855556",
+    "longitude": "120.1445327778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis fulva",
+    "common name": "Pacific Golden Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/557905708/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2391647222",
+    "longitude": "120.1449758333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius curonicus",
+    "common name": "Northern Little Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/557905699/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2392288889",
+    "longitude": "120.1451072222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius curonicus",
+    "common name": "Northern Little Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/557905687/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2392627778",
+    "longitude": "120.1452022222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvialis fulva",
+    "common name": "Pacific Golden Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/557905657/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2393605556",
+    "longitude": "120.1454116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinornis dubius curonicus",
+    "common name": "Northern Little Ringed Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/557905651/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2393469444",
+    "longitude": "120.1453879527",
+    "quality_grade": "research"
+  }
+]

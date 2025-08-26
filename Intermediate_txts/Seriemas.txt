@@ -1,0 +1,1721 @@
+[
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558072656/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-31.3483599811",
+    "longitude": "-55.0191550702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558062784/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-20.922725",
+    "longitude": "-43.61607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/557984470/square.jpg",
+    "date": "2022-07-30",
+    "latitude": "-24.9624236667",
+    "longitude": "-64.6054039404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557787866/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-19.887661993",
+    "longitude": "-44.4331986085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557409381/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-15.8413971987",
+    "longitude": "-48.8946048875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557277326/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-20.0370736308",
+    "longitude": "-44.0503163365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557234650/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-20.9829616667",
+    "longitude": "-56.5158916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557231731/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-21.2445810645",
+    "longitude": "-40.9574200306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557091391/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-28.9258843278",
+    "longitude": "-50.8354441077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555968165/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-21.2241466667",
+    "longitude": "-44.9795333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555929386/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-19.9261040739",
+    "longitude": "-43.876993737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/555846362/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-16.3818664374",
+    "longitude": "-48.9457480609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555835299/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-15.9486419722",
+    "longitude": "-47.934083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555830967/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-29.7384809115",
+    "longitude": "-53.7409298358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/555758791/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-22.3515421917",
+    "longitude": "-45.5881970925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555462145/square.jpg",
+    "date": "2025-04-07",
+    "latitude": "-13.943331091",
+    "longitude": "-47.4049754316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/555246653/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-17.2307933352",
+    "longitude": "-63.1986932829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555051694/square.jpg",
+    "date": "2024-11-04",
+    "latitude": "-20.4289283066",
+    "longitude": "-55.0355107244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554934479/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-23.230131047",
+    "longitude": "-47.5165541692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554908050/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-21.014344",
+    "longitude": "-49.2173799722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554792032/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-21.2244533333",
+    "longitude": "-44.98038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554635463/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-22.5977333333",
+    "longitude": "-46.69073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554431789/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-29.6897217",
+    "longitude": "-53.8043117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/554427260/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-22.8664402632",
+    "longitude": "-45.9225346828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chunga burmeisteri",
+    "common name": "Black-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554419017/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-23.818712631",
+    "longitude": "-64.2131491897",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/554300634/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-20.0501248426",
+    "longitude": "-44.353248328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/554298087/square.jpg",
+    "date": "2002-11-30",
+    "latitude": "-24.0563091235",
+    "longitude": "-47.9935320094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554281179/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-24.3104479332",
+    "longitude": "-64.5063821082",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/554261083/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-21.22562",
+    "longitude": "-44.9802383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/554049616/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.5420733333",
+    "longitude": "-47.5260666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554015553/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-20.0478364478",
+    "longitude": "-44.9215768018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553981508/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553981123/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553979763/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553979679/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/553510018/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-16.38072",
+    "longitude": "-56.628095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/553443873/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-22.3729499722",
+    "longitude": "-44.703839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553341294/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-22.9333255358",
+    "longitude": "-42.8720637783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553227373/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.4141237943",
+    "longitude": "-45.4474938178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553195281/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-21.9608509",
+    "longitude": "-47.8959614997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552774101/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-22.8202466667",
+    "longitude": "-47.0628916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552508599/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-21.2275916667",
+    "longitude": "-44.981175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552229261/square.jpg",
+    "date": "2022-10-14",
+    "latitude": "-22.893997573",
+    "longitude": "-48.4953545406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552212583/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-16.386845",
+    "longitude": "-56.62745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551813011/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-11.4262332778",
+    "longitude": "-66.3392867778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551759315/square.jpg",
+    "date": "2024-03-06",
+    "latitude": "-22.8920872286",
+    "longitude": "-48.4937059879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551604311/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-19.9531077",
+    "longitude": "-56.3046609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551604241/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-19.9531077",
+    "longitude": "-56.3046609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551541505/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-19.4442273793",
+    "longitude": "-48.0317841689",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551183966/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-15.5795810555",
+    "longitude": "-55.4712518407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chunga burmeisteri",
+    "common name": "Black-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551172429/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-36.6849082712",
+    "longitude": "-64.3904823265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551076486/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-23.0639456",
+    "longitude": "-48.1857407997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551019708/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-16.3816370901",
+    "longitude": "-56.6130188853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550567398/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-15.0532936951",
+    "longitude": "-55.8633448181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550520520/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-8.0659611667",
+    "longitude": "-34.9631216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550387038/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-21.935708",
+    "longitude": "-46.715833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550060126/square.jpg",
+    "date": "2024-12-09",
+    "latitude": "-7.864541247",
+    "longitude": "-38.0976891518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549882579/square.jpg",
+    "date": "2025-03-12",
+    "latitude": "-10.9481652744",
+    "longitude": "-37.0535174915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/549090190/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-23.5823478391",
+    "longitude": "-48.0360805616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548901686/square.jpg",
+    "date": "2023-12-24",
+    "latitude": "-22.656159409",
+    "longitude": "-48.4494660395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/548753690/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-22.3728221",
+    "longitude": "-44.7038087997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548657588/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-20.0979421115",
+    "longitude": "-40.4567890457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548479730/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-18.1224329",
+    "longitude": "-52.9084534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/548403321/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-20.1257476807",
+    "longitude": "-44.2162246704",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548277922/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-29.6624069",
+    "longitude": "-53.5094722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548011229/square.jpg",
+    "date": "2024-07-17",
+    "latitude": "-20.326675415",
+    "longitude": "-44.2391967773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547712157/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-6.0453872588",
+    "longitude": "-36.3489326548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547615574/square.jpg",
+    "date": "2023-04-09",
+    "latitude": "-15.9193554368",
+    "longitude": "-46.1351714881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547615437/square.jpg",
+    "date": "2025-01-25",
+    "latitude": "-15.9187776632",
+    "longitude": "-46.1351714881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/546934443/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-20.1259513929",
+    "longitude": "-44.2206921019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546996566/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-15.4444788064",
+    "longitude": "-55.8251382041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546911828/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.205525",
+    "longitude": "-46.96518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546846282/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-22.3066568387",
+    "longitude": "-42.1663524583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chunga burmeisteri",
+    "common name": "Black-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/546839535/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-25.150606118",
+    "longitude": "-61.8098816648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546693554/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-6.4709170829",
+    "longitude": "-37.0553636178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546615503/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-22.82633",
+    "longitude": "-42.60179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546512844/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-20.8991508997",
+    "longitude": "-56.5494776997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546488732/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-20.8957465",
+    "longitude": "-56.5283022997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546463337/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-20.6118699722",
+    "longitude": "-44.485773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546458531/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-21.1190484167",
+    "longitude": "-45.8742599934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/546361166/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-15.6059284167",
+    "longitude": "-52.4310416944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549109534/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-23.1486083333",
+    "longitude": "-44.988275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/546331498/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-7.3712753414",
+    "longitude": "-36.2826199557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/546311498/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-15.7050458518",
+    "longitude": "-47.7363876253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546299784/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-22.9598503113",
+    "longitude": "-48.4088363647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546110980/square.jpg",
+    "date": "2020-11-14",
+    "latitude": "-20.1241163856",
+    "longitude": "-44.2195995525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chunga burmeisteri",
+    "common name": "Black-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545838686/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-25.1891200243",
+    "longitude": "-61.0949305167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545580269/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-29.6573331362",
+    "longitude": "-53.5373381351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545449869/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-21.7538121292",
+    "longitude": "-48.0849161538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545419691/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-29.6897217",
+    "longitude": "-53.8043117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545357366/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-21.6757406402",
+    "longitude": "-47.9194996027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545355498/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-23.5409266823",
+    "longitude": "-50.0955347568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545137724/square.jpg",
+    "date": "2024-02-12",
+    "latitude": "-23.2243527778",
+    "longitude": "-47.3893861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545035962/square.jpg",
+    "date": "2018-05-21",
+    "latitude": "-21.1362111",
+    "longitude": "-44.2576421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545030221/square.jpg",
+    "date": "2025-05-02",
+    "latitude": "-22.34020736",
+    "longitude": "-42.5812597204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544831791/square.jpg",
+    "date": "2023-09-13",
+    "latitude": "-22.7425860866",
+    "longitude": "-46.8984511122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/544664838/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-7.3709615231",
+    "longitude": "-36.2806294073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/544653168/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-7.371198",
+    "longitude": "-36.283162",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/544653168/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-22.812310003",
+    "longitude": "-42.920473963",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544464706/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-22.8988034314",
+    "longitude": "-46.3962143821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544405777/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-23.3840014712",
+    "longitude": "-44.8070450532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543958133/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-18.9094446346",
+    "longitude": "-48.2351666175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543958133/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-31.6728295044",
+    "longitude": "-52.5872958737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543861710/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-21.9821440099",
+    "longitude": "-40.9867937118",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543680606/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.6263456201",
+    "longitude": "-43.7689995021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543658853/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-22.3596549",
+    "longitude": "-42.573615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/543656082/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-21.2228366667",
+    "longitude": "-44.9812966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543542008/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-21.9825542593",
+    "longitude": "-40.9857585282",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543541891/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-21.9821408065",
+    "longitude": "-40.9859409266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/543490913/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-22.336655",
+    "longitude": "-43.186245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543086795/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-16.5108012496",
+    "longitude": "-56.7481432039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/542905290/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-14.1747844386",
+    "longitude": "-47.8238088638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542399742/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-18.1224329",
+    "longitude": "-52.9084534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542399742/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-22.9099384",
+    "longitude": "-47.0626332",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/541823418/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-21.8533416667",
+    "longitude": "-50.61113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/541834918/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-23.1295939773",
+    "longitude": "-44.9313927814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541585200/square.jpg",
+    "date": "2023-10-06",
+    "latitude": "-31.398705",
+    "longitude": "-52.683595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541458792/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-14.278055",
+    "longitude": "-47.7527283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/541263219/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-22.3080160669",
+    "longitude": "-45.3735291213",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/540983863/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-23.0604945",
+    "longitude": "-46.3397333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540846729/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-20.0480527203",
+    "longitude": "-44.9223438424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540106548/square.jpg",
+    "date": "2023-04-23",
+    "latitude": "-16.4929716508",
+    "longitude": "-56.7500290491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540026330/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-20.9824870583",
+    "longitude": "-56.5164298301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538027935/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "-19.1426848939",
+    "longitude": "-56.7951856286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535661628/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-19.14412435",
+    "longitude": "-56.7948643555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/539995894/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-20.7609291077",
+    "longitude": "-56.7135467529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539879647/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-22.7938422274",
+    "longitude": "-45.6767790701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539714463/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-21.8610696967",
+    "longitude": "-42.3867312867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539665487/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-17.4795486944",
+    "longitude": "-63.6353928214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539193424/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-22.1314321012",
+    "longitude": "-47.7021387418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chunga burmeisteri",
+    "common name": "Black-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539126119/square.jpg",
+    "date": "2023-10-23",
+    "latitude": "-31.8017748261",
+    "longitude": "-64.9672799216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539017584/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-24.2302383333",
+    "longitude": "-49.7947166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/538984621/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-20.7561402101",
+    "longitude": "-42.8800279275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538939010/square.jpg",
+    "date": "2016-05-21",
+    "latitude": "-18.50424",
+    "longitude": "-54.7464921",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538794368/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-19.944347476",
+    "longitude": "-43.1618464634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538677574/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-20.7561451",
+    "longitude": "-42.8800278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/538595367/square.jpg",
+    "date": "2023-04-16",
+    "latitude": "-15.9734723549",
+    "longitude": "-47.669308385",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/538353781/square.jpg",
+    "date": "2024-10-12",
+    "latitude": "-15.5721276993",
+    "longitude": "-47.7646264684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/538326046/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-17.7762965932",
+    "longitude": "-48.6665260011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538238864/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-26.1594114476",
+    "longitude": "-65.2042521945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538205623/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-19.728366",
+    "longitude": "-44.8015749722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/538066422/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-21.773092378",
+    "longitude": "-46.5704990923",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537959938/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-15.9200493275",
+    "longitude": "-46.135159153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537561897/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-19.9212109",
+    "longitude": "-40.406258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537545650/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-30.2476727922",
+    "longitude": "-61.2612807238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537465430/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-23.9040023149",
+    "longitude": "-48.00712578",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537338794/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-30.2467633214",
+    "longitude": "-61.2643099112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537261362/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-29.721607681",
+    "longitude": "-53.7455224944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/537113381/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-20.4544007905",
+    "longitude": "-54.5708835125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/536979487/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-22.6664977667",
+    "longitude": "-46.5232500942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536620228/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-20.5190705304",
+    "longitude": "-41.1053358966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chunga burmeisteri",
+    "common name": "Black-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536574493/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-32.2624999456",
+    "longitude": "-65.074670794",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536489513/square.jpg",
+    "date": "2023-08-11",
+    "latitude": "-15.843410612",
+    "longitude": "-48.0823516843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/536498927/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-7.3716600401",
+    "longitude": "-36.2826919601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536287072/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-17.548",
+    "longitude": "-63.115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/536163591/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-21.9565284689",
+    "longitude": "-47.4690022026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/536088716/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-24.0571641758",
+    "longitude": "-47.9929596306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536071244/square.jpg",
+    "date": "2018-06-05",
+    "latitude": "-20.6811560129",
+    "longitude": "-41.347545156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536085520/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-22.8547011519",
+    "longitude": "-46.0201339424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/536075252/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-15.4849329997",
+    "longitude": "-55.9815871997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536066771/square.jpg",
+    "date": "2025-03-27",
+    "latitude": "-22.2367324928",
+    "longitude": "-49.9662242942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536047021/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "-21.2207751599",
+    "longitude": "-44.970717189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535968744/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-21.9594671997",
+    "longitude": "-47.4695436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535900003/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "-20.1435294",
+    "longitude": "-44.8904062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/535711387/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-20.4541261488",
+    "longitude": "-54.5735467047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/535659351/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-22.693539571",
+    "longitude": "-47.6517307386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/535588284/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-19.905884",
+    "longitude": "-40.6853679722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535568779/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-7.1168203974",
+    "longitude": "-36.0149489569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535345163/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-22.1052171",
+    "longitude": "-49.4477125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535139213/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-7.0405471299",
+    "longitude": "-35.9709347546",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/534943504/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-21.8501792448",
+    "longitude": "-49.8927384007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/534943504/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-22.9099384",
+    "longitude": "-47.0626332",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/534876995/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-22.905082",
+    "longitude": "-47.061333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534629039/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-19.437185294",
+    "longitude": "-43.8302229345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/534617023/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-20.8932246944",
+    "longitude": "-56.5305786111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/534335355/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-19.7434609722",
+    "longitude": "-47.742845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534129761/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-19.8046646208",
+    "longitude": "-40.6772178709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534064618/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-22.6891493",
+    "longitude": "-47.1665581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chunga burmeisteri",
+    "common name": "Black-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/533932944/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-26.24945",
+    "longitude": "-65.2385361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533695250/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-23.1402054",
+    "longitude": "-48.4314229",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/533388582/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-22.2463641478",
+    "longitude": "-47.8871487347",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/533038336/square.jpg",
+    "date": "2011-05-29",
+    "latitude": "-23.2580192599",
+    "longitude": "-48.1125433386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532932035/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-21.2261668453",
+    "longitude": "-44.9818582088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532768452/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-14.2808024222",
+    "longitude": "-47.7490979849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/532530266/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-24.0572729997",
+    "longitude": "-47.9927824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/532530266/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-20.4666786637",
+    "longitude": "-43.2973125248",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chunga burmeisteri",
+    "common name": "Black-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531990367/square.jpg",
+    "date": "2024-10-16",
+    "latitude": "-29.0574932544",
+    "longitude": "-68.2435161128",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://static.inaturalist.org/photos/531940613/square.jpg",
+    "date": "2024-10-20",
+    "latitude": "-19.63465",
+    "longitude": "-63.67238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531869752/square.jpg",
+    "date": "2024-08-23",
+    "latitude": "-21.7128438817",
+    "longitude": "-42.4509770796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531721456/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-22.6343883333",
+    "longitude": "-45.8335333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cariama cristata",
+    "common name": "Red-legged Seriema",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531563377/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-16.9023716667",
+    "longitude": "-56.26358",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,1676 @@
+[
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558090960/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-34.607354241",
+    "longitude": "-58.3596600076",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032093/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.0933399226",
+    "longitude": "-56.9461634998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558023128/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-17.2794156184",
+    "longitude": "-56.7037098953",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557988550/square.jpg",
+    "date": "2023-06-30",
+    "latitude": "-28.2466450601",
+    "longitude": "-48.6711120678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/557848980/square.jpg",
+    "date": "2024-05-10",
+    "latitude": "-27.2834232128",
+    "longitude": "-55.4576469585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/557780012/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.6056772775",
+    "longitude": "-58.3549956232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/557775853/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.603256253",
+    "longitude": "-58.3607647195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/557746271/square.jpg",
+    "date": "2024-05-10",
+    "latitude": "-27.2834232128",
+    "longitude": "-55.4576469585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557590126/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "6.0282516667",
+    "longitude": "-71.3459416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557588988/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "6.0308766667",
+    "longitude": "-71.35334",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557586175/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "6.0251583333",
+    "longitude": "-71.3424416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557285684/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-15.2012616667",
+    "longitude": "-64.7533633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557263879/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-20.4078873177",
+    "longitude": "-51.395479627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/556679667/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-33.4904055961",
+    "longitude": "-58.7292177491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/556679530/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-33.4906919193",
+    "longitude": "-58.7291633927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556726614/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.1966767237",
+    "longitude": "-58.620036729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/556644731/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "5.9774828823",
+    "longitude": "-71.2821671419",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556262141/square.jpg",
+    "date": "2024-01-27",
+    "latitude": "-34.6082023389",
+    "longitude": "-58.3539715204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556257867/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-4.6243027778",
+    "longitude": "-73.6557861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556204320/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-15.1958354036",
+    "longitude": "-64.7591609135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556200811/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "9.2329658244",
+    "longitude": "-75.9056425828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556189924/square.jpg",
+    "date": "2018-05-16",
+    "latitude": "9.2782059731",
+    "longitude": "-75.8042919962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556169905/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-36.851030167",
+    "longitude": "-57.6893546313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/555993104/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.250157434",
+    "longitude": "-57.0231350139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555955378/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-14.8429929",
+    "longitude": "-64.89168376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555945396/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-17.2842202421",
+    "longitude": "-56.691259928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555933113/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-17.1482968461",
+    "longitude": "-56.6406597197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555689761/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.204674338",
+    "longitude": "-58.8858424405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555814103/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-29.9724851165",
+    "longitude": "-51.0347066071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555806836/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "5.257960706",
+    "longitude": "-74.6009582441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555952420/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-14.87159276",
+    "longitude": "-64.87183752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555765041/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.05790845",
+    "longitude": "-56.65375405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555740932/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-36.8512043908",
+    "longitude": "-57.6896368684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555739105/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-36.8515321242",
+    "longitude": "-57.6893643987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/555604250/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-27.2500583333",
+    "longitude": "-48.61485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555352776/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-36.852264149",
+    "longitude": "-57.6894006961",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555334383/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-27.2834766667",
+    "longitude": "-55.5906066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/555289038/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-17.3642338",
+    "longitude": "-56.7741096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555258384/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-34.60449",
+    "longitude": "-58.3606516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555232399/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-34.6162883333",
+    "longitude": "-58.3556483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554972326/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "5.2320931118",
+    "longitude": "-74.6256262397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554960591/square.jpg",
+    "date": "2025-03-30",
+    "latitude": "-33.4912493552",
+    "longitude": "-58.6798976362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554915497/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-4.6004694444",
+    "longitude": "-73.7306472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554913290/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-34.6149483963",
+    "longitude": "-58.3552302623",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/554852293/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-29.8936037988",
+    "longitude": "-57.1268198623",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/554814900/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-35.5533045732",
+    "longitude": "-58.0611513134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/554734480/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-24.249769491",
+    "longitude": "-61.7830049265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554078456/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-32.8318066667",
+    "longitude": "-60.67464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554073978/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-17.3640550848",
+    "longitude": "-56.7755389167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553979490/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553979302/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/554000478/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-31.7752268318",
+    "longitude": "-52.2257963379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553967350/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "8.6503085401",
+    "longitude": "-73.7496052131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553694386/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-31.7920559753",
+    "longitude": "-52.3334363848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553413983/square.jpg",
+    "date": "2017-01-20",
+    "latitude": "-5.2465998711",
+    "longitude": "-74.385173545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/553223645/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.6021616667",
+    "longitude": "-58.36147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553171579/square.jpg",
+    "date": "2023-08-18",
+    "latitude": "-17.2773167747",
+    "longitude": "-56.8748940192",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552965676/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.8305166667",
+    "longitude": "-71.3771516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552965791/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.8305602553",
+    "longitude": "-71.3771195225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552965006/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.8307856391",
+    "longitude": "-71.3776569443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552926813/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-17.3419829039",
+    "longitude": "-56.7691985518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552905103/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-36.8467268125",
+    "longitude": "-57.6596719198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552740547/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-36.8418631567",
+    "longitude": "-57.6466570133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552738151/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-36.8215282908",
+    "longitude": "-57.6643381351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552733116/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-36.8356808302",
+    "longitude": "-57.6530084842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552636305/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-2.2931580317",
+    "longitude": "-56.2892150417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552624610/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "-3.128194445",
+    "longitude": "-64.7996888883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552548637/square.jpg",
+    "date": "2024-06-27",
+    "latitude": "6.016654048",
+    "longitude": "-74.5046625962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552548396/square.jpg",
+    "date": "2024-06-26",
+    "latitude": "6.1504654296",
+    "longitude": "-74.5925785004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552545841/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "1.0243804953",
+    "longitude": "-76.4655731571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/552488791/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "5.0997017559",
+    "longitude": "-52.7031010263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552449214/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-32.4933292333",
+    "longitude": "-58.2178893027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552446407/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-36.8492264966",
+    "longitude": "-57.7045456435",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552306418/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-17.2400536117",
+    "longitude": "-56.6479777783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552304097/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-17.284668055",
+    "longitude": "-56.8624358333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552100429/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-29.9724851165",
+    "longitude": "-51.0347066071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552019035/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-33.729286209",
+    "longitude": "-61.6582428193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552017625/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-33.3132307985",
+    "longitude": "-60.2266529104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/551993796/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-6.28617475",
+    "longitude": "-49.9709091111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/551771068/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-29.6098709722",
+    "longitude": "-53.756709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/551761925/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-34.7819431477",
+    "longitude": "-58.140716292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551595467/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-5.7119823916",
+    "longitude": "-74.0103662689",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551485201/square.jpg",
+    "date": "2019-07-18",
+    "latitude": "-17.2716516363",
+    "longitude": "-56.7142987205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551376532/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-28.5451583333",
+    "longitude": "-57.202485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551328837/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-31.3484032173",
+    "longitude": "-55.0194849819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551305742/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-2.3455608175",
+    "longitude": "-54.877914709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551159368/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.2699372",
+    "longitude": "-56.7004705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551127260/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-24.1452480566",
+    "longitude": "-60.6910555065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551119258/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-17.3642338",
+    "longitude": "-56.7741096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551119155/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-17.3642338",
+    "longitude": "-56.7741096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/551017557/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-24.102037854",
+    "longitude": "-60.607431507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551010723/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-17.3642338",
+    "longitude": "-56.7741096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550990333/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-29.7040946096",
+    "longitude": "-53.6194369026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550893201/square.jpg",
+    "date": "2022-07-14",
+    "latitude": "-34.5717369062",
+    "longitude": "-58.4168247511",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550893016/square.jpg",
+    "date": "2022-07-13",
+    "latitude": "-34.6832327977",
+    "longitude": "-58.305393714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550880773/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-35.9932931046",
+    "longitude": "-64.1947032314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/550636030/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-24.1305159283",
+    "longitude": "-60.6901315822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550569536/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.3723084162",
+    "longitude": "-62.2876651771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550534376/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-30.6502521271",
+    "longitude": "-51.5060295537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550463264/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-34.3060085126",
+    "longitude": "-58.7981393217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550311265/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-28.5123459023",
+    "longitude": "-59.2649621889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550109073/square.jpg",
+    "date": "2025-02-21",
+    "latitude": "11.1800456843",
+    "longitude": "-74.7516802843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550069721/square.jpg",
+    "date": "2025-01-11",
+    "latitude": "-34.6038742251",
+    "longitude": "-58.3498842093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/550053198/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-31.0223121389",
+    "longitude": "-61.0915221944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549653580/square.jpg",
+    "date": "2021-09-19",
+    "latitude": "-34.8498983333",
+    "longitude": "-55.1187816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/549625394/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-34.7232374667",
+    "longitude": "-58.4790336498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/549584047/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-32.6188795447",
+    "longitude": "-52.5755410313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/549565847/square.jpg",
+    "date": "2022-12-28",
+    "latitude": "-31.1072910083",
+    "longitude": "-50.916252695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549527861/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-29.7211886596",
+    "longitude": "-53.5901149368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549146997/square.jpg",
+    "date": "2022-08-01",
+    "latitude": "-16.2226866667",
+    "longitude": "-56.575255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548924882/square.jpg",
+    "date": "2011-10-17",
+    "latitude": "-28.53645",
+    "longitude": "-57.1806138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548708147/square.jpg",
+    "date": "2024-09-17",
+    "latitude": "-28.502024",
+    "longitude": "-59.107717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548661273/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-34.6079566721",
+    "longitude": "-58.3546542922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548647686/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-34.6079566721",
+    "longitude": "-58.3546542922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548648619/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-5.9481934675",
+    "longitude": "-73.8713689825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/548614602/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-34.6067907177",
+    "longitude": "-58.3536261539",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/548613943/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-34.6117299458",
+    "longitude": "-58.3574057132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548582381/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-33.3021601405",
+    "longitude": "-60.2335912907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548582058/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-33.3021601405",
+    "longitude": "-60.2335912907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548497405/square.jpg",
+    "date": "2011-10-17",
+    "latitude": "-28.53645",
+    "longitude": "-57.1806138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/548479100/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-34.6075946054",
+    "longitude": "-58.3537218333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/548478774/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-34.6076118864",
+    "longitude": "-58.35398082",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/548474464/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-34.6074690532",
+    "longitude": "-58.3586033073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/548472258/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-34.6048061302",
+    "longitude": "-58.3577228566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548374894/square.jpg",
+    "date": "2025-02-12",
+    "latitude": "-35.8826446673",
+    "longitude": "-57.7526085398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548374675/square.jpg",
+    "date": "2025-02-12",
+    "latitude": "-35.9586187778",
+    "longitude": "-57.6815020846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548134711/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-35.64508",
+    "longitude": "-63.7303933333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548134042/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-3.8181142005",
+    "longitude": "-70.3427647054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547992636/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-32.5413528035",
+    "longitude": "-52.5396948942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547991108/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-32.5734437059",
+    "longitude": "-52.5597622114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547990433/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-32.6548942129",
+    "longitude": "-52.5872144046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548003026/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-16.1734184",
+    "longitude": "-56.6201587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547769749/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "6.089785913",
+    "longitude": "-75.7912653712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547769727/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "6.1202270689",
+    "longitude": "-75.7653205018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547669774/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-34.9093318531",
+    "longitude": "-54.8752856651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547669153/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-34.9093318531",
+    "longitude": "-54.8752856651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547646490/square.jpg",
+    "date": "2012-12-20",
+    "latitude": "-34.9005896",
+    "longitude": "-55.0073152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547614548/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-19.3432185097",
+    "longitude": "-41.2373224237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547516214/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-36.8520941631",
+    "longitude": "-57.6896543391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547499864/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-36.8269596502",
+    "longitude": "-57.7691444298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547263850/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-2.4909366667",
+    "longitude": "-79.5429766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547260976/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-2.494475",
+    "longitude": "-79.5489883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547225507/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-32.5471050674",
+    "longitude": "-52.5430278947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/547225059/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-32.5611552771",
+    "longitude": "-52.5524386678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547154599/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-11.0030482775",
+    "longitude": "-66.0952598871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547131301/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.742219002",
+    "longitude": "-76.643328814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547036153/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-35.68858",
+    "longitude": "-63.7420383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/546940287/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-16.9895475564",
+    "longitude": "-56.9223390695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546927886/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-35.6806233333",
+    "longitude": "-63.7460983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/546792368/square.jpg",
+    "date": "2012-07-25",
+    "latitude": "-34.8118097964",
+    "longitude": "-54.6548528204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna chavaria",
+    "common name": "Northern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546450280/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "8.1337848998",
+    "longitude": "-76.9036525277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546352121/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-20.6136489865",
+    "longitude": "-51.8289095163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546040661/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-12.7908349442",
+    "longitude": "-69.2916727672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545998313/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-36.8086824366",
+    "longitude": "-57.7928336999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545991854/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "-33.3967891046",
+    "longitude": "-58.7333331813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545968560/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-24.4084654963",
+    "longitude": "-60.3339204355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545968478/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-24.4084654963",
+    "longitude": "-60.3339204355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545937755/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-24.0779038079",
+    "longitude": "-60.6187516195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545937553/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-24.0779038079",
+    "longitude": "-60.6187516195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545884239/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-24.4094274108",
+    "longitude": "-60.3338008482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545861840/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-17.218195",
+    "longitude": "-56.6415433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545546566/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-29.7256009023",
+    "longitude": "-53.5909887138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545542425/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-12.2338",
+    "longitude": "-70.9392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545411116/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-3.8222848005",
+    "longitude": "-70.3443582729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545397520/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-3.7826460562",
+    "longitude": "-70.3769702464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545309149/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-28.5460083333",
+    "longitude": "-57.2066716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545046149/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-24.1355138889",
+    "longitude": "-60.6864527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544700298/square.jpg",
+    "date": "2023-10-05",
+    "latitude": "-29.7208878",
+    "longitude": "-53.7147551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544639842/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-29.7225119523",
+    "longitude": "-53.5936947104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544585095/square.jpg",
+    "date": "2023-03-16",
+    "latitude": "-19.3985045767",
+    "longitude": "-57.055056148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544248368/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-31.8059612567",
+    "longitude": "-52.3985236147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544119053/square.jpg",
+    "date": "2023-03-14",
+    "latitude": "-19.446629074",
+    "longitude": "-57.0703176812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/543912236/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-31.7907634474",
+    "longitude": "-52.3156580535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543864665/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-3.8003604056",
+    "longitude": "-70.4127606377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543713742/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-34.612979",
+    "longitude": "-58.356064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/543500615/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-33.30767657",
+    "longitude": "-60.23205954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anhima cornuta",
+    "common name": "Horned Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/543363237/square.jpg",
+    "date": "2022-05-15",
+    "latitude": "-21.1691023356",
+    "longitude": "-47.81108547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/543033466/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-17.3602667",
+    "longitude": "-56.7668179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543017409/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-17.235021639",
+    "longitude": "-56.8375073414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542591940/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-34.6052583333",
+    "longitude": "-58.360455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542552107/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-20.5028755",
+    "longitude": "-55.7582484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542408861/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-34.605323055",
+    "longitude": "-58.360428055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/542173589/square.jpg",
+    "date": "2024-02-24",
+    "latitude": "-34.9005896",
+    "longitude": "-55.0073152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://static.inaturalist.org/photos/542173306/square.jpg",
+    "date": "2024-03-17",
+    "latitude": "-34.9005896",
+    "longitude": "-55.0073152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541904472/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-16.0466126193",
+    "longitude": "-55.0301919304",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chauna torquata",
+    "common name": "Southern Screamer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541882848/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-26.8515166667",
+    "longitude": "-58.0360388889",
+    "quality_grade": "research"
+  }
+]

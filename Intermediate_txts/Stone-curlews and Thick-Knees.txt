@@ -1,0 +1,1685 @@
+[
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/558164497/square.jpg",
+    "date": "2025-03-25",
+    "latitude": "48.3889838986",
+    "longitude": "3.7081820521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus indicus",
+    "common name": "Indian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558027776/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "25.4788437",
+    "longitude": "84.9107642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557953276/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-26.2587472222",
+    "longitude": "31.8767861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557949478/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-15.1043975638",
+    "longitude": "125.0090416521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557929036/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-31.9461494534",
+    "longitude": "152.603771802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557924672/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-19.306045",
+    "longitude": "146.7311083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557920373/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-16.0950471477",
+    "longitude": "145.468024145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/557886561/square.jpg",
+    "date": "2017-12-28",
+    "latitude": "-26.837038",
+    "longitude": "152.960983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557886146/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "10.2396216667",
+    "longitude": "-85.8426383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862399/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.5642336223",
+    "longitude": "153.0033229278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557791343/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.4236416667",
+    "longitude": "152.9028916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557758069/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.5096383333",
+    "longitude": "153.1257778333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis capensis",
+    "common name": "Southern Spotted Thick-Knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557582880/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.9504760287",
+    "longitude": "22.4511900026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://static.inaturalist.org/photos/557578647/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "2.7933140538",
+    "longitude": "-72.0021736622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557479832/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-16.9191387",
+    "longitude": "145.7766709997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557465059/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.1785444444",
+    "longitude": "150.9335",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus indicus",
+    "common name": "Indian Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/557441652/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "26.2204391691",
+    "longitude": "74.8606451167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557435753/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-27.4980497113",
+    "longitude": "153.0355771721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433180/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-16.8733313969",
+    "longitude": "145.6659115298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557429638/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-16.8282585",
+    "longitude": "145.6552581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557402379/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.2196915074",
+    "longitude": "76.8235126866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557390372/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "29.6086672",
+    "longitude": "34.9863338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557375175/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "16.0030805527",
+    "longitude": "-92.261123469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557237840/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.8244506922",
+    "longitude": "25.1295987496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557235604/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-10.7246878997",
+    "longitude": "142.4279236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus senegalensis",
+    "common name": "Senegal Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557219344/square.jpg",
+    "date": "2025-04-10",
+    "latitude": "13.3642803459",
+    "longitude": "-16.7918335988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557129116/square.jpg",
+    "date": "2025-02-17",
+    "latitude": "-17.8645030484",
+    "longitude": "25.7972078018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus senegalensis",
+    "common name": "Senegal Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557066310/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6022164702",
+    "longitude": "-1.2797975238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556995026/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.3451294066",
+    "longitude": "18.9939944074",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus senegalensis",
+    "common name": "Senegal Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556963103/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6044812902",
+    "longitude": "-1.279989481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556954101/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-0.6483593741",
+    "longitude": "30.956189184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/556933255/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-16.9188333333",
+    "longitude": "145.7795866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556917808/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-15.4658633333",
+    "longitude": "145.25003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556911253/square.jpg",
+    "date": "2018-01-03",
+    "latitude": "-27.606302003",
+    "longitude": "152.6758109873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556904786/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-19.2529897796",
+    "longitude": "146.8095472324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556884960/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.46998",
+    "longitude": "153.0508888333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556840151/square.jpg",
+    "date": "2019-04-13",
+    "latitude": "-17.4947330618",
+    "longitude": "146.0748914898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556834473/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-28.6421823",
+    "longitude": "153.6108065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/556801267/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-27.4751139918",
+    "longitude": "153.0302827433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556754205/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "13.3568758597",
+    "longitude": "-89.0367865571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556734993/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-19.3255275742",
+    "longitude": "146.7594878215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://static.inaturalist.org/photos/556653519/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "18.7398210939",
+    "longitude": "-96.1636806087",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://static.inaturalist.org/photos/556653518/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "18.7398210939",
+    "longitude": "-96.1636806087",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556628229/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.6103720726",
+    "longitude": "152.8734612759",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556536295/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-0.0328057148",
+    "longitude": "36.9479179382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556451986/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "39.6038365881",
+    "longitude": "3.1242370605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus recurvirostris",
+    "common name": "Great Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556433475/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "6.0416461463",
+    "longitude": "80.8029074572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus indicus",
+    "common name": "Indian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556428548/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "20.2717885",
+    "longitude": "79.3875706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556428460/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.9751351951",
+    "longitude": "25.5100662354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556396469/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.4622656947",
+    "longitude": "153.4412479784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556373841/square.jpg",
+    "date": "2014-05-17",
+    "latitude": "-19.9339133",
+    "longitude": "24.7625256",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis capensis",
+    "common name": "Southern Spotted Thick-Knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556360517/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-33.512555993",
+    "longitude": "25.7524653569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus indicus",
+    "common name": "Indian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556351878/square.jpg",
+    "date": "2025-04-10",
+    "latitude": "22.212927638",
+    "longitude": "80.5928378307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556351521/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-7.7018709819",
+    "longitude": "38.1579892541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/556332746/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.8471047327",
+    "longitude": "35.6941787526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556332503/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-20.2589612219",
+    "longitude": "148.6585187539",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556330337/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-16.9286350025",
+    "longitude": "145.9896926209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556326675/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.2412924745",
+    "longitude": "146.8030596582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556314313/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-27.0517933333",
+    "longitude": "153.1347016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556273885/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-17.2528622563",
+    "longitude": "145.5826978564",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556284000/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-16.5064173055",
+    "longitude": "145.4638127973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556269308/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "-27.5381722084",
+    "longitude": "152.969592858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556267909/square.jpg",
+    "date": "2025-03-28",
+    "latitude": null,
+    "longitude": null,
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus recurvirostris",
+    "common name": "Great Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556200306/square.jpg",
+    "date": "2025-01-09",
+    "latitude": "12.5004493247",
+    "longitude": "76.715284676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556112343/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "39.7152000584",
+    "longitude": "3.0609965619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556112241/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "39.7630443267",
+    "longitude": "3.1441367722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556111159/square.jpg",
+    "date": "2018-11-16",
+    "latitude": "-20.7736794596",
+    "longitude": "16.6566202417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556039782/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "36.7508046156",
+    "longitude": "31.4771079205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/555972634/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-19.2450305556",
+    "longitude": "146.7920611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557309768/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.6870939",
+    "longitude": "153.1048014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555914390/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-27.4741832",
+    "longitude": "153.0307588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555912328/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-16.1115356307",
+    "longitude": "145.4515390948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555916481/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "39.0439910889",
+    "longitude": "1.5844579935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555916481/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-33.6647122548",
+    "longitude": "24.4086884335",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555898365/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.5920078631",
+    "longitude": "153.1906410893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555893162/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-17.2772783333",
+    "longitude": "145.4710216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/555889882/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.1779489",
+    "longitude": "153.3724923",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555845756/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.431978304",
+    "longitude": "153.0045429911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555787956/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-12.3828333333",
+    "longitude": "130.8436583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/555738478/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-16.9190422374",
+    "longitude": "145.777192827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/555702664/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-27.3102333333",
+    "longitude": "152.9897916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555646848/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "40.303024055",
+    "longitude": "26.2517789631",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555599960/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "37.840778",
+    "longitude": "34.352867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555567480/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "45.4246399019",
+    "longitude": "8.8132877954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://static.inaturalist.org/photos/555551275/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "10.5131742969",
+    "longitude": "-85.2527576908",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/555538716/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "37.971052408",
+    "longitude": "-7.9124317691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555531660/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.25940856",
+    "longitude": "32.47403712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus senegalensis",
+    "common name": "Senegal Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555520700/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "10.715855",
+    "longitude": "42.511975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555519192/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "10.61626",
+    "longitude": "42.5252483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/555508654/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.3216509667",
+    "longitude": "5.0577277139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus superciliaris",
+    "common name": "Peruvian Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555507972/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-8.01565834",
+    "longitude": "-79.1866279739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555492421/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-16.8311471667",
+    "longitude": "145.71118525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/555487413/square.jpg",
+    "date": "2021-07-18",
+    "latitude": "42.60883",
+    "longitude": "11.2668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus vermiculatus",
+    "common name": "Southern African Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555469233/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-25.373777551",
+    "longitude": "32.0025493798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis capensis",
+    "common name": "Southern Spotted Thick-Knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555465835/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-34.1411830556",
+    "longitude": "18.3206330556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/555453831/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-17.8999999997",
+    "longitude": "146.09",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555447496/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-27.5794356733",
+    "longitude": "153.2401880217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555431290/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-0.2819105",
+    "longitude": "29.9638986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://static.inaturalist.org/photos/555400134/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "9.986433046",
+    "longitude": "-84.2155228928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555381113/square.jpg",
+    "date": "2024-03-23",
+    "latitude": "-17.9659783333",
+    "longitude": "146.0936445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555271391/square.jpg",
+    "date": "2025-01-26",
+    "latitude": "-19.0100222222",
+    "longitude": "15.7129166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555183602/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "37.0202173245",
+    "longitude": "14.3423844874",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus indicus",
+    "common name": "Indian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555142755/square.jpg",
+    "date": "2017-11-24",
+    "latitude": "21.0842848",
+    "longitude": "70.7944414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555142755/square.jpg",
+    "date": "2024-06-06",
+    "latitude": "43.5549259583",
+    "longitude": "3.9015771067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555099414/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "3.694398",
+    "longitude": "-73.232882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555062338/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.5488928738",
+    "longitude": "23.0721834629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555061293/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.2473664594",
+    "longitude": "146.8113445215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555040624/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "-20.542125",
+    "longitude": "116.8141166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555037813/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-16.6640837325",
+    "longitude": "145.5635636375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554961787/square.jpg",
+    "date": "2025-08-10",
+    "latitude": null,
+    "longitude": null,
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554939875/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-25.4056083333",
+    "longitude": "153.0134583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554894683/square.jpg",
+    "date": "2025-04-22",
+    "latitude": "46.4277802695",
+    "longitude": "47.7049109409",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554894679/square.jpg",
+    "date": "2025-04-22",
+    "latitude": "46.52160725",
+    "longitude": "47.6001000993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554894370/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "46.5332827733",
+    "longitude": "47.7337151769",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus indicus",
+    "common name": "Indian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554819117/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "26.1775",
+    "longitude": "73.9939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554800255/square.jpg",
+    "date": "2012-03-26",
+    "latitude": "-27.3617453088",
+    "longitude": "31.9227563197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554790999/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-15.6801991978",
+    "longitude": "29.4811488149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554763944/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-16.1653833401",
+    "longitude": "145.44353485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554719414/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-16.9198591076",
+    "longitude": "145.77549099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554674857/square.jpg",
+    "date": "2023-11-24",
+    "latitude": "-25.8830295557",
+    "longitude": "28.2631619275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554669151/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-17.9734904886",
+    "longitude": "25.9864196163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554647897/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-27.476555",
+    "longitude": "152.9783166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554601279/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.6329766849",
+    "longitude": "25.9760748806",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554567264/square.jpg",
+    "date": "2023-09-21",
+    "latitude": "-27.620821801",
+    "longitude": "153.4686795594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus indicus",
+    "common name": "Indian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554558427/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "6.4425643963",
+    "longitude": "80.8549305797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus recurvirostris",
+    "common name": "Great Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554559561/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "6.4991437396",
+    "longitude": "80.8947470855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus recurvirostris",
+    "common name": "Great Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/554534829/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "13.6251388763",
+    "longitude": "100.0734115846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554522984/square.jpg",
+    "date": "2014-05-10",
+    "latitude": "-17.9511462",
+    "longitude": "24.6868329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554501481/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-17.5255916667",
+    "longitude": "146.0259583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554461239/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-17.2746518467",
+    "longitude": "145.5826856747",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554414394/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-24.0673491694",
+    "longitude": "31.4451537714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554413005/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-27.4161950727",
+    "longitude": "152.9795507714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554390716/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-27.5417166667",
+    "longitude": "152.96077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554389218/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.5128829499",
+    "longitude": "153.0304892734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554349477/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-25.6103894592",
+    "longitude": "152.8734747324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://static.inaturalist.org/photos/554318726/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-17.8133305841",
+    "longitude": "24.9873967687",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus indicus",
+    "common name": "Indian Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/554236465/square.jpg",
+    "date": "2025-03-21",
+    "latitude": "23.7222105628",
+    "longitude": "81.0232710466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus vermiculatus",
+    "common name": "Southern African Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554234578/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-33.9936936455",
+    "longitude": "18.4881057903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554211518/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.7440190997",
+    "longitude": "153.2388596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554203722/square.jpg",
+    "date": "2023-12-19",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554202398/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.598783596",
+    "longitude": "153.1479112243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554183964/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-1.4140991997",
+    "longitude": "36.9280648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/554191729/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-12.4378820997",
+    "longitude": "130.9164125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554170626/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-16.9210333333",
+    "longitude": "145.7798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554156992/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-27.4763916667",
+    "longitude": "153.0295861667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554114805/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.9470481709",
+    "longitude": "22.4506451693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554114798/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.9452790206",
+    "longitude": "22.4552274824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554107927/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-19.2575138889",
+    "longitude": "146.8146166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554089422/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "13.4593649",
+    "longitude": "-89.2187983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/554076970/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-16.9208444444",
+    "longitude": "145.779525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus recurvirostris",
+    "common name": "Great Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554062384/square.jpg",
+    "date": "2024-12-31",
+    "latitude": "26.0522478155",
+    "longitude": "76.4690112252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554023454/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "13.4394893644",
+    "longitude": "-88.1585311889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554010982/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-16.919495",
+    "longitude": "145.77762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hesperoburhinus bistriatus",
+    "common name": "Double-striped Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553946132/square.jpg",
+    "date": "2023-10-22",
+    "latitude": "9.8011465574",
+    "longitude": "-84.6091417584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553942105/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-25.6103539096",
+    "longitude": "152.8734686399",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus senegalensis",
+    "common name": "Senegal Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553908753/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "7.5240329999",
+    "longitude": "38.7954707645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553898076/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-34.3739764998",
+    "longitude": "18.8949778881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus oedicnemus",
+    "common name": "Eurasian Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553887106/square.jpg",
+    "date": "2024-05-14",
+    "latitude": "31.799658097",
+    "longitude": "34.9610542184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553724299/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.88723833",
+    "longitude": "18.51792333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus vermiculatus",
+    "common name": "Water Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553724333/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.88765667",
+    "longitude": "18.51786833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553699573/square.jpg",
+    "date": "2018-08-16",
+    "latitude": "-27.3892258475",
+    "longitude": "153.0360766428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553700521/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.252235",
+    "longitude": "145.5827783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553661306/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-16.9199447204",
+    "longitude": "145.778212565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus capensis",
+    "common name": "Spotted Thick-knee",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553642517/square.jpg",
+    "date": "2021-10-17",
+    "latitude": "-33.7880809298",
+    "longitude": "20.1796178241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553642029/square.jpg",
+    "date": "2012-11-21",
+    "latitude": "-19.1492894723",
+    "longitude": "146.8669270777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553626297/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-16.9205766667",
+    "longitude": "145.7790966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553625275/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-16.9136016667",
+    "longitude": "145.7704716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553614078/square.jpg",
+    "date": "2024-11-08",
+    "latitude": "-19.3774153104",
+    "longitude": "146.722693846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553606439/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.4767436622",
+    "longitude": "152.9797225669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553584456/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-25.2689821259",
+    "longitude": "152.9863567668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553583401/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-20.3241836345",
+    "longitude": "148.6172522977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/553583219/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-20.7691616667",
+    "longitude": "149.3911283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/553576156/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.4737",
+    "longitude": "153.0293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553563109/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-12.3429780833",
+    "longitude": "130.8914629743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/553562685/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.3749247319",
+    "longitude": "145.3159492804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553523821/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-12.3764573122",
+    "longitude": "130.8532825315",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553519910/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-12.3824698535",
+    "longitude": "130.8558790055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/553521405/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.4348",
+    "longitude": "153.5425",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/553521282/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.4352",
+    "longitude": "153.5424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553550192/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.423715352",
+    "longitude": "152.9028361977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553480885/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-19.1184185066",
+    "longitude": "146.862690903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553470565/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.4290240433",
+    "longitude": "153.5390238415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553393251/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-16.91923",
+    "longitude": "145.77678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553389539/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-16.9202842331",
+    "longitude": "145.7790508003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553344260/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-27.4291216667",
+    "longitude": "153.0630638333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Esacus magnirostris",
+    "common name": "Beach Stone-curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553212025/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-16.9184996263",
+    "longitude": "145.7766680717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Burhinus grallarius",
+    "common name": "Bush Stone-curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/553278967/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-16.9003468927",
+    "longitude": "145.7487376496",
+    "quality_grade": "research"
+  }
+]

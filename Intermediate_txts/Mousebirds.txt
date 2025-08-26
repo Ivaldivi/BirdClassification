@@ -1,0 +1,1442 @@
+[
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558095469/square.jpg",
+    "date": "2003-09-16",
+    "latitude": "1.0871426",
+    "longitude": "34.1780966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558028523/square.jpg",
+    "date": "2024-11-24",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558000628/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.9358716667",
+    "longitude": "25.5481783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557955299/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-26.1431694444",
+    "longitude": "28.0457472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557948184/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-25.1679472222",
+    "longitude": "31.5618",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557946261/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.6149972222",
+    "longitude": "31.7884194444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus minor",
+    "common name": "Bushveld Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557795255/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-24.7964472985",
+    "longitude": "31.3462362341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/557701585/square.jpg",
+    "date": "2005-07-24",
+    "latitude": "-34.0215889771",
+    "longitude": "24.0271347293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557682799/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-29.60125976",
+    "longitude": "30.4346632",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557667275/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-33.2366698872",
+    "longitude": "20.5875997661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649937/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-33.1902878332",
+    "longitude": "18.1271353584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557602509/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-25.4706511265",
+    "longitude": "31.5550218958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/557444316/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-33.7661546327",
+    "longitude": "21.1969143557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557398281/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.7958277781",
+    "longitude": "28.3451749944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557347649/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "-33.9875011",
+    "longitude": "18.432722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557346567/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "-33.9875011",
+    "longitude": "18.432722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius macrourus",
+    "common name": "Blue-naped Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557312231/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-2.1312261666",
+    "longitude": "34.7219765848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557308244/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-2.1316715116",
+    "longitude": "34.7225969981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557290530/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-17.902039379",
+    "longitude": "25.8201027818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557188035/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.1458132274",
+    "longitude": "18.8649516649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/557058751/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-34.3243864701",
+    "longitude": "21.3035720729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557044828/square.jpg",
+    "date": "2024-03-29",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556980886/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-0.6001725948",
+    "longitude": "30.9239681254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556968604/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-0.6234700077",
+    "longitude": "30.9870962784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556942407/square.jpg",
+    "date": "2024-02-18",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556933031/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.9100570207",
+    "longitude": "28.1737710019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556925712/square.jpg",
+    "date": "2024-02-13",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556923463/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-32.2143516667",
+    "longitude": "24.6402316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556912319/square.jpg",
+    "date": "2024-02-11",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556906025/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556677865/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "7.9270986077",
+    "longitude": "38.7248811068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556594015/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-26.0269453599",
+    "longitude": "27.8556849527",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556489057/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-22.5537166667",
+    "longitude": "17.0906221667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556463848/square.jpg",
+    "date": "2024-02-03",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556385929/square.jpg",
+    "date": "2021-11-14",
+    "latitude": "-33.6820191825",
+    "longitude": "20.0319504067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556341042/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556242672/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-0.023559",
+    "longitude": "37.906193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius damarensis",
+    "common name": "Namibian White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556163337/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.5708809636",
+    "longitude": "17.1283477966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius damarensis",
+    "common name": "Namibian White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556162656/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.5749841693",
+    "longitude": "17.1277407222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556028682/square.jpg",
+    "date": "2024-01-22",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius macrourus",
+    "common name": "Blue-naped Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/555985136/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "5.349488852",
+    "longitude": "37.4968020038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555970156/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-33.3863546027",
+    "longitude": "18.9123285794",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius macrourus",
+    "common name": "Blue-naped Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555635689/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-1.2635856867",
+    "longitude": "36.8172340393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555583870/square.jpg",
+    "date": "2024-01-13",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555581850/square.jpg",
+    "date": "2024-01-13",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus minor",
+    "common name": "Bushveld Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555552528/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-30.2822689554",
+    "longitude": "30.7537450748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/555532966/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-4.0717086949",
+    "longitude": "36.1605576876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555466464/square.jpg",
+    "date": "2021-11-01",
+    "latitude": "-33.6817570946",
+    "longitude": "20.0320885509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555312996/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-17.7869777778",
+    "longitude": "25.1819555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555312327/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-17.7869777778",
+    "longitude": "25.1819555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555197035/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-3.3770337641",
+    "longitude": "29.3556760831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555156867/square.jpg",
+    "date": "2024-01-11",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius colius",
+    "common name": "Cape White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555097882/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-33.3863992427",
+    "longitude": "18.9123576879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555025203/square.jpg",
+    "date": "2024-01-07",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/554740860/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-25.94683693",
+    "longitude": "27.76825278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554716984/square.jpg",
+    "date": "2024-01-04",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554677892/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-29.8474444444",
+    "longitude": "31.0076961111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius colius",
+    "common name": "Cape White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554668533/square.jpg",
+    "date": "2023-12-30",
+    "latitude": "-25.2302756022",
+    "longitude": "27.1012708917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554657752/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-25.9100899314",
+    "longitude": "28.1738736565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554645046/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-25.9098855844",
+    "longitude": "28.17371839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554639470/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.6476612294",
+    "longitude": "36.4189166576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius colius",
+    "common name": "Cape White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554694104/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.1054625633",
+    "longitude": "18.0353780307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554231766/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-26.0585816",
+    "longitude": "27.975388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554225930/square.jpg",
+    "date": "2023-12-24",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554182982/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-25.9112111971",
+    "longitude": "28.1729779106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554182503/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-25.9111257059",
+    "longitude": "28.1736806985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554181935/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-25.9100706003",
+    "longitude": "28.1733734603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554093220/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.9137096204",
+    "longitude": "15.6146302476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/553830296/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "0.0907290348",
+    "longitude": "32.3617962375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553820260/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-24.9922699895",
+    "longitude": "31.5926746869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553719759/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-31.7700138889",
+    "longitude": "18.6184027778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553582310/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-1.3533338217",
+    "longitude": "36.9193234284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553380641/square.jpg",
+    "date": "2024-08-22",
+    "latitude": "0.0272148347",
+    "longitude": "32.2578331589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553354925/square.jpg",
+    "date": "2024-08-11",
+    "latitude": "1.4559701577",
+    "longitude": "32.0762513739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius macrourus",
+    "common name": "Blue-naped Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553202686/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-2.3116408",
+    "longitude": "34.8351635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553171375/square.jpg",
+    "date": "2023-12-01",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553159223/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-24.987831717",
+    "longitude": "31.594869453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553165444/square.jpg",
+    "date": "2024-04-13",
+    "latitude": "-25.2302756022",
+    "longitude": "27.1012708917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553159173/square.jpg",
+    "date": "2021-10-10",
+    "latitude": "-33.7880805989",
+    "longitude": "20.1790491748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553158837/square.jpg",
+    "date": "2021-10-09",
+    "latitude": "-33.7880805989",
+    "longitude": "20.1790491748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus minor",
+    "common name": "Bushveld Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553134156/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-25.9107964679",
+    "longitude": "28.172600799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus minor",
+    "common name": "Bushveld Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553132730/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-25.9111597289",
+    "longitude": "28.1738392249",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius damarensis",
+    "common name": "Namibian White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553131837/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-22.6178040401",
+    "longitude": "17.0740735528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius damarensis",
+    "common name": "Namibian White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553131826/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-22.6178040401",
+    "longitude": "17.0740735528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius damarensis",
+    "common name": "Namibian White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553131821/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-22.6178040401",
+    "longitude": "17.0740735528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius damarensis",
+    "common name": "Namibian White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553131732/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-22.6178040401",
+    "longitude": "17.0740735528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553094936/square.jpg",
+    "date": "2024-08-18",
+    "latitude": "-1.3763810318",
+    "longitude": "29.6359509904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553092608/square.jpg",
+    "date": "2025-02-23",
+    "latitude": "-26.1015445",
+    "longitude": "27.9524116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552863908/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-1.5973940139",
+    "longitude": "35.2314392523",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552767179/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-32.2590333333",
+    "longitude": "24.5336433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552702530/square.jpg",
+    "date": "2023-10-15",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552622101/square.jpg",
+    "date": "2024-08-16",
+    "latitude": "-34.1979116667",
+    "longitude": "18.4512216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552615388/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-26.205647",
+    "longitude": "28.0337185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552610451/square.jpg",
+    "date": "2023-09-19",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552608566/square.jpg",
+    "date": "2023-09-18",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552604035/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-33.9360466667",
+    "longitude": "25.5481316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552442490/square.jpg",
+    "date": "2019-08-10",
+    "latitude": "-19.6063889",
+    "longitude": "15.0705556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552433673/square.jpg",
+    "date": "2022-03-16",
+    "latitude": "-33.6968345424",
+    "longitude": "25.8170550049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552384138/square.jpg",
+    "date": "2018-08-21",
+    "latitude": "-31.7795249617",
+    "longitude": "18.62207254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552375007/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-30.2812069964",
+    "longitude": "30.7515458017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552316364/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-3.3338261",
+    "longitude": "36.872388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552312547/square.jpg",
+    "date": "2023-06-05",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552269119/square.jpg",
+    "date": "2023-05-23",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552263567/square.jpg",
+    "date": "2023-05-18",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552250790/square.jpg",
+    "date": "2023-05-13",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552246722/square.jpg",
+    "date": "2021-09-30",
+    "latitude": "-33.7879404911",
+    "longitude": "20.179244997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552220561/square.jpg",
+    "date": "2023-05-01",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552198068/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-30.281235572",
+    "longitude": "30.7520587185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552193307/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-34.0783268",
+    "longitude": "18.5843622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552192880/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-34.0646984",
+    "longitude": "18.5843422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552165079/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-33.9404474042",
+    "longitude": "18.4879714483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552165079/square.jpg",
+    "date": "2024-09-30",
+    "latitude": "-32.9631048482",
+    "longitude": "24.6907957299",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552147855/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-24.9814033333",
+    "longitude": "31.5661716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552118716/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.37687387",
+    "longitude": "32.41041509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552109402/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-33.9875011",
+    "longitude": "18.432722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552109395/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-33.9875011",
+    "longitude": "18.432722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552000630/square.jpg",
+    "date": "2025-04-01",
+    "latitude": "-0.3489333333",
+    "longitude": "36.8113166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551989944/square.jpg",
+    "date": "2013-04-07",
+    "latitude": "-24.3860251",
+    "longitude": "31.3327344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus indicus",
+    "common name": "Cape Redface Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551887217/square.jpg",
+    "date": "2022-03-10",
+    "latitude": "-33.6968587358",
+    "longitude": "25.8170361506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551884876/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-33.9502093292",
+    "longitude": "22.4560499473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551879783/square.jpg",
+    "date": "2022-04-03",
+    "latitude": "-33.6974176322",
+    "longitude": "25.8162785849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551878249/square.jpg",
+    "date": "2022-03-06",
+    "latitude": "-33.6968788796",
+    "longitude": "25.8169994231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551859244/square.jpg",
+    "date": "2023-04-28",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551822070/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-24.981103143",
+    "longitude": "31.5663259834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551759648/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-33.9360166667",
+    "longitude": "25.5481516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius colius",
+    "common name": "Cape White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551733083/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-33.386349441",
+    "longitude": "18.9123982958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius colius",
+    "common name": "Cape White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551733109/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-33.386349441",
+    "longitude": "18.9123982958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551718460/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-25.3550900028",
+    "longitude": "31.5273221927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551698852/square.jpg",
+    "date": "2023-04-05",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551697835/square.jpg",
+    "date": "2023-04-04",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552667468/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-1.2762165",
+    "longitude": "36.8078649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius indicus",
+    "common name": "Red-faced Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551532242/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-17.8931398364",
+    "longitude": "25.8149476032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551489021/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-23.8590365187",
+    "longitude": "29.7083101806",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/551392533/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-1.3373513",
+    "longitude": "35.6974339307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551380530/square.jpg",
+    "date": "2023-03-25",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551378605/square.jpg",
+    "date": "2023-03-22",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551343550/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-25.6836744255",
+    "longitude": "27.9648239636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius colius",
+    "common name": "Cape White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551323176/square.jpg",
+    "date": "2011-03-10",
+    "latitude": "-33.219030493",
+    "longitude": "18.1404354025",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551287874/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551245035/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-26.9992942788",
+    "longitude": "32.7850027486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550985180/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-26.0593984394",
+    "longitude": "28.0411053119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus minor",
+    "common name": "Bushveld Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550964002/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-29.0591473",
+    "longitude": "30.5895359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550852686/square.jpg",
+    "date": "2023-03-25",
+    "latitude": "-33.0561582309",
+    "longitude": "18.0445497324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550838317/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "0.2499159791",
+    "longitude": "36.8102391994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/550831980/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-33.9451069367",
+    "longitude": "22.4632399902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550794422/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-26.067158",
+    "longitude": "27.843475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550774491/square.jpg",
+    "date": "2023-04-10",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://static.inaturalist.org/photos/550763610/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-33.7642819091",
+    "longitude": "20.1301105642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550757058/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-33.9487328401",
+    "longitude": "18.462160188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius macrourus",
+    "common name": "Blue-naped Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550575272/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.612465929",
+    "longitude": "29.6755415046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550549321/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-0.2500466667",
+    "longitude": "36.018525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550526400/square.jpg",
+    "date": "2025-03-19",
+    "latitude": "-25.8830295557",
+    "longitude": "28.2631619275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urocolius macrourus",
+    "common name": "Blue-naped Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550388631/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-2.3116833333",
+    "longitude": "34.8351666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550294102/square.jpg",
+    "date": "2021-09-10",
+    "latitude": "-33.7880805989",
+    "longitude": "20.1790491748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550286577/square.jpg",
+    "date": "2021-09-09",
+    "latitude": "-33.7880805989",
+    "longitude": "20.1790491748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius colius",
+    "common name": "White-backed Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550286435/square.jpg",
+    "date": "2021-09-09",
+    "latitude": "-33.7879315743",
+    "longitude": "20.1792718191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550268983/square.jpg",
+    "date": "2023-08-18",
+    "latitude": "-1.5952041667",
+    "longitude": "35.3841858333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550220127/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-34.1363036824",
+    "longitude": "18.3617469928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus striatus",
+    "common name": "Cape Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550219713/square.jpg",
+    "date": "2023-03-20",
+    "latitude": "-33.9359188923",
+    "longitude": "25.5480570119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colius striatus",
+    "common name": "Speckled Mousebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550006459/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-6.7792933725",
+    "longitude": "39.1992516211",
+    "quality_grade": "research"
+  }
+]

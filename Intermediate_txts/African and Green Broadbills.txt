@@ -1,0 +1,1550 @@
+[
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557450966/square.jpg",
+    "date": "2025-04-15",
+    "latitude": "5.0681166489",
+    "longitude": "101.8462037341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/554346140/square.jpg",
+    "date": "2024-04-14",
+    "latitude": "4.2648736539",
+    "longitude": "102.4070982686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552496137/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "6.0049392",
+    "longitude": "116.5417732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551692454/square.jpg",
+    "date": "2012-01-05",
+    "latitude": "5.3480220691",
+    "longitude": "-1.3715737011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548899210/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "0.3562008755",
+    "longitude": "102.7487580367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548898513/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "0.3498611086",
+    "longitude": "102.7695718563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548380302/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "4.1580677923",
+    "longitude": "114.9289909382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/548349805/square.jpg",
+    "date": "2014-03-04",
+    "latitude": "4.7907833037",
+    "longitude": "102.0718549881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547323842/square.jpg",
+    "date": "2012-05-14",
+    "latitude": "5.9999663561",
+    "longitude": "101.8031767949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546786883/square.jpg",
+    "date": "2010-02-27",
+    "latitude": "8.7753131071",
+    "longitude": "99.7399748664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546238075/square.jpg",
+    "date": "2015-05-08",
+    "latitude": "8.9818249272",
+    "longitude": "98.4662027697",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546238054/square.jpg",
+    "date": "2013-03-05",
+    "latitude": "8.9547884901",
+    "longitude": "98.4582109659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546238051/square.jpg",
+    "date": "2013-02-12",
+    "latitude": "8.8135136961",
+    "longitude": "98.4374266879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546238036/square.jpg",
+    "date": "2013-03-06",
+    "latitude": "8.850812491",
+    "longitude": "98.482260973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545421552/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "8.6342812978",
+    "longitude": "99.6649490146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545420893/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "8.7023802931",
+    "longitude": "99.7930765934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545420809/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "8.7855426667",
+    "longitude": "99.6418257824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/545408088/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "0.4112498335",
+    "longitude": "102.41219847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/544964704/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-1.0013394832",
+    "longitude": "29.6173396711",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis capensis",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544326489/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-28.0352246",
+    "longitude": "32.3614879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/543706260/square.jpg",
+    "date": "2025-01-07",
+    "latitude": "-27.9565424046",
+    "longitude": "32.3627365701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542484071/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-16.0277952783",
+    "longitude": "35.1040775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540262580/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "6.0261216307",
+    "longitude": "116.548639112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539464482/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "6.0745711958",
+    "longitude": "116.5681501019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538374291/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "6.1911241417",
+    "longitude": "101.3767711193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538212423/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "6.014840722",
+    "longitude": "116.5374852989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537505742/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "6.0320524954",
+    "longitude": "101.3012206354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535281906/square.jpg",
+    "date": "2013-08-28",
+    "latitude": "-27.6118986035",
+    "longitude": "32.2291768103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena hosii",
+    "common name": "Hose's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/535003081/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "3.90828088",
+    "longitude": "115.6483327804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/534419485/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "0.3533530575",
+    "longitude": "102.7813008862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534383258/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "0.5853864644",
+    "longitude": "102.612564394",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/534274884/square.jpg",
+    "date": "2024-02-26",
+    "latitude": "5.61307789",
+    "longitude": "116.4649736254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533540836/square.jpg",
+    "date": "2014-08-23",
+    "latitude": "-27.0424872",
+    "longitude": "32.4296843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532901369/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "6.021255",
+    "longitude": "116.5462981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531045678/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "4.6704553534",
+    "longitude": "102.1548865532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527465681/square.jpg",
+    "date": "2012-10-14",
+    "latitude": "-27.9697109292",
+    "longitude": "32.3618615028",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527465768/square.jpg",
+    "date": "2016-09-19",
+    "latitude": "-27.9643677445",
+    "longitude": "32.3711872393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526268270/square.jpg",
+    "date": "2024-01-22",
+    "latitude": "6.021255",
+    "longitude": "116.5462981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523367358/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "4.9159940609",
+    "longitude": "117.8015597602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522737713/square.jpg",
+    "date": "2025-05-02",
+    "latitude": "3.4844864446",
+    "longitude": "115.1897745757",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/522329274/square.jpg",
+    "date": "2024-06-11",
+    "latitude": "6.0175332159",
+    "longitude": "116.5439189201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena hosii",
+    "common name": "Hose's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/522322904/square.jpg",
+    "date": "2024-06-20",
+    "latitude": "4.4981091839",
+    "longitude": "115.5790401273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/522245360/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "3.2310007404",
+    "longitude": "101.8918708482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/522236422/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "3.226543886",
+    "longitude": "101.8136033056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/521078376/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "4.7558529881",
+    "longitude": "102.0621783752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515414387/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "8.7209092683",
+    "longitude": "99.7345750705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514414717/square.jpg",
+    "date": "2023-10-23",
+    "latitude": "-11.3180346795",
+    "longitude": "25.1105722223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/513940452/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "3.647541193",
+    "longitude": "101.7819894597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506575292/square.jpg",
+    "date": "2016-07-20",
+    "latitude": "0.4392305477",
+    "longitude": "117.4874232894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/504221695/square.jpg",
+    "date": "2025-05-07",
+    "latitude": "6.5237071402",
+    "longitude": "100.8895292855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/504221695/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "12.9791260565",
+    "longitude": "99.3361774313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501669651/square.jpg",
+    "date": "2025-05-04",
+    "latitude": "7.9174437979",
+    "longitude": "99.2314556286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500469912/square.jpg",
+    "date": "2025-05-02",
+    "latitude": "5.7548081846",
+    "longitude": "101.6884449755",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500456197/square.jpeg",
+    "date": "2025-05-03",
+    "latitude": "-27.807331",
+    "longitude": "32.2188266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis sharpei",
+    "common name": "Gray-headed Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500436668/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "4.822456",
+    "longitude": "9.703625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500356800/square.jpg",
+    "date": "2025-05-04",
+    "latitude": "7.8815620108",
+    "longitude": "99.2383761689",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498037542/square.jpeg",
+    "date": "2022-08-10",
+    "latitude": "-2.5945864775",
+    "longitude": "102.2080289719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/496559355/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "6.8471133688",
+    "longitude": "100.2823476374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495612057/square.jpeg",
+    "date": "2025-04-28",
+    "latitude": "7.8119511811",
+    "longitude": "99.3189245492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492083047/square.jpg",
+    "date": "2025-04-14",
+    "latitude": "6.021255",
+    "longitude": "116.5462981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491353512/square.jpg",
+    "date": "2025-04-14",
+    "latitude": "6.021255",
+    "longitude": "116.5462981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489640403/square.jpg",
+    "date": "2025-04-13",
+    "latitude": "5.8408178883",
+    "longitude": "101.9109879188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489640334/square.jpg",
+    "date": "2025-04-15",
+    "latitude": "5.7290932516",
+    "longitude": "101.8723377469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487857063/square.jpg",
+    "date": "2025-04-14",
+    "latitude": "5.819728309",
+    "longitude": "101.2454741871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487379231/square.jpeg",
+    "date": "2025-04-14",
+    "latitude": "5.9944395928",
+    "longitude": "101.2154998348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487377714/square.jpeg",
+    "date": "2025-04-12",
+    "latitude": "6.0533898901",
+    "longitude": "101.5841139475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483367659/square.jpeg",
+    "date": "2025-03-29",
+    "latitude": "-0.9218513781",
+    "longitude": "29.6148505147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482144403/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "5.2871027778",
+    "longitude": "-2.6429027778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/480521078/square.jpeg",
+    "date": "2024-10-23",
+    "latitude": "6.0055351",
+    "longitude": "116.5422225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/477237306/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "3.8404943702",
+    "longitude": "113.617906017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476708057/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "8.1311703099",
+    "longitude": "99.61213407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475926717/square.jpg",
+    "date": "2023-09-26",
+    "latitude": "-7.787999944",
+    "longitude": "36.4802918453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473616805/square.jpg",
+    "date": "2024-01-13",
+    "latitude": "5.302395135",
+    "longitude": "-2.6492613667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473064482/square.jpg",
+    "date": "2023-09-21",
+    "latitude": "-7.0282",
+    "longitude": "37.6322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472486812/square.jpeg",
+    "date": "2024-01-27",
+    "latitude": "6.0344778568",
+    "longitude": "116.5497289225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471322411/square.jpg",
+    "date": "2019-07-22",
+    "latitude": "-5.1395420569",
+    "longitude": "105.6423257656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/469232039/square.jpg",
+    "date": "2024-02-29",
+    "latitude": "6.0098443239",
+    "longitude": "116.5408937859",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/467319546/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "3.4790772042",
+    "longitude": "101.8147812848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466939595/square.jpeg",
+    "date": "2024-09-17",
+    "latitude": "-8.2439415653",
+    "longitude": "36.0181420067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466793541/square.jpeg",
+    "date": "2024-01-31",
+    "latitude": "3.2068816457",
+    "longitude": "101.854058089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465921054/square.jpg",
+    "date": "2023-10-19",
+    "latitude": "6.0056521",
+    "longitude": "116.5420776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465870831/square.jpg",
+    "date": "2022-10-25",
+    "latitude": "6.0056521",
+    "longitude": "116.5420776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465734812/square.jpg",
+    "date": "2021-04-29",
+    "latitude": "3.3433474919",
+    "longitude": "101.9147841652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465581013/square.png",
+    "date": "2018-06-06",
+    "latitude": "4.4057033738",
+    "longitude": "102.3343227654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465572570/square.jpg",
+    "date": "2019-08-06",
+    "latitude": "3.4190964078",
+    "longitude": "102.1404463467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/464804782/square.jpeg",
+    "date": "2023-02-18",
+    "latitude": "6.0095953683",
+    "longitude": "116.541724512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464494842/square.jpeg",
+    "date": "2024-09-19",
+    "latitude": "-8.2327372342",
+    "longitude": "36.0313731389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460476260/square.jpeg",
+    "date": "2024-07-25",
+    "latitude": "0.2215399504",
+    "longitude": "34.8921873103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/458668075/square.jpeg",
+    "date": "2024-12-15",
+    "latitude": "-16.2471482091",
+    "longitude": "30.2323113754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457648753/square.jpg",
+    "date": "2024-12-17",
+    "latitude": "7.9983735594",
+    "longitude": "99.204730902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457463305/square.jpg",
+    "date": "2024-12-14",
+    "latitude": "-16.7764091697",
+    "longitude": "26.7510245286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457195685/square.jpg",
+    "date": "2022-06-26",
+    "latitude": "3.3957769859",
+    "longitude": "101.8139065034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455640092/square.jpeg",
+    "date": "2024-11-19",
+    "latitude": "6.0168661912",
+    "longitude": "116.5370658837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452732997/square.jpg",
+    "date": "2021-01-05",
+    "latitude": "-7.0287936438",
+    "longitude": "37.6338157976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452645666/square.jpeg",
+    "date": "2024-10-19",
+    "latitude": "6.020841",
+    "longitude": "116.542507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452646160/square.jpeg",
+    "date": "2024-10-19",
+    "latitude": "6.020841",
+    "longitude": "116.542507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452472878/square.jpeg",
+    "date": "2024-07-28",
+    "latitude": "2.7613769753",
+    "longitude": "102.0712201012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451072361/square.jpg",
+    "date": "2024-10-24",
+    "latitude": "6.0200966177",
+    "longitude": "116.5413361966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451071603/square.jpg",
+    "date": "2024-10-24",
+    "latitude": "6.02874909",
+    "longitude": "116.54735867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/450293760/square.jpeg",
+    "date": "2024-05-06",
+    "latitude": "6.021255",
+    "longitude": "116.5462981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449030514/square.jpeg",
+    "date": "2024-10-24",
+    "latitude": "6.021255",
+    "longitude": "116.5462981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448761070/square.jpg",
+    "date": "2024-10-26",
+    "latitude": "8.6799058439",
+    "longitude": "99.6177401902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448761066/square.jpg",
+    "date": "2024-10-26",
+    "latitude": "8.7211285939",
+    "longitude": "99.6738183924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448761066/square.jpg",
+    "date": "2024-11-04",
+    "latitude": "-13.095827182",
+    "longitude": "18.8710266892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448273870/square.jpeg",
+    "date": "2024-09-15",
+    "latitude": "6.0057266667",
+    "longitude": "116.5426266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448273863/square.jpeg",
+    "date": "2024-09-19",
+    "latitude": "6.021255",
+    "longitude": "116.5462981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis cryptoleucus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448076066/square.jpg",
+    "date": "2024-10-10",
+    "latitude": "-28.0665759989",
+    "longitude": "32.3076672515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447064915/square.jpg",
+    "date": "2022-01-06",
+    "latitude": "5.220317873",
+    "longitude": "-2.6512840643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444707592/square.jpeg",
+    "date": "2024-10-14",
+    "latitude": "5.9385253936",
+    "longitude": "101.3653926967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/444488513/square.jpg",
+    "date": "2024-06-03",
+    "latitude": "6.0197083333",
+    "longitude": "116.5390783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442824867/square.jpeg",
+    "date": "2017-03-16",
+    "latitude": "6.0186033",
+    "longitude": "116.5372903583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442254552/square.jpeg",
+    "date": "2024-10-14",
+    "latitude": "5.9390746642",
+    "longitude": "101.2921794874",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439015029/square.jpeg",
+    "date": "2024-10-01",
+    "latitude": "-5.0366561091",
+    "longitude": "105.723142143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437257745/square.jpg",
+    "date": "2024-07-21",
+    "latitude": "1.9821744578",
+    "longitude": "103.3450177872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/432952869/square.jpeg",
+    "date": "2024-06-28",
+    "latitude": "3.477079368",
+    "longitude": "115.071491092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/432912081/square.jpeg",
+    "date": "2024-09-20",
+    "latitude": "6.0131740098",
+    "longitude": "116.5386389941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/432579831/square.jpg",
+    "date": "2024-07-12",
+    "latitude": "-4.8926428208",
+    "longitude": "105.6957230418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena hosii",
+    "common name": "Hose's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/431837821/square.jpg",
+    "date": "2024-07-21",
+    "latitude": "4.5688623584",
+    "longitude": "115.4321888065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis",
+    "common name": "African Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/431779661/square.jpg",
+    "date": "2015-08-08",
+    "latitude": "0.22457",
+    "longitude": "34.89781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/428518465/square.jpeg",
+    "date": "2024-08-17",
+    "latitude": "6.5045482906",
+    "longitude": "100.4223040603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/425181568/square.jpeg",
+    "date": "2024-08-30",
+    "latitude": "3.5776460911",
+    "longitude": "103.3167127167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/425180954/square.jpeg",
+    "date": "2024-08-30",
+    "latitude": "3.5694550966",
+    "longitude": "103.2980031041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425074778/square.jpeg",
+    "date": "2024-08-29",
+    "latitude": "6.0153",
+    "longitude": "116.53727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/424812373/square.jpeg",
+    "date": "2024-08-29",
+    "latitude": "3.4147757253",
+    "longitude": "103.2488100082",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/424759097/square.jpg",
+    "date": "2024-06-06",
+    "latitude": "5.5635088935",
+    "longitude": "116.497109336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/424153772/square.jpg",
+    "date": "2024-01-18",
+    "latitude": "5.228581",
+    "longitude": "-2.653686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423765956/square.jpeg",
+    "date": "2024-08-23",
+    "latitude": "6.0415153352",
+    "longitude": "116.5888009298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423765590/square.jpeg",
+    "date": "2024-08-23",
+    "latitude": "6.0480844597",
+    "longitude": "116.5714351969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421140928/square.jpg",
+    "date": "2024-08-14",
+    "latitude": "1.252862482",
+    "longitude": "117.1554410018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/421102822/square.jpg",
+    "date": "2024-08-12",
+    "latitude": "0.9333558846",
+    "longitude": "117.3091719938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420278601/square.jpeg",
+    "date": "2024-08-05",
+    "latitude": "4.6613445007",
+    "longitude": "102.0044339308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/425198246/square.jpg",
+    "date": "2024-08-16",
+    "latitude": "6.0072032583",
+    "longitude": "116.5421116173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419584346/square.jpg",
+    "date": "2024-08-13",
+    "latitude": "6.0175633333",
+    "longitude": "116.53717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418435140/square.jpg",
+    "date": "2024-08-04",
+    "latitude": "4.7967605299",
+    "longitude": "102.1025948981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418435132/square.jpg",
+    "date": "2024-08-04",
+    "latitude": "4.7387761496",
+    "longitude": "102.147795546",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418435132/square.jpg",
+    "date": "2024-01-14",
+    "latitude": "5.3269266346",
+    "longitude": "-1.3926959274",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416931784/square.jpeg",
+    "date": "2024-08-06",
+    "latitude": "6.1953930834",
+    "longitude": "101.3552897163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414560156/square.jpeg",
+    "date": "2024-08-02",
+    "latitude": "1.4472584363",
+    "longitude": "110.1442442803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414090295/square.jpg",
+    "date": "2011-08-22",
+    "latitude": "-5.1067983716",
+    "longitude": "105.7736891375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413754219/square.jpeg",
+    "date": "2024-07-28",
+    "latitude": "2.7642830008",
+    "longitude": "102.187425991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413250572/square.jpeg",
+    "date": "2024-07-30",
+    "latitude": "6.010125",
+    "longitude": "116.5403533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411736984/square.jpg",
+    "date": "2024-07-22",
+    "latitude": "5.8481568897",
+    "longitude": "101.8757517984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/409636441/square.jpg",
+    "date": "2018-11-30",
+    "latitude": "5.3525333333",
+    "longitude": "-1.3821361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis sharpei",
+    "common name": "Gray-headed Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408821600/square.jpg",
+    "date": "2024-04-23",
+    "latitude": "-1.7149500612",
+    "longitude": "12.9096846479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/408136297/square.jpeg",
+    "date": "2024-05-09",
+    "latitude": "6.3990593022",
+    "longitude": "100.8887881991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/405745512/square.jpeg",
+    "date": "2024-07-11",
+    "latitude": "4.4883828615",
+    "longitude": "102.5901732285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis cryptoleucus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405736937/square.jpeg",
+    "date": "2024-06-21",
+    "latitude": "-27.9688068713",
+    "longitude": "32.3734803674",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/402055514/square.jpeg",
+    "date": "2024-07-02",
+    "latitude": "4.324236767",
+    "longitude": "102.4722515337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402043067/square.jpeg",
+    "date": "2024-07-01",
+    "latitude": "-1.7816517806",
+    "longitude": "115.8810300699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/400674134/square.jpeg",
+    "date": "2019-03-04",
+    "latitude": "6.070838119",
+    "longitude": "116.5564534353",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/400643475/square.jpeg",
+    "date": "2024-06-29",
+    "latitude": "4.3501790105",
+    "longitude": "102.5742185419",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/399431807/square.jpeg",
+    "date": "2024-06-26",
+    "latitude": "4.3490984629",
+    "longitude": "102.5867893433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394395877/square.jpg",
+    "date": "2024-03-07",
+    "latitude": "5.363552864",
+    "longitude": "-1.3871770667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/394364111/square.jpg",
+    "date": "2024-06-05",
+    "latitude": "5.420375075",
+    "longitude": "116.5051178413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394297905/square.jpeg",
+    "date": "2024-05-25",
+    "latitude": "2.8760390511",
+    "longitude": "101.8332954717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis rufolateralis",
+    "common name": "Rufous-sided Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394124152/square.jpg",
+    "date": "2024-02-04",
+    "latitude": "0.813265",
+    "longitude": "30.0963883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/391456042/square.jpeg",
+    "date": "2024-06-07",
+    "latitude": "4.2908548402",
+    "longitude": "102.4921447984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391182075/square.jpg",
+    "date": "2024-05-05",
+    "latitude": "8.6294541148",
+    "longitude": "99.7164626228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/391085031/square.jpeg",
+    "date": "2024-05-31",
+    "latitude": "6.0092208447",
+    "longitude": "116.5425996146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis viridis",
+    "common name": "Green Broadbill (Common)",
+    "observation photo url": "https://static.inaturalist.org/photos/391085031/square.jpeg",
+    "date": "2024-06-06",
+    "latitude": "4.3772363628",
+    "longitude": "102.2997931307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/390398393/square.jpeg",
+    "date": "2024-03-24",
+    "latitude": "3.3547310521",
+    "longitude": "101.9046800292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/389939511/square.jpg",
+    "date": "2024-06-03",
+    "latitude": "8.0076151059",
+    "longitude": "99.0167061629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis cryptoleucus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384292651/square.jpeg",
+    "date": "2023-12-15",
+    "latitude": "-26.8917865242",
+    "longitude": "32.2815810889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382174855/square.jpeg",
+    "date": "2024-05-14",
+    "latitude": "6.0100966667",
+    "longitude": "116.5409916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378855505/square.jpg",
+    "date": "2024-05-05",
+    "latitude": "5.8484954958",
+    "longitude": "101.2679185915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377626697/square.jpeg",
+    "date": "2024-01-16",
+    "latitude": "-5.5008527216",
+    "longitude": "104.4140512484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369290181/square.jpg",
+    "date": "2024-04-17",
+    "latitude": "5.7502364466",
+    "longitude": "101.7606977707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366918214/square.jpeg",
+    "date": "2024-03-31",
+    "latitude": "6.021253659",
+    "longitude": "116.5462980419",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365027039/square.jpeg",
+    "date": "2024-03-24",
+    "latitude": "3.219279864",
+    "longitude": "101.8976110343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena viridis",
+    "common name": "Green Broadbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362569387/square.jpeg",
+    "date": "2023-07-29",
+    "latitude": "8.6689365523",
+    "longitude": "99.6120909613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smithornis capensis cryptoleucus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/362330333/square.jpg",
+    "date": "2023-09-09",
+    "latitude": "-27.9680805468",
+    "longitude": "32.4492230904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptomena whiteheadi",
+    "common name": "Whitehead's Broadbill",
+    "observation photo url": "https://static.inaturalist.org/photos/362257927/square.jpeg",
+    "date": "2024-04-01",
+    "latitude": "6.1173414",
+    "longitude": "116.3826852",
+    "quality_grade": "research"
+  }
+]

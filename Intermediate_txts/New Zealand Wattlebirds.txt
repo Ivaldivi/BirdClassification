@@ -1,0 +1,1766 @@
+[
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557887091/square.jpg",
+    "date": "2014-08-14",
+    "latitude": "-41.2908984",
+    "longitude": "174.7535089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557883182/square.jpg",
+    "date": "2014-08-14",
+    "latitude": "-41.2908984",
+    "longitude": "174.7535089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557452110/square.jpg",
+    "date": "2022-04-24",
+    "latitude": "-46.9318294976",
+    "longitude": "168.1253400072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557428652/square.jpg",
+    "date": "2025-01-25",
+    "latitude": "-45.7731315128",
+    "longitude": "170.599033392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557428633/square.jpg",
+    "date": "2025-01-25",
+    "latitude": "-45.7731315128",
+    "longitude": "170.599033392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557428635/square.jpg",
+    "date": "2025-01-25",
+    "latitude": "-45.7731315128",
+    "longitude": "170.599033392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557428614/square.jpg",
+    "date": "2025-01-25",
+    "latitude": "-45.7731315128",
+    "longitude": "170.599033392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557428575/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-45.7731315128",
+    "longitude": "170.599033392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/557364006/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-41.2934",
+    "longitude": "174.7515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557297961/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-41.2956833181",
+    "longitude": "174.7478112951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556827316/square.jpg",
+    "date": "2010-10-08",
+    "latitude": "-36.6035896653",
+    "longitude": "174.8895099266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556827309/square.jpg",
+    "date": "2010-10-08",
+    "latitude": "-36.6035896653",
+    "longitude": "174.8895099266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/556819137/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-41.301",
+    "longitude": "174.7415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/556819117/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-41.3011",
+    "longitude": "174.7415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556359511/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-36.37344",
+    "longitude": "174.842185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/556320027/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-39.4538432974",
+    "longitude": "174.4112589215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555895462/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-36.6019366667",
+    "longitude": "174.886505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/555840788/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-36.8113133333",
+    "longitude": "175.1966716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555472619/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555472572/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554481990/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-41.2950466667",
+    "longitude": "174.748855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554481933/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-41.2950366667",
+    "longitude": "174.748795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553083286/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-36.805236",
+    "longitude": "174.873634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/552556228/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-41.2980283333",
+    "longitude": "174.7463216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551742498/square.jpg",
+    "date": "2017-01-07",
+    "latitude": "-41.0948784854",
+    "longitude": "174.2743070957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551731183/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-36.6053616667",
+    "longitude": "174.89688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551728827/square.jpg",
+    "date": "2017-02-11",
+    "latitude": "-41.2972427677",
+    "longitude": "174.7441738758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551728715/square.jpg",
+    "date": "2017-02-11",
+    "latitude": "-41.2972427677",
+    "longitude": "174.7441738758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551728540/square.jpg",
+    "date": "2017-02-11",
+    "latitude": "-41.2972427677",
+    "longitude": "174.7441738758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551728399/square.jpg",
+    "date": "2017-02-11",
+    "latitude": "-41.2972427677",
+    "longitude": "174.7441738758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551726879/square.jpg",
+    "date": "2017-02-11",
+    "latitude": "-41.2938769779",
+    "longitude": "174.7511043951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551723660/square.jpg",
+    "date": "2017-03-05",
+    "latitude": "-41.2971757179",
+    "longitude": "174.7441469453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551278155/square.jpg",
+    "date": "2017-05-20",
+    "latitude": "-41.2930794944",
+    "longitude": "174.7522362545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548671671/square.jpg",
+    "date": "2025-03-27",
+    "latitude": "-36.6021027151",
+    "longitude": "174.8917449628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548198624/square.jpg",
+    "date": "2024-03-10",
+    "latitude": "-36.6055733333",
+    "longitude": "174.89635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548193852/square.jpg",
+    "date": "2022-06-07",
+    "latitude": "-45.7601021916",
+    "longitude": "166.5312765389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547862298/square.jpg",
+    "date": "2017-01-22",
+    "latitude": "-36.7937607731",
+    "longitude": "174.8585036745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546717097/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-41.3003355638",
+    "longitude": "174.7434231601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546716347/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-41.2970923102",
+    "longitude": "174.7473642035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545684586/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-46.9216338597",
+    "longitude": "168.1179633461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544795338/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-45.7729757599",
+    "longitude": "170.6018573934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543822672/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-41.2854583333",
+    "longitude": "174.7526111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543776447/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-45.7746557573",
+    "longitude": "170.6054949621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543567919/square.jpg",
+    "date": "2019-01-13",
+    "latitude": "-36.7852905",
+    "longitude": "174.8636138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543552554/square.jpg",
+    "date": "2024-02-17",
+    "latitude": "-41.299325",
+    "longitude": "174.7507466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543267674/square.jpg",
+    "date": "2017-10-14",
+    "latitude": "-41.2999813192",
+    "longitude": "174.7452011692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543267131/square.jpg",
+    "date": "2017-10-14",
+    "latitude": "-41.2989245644",
+    "longitude": "174.7453397427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543266759/square.jpg",
+    "date": "2017-10-14",
+    "latitude": "-41.2974095476",
+    "longitude": "174.7429917749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543248863/square.jpg",
+    "date": "2017-10-15",
+    "latitude": "-41.2958556335",
+    "longitude": "174.7459113298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543248863/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-41.2928164735",
+    "longitude": "174.7525317644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543248863/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-41.2928164735",
+    "longitude": "174.7525317644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542595057/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-41.2958281953",
+    "longitude": "174.7481270414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542595057/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-41.2983918423",
+    "longitude": "174.7451636195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541651024/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-41.1694999674",
+    "longitude": "174.2334731826",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541242857/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-40.8551705",
+    "longitude": "174.9119468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540703428/square.jpg",
+    "date": "2017-11-11",
+    "latitude": "-41.2963343479",
+    "longitude": "174.7475647708",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540702344/square.jpg",
+    "date": "2017-11-11",
+    "latitude": "-41.2972963316",
+    "longitude": "174.7500792899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540695772/square.jpg",
+    "date": "2017-11-19",
+    "latitude": "-41.294761128",
+    "longitude": "174.7380663943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540693029/square.jpg",
+    "date": "2017-11-25",
+    "latitude": "-41.2891876611",
+    "longitude": "174.7521738713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540690127/square.jpg",
+    "date": "2017-11-25",
+    "latitude": "-41.298069649",
+    "longitude": "174.7453349528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540683499/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-38.0502303061",
+    "longitude": "175.5677577198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540682725/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-38.0501826134",
+    "longitude": "175.5676398946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540681640/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-38.0506804535",
+    "longitude": "175.566170964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540681427/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-38.051193206",
+    "longitude": "175.5657629718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540681262/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-38.0512283333",
+    "longitude": "175.56572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540680968/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-38.0524566667",
+    "longitude": "175.5649416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540680619/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-38.05243",
+    "longitude": "175.5643766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540135317/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-41.2995368685",
+    "longitude": "174.7443598867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539764192/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-36.5926401338",
+    "longitude": "174.8918531419",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539756233/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-36.6022329212",
+    "longitude": "174.8890139145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539755907/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-36.5935857714",
+    "longitude": "174.8909468537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539528557/square.jpg",
+    "date": "2017-12-05",
+    "latitude": "-46.9282111571",
+    "longitude": "168.1209387712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539531313/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9283141014",
+    "longitude": "168.1281815856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539535887/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9286755476",
+    "longitude": "168.1306556276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539502883/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9275510213",
+    "longitude": "168.1165341367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539502153/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9266961593",
+    "longitude": "168.1132143732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539481880/square.jpg",
+    "date": "2017-12-17",
+    "latitude": "-41.2925538372",
+    "longitude": "174.7473871058",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539124735/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-36.3691009989",
+    "longitude": "174.8489489846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537963564/square.jpg",
+    "date": "2018-02-24",
+    "latitude": "-41.2994405282",
+    "longitude": "174.7421736362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537955582/square.jpg",
+    "date": "2018-03-11",
+    "latitude": "-41.295666594",
+    "longitude": "174.7449367827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537955489/square.jpg",
+    "date": "2018-03-11",
+    "latitude": "-41.295666594",
+    "longitude": "174.7449367827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537933037/square.jpg",
+    "date": "2018-03-30",
+    "latitude": "-41.2998063975",
+    "longitude": "174.7465280684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537932654/square.jpg",
+    "date": "2018-03-30",
+    "latitude": "-41.296643666",
+    "longitude": "174.7466783702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537782183/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-36.6064831046",
+    "longitude": "174.8929287214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537441507/square.jpg",
+    "date": "2018-06-04",
+    "latitude": "-35.2076256631",
+    "longitude": "174.2309584605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536993203/square.jpg",
+    "date": "2018-07-14",
+    "latitude": "-41.2937854804",
+    "longitude": "174.7522826779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536852163/square.jpg",
+    "date": "2023-06-07",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536852138/square.jpg",
+    "date": "2023-06-07",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/536312191/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-36.6053730083",
+    "longitude": "174.8930559861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://static.inaturalist.org/photos/536306783/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-36.601441382",
+    "longitude": "174.8922318799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535230097/square.jpg",
+    "date": "2024-12-24",
+    "latitude": "-39.7956583333",
+    "longitude": "174.9276433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535229854/square.jpg",
+    "date": "2024-12-24",
+    "latitude": "-39.7979471284",
+    "longitude": "174.9291730189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534319849/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-46.9274111111",
+    "longitude": "168.1306694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534218321/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-36.600182",
+    "longitude": "174.8896945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533769077/square.jpg",
+    "date": "2018-04-26",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533769054/square.jpg",
+    "date": "2018-04-26",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533769031/square.jpg",
+    "date": "2018-04-26",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533319073/square.jpg",
+    "date": "2025-03-07",
+    "latitude": "-45.7464177117",
+    "longitude": "166.5206029988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532841203/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-39.453995",
+    "longitude": "174.41034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532839676/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-39.4531366667",
+    "longitude": "174.4172666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532839226/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-39.452630829",
+    "longitude": "174.41666426",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532838441/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-39.4477583333",
+    "longitude": "174.4152066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532838049/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-39.4475483333",
+    "longitude": "174.4161383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532827837/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-40.8522833333",
+    "longitude": "174.930205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532765087/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-41.2904944444",
+    "longitude": "174.7532638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532375866/square.jpg",
+    "date": "2024-11-08",
+    "latitude": "-40.838433236",
+    "longitude": "174.9320983572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/532224938/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-36.3723759346",
+    "longitude": "174.8466596827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532037850/square.jpg",
+    "date": "2024-12-19",
+    "latitude": "-37.1209511962",
+    "longitude": "175.1851854591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531205814/square.jpg",
+    "date": "2018-10-28",
+    "latitude": "-41.295915227",
+    "longitude": "174.7457422982",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531204505/square.jpg",
+    "date": "2018-11-05",
+    "latitude": "-41.2958533978",
+    "longitude": "174.744855144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531156956/square.jpg",
+    "date": "2018-11-12",
+    "latitude": "-36.2153379291",
+    "longitude": "175.0609663949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530639375/square.jpg",
+    "date": "2019-01-11",
+    "latitude": "-38.0495170621",
+    "longitude": "175.5631516608",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530638851/square.jpg",
+    "date": "2019-01-11",
+    "latitude": "-38.0423125611",
+    "longitude": "175.5641474834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530203946/square.jpg",
+    "date": "2019-01-13",
+    "latitude": "-36.6078640126",
+    "longitude": "174.8975657958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530203901/square.jpg",
+    "date": "2019-01-13",
+    "latitude": "-36.6078640126",
+    "longitude": "174.8975657958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530203343/square.jpg",
+    "date": "2019-01-13",
+    "latitude": "-36.6059348066",
+    "longitude": "174.8926305312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530203207/square.jpg",
+    "date": "2019-01-13",
+    "latitude": "-36.6059348066",
+    "longitude": "174.8926305312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530184056/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "-36.6013460557",
+    "longitude": "174.8930512688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530183863/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "-36.6013460557",
+    "longitude": "174.8930512688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530183687/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "-36.6013460557",
+    "longitude": "174.8930512688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530183635/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "-36.598319633",
+    "longitude": "174.8865994621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530182431/square.jpg",
+    "date": "2019-01-13",
+    "latitude": "-36.6005465268",
+    "longitude": "174.890044333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530182209/square.jpg",
+    "date": "2019-01-13",
+    "latitude": "-36.6005465268",
+    "longitude": "174.890044333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530152492/square.jpg",
+    "date": "2019-03-03",
+    "latitude": "-41.2962197602",
+    "longitude": "174.7448037267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530151797/square.jpg",
+    "date": "2019-03-03",
+    "latitude": "-41.2973927689",
+    "longitude": "174.7442140887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530142666/square.jpg",
+    "date": "2019-03-17",
+    "latitude": "-41.2982752714",
+    "longitude": "174.7409014025",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530142511/square.jpg",
+    "date": "2019-03-17",
+    "latitude": "-41.2975855056",
+    "longitude": "174.7404298224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530142295/square.jpg",
+    "date": "2019-03-17",
+    "latitude": "-41.2975855056",
+    "longitude": "174.7404298224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530141972/square.jpg",
+    "date": "2019-03-17",
+    "latitude": "-41.2973598512",
+    "longitude": "174.7442240018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529989552/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-36.6022083333",
+    "longitude": "174.8870383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529979689/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-36.6054283333",
+    "longitude": "174.8890216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528455107/square.jpg",
+    "date": "2025-01-23",
+    "latitude": "-36.3718458504",
+    "longitude": "174.8484684695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527465849/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-46.8848808346",
+    "longitude": "168.1912838504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526507234/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-36.789761725",
+    "longitude": "174.8596228659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526392478/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-41.3013216667",
+    "longitude": "174.750795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525549566/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525549564/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://static.inaturalist.org/photos/525515128/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-36.6017695943",
+    "longitude": "174.8908018378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/525374121/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "-41.2908984",
+    "longitude": "174.7535089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524713043/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523783525/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-41.2527583333",
+    "longitude": "174.8044805556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523518760/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "-36.8200889274",
+    "longitude": "175.2007629722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522770721/square.jpg",
+    "date": "2024-10-16",
+    "latitude": "-38.0540000362",
+    "longitude": "175.5662913993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/522649824/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-41.3007855564",
+    "longitude": "174.7510634735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522295597/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-41.2908983477",
+    "longitude": "174.7535086423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521793013/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-36.6064866667",
+    "longitude": "174.8929883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521791884/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-36.5993716667",
+    "longitude": "174.8865366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521782662/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-36.601005",
+    "longitude": "174.890595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521330931/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-36.606771",
+    "longitude": "174.89029133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521176251/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-36.6024",
+    "longitude": "174.815775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521116408/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "-35.270504562",
+    "longitude": "174.2903450698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521091680/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-36.59929417",
+    "longitude": "174.88911467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521091669/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-36.59930767",
+    "longitude": "174.88913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521065991/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-36.5999689998",
+    "longitude": "174.88539633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521061619/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-36.60642733",
+    "longitude": "174.88948833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/520924633/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-38.0541945",
+    "longitude": "175.56392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520766485/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-36.60102267",
+    "longitude": "174.885503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520625262/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-36.6012397245",
+    "longitude": "174.8893615231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520623222/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-36.6012397245",
+    "longitude": "174.8893615231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519999151/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "-36.6012397245",
+    "longitude": "174.8893615231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519178730/square.jpg",
+    "date": "2025-06-11",
+    "latitude": "-36.7845281633",
+    "longitude": "174.8794327148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518129706/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518129648/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518129670/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518129643/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518129639/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/515560034/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-41.2908983477",
+    "longitude": "174.7535086423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515543663/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-36.6047468375",
+    "longitude": "174.8791134204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515543630/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-36.603637",
+    "longitude": "174.887463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515543601/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-36.60274",
+    "longitude": "174.887735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515543584/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-36.60274",
+    "longitude": "174.887735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515378146/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "-36.6026579077",
+    "longitude": "174.8876055984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515358723/square.jpg",
+    "date": "2024-11-21",
+    "latitude": "-41.2900730655",
+    "longitude": "174.7532437742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/515244382/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "-41.297089",
+    "longitude": "174.746628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513065737/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "-41.2923553904",
+    "longitude": "174.7506864133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/512299366/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-41.2908983477",
+    "longitude": "174.7535086423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512276648/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-41.2919786077",
+    "longitude": "174.7528222545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511695199/square.jpg",
+    "date": "2025-05-08",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511691853/square.jpg",
+    "date": "2025-03-21",
+    "latitude": "-41.2908984",
+    "longitude": "174.7535089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511607453/square.jpg",
+    "date": "2025-02-21",
+    "latitude": "-41.2919187099",
+    "longitude": "174.7508078008",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511369668/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-38.0824813251",
+    "longitude": "176.2908472493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510177533/square.jpg",
+    "date": "2024-06-22",
+    "latitude": "-40.8537269584",
+    "longitude": "174.9308032879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510177504/square.jpg",
+    "date": "2024-06-22",
+    "latitude": "-40.8483833333",
+    "longitude": "174.9155930556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/510116397/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-39.45019876",
+    "longitude": "174.4088752075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509562264/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-41.2941633333",
+    "longitude": "174.7507033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509562264/square.jpg",
+    "date": "2024-10-21",
+    "latitude": "-39.4526951397",
+    "longitude": "174.4157508016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509094275/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-41.2971711653",
+    "longitude": "174.7477191762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508114256/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "-39.7969406",
+    "longitude": "174.9303424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/507965099/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-36.633890679",
+    "longitude": "175.8076466247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus carunculatus",
+    "common name": "South Island Saddleback",
+    "observation photo url": "https://static.inaturalist.org/photos/507690814/square.jpg",
+    "date": "2025-04-22",
+    "latitude": "-46.9310112818",
+    "longitude": "168.1313484355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507162486/square.jpg",
+    "date": "2025-02-03",
+    "latitude": "-40.8517677928",
+    "longitude": "174.9330235983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506516782/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "-41.2908402478",
+    "longitude": "174.7535518147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504643272/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "-41.3035271021",
+    "longitude": "174.7422318764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Philesturnus rufusater",
+    "common name": "North Island Saddleback",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504636279/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "-36.604285",
+    "longitude": "174.888215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504635007/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "-36.6052",
+    "longitude": "174.8888683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Callaeas wilsoni",
+    "common name": "North Island K\u014dkako",
+    "observation photo url": "https://static.inaturalist.org/photos/504369034/square.jpeg",
+    "date": "2025-04-20",
+    "latitude": "-36.6373975639",
+    "longitude": "174.8999921377",
+    "quality_grade": "research"
+  }
+]

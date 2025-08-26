@@ -1,0 +1,1613 @@
+[
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557968443/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-24.0560564435",
+    "longitude": "31.2295958454",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557948620/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-25.4138472222",
+    "longitude": "31.5577416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903420/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-31.2643695043",
+    "longitude": "30.0311045884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557726399/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-23.9684966064",
+    "longitude": "31.5547399968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557647625/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.9684966064",
+    "longitude": "31.5547399968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557453205/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-19.37815122",
+    "longitude": "27.4628767068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556870198/square.jpg",
+    "date": "2024-02-25",
+    "latitude": "-19.4267891569",
+    "longitude": "22.9980900489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556574462/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "2.2034583292",
+    "longitude": "31.6405244901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556490133/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-25.1831442531",
+    "longitude": "32.0464081577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556482352/square.jpg",
+    "date": "2022-05-17",
+    "latitude": "-25.1860633333",
+    "longitude": "31.6511166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556475695/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "2.3092840977",
+    "longitude": "31.6811445535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556064686/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-24.97345636",
+    "longitude": "31.62553819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556064603/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-24.97326117",
+    "longitude": "31.62547349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/556064544/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-24.97310636",
+    "longitude": "31.62551685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555998830/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "11.175602534",
+    "longitude": "0.9510789702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/555741778/square.jpg",
+    "date": "2005-07-17",
+    "latitude": "-24.3922605",
+    "longitude": "31.7804631",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555626321/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-3.7463362557",
+    "longitude": "35.9325777152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/555510460/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "3.6429941571",
+    "longitude": "33.6539757919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555532107/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-24.973115",
+    "longitude": "31.6254016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555486878/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "11.1350050962",
+    "longitude": "0.9977032729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555486725/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "11.0749819996",
+    "longitude": "0.83306542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555486474/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "11.0656083097",
+    "longitude": "0.8865950002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555486333/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "11.1843789043",
+    "longitude": "0.94392979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555486225/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "11.0508757158",
+    "longitude": "0.9918697841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/555468025/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "2.2657703928",
+    "longitude": "31.5367973985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555456106/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-2.7553316742",
+    "longitude": "38.9187982801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555431669/square.jpg",
+    "date": "2024-07-30",
+    "latitude": "13.9700439032",
+    "longitude": "39.7752116776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555114315/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "-3.3007149577",
+    "longitude": "37.6344084838",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554637270/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "7.1965863775",
+    "longitude": "38.8828271994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554413936/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-24.0673491694",
+    "longitude": "31.4451537714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/554294968/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "2.4383536062",
+    "longitude": "31.4192133873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554184353/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-1.5277284069",
+    "longitude": "35.0079642867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554101674/square.jpg",
+    "date": "2014-05-11",
+    "latitude": "-17.8795219254",
+    "longitude": "24.7869533132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553947376/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-18.8110783775",
+    "longitude": "27.1211638276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553844670/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-19.7934170986",
+    "longitude": "23.4200640032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553793261/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-25.0281461321",
+    "longitude": "31.3081400469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553700212/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-24.8339381652",
+    "longitude": "31.8247725417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553645675/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "2.2291650037",
+    "longitude": "31.4762090548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553624052/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-25.2717363412",
+    "longitude": "31.4652672239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553394221/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-23.3544851638",
+    "longitude": "31.3020546531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553363212/square.jpg",
+    "date": "2024-08-12",
+    "latitude": "2.3927676294",
+    "longitude": "31.5546831531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553256582/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-18.5554219361",
+    "longitude": "26.8839843422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553159175/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-25.0086633637",
+    "longitude": "31.4814594195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552826371/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "-23.9698178898",
+    "longitude": "31.7815202938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/552696952/square.jpg",
+    "date": "2024-06-14",
+    "latitude": "-25.2725889997",
+    "longitude": "31.8481041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/552695595/square.jpg",
+    "date": "2024-06-13",
+    "latitude": "-24.1744711997",
+    "longitude": "31.7170814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552652442/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-17.9965772865",
+    "longitude": "25.1417769596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552646161/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-23.116667",
+    "longitude": "31.433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552435005/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-7.6332044071",
+    "longitude": "34.8861503692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552433414/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-7.7290987742",
+    "longitude": "34.9840638145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552259175/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-2.2368060647",
+    "longitude": "34.7137330068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552249349/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-15.683061422",
+    "longitude": "29.4746733221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552153051/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-7.7595331049",
+    "longitude": "38.1531754378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/552025231/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-0.488819529",
+    "longitude": "36.0510963313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/551976248/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-3.7472867606",
+    "longitude": "35.6663767956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/551878733/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-7.2663630323",
+    "longitude": "37.0117921752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551786837/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-7.6974968582",
+    "longitude": "34.8696552017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551729729/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-15.6800883125",
+    "longitude": "29.3169391351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551718157/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-25.3908275501",
+    "longitude": "31.6240284593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551328042/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "2.4349364933",
+    "longitude": "31.5692704113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551275540/square.jpg",
+    "date": "2024-06-17",
+    "latitude": "-24.9958989",
+    "longitude": "31.5968698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552166380/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-23.5181116667",
+    "longitude": "31.3968533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550826737/square.jpg",
+    "date": "2023-06-20",
+    "latitude": "-24.9958989",
+    "longitude": "31.5968698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550488624/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "9.2818653795",
+    "longitude": "-1.8849744585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/550284407/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.0591666667",
+    "longitude": "31.5635716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550274324/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.0591971667",
+    "longitude": "31.5637033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550242393/square.jpg",
+    "date": "2023-06-16",
+    "latitude": "-4.1349903677",
+    "longitude": "36.1817286902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549727597/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-23.116667",
+    "longitude": "31.433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549388954/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-24.2315649182",
+    "longitude": "31.180554579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549311818/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-24.9891096533",
+    "longitude": "31.4765705783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549074050/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "7.2232008067",
+    "longitude": "23.8119650377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549072804/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "7.2674115279",
+    "longitude": "23.8095763692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548953679/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "7.268829634",
+    "longitude": "23.9722796461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548927889/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-1.6921686906",
+    "longitude": "35.3199852006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548786147/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "2.2209194461",
+    "longitude": "31.5496406448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548785708/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-1.9366241297",
+    "longitude": "35.0715180568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548753857/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "3.6231924299",
+    "longitude": "33.6482450102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548753855/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "3.7583999111",
+    "longitude": "33.6538519209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548439428/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "2.3842670387",
+    "longitude": "31.4836501831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547945308/square.jpg",
+    "date": "2022-07-22",
+    "latitude": "-25.1150227128",
+    "longitude": "31.3388350439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547945173/square.jpg",
+    "date": "2022-07-22",
+    "latitude": "-25.1360372749",
+    "longitude": "31.3281587361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547921621/square.jpg",
+    "date": "2006-09-27",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547858252/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-1.3199601636",
+    "longitude": "35.0251481924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547836303/square.jpg",
+    "date": "2023-05-07",
+    "latitude": "-3.222676895",
+    "longitude": "38.6436026671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547781793/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-1.7424118418",
+    "longitude": "35.3529356106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/547429504/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "2.3810369352",
+    "longitude": "31.3416659424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/547429683/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "2.3913681312",
+    "longitude": "31.2419447391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/547128289/square.jpg",
+    "date": "2023-02-18",
+    "latitude": "-7.7432625314",
+    "longitude": "34.8489791162",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547063961/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-2.7461014853",
+    "longitude": "38.9609618891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/547025122/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-25.0236971667",
+    "longitude": "31.58707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546997716/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "-25.4310932871",
+    "longitude": "31.5156580249",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546959662/square.jpg",
+    "date": "2024-12-01",
+    "latitude": "-12.4078712619",
+    "longitude": "25.4381831335",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546858609/square.jpg",
+    "date": "2024-09-16",
+    "latitude": "-25.162384598",
+    "longitude": "31.2307757512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546485903/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-24.8150783333",
+    "longitude": "31.843895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546330382/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "2.2430715394",
+    "longitude": "31.4132739553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546330385/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "2.3390004443",
+    "longitude": "31.4307304031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546139161/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-24.6339377315",
+    "longitude": "31.8931857723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546139061/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-24.7041589373",
+    "longitude": "31.8949649896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546138957/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-24.7559241719",
+    "longitude": "31.9910635605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546138895/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-24.789790631",
+    "longitude": "31.9489628603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546138289/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-24.7314949781",
+    "longitude": "31.8709395325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/545728477/square.jpg",
+    "date": "2023-08-29",
+    "latitude": "-24.6330702852",
+    "longitude": "31.5979689474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545633955/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "2.2392266505",
+    "longitude": "31.4748737563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545628617/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "2.2194010737",
+    "longitude": "31.4146873627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545628615/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "2.2162923572",
+    "longitude": "31.4957293237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546405535/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-24.2118813113",
+    "longitude": "30.9485051047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545249206/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-18.9575790893",
+    "longitude": "34.4344256372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545085947/square.jpg",
+    "date": "2016-10-10",
+    "latitude": "-16.1797256016",
+    "longitude": "29.5390029374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545085628/square.jpg",
+    "date": "2016-10-10",
+    "latitude": "-16.0611952515",
+    "longitude": "29.4407398739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545084219/square.jpg",
+    "date": "2016-10-09",
+    "latitude": "-16.0424369373",
+    "longitude": "29.5680477699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545083864/square.jpg",
+    "date": "2016-10-09",
+    "latitude": "-16.1280621361",
+    "longitude": "29.4164549023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545083210/square.jpg",
+    "date": "2016-10-08",
+    "latitude": "-16.0949503786",
+    "longitude": "29.5252853867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545000005/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "-24.326801061",
+    "longitude": "31.6972102777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544980617/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-24.2181314167",
+    "longitude": "31.7627410639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544980172/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-24.3049143379",
+    "longitude": "31.6457525317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544562895/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-17.9082406091",
+    "longitude": "25.4388120463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/544473368/square.jpg",
+    "date": "2010-10-22",
+    "latitude": "-19.2290862522",
+    "longitude": "23.0640477732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/544374426/square.jpg",
+    "date": "2025-03-12",
+    "latitude": "-25.0343157237",
+    "longitude": "31.9326964393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544367404/square.jpg",
+    "date": "2024-01-23",
+    "latitude": "-5.9601122777",
+    "longitude": "38.7993998141",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544301161/square.jpg",
+    "date": "2023-07-28",
+    "latitude": "-25.4054935398",
+    "longitude": "31.5402460326",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544281729/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-22.942593765",
+    "longitude": "31.2852263967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/543888435/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-18.7642711329",
+    "longitude": "27.088401898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543886399/square.jpg",
+    "date": "2023-07-18",
+    "latitude": "-1.4147751274",
+    "longitude": "35.350378511",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543851045/square.jpg",
+    "date": "2022-10-18",
+    "latitude": "-18.8783799705",
+    "longitude": "25.7955211761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/543844624/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "2.1114317204",
+    "longitude": "31.735388406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/543485545/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "2.2761517823",
+    "longitude": "31.916529279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543398282/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-1.2414130594",
+    "longitude": "35.1299532776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/543880146/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-24.7845058441",
+    "longitude": "31.5451850891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543324499/square.jpg",
+    "date": "2024-09-27",
+    "latitude": "-24.2718989914",
+    "longitude": "31.7317645007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/543219713/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-24.9810083333",
+    "longitude": "31.484745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543211092/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "2.5122115266",
+    "longitude": "31.5503422551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542787872/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-1.5677831723",
+    "longitude": "35.1143714887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542764129/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-25.467",
+    "longitude": "31.506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/542743802/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-18.9397591651",
+    "longitude": "34.5260071103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542743101/square.jpg",
+    "date": "2025-02-07",
+    "latitude": "-24.72433",
+    "longitude": "31.835875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542732394/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-21.287118756",
+    "longitude": "32.3197299565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542727062/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-14.9267558333",
+    "longitude": "35.2397956234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542473334/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-1.4325907802",
+    "longitude": "35.1403734611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542445788/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-1.518923254",
+    "longitude": "35.2684335217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542408524/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "2.2193255845",
+    "longitude": "31.5698397524",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542405265/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "2.0592156581",
+    "longitude": "31.6037331839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/542153578/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-19.6111523246",
+    "longitude": "23.5099539679",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541891414/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-24.9677700361",
+    "longitude": "31.6246704909",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541812619/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-17.9414995196",
+    "longitude": "25.2307362492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/541761192/square.jpg",
+    "date": "2019-09-12",
+    "latitude": "-15.8865443779",
+    "longitude": "25.9831587177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/541738751/square.jpg",
+    "date": "2014-07-12",
+    "latitude": "-25.123663",
+    "longitude": "31.57285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541713144/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-8.902105173",
+    "longitude": "37.2631223947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/541625500/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-17.7519201745",
+    "longitude": "25.0133315265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541524843/square.jpg",
+    "date": "2025-06-11",
+    "latitude": "-24.9764833333",
+    "longitude": "31.6676816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541462112/square.jpg",
+    "date": "2024-09-24",
+    "latitude": "-22.9844054804",
+    "longitude": "31.3109934943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541461230/square.jpg",
+    "date": "2024-09-24",
+    "latitude": "-23.7529025762",
+    "longitude": "31.5459989223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541291190/square.jpg",
+    "date": "2024-12-09",
+    "latitude": "-24.7335021308",
+    "longitude": "27.9273815048",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541256333/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-24.982600374",
+    "longitude": "31.6061338943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541123026/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-24.39022182",
+    "longitude": "31.66149732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/540492936/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "-24.9505154914",
+    "longitude": "31.6539129542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540328737/square.jpg",
+    "date": "2023-07-27",
+    "latitude": "-23.9594876312",
+    "longitude": "31.6278026998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540236619/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-11.6395494232",
+    "longitude": "32.4071455008",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540244726/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-19.022257875",
+    "longitude": "23.6438797985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540220392/square.jpg",
+    "date": "2022-08-13",
+    "latitude": "-24.7642383333",
+    "longitude": "31.8729966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540215944/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-13.081245703",
+    "longitude": "31.6738218414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540212238/square.jpg",
+    "date": "2022-08-12",
+    "latitude": "-25.0134527833",
+    "longitude": "31.7818383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539528273/square.jpg",
+    "date": "2024-09-22",
+    "latitude": "-22.669519156",
+    "longitude": "30.9610470907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539488305/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "-19.1011504784",
+    "longitude": "23.9758484813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539488253/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "-19.1982928913",
+    "longitude": "23.8950722364",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://static.inaturalist.org/photos/538884389/square.jpg",
+    "date": "2022-12-25",
+    "latitude": "-3.7806820454",
+    "longitude": "35.7890914044",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538625662/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-19.1952516858",
+    "longitude": "23.8863981641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538625651/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-19.0532775801",
+    "longitude": "23.9565352958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538112988/square.jpg",
+    "date": "2025-02-27",
+    "latitude": "-25.2885111111",
+    "longitude": "31.6462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538011250/square.jpg",
+    "date": "2017-04-22",
+    "latitude": "-23.6718052602",
+    "longitude": "31.3861889765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537525629/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "-25.0258732917",
+    "longitude": "31.4931484643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537505334/square.jpg",
+    "date": "2025-06-21",
+    "latitude": null,
+    "longitude": null,
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537222131/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-22.8793781471",
+    "longitude": "27.8467237254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537119656/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-23.7361695455",
+    "longitude": "31.5761099529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537119651/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-23.7311409585",
+    "longitude": "31.5776026035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537119657/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-23.7311409585",
+    "longitude": "31.5391504551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537069740/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-17.8296235649",
+    "longitude": "25.1923451813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536998415/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-24.9979116667",
+    "longitude": "31.6097533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus abyssinicus",
+    "common name": "Abyssinian Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536640890/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "3.6085348416",
+    "longitude": "33.6866287005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucorvus leadbeateri",
+    "common name": "Southern Ground Hornbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536561547/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-2.5135527068",
+    "longitude": "34.7108653073",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,102 @@
+Hawks, Eagles, and Kites: 5067
+Ospreys: 200958
+Secretarybirds: 200957
+Owlet-Nightjars: 19351
+Ducks, Geese, and Swans: 6912
+Screamers: 6906
+Magpie Geese: 85585
+Swifts: 6554
+Treeswifts: 6526
+Hummingbirds: 5562
+Kiwis: 20488
+Hornbills: 5438
+Ground Hornbills: 85648
+Woodhoopoes and Scimitarbills: 20932
+Hoopoes: 20967
+Nightjars and Nighthawks: 19376
+Seriemas: 12
+Cassowaries and Emus: 367702
+New World Vultures: 71306
+Auks, Murres, Guillemots, and Puffins: 71295
+Stone-curlews and Thick-Knees: 4917
+Plovers and Lapwings: 4783
+Sheathbills: 71309
+Crab-Plovers: 71320
+Pratincoles and Coursers: 4590
+Oystercatchers: 71325
+Ibisbills: 71330
+Jacanas: 4574
+Gulls, Terns, and Skimmers: 4342
+Plains-Wanderers: 4339
+Magellanic Plovers: 200959
+Egyptian Plovers: 339896
+Stilts and Avocets: 71361
+Painted-Snipes: 3995
+Sandpipers and Allies: 3835
+Skuas and Jaegers: 71367
+Seedsnipes: 3777
+Buttonquails: 20863
+Storks: 3726
+Mousebirds: 3686
+Pigeons and Doves: 2708
+Kingfishers: 2314
+Ground-Rollers: 2304
+Rollers: 2262
+Bee-Eaters: 2183
+Motmots: 2122
+Todies: 2115
+Cuckoos: 1623
+Kagu: 570
+Sunbitterns: 17
+Falcons and Caracaras: 67570
+Puffbirds: 1505
+Jacamars: 1454
+Guans, Chachalacas, and Curassows: 2043
+Megapodes: 2017
+Guineafowl: 1426
+New World Quails: 1278
+Pheasants, Grouse, and Allies: 574
+Loons: 67562
+Limpkins: 5
+Cranes: 23
+Finfoots: 58
+Trumpeters: 142
+Rails, Crakes, Gallinules, and Coots: 154
+Flufftails and Forest Rails: 980121
+Cuckoo-Rollers: 525652
+Mesites: 71265
+Turacos: 793433
+Potoos: 1583752
+Hoatzins: 508251
+Bustards: 71266
+New Zealand Wrens: 7252
+Thornbills and Allies: 71292
+Reed Warblers and Allies: 200983
+Long-tailed Tits and Bushtits: 7264
+Ioras: 71294
+Larks: 7284
+Scrubbirds: 7418
+Malagasy Warblers: 144309
+Waxwings: 7423
+Oxpeckers: 200987
+Longspurs and Snow Buntings: 200991
+New Zealand Wattlebirds: 200973
+African and Green Broadbills: 200966
+Chat-Tanagers: 559255
+Cuckooshrikes: 71303
+Cardinals and Allies: 71305
+Treecreepers: 7448
+Rockjumpers: 200977
+Leafbirds: 71310
+Dippers: 7640
+Quailthrushes and Jewel-Babblers: 71311
+Cisticolas and Allies: 7649
+Australasian Treecreepers: 7787
+Satinbirds: 71312
+Gnateaters: 7813
+Australian Mudnesters: 71314
+Typical Antbirds: 15726
+Wallcreepers: 200980
+Crows, Jays, and Magpies: 7823
+Cotingas Family Cotingidae: 8659
+Bristlebirds: 71316

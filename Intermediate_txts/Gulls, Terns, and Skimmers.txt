@@ -1,0 +1,380 @@
+[
+  {
+    "species": "Larus argentatus",
+    "common name": "European Herring Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558190403/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "52.4136981",
+    "longitude": "1.7007454",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus occidentalis",
+    "common name": "Western Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558189660/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.4411916667",
+    "longitude": "-118.4932466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sterna hirundo",
+    "common name": "Common Tern",
+    "observation photo url": "https://static.inaturalist.org/photos/558165009/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "46.7284799662",
+    "longitude": "1.2311317649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chroicocephalus ridibundus",
+    "common name": "Black-headed Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558164469/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "46.7276792079",
+    "longitude": "1.2289271022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sterna hirundo",
+    "common name": "Common Tern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558175640/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "57.6820968791",
+    "longitude": "-3.2794833179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus delawarensis",
+    "common name": "Ring-billed Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173932/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.8497527778",
+    "longitude": "-74.0855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus smithsonianus",
+    "common name": "American Herring Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558174086/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.8497888889",
+    "longitude": "-74.0855638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus marinus",
+    "common name": "Great Black-backed Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558171920/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.3941807482",
+    "longitude": "1.5594642836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus smithsonianus",
+    "common name": "American Herring Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558172505/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.8497527778",
+    "longitude": "-74.0855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus occidentalis",
+    "common name": "Western Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558171119/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.5954783333",
+    "longitude": "-121.8891833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus argentatus",
+    "common name": "European Herring Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558168730/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.6977611077",
+    "longitude": "-0.4431579534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus occidentalis",
+    "common name": "Western Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558164517/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "36.6322128037",
+    "longitude": "-121.9222871147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chroicocephalus ridibundus",
+    "common name": "Black-headed Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558164531/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.2254906977",
+    "longitude": "-2.880133912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sterna hirundo",
+    "common name": "Common Tern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159623/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "29.8808834776",
+    "longitude": "-81.2716056771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus marinus",
+    "common name": "Great Black-backed Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157982/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "69.1659136",
+    "longitude": "35.1228875667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus heermanni",
+    "common name": "Heermann's Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558158242/square.jpg",
+    "date": "2019-09-29",
+    "latitude": "32.8604166667",
+    "longitude": "-117.2559883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus heermanni",
+    "common name": "Heermann's Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558156477/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.8479848743",
+    "longitude": "-117.2770385865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus heermanni",
+    "common name": "Heermann's Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155321/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.4715892845",
+    "longitude": "-122.4467645865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus occidentalis",
+    "common name": "Western Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155294/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.4715892845",
+    "longitude": "-122.4467645865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chroicocephalus ridibundus",
+    "common name": "Black-headed Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558154001/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "46.7233019461",
+    "longitude": "-2.3419545806",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus smithsonianus",
+    "common name": "American Herring Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153151/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "41.7259686364",
+    "longitude": "-82.6723035772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus delawarensis",
+    "common name": "Ring-billed Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151827/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.3534619991",
+    "longitude": "-78.2967308164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus delawarensis",
+    "common name": "Ring-billed Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558151552/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "40.6893810723",
+    "longitude": "-74.0436083917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chroicocephalus ridibundus",
+    "common name": "Black-headed Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558145834/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "57.172008648",
+    "longitude": "-2.0987659571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus occidentalis",
+    "common name": "Western Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558142553/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.60362",
+    "longitude": "-117.9001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus heermanni",
+    "common name": "Heermann's Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140866/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.2650150639",
+    "longitude": "-124.2993488443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leucophaeus atricilla",
+    "common name": "Laughing Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139066/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "30.3846011684",
+    "longitude": "-86.4667035428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus fuscus",
+    "common name": "Lesser Black-backed Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558137975/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "60.7120189143",
+    "longitude": "28.7438583747",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus marinus",
+    "common name": "Great Black-backed Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558136966/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.015225",
+    "longitude": "-74.9493333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus argentatus",
+    "common name": "European Herring Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558136865/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "60.712006285",
+    "longitude": "28.7438680977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sterna forsteri",
+    "common name": "Forster's Tern",
+    "observation photo url": "https://static.inaturalist.org/photos/557304723/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "34.2334913605",
+    "longitude": "-119.2644437642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thalasseus sandvicensis sandvicensis",
+    "common name": "Eurasian Sandwich Tern",
+    "observation photo url": "https://static.inaturalist.org/photos/558130247/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3070538737",
+    "longitude": "-1.9872122137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus marinus",
+    "common name": "Great Black-backed Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558129742/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3050995217",
+    "longitude": "-1.9887481332",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus canus canus",
+    "common name": "European Common Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558129693/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3116418856",
+    "longitude": "-1.9943378568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leucophaeus atricilla",
+    "common name": "Laughing Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558134668/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "28.3525383333",
+    "longitude": "-80.604195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chroicocephalus ridibundus",
+    "common name": "Black-headed Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558134293/square.jpg",
+    "date": "2024-07-07",
+    "latitude": "47.99381749",
+    "longitude": "-4.10566637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus occidentalis",
+    "common name": "Western Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558125733/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "36.7970366077",
+    "longitude": "-121.8970788039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus marinus",
+    "common name": "Great Black-backed Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130159/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "52.1388183333",
+    "longitude": "-10.2719466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leucophaeus atricilla",
+    "common name": "Laughing Gull",
+    "observation photo url": "https://static.inaturalist.org/photos/558127216/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.8108470817",
+    "longitude": "-79.7215644179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Larus californicus",
+    "common name": "California Gull",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558121665/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "48.3851771633",
+    "longitude": "-123.513202321",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sternula antillarum",
+    "common name": "Least Tern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558125195/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.2605741382",
+    "longitude": "-70.5401035763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sternula antillarum",
+    "common name": "Least Tern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558125001/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.2961840676",
+    "longitude": "-70.5879378127",
+    "quality_grade": "research"
+  }
+]

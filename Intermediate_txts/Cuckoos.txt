@@ -1,0 +1,1397 @@
+[
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558192806/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "9.9196922232",
+    "longitude": "-84.0300511569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558170397/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.294615",
+    "longitude": "-98.4984233333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558180752/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "16.1176016667",
+    "longitude": "-90.9269516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus minor",
+    "common name": "Mangrove Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558176541/square.jpg",
+    "date": "2025-03-26",
+    "latitude": "18.1404293822",
+    "longitude": "-94.398959061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga sulcirostris",
+    "common name": "Groove-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173832/square.jpg",
+    "date": "2025-01-29",
+    "latitude": "18.1026902226",
+    "longitude": "-94.3963862697",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558146235/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "55.7019042967",
+    "longitude": "43.4001312256",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139825/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "13.6227952846",
+    "longitude": "79.8764514851",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139269/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.3361152074",
+    "longitude": "-99.9689195955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139563/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.965978835",
+    "longitude": "-77.044180765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558136994/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.3534177",
+    "longitude": "-97.0436328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558135897/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.4077194444",
+    "longitude": "-97.3913444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/558132816/square.jpg",
+    "date": "2007-10-19",
+    "latitude": "17.90612761",
+    "longitude": "-62.823953601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/558126288/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.0230023463",
+    "longitude": "-97.0608182649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://static.inaturalist.org/photos/558116029/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "30.8129833333",
+    "longitude": "-97.8308716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558100596/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.0876124695",
+    "longitude": "-97.1274472941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/558088946/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "48.4348888733",
+    "longitude": "2.6761137533",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558079641/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-25.8582253394",
+    "longitude": "-54.1686283999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558078815/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.6161375471",
+    "longitude": "-79.9953246919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/558076054/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-22.3841820427",
+    "longitude": "-42.0399623448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/558055928/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-22.8492111111",
+    "longitude": "-43.4645805556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558044342/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-16.6195677699",
+    "longitude": "-56.7350815377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558044205/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-16.6115315781",
+    "longitude": "-56.7249953943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558028776/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "53.1255673949",
+    "longitude": "50.2381227373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558022159/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.3646131135",
+    "longitude": "-56.7747330367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025654/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "58.6113048557",
+    "longitude": "27.811673666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025827/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.6956616667",
+    "longitude": "-63.731825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites osculans",
+    "common name": "Black-eared Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558018497/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.262",
+    "longitude": "138.1479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558014159/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "11.2873377",
+    "longitude": "75.9185959997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558012815/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "26.4763887349",
+    "longitude": "-99.6372222528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://static.inaturalist.org/photos/558012027/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.0761336",
+    "longitude": "-106.6170934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558010338/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-23.5685",
+    "longitude": "-46.7336383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites basalis",
+    "common name": "Horsfield's Bronze Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558007971/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.2629",
+    "longitude": "138.1512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558008434/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "5.1807305556",
+    "longitude": "-54.3207222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558005237/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "44.3639541395",
+    "longitude": "3.309635589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558006311/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "33.9374816667",
+    "longitude": "-99.05306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heteroscenes pallidus",
+    "common name": "Pallid Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558002212/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.6963596922",
+    "longitude": "114.2158183668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558000249/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.45728951",
+    "longitude": "-84.562993472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557977708/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "56.2364326267",
+    "longitude": "38.9330465871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557970130/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "41.4016805566",
+    "longitude": "22.7576432093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phaenicophaeus diardi",
+    "common name": "Black-bellied Malkoha",
+    "observation photo url": "https://static.inaturalist.org/photos/557973582/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "0.2344762845",
+    "longitude": "102.7584454746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Clamator jacobinus",
+    "common name": "Pied Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557924780/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "12.8702365",
+    "longitude": "77.7690034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga sulcirostris",
+    "common name": "Groove-billed Ani",
+    "observation photo url": "https://static.inaturalist.org/photos/557937906/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "11.0245283355",
+    "longitude": "-84.7194414716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chrysococcyx xanthorhynchus",
+    "common name": "Violet Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557938217/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "4.4160093839",
+    "longitude": "101.1880588476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites lucidus",
+    "common name": "Shining Bronze Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557923794/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.6548995931",
+    "longitude": "115.3052201901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga sulcirostris",
+    "common name": "Groove-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557916285/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-13.981973",
+    "longitude": "-75.7444882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557905362/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "20.8193083333",
+    "longitude": "83.9043283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557904852/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "20.8192216667",
+    "longitude": "83.9042883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Clamator jacobinus",
+    "common name": "Pied Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903187/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.0208915182",
+    "longitude": "75.5626047865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557899488/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.0212454456",
+    "longitude": "75.5661294204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chrysococcyx maculatus",
+    "common name": "Asian Emerald Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557898303/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "26.8491845",
+    "longitude": "88.3603576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites lucidus",
+    "common name": "Shining Bronze Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557897400/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.57052",
+    "longitude": "152.7823033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eudynamys scolopaceus",
+    "common name": "Asian Koel",
+    "observation photo url": "https://static.inaturalist.org/photos/557891243/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "12.9931416667",
+    "longitude": "80.1854277778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Carpococcyx renauldi",
+    "common name": "Coral-billed Ground-Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557890560/square.jpg",
+    "date": "2025-04-05",
+    "latitude": "14.3727354057",
+    "longitude": "101.306727902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557881965/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "14.5358553047",
+    "longitude": "101.3666700572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557877811/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "17.9930685161",
+    "longitude": "-92.9775079007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557872091/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "32.2868283333",
+    "longitude": "-110.9510583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557871916/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "32.8189190484",
+    "longitude": "-97.6741852147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557865814/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "7.095095",
+    "longitude": "-73.7561866111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://static.inaturalist.org/photos/557856974/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.8510565283",
+    "longitude": "-121.2475608043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557865812/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "7.0953166111",
+    "longitude": "-73.7561333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557865707/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "29.4062928628",
+    "longitude": "79.007912837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus erythropthalmus",
+    "common name": "Black-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557852701/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "40.065018152",
+    "longitude": "-88.3581299132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557852538/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "40.1208171309",
+    "longitude": "-88.2100653878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557863265/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.3092083333",
+    "longitude": "-110.828255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cacomantis flabelliformis",
+    "common name": "Fan-tailed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557861423/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.7534187402",
+    "longitude": "150.1637871936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557854331/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-35.5079679752",
+    "longitude": "-58.3220376493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites basalis",
+    "common name": "Horsfield's Bronze Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557851144/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-34.8385854993",
+    "longitude": "141.6137449954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://static.inaturalist.org/photos/557841604/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "3.4988170049",
+    "longitude": "-76.5052084708",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://static.inaturalist.org/photos/557846206/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-12.5935306",
+    "longitude": "-69.174093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557840746/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.6292207601",
+    "longitude": "-83.193335124",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557842630/square.jpg",
+    "date": "2006-07-15",
+    "latitude": "31.4556927411",
+    "longitude": "-110.1618728622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites lucidus",
+    "common name": "Shining Bronze Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557842214/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.5705881044",
+    "longitude": "152.7832224593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga sulcirostris",
+    "common name": "Groove-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830449/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.8101999817",
+    "longitude": "-99.7593062997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga sulcirostris",
+    "common name": "Groove-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557821899/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.7993873",
+    "longitude": "-99.7912843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557821162/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "38.8032627",
+    "longitude": "-77.5868882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557809424/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.6060345385",
+    "longitude": "-54.5500848122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga sulcirostris",
+    "common name": "Groove-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803222/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "15.0466312981",
+    "longitude": "-87.9647260387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557805691/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "22.2955257945",
+    "longitude": "-97.90323615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557784863/square.jpg",
+    "date": "2018-03-01",
+    "latitude": "23.2674815022",
+    "longitude": "-106.3458909502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557772690/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-0.7507466667",
+    "longitude": "-90.3233866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557767652/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "13.7337003444",
+    "longitude": "100.5577604957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tapera naevia",
+    "common name": "Striped Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557755336/square.jpg",
+    "date": "2024-10-27",
+    "latitude": "-15.5793879656",
+    "longitude": "-47.6937102322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557693011/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "28.9042726622",
+    "longitude": "-107.860840341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557751892/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "22.2958355828",
+    "longitude": "-97.9014162719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557750838/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-20.1175388889",
+    "longitude": "-41.0894722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557749347/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.5809122383",
+    "longitude": "-46.6086608917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557748875/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "35.0841166667",
+    "longitude": "-106.6221055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cacomantis flabelliformis",
+    "common name": "Fan-tailed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557741784/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-28.8440943041",
+    "longitude": "151.8683725389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557725975/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.2349023837",
+    "longitude": "-111.7647436873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557709733/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-25.6921471285",
+    "longitude": "-54.4350645085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chrysococcyx klaas",
+    "common name": "Klaas's Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557709357/square.jpg",
+    "date": "2005-08-03",
+    "latitude": "-34.3747226",
+    "longitude": "20.5334",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus burchellii",
+    "common name": "Burchell's Coucal",
+    "observation photo url": "https://static.inaturalist.org/photos/557708869/square.jpg",
+    "date": "2005-07-15",
+    "latitude": "-22.737292",
+    "longitude": "31.0104534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557689984/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.0640305",
+    "longitude": "-106.59198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557677279/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "10.4630048639",
+    "longitude": "-84.7405348074",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga sulcirostris",
+    "common name": "Groove-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557672807/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "25.8764241",
+    "longitude": "-100.0685846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557669567/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "31.4098483161",
+    "longitude": "-106.0934496505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557666359/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "25.8764241",
+    "longitude": "-100.0685846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://static.inaturalist.org/photos/557658690/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "8.7000839892",
+    "longitude": "-83.1947009703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557659368/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.1024711997",
+    "longitude": "-106.7292285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557656793/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "23.0759776783",
+    "longitude": "-109.6524100006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557641416/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-19.0557733333",
+    "longitude": "-40.1449033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557638789/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "56.8263434837",
+    "longitude": "60.5948315933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eudynamys scolopaceus",
+    "common name": "Asian Koel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557637898/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "26.0816203838",
+    "longitude": "91.7381113395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://static.inaturalist.org/photos/557631320/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "30.3043610725",
+    "longitude": "-98.2459318464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557629442/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.5991040156",
+    "longitude": "-89.2422065511",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cacomantis flabelliformis",
+    "common name": "Fan-tailed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557628822/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-37.6484166389",
+    "longitude": "145.2923066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tapera naevia",
+    "common name": "Striped Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557628993/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.0092683333",
+    "longitude": "-46.8982983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557628993/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "38.42581219",
+    "longitude": "-85.6193864476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557617979/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "21.0212454456",
+    "longitude": "75.5661294204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Surniculus velutinus",
+    "common name": "Philippine Drongo-Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557617604/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "6.4762776804",
+    "longitude": "124.3211597884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chrysococcyx xanthorhynchus",
+    "common name": "Violet Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557617574/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "6.4762776804",
+    "longitude": "124.3211597884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557615939/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-22.8194269476",
+    "longitude": "-47.0605547726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus melanops",
+    "common name": "Black-faced Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557602478/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "6.4753380323",
+    "longitude": "124.3240651311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga sulcirostris",
+    "common name": "Groove-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557607183/square.jpg",
+    "date": "2024-12-09",
+    "latitude": "10.5038591349",
+    "longitude": "-84.6888829446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557597897/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-36.8483562074",
+    "longitude": "-57.7072029565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eudynamys scolopaceus",
+    "common name": "Asian Koel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557594352/square.jpg",
+    "date": "2019-02-15",
+    "latitude": "21.258903506",
+    "longitude": "81.6187155763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx velox",
+    "common name": "Lesser Roadrunner",
+    "observation photo url": "https://static.inaturalist.org/photos/557592133/square.jpg",
+    "date": "2023-06-17",
+    "latitude": "16.852569746",
+    "longitude": "-99.5943210881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx velox",
+    "common name": "Lesser Roadrunner",
+    "observation photo url": "https://static.inaturalist.org/photos/557591132/square.jpg",
+    "date": "2023-06-19",
+    "latitude": "16.8518555286",
+    "longitude": "-99.5975341101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557593734/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.5870393",
+    "longitude": "-46.5562433997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus erythropthalmus",
+    "common name": "Black-billed Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557589614/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "44.0066422323",
+    "longitude": "-77.1390877292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Surniculus lugubris",
+    "common name": "Square-tailed Drongo-Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557586923/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "26.8491845",
+    "longitude": "88.3603576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus micropterus",
+    "common name": "Indian Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557578775/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "26.8491845",
+    "longitude": "88.3603576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hierococcyx varius",
+    "common name": "Common Hawk-Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557575972/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "20.2717885",
+    "longitude": "79.3875706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phaenicophaeus curvirostris",
+    "common name": "Chestnut-breasted Malkoha",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557568802/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "0.3345775622",
+    "longitude": "102.7285194422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinortha chlorophaea",
+    "common name": "Raffles's Malkoha",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557568487/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "0.3345775622",
+    "longitude": "102.7285194422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Zanclostomus javanicus",
+    "common name": "Red-billed Malkoha",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557567998/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "0.3345775622",
+    "longitude": "102.7285194422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557568500/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-36.8480564809",
+    "longitude": "-57.7066171209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557556239/square.jpg",
+    "date": "2023-05-23",
+    "latitude": "29.1799115141",
+    "longitude": "-102.9563501002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://static.inaturalist.org/photos/557559182/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "12.6880526012",
+    "longitude": "77.8138419986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hierococcyx varius",
+    "common name": "Common Hawk-Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557556428/square.jpg",
+    "date": "2019-01-01",
+    "latitude": "21.4511246",
+    "longitude": "82.5185837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis",
+    "common name": "Greater Coucal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557556368/square.jpg",
+    "date": "2019-01-01",
+    "latitude": "21.4511246",
+    "longitude": "82.5185837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tapera naevia",
+    "common name": "Striped Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557556753/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-22.2191866667",
+    "longitude": "-45.9269633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557544362/square.jpg",
+    "date": "2024-12-18",
+    "latitude": "36.0911528333",
+    "longitude": "-114.968795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Guira guira",
+    "common name": "Guira Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557543517/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-18.841619226",
+    "longitude": "-41.9006099534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites basalis",
+    "common name": "Horsfield's Bronze Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557529606/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.4613533333",
+    "longitude": "137.7433033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557529606/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.1137089958",
+    "longitude": "-47.1830153838",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557511559/square.jpg",
+    "date": "2023-06-15",
+    "latitude": "-15.5925244417",
+    "longitude": "-56.1426064173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus bengalensis",
+    "common name": "Lesser Coucal",
+    "observation photo url": "https://static.inaturalist.org/photos/557510645/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "1.3777191257",
+    "longitude": "124.8282780994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://static.inaturalist.org/photos/557510645/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "29.5118032402",
+    "longitude": "-95.4638375222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centropus sinensis intermedius",
+    "common name": "Greater Coucal (Indomalayan)",
+    "observation photo url": "https://static.inaturalist.org/photos/557504018/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "8.9009789",
+    "longitude": "98.5209721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taccocua leschenaultii",
+    "common name": "Sirkeer Malkoha",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557503119/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "28.3575",
+    "longitude": "77.0404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus solitarius",
+    "common name": "Red-chested Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557501162/square.jpg",
+    "date": "2011-01-29",
+    "latitude": "-26.0877434209",
+    "longitude": "27.8426553602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557495816/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.2708348097",
+    "longitude": "-76.9240727334",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eudynamys scolopaceus",
+    "common name": "Asian Koel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557492526/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "22.3026866667",
+    "longitude": "114.0138388833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557490583/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.606875481",
+    "longitude": "-97.4742737818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites basalis",
+    "common name": "Horsfield's Bronze Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557478239/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-38.5046615486",
+    "longitude": "145.155508877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites basalis",
+    "common name": "Horsfield's Bronze Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557476919/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-38.5054520497",
+    "longitude": "145.1572962128",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites lucidus",
+    "common name": "Shining Bronze Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557476588/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-38.5055271279",
+    "longitude": "145.1570901374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cacomantis flabelliformis",
+    "common name": "Fan-tailed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557474119/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-38.5509974823",
+    "longitude": "145.3565788064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557486413/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-0.6676016667",
+    "longitude": "-90.4307333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557483727/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "55.5046666335",
+    "longitude": "12.2130394567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557509072/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "61.3611694861",
+    "longitude": "24.1309276198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coccyzus americanus",
+    "common name": "Yellow-billed Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557509072/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.1257206038",
+    "longitude": "-71.6471084184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cuculus canorus",
+    "common name": "Common Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557472826/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "47.5450228646",
+    "longitude": "0.8351020887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chalcites basalis",
+    "common name": "Horsfield's Bronze Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557471938/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.7011786111",
+    "longitude": "140.1251158333",
+    "quality_grade": "research"
+  }
+]

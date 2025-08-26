@@ -1,0 +1,1649 @@
+[
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/547843831/square.jpg",
+    "date": "2018-12-01",
+    "latitude": "10.5124680288",
+    "longitude": "-10.3505579135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524139273/square.jpg",
+    "date": "2003-03-25",
+    "latitude": "16.6635654",
+    "longitude": "-3.0262731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/505771317/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "13.044492027",
+    "longitude": "-13.3203350615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496768443/square.jpeg",
+    "date": "2025-03-04",
+    "latitude": "10.9822764448",
+    "longitude": "-1.1146599711",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488663354/square.jpeg",
+    "date": "2005-12-21",
+    "latitude": "13.3683620225",
+    "longitude": "-6.3810138281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488663241/square.jpg",
+    "date": "2010-07-18",
+    "latitude": "12.9140080487",
+    "longitude": "-7.5215386756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488018114/square.jpeg",
+    "date": "2025-04-18",
+    "latitude": "8.4480337909",
+    "longitude": "12.7424330637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487722253/square.jpeg",
+    "date": "2025-04-18",
+    "latitude": "8.2018838074",
+    "longitude": "13.0037278309",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486667928/square.jpeg",
+    "date": "2025-04-15",
+    "latitude": "8.1918801608",
+    "longitude": "13.008460924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484237472/square.jpeg",
+    "date": "2025-03-05",
+    "latitude": "6.858132",
+    "longitude": "2.4639689",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481832233/square.jpeg",
+    "date": "2011-02-28",
+    "latitude": "13.0774926",
+    "longitude": "-12.7206941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481832074/square.jpeg",
+    "date": "2010-07-31",
+    "latitude": "13.4309703",
+    "longitude": "-6.261278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/477606789/square.jpeg",
+    "date": "2025-02-24",
+    "latitude": "9.5350592279",
+    "longitude": "-1.3781397982",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474924392/square.jpeg",
+    "date": "2025-02-25",
+    "latitude": "9.5354881204",
+    "longitude": "-1.3785799965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473058538/square.jpg",
+    "date": "2025-02-11",
+    "latitude": "13.3443872502",
+    "longitude": "-13.3799476651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470576250/square.jpg",
+    "date": "2014-01-08",
+    "latitude": "14.5005855573",
+    "longitude": "-4.2032146472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469533660/square.jpg",
+    "date": "2025-01-02",
+    "latitude": "13.6773271601",
+    "longitude": "-15.3615537133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9115923/square.jpeg",
+    "date": "2011-04-14",
+    "latitude": "8.3087246451",
+    "longitude": "13.840562536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467675464/square.jpeg",
+    "date": "2025-01-23",
+    "latitude": "9.5335883333",
+    "longitude": "-1.3771216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/464112799/square.jpeg",
+    "date": "2025-01-15",
+    "latitude": "13.351648",
+    "longitude": "-13.346636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/464085851/square.jpeg",
+    "date": "2025-01-15",
+    "latitude": "13.3447494657",
+    "longitude": "-13.3650689945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460753379/square.jpeg",
+    "date": "2024-01-13",
+    "latitude": "12.0388480556",
+    "longitude": "3.2138013889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460747731/square.jpeg",
+    "date": "2023-12-22",
+    "latitude": "11.8064363889",
+    "longitude": "3.5184563889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460269686/square.jpeg",
+    "date": "2024-01-13",
+    "latitude": "12.0388480556",
+    "longitude": "3.2138013889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/459765874/square.jpg",
+    "date": "2007-10-14",
+    "latitude": "8.5440485519",
+    "longitude": "13.9114424104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/459765875/square.jpg",
+    "date": "2007-10-14",
+    "latitude": "8.5440485519",
+    "longitude": "13.9114424104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/459765869/square.jpg",
+    "date": "2007-10-14",
+    "latitude": "8.5372997744",
+    "longitude": "13.9030236703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/459765876/square.jpg",
+    "date": "2007-10-14",
+    "latitude": "8.5440485519",
+    "longitude": "13.9114424104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459098290/square.jpeg",
+    "date": "2024-11-25",
+    "latitude": "13.7016044064",
+    "longitude": "-15.3476365763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459098295/square.jpeg",
+    "date": "2024-11-25",
+    "latitude": "13.7004459462",
+    "longitude": "-15.3513027698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459098170/square.jpeg",
+    "date": "2024-11-25",
+    "latitude": "13.7435625968",
+    "longitude": "-15.2123226801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458102615/square.jpeg",
+    "date": "2012-11-03",
+    "latitude": "8.232143653",
+    "longitude": "34.5966878588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/456949110/square.jpeg",
+    "date": "2024-11-13",
+    "latitude": "9.5324054681",
+    "longitude": "-1.37674572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/455096390/square.jpg",
+    "date": "2024-01-28",
+    "latitude": "9.533528",
+    "longitude": "-1.377383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453903810/square.jpeg",
+    "date": "2024-11-01",
+    "latitude": "6.8934610693",
+    "longitude": "2.4516599969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451992989/square.jpeg",
+    "date": "2024-11-12",
+    "latitude": "13.7435120775",
+    "longitude": "-15.2126054516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451992983/square.jpeg",
+    "date": "2024-11-12",
+    "latitude": "13.7017681201",
+    "longitude": "-15.347536228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451350396/square.jpg",
+    "date": "2024-10-19",
+    "latitude": "9.5284488",
+    "longitude": "-1.3879292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450426292/square.jpeg",
+    "date": "2022-02-19",
+    "latitude": "13.0289",
+    "longitude": "-13.2941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450282995/square.jpeg",
+    "date": "2024-11-13",
+    "latitude": "9.5346161693",
+    "longitude": "-1.3792879418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448223535/square.jpeg",
+    "date": "2024-10-19",
+    "latitude": "9.4264644793",
+    "longitude": "-1.3957671869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/448165820/square.jpeg",
+    "date": "2024-10-28",
+    "latitude": "10.8410863889",
+    "longitude": "1.9460913889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/448165719/square.jpeg",
+    "date": "2024-10-28",
+    "latitude": "10.8411280556",
+    "longitude": "1.9461713889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/448165811/square.jpeg",
+    "date": "2024-10-28",
+    "latitude": "10.8411063889",
+    "longitude": "1.9461263889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446562299/square.jpg",
+    "date": "2021-12-28",
+    "latitude": "9.5318225853",
+    "longitude": "-1.3684048175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438638145/square.jpg",
+    "date": "2024-09-17",
+    "latitude": "13.7430183333",
+    "longitude": "-15.21246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438634814/square.jpg",
+    "date": "2024-09-17",
+    "latitude": "13.7072216667",
+    "longitude": "-15.3429116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436613103/square.jpeg",
+    "date": "2023-11-06",
+    "latitude": "13.360427901",
+    "longitude": "-16.5828900039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432875587/square.jpeg",
+    "date": "2023-12-22",
+    "latitude": "11.80644",
+    "longitude": "3.5184563889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432226350/square.jpg",
+    "date": "2024-07-31",
+    "latitude": "6.7711165",
+    "longitude": "2.4638479001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/421827738/square.jpeg",
+    "date": "2007-01-11",
+    "latitude": "13.7026850584",
+    "longitude": "-15.3472093737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/419262144/square.jpeg",
+    "date": "2024-08-14",
+    "latitude": "13.743685",
+    "longitude": "-15.2129633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418551632/square.jpeg",
+    "date": "2024-08-03",
+    "latitude": "13.708095",
+    "longitude": "-15.34429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416744004/square.jpeg",
+    "date": "2024-08-06",
+    "latitude": "13.6635883566",
+    "longitude": "-15.3194977377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416743971/square.jpeg",
+    "date": "2024-08-06",
+    "latitude": "13.711977285",
+    "longitude": "-15.2432577394",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416743953/square.jpeg",
+    "date": "2024-08-06",
+    "latitude": "13.7124248296",
+    "longitude": "-15.2158860314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/407787662/square.jpg",
+    "date": "2024-02-02",
+    "latitude": "13.3481333557",
+    "longitude": "-13.3672499983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407274828/square.jpg",
+    "date": "2018-12-05",
+    "latitude": "9.5353888889",
+    "longitude": "-1.3794972222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402623547/square.jpg",
+    "date": "2024-06-28",
+    "latitude": "10.4804946121",
+    "longitude": "-10.4439594868",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402046672/square.jpeg",
+    "date": "2024-02-03",
+    "latitude": "6.526762",
+    "longitude": "2.538389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401065845/square.jpg",
+    "date": "2010-03-02",
+    "latitude": "13.3484834736",
+    "longitude": "-13.3778291102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396419977/square.jpg",
+    "date": "2007-02-15",
+    "latitude": "12.3025857418",
+    "longitude": "2.3965429367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396419976/square.jpg",
+    "date": "2007-02-15",
+    "latitude": "12.3025857418",
+    "longitude": "2.3965429367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394384204/square.jpg",
+    "date": "2024-03-13",
+    "latitude": "9.1429155223",
+    "longitude": "-1.161379545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388701673/square.jpeg",
+    "date": "2024-05-31",
+    "latitude": "10.6215500918",
+    "longitude": "1.2653052807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388173585/square.jpeg",
+    "date": "2024-05-27",
+    "latitude": "10.24",
+    "longitude": "10.144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385155040/square.jpg",
+    "date": "2024-03-15",
+    "latitude": "13.0703090272",
+    "longitude": "-12.7314765308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385154967/square.jpg",
+    "date": "2024-03-15",
+    "latitude": "13.0697713611",
+    "longitude": "-12.7310647478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384840536/square.jpeg",
+    "date": "2024-05-21",
+    "latitude": "12.0712563889",
+    "longitude": "3.2017880556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384840049/square.jpeg",
+    "date": "2024-05-21",
+    "latitude": "12.0710213889",
+    "longitude": "3.2020363889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368274424/square.jpg",
+    "date": "2024-03-14",
+    "latitude": "13.1115332419",
+    "longitude": "-12.8578584532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365057203/square.jpeg",
+    "date": "2024-03-30",
+    "latitude": "7.5536469",
+    "longitude": "-11.3578936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363897481/square.jpg",
+    "date": "2024-03-30",
+    "latitude": "7.542976245",
+    "longitude": "-11.3535779183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/361001827/square.jpeg",
+    "date": "2023-12-22",
+    "latitude": "11.8064013889",
+    "longitude": "3.5184530556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/361001727/square.jpeg",
+    "date": "2023-12-22",
+    "latitude": "11.8064363889",
+    "longitude": "3.5184563889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/361001677/square.jpeg",
+    "date": "2023-12-22",
+    "latitude": "11.80644",
+    "longitude": "3.5184563889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/360301504/square.jpeg",
+    "date": "2024-01-13",
+    "latitude": "12.0388263889",
+    "longitude": "3.2138113889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/360301427/square.jpeg",
+    "date": "2024-01-13",
+    "latitude": "11.6927354981",
+    "longitude": "3.2961693406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359368126/square.jpg",
+    "date": "2024-03-05",
+    "latitude": "9.5356018973",
+    "longitude": "-1.3787929628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357772926/square.jpeg",
+    "date": "2024-01-18",
+    "latitude": "13.3477456142",
+    "longitude": "-13.3660478624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357217159/square.jpeg",
+    "date": "2024-01-17",
+    "latitude": "13.3368297529",
+    "longitude": "-13.3803458397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353842047/square.png",
+    "date": "2024-02-25",
+    "latitude": "10.8618420239",
+    "longitude": "-1.1532950097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/352231442/square.jpg",
+    "date": "2024-01-21",
+    "latitude": "10.794423",
+    "longitude": "-0.81151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351771440/square.jpeg",
+    "date": "2024-02-15",
+    "latitude": "5.6548563889",
+    "longitude": "24.3401480556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351731229/square.jpeg",
+    "date": "2024-02-16",
+    "latitude": "13.3487587168",
+    "longitude": "-13.3670065552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350901656/square.jpg",
+    "date": "2017-01-18",
+    "latitude": "11.0535365402",
+    "longitude": "-0.376412054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350314563/square.jpeg",
+    "date": "2024-02-06",
+    "latitude": "11.0021315234",
+    "longitude": "-0.3845580295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349548225/square.jpg",
+    "date": "1995-12-14",
+    "latitude": "11.9612238197",
+    "longitude": "15.0493250122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349293816/square.jpg",
+    "date": "2024-01-16",
+    "latitude": "13.3485272217",
+    "longitude": "-13.3659038883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349293782/square.jpg",
+    "date": "2024-01-16",
+    "latitude": "13.3483575",
+    "longitude": "-13.365809445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348709928/square.jpg",
+    "date": "2024-01-28",
+    "latitude": "9.5071716667",
+    "longitude": "-1.4091416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348422577/square.jpg",
+    "date": "2024-01-15",
+    "latitude": "13.339963055",
+    "longitude": "-13.381355555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348422224/square.jpg",
+    "date": "2024-01-15",
+    "latitude": "13.339481945",
+    "longitude": "-13.3816897217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347173709/square.jpg",
+    "date": "2017-01-18",
+    "latitude": "11.0535365402",
+    "longitude": "-0.376412054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/346102079/square.jpeg",
+    "date": "2024-01-13",
+    "latitude": "12.0389830556",
+    "longitude": "3.21374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344612247/square.jpeg",
+    "date": "2023-11-27",
+    "latitude": "6.8571067",
+    "longitude": "2.4622367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343354093/square.jpeg",
+    "date": "2023-12-12",
+    "latitude": "12.2359655173",
+    "longitude": "-13.8986479584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343247275/square.jpg",
+    "date": "2023-12-28",
+    "latitude": "13.7474461",
+    "longitude": "-15.2092423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/342784296/square.jpg",
+    "date": "2023-12-06",
+    "latitude": "2.621265094",
+    "longitude": "16.0700534956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338621532/square.jpg",
+    "date": "2023-12-02",
+    "latitude": "12.720875",
+    "longitude": "-7.7455283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/336458635/square.jpg",
+    "date": "2022-02-05",
+    "latitude": "2.7704105684",
+    "longitude": "16.0987338281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335777633/square.jpeg",
+    "date": "2019-01-26",
+    "latitude": "6.27034",
+    "longitude": "24.20961",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335775503/square.jpeg",
+    "date": "2019-01-26",
+    "latitude": "6.282489",
+    "longitude": "24.198744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321641419/square.jpeg",
+    "date": "2023-07-13",
+    "latitude": "7.8655520657",
+    "longitude": "6.8462760406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308385846/square.jpg",
+    "date": "1996-01-26",
+    "latitude": "13.0268696309",
+    "longitude": "-13.2938192403",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/296681234/square.jpeg",
+    "date": "2023-05-22",
+    "latitude": "1.6199483333",
+    "longitude": "16.06618",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/281219276/square.jpeg",
+    "date": "2023-04-20",
+    "latitude": "2.7512274182",
+    "longitude": "16.1044815128",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274922585/square.jpeg",
+    "date": "2023-03-04",
+    "latitude": "2.2035744",
+    "longitude": "16.1867663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/269386970/square.jpg",
+    "date": "2023-04-17",
+    "latitude": "9.5325988185",
+    "longitude": "-1.3746129465",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/269066549/square.jpg",
+    "date": "2023-04-17",
+    "latitude": "9.2978583333",
+    "longitude": "-1.7750133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267540294/square.jpg",
+    "date": "2023-03-04",
+    "latitude": "5.8365550362",
+    "longitude": "24.2244391381",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267096213/square.jpeg",
+    "date": "2023-03-29",
+    "latitude": "12.7492732",
+    "longitude": "-14.1596776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264751595/square.jpeg",
+    "date": "2023-03-14",
+    "latitude": "10.803456134",
+    "longitude": "19.8241402876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262225494/square.jpeg",
+    "date": "2023-02-19",
+    "latitude": "10.648993",
+    "longitude": "19.7706699722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262218129/square.jpeg",
+    "date": "2022-12-15",
+    "latitude": "6.9077493",
+    "longitude": "2.4525531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261973307/square.jpg",
+    "date": "2009-01-14",
+    "latitude": "13.8993252384",
+    "longitude": "-4.5363332937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/261197374/square.jpg",
+    "date": "2023-01-31",
+    "latitude": "19.178049595",
+    "longitude": "30.4937271399",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/261197369/square.jpg",
+    "date": "2023-01-31",
+    "latitude": "19.1779954201",
+    "longitude": "30.4937117713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259828120/square.jpeg",
+    "date": "2023-02-22",
+    "latitude": "2.2102317196",
+    "longitude": "16.189908808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/257946460/square.jpg",
+    "date": "2020-02-24",
+    "latitude": "9.5324483333",
+    "longitude": "-1.369135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257630846/square.jpg",
+    "date": "2023-02-21",
+    "latitude": "13.52025",
+    "longitude": "2.0742383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257617162/square.jpg",
+    "date": "2023-02-20",
+    "latitude": "13.5910966667",
+    "longitude": "1.9632916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/257261088/square.jpeg",
+    "date": "2023-02-20",
+    "latitude": "8.1899998653",
+    "longitude": "9.7349998355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255786526/square.jpg",
+    "date": "2017-02-07",
+    "latitude": "12.5024113889",
+    "longitude": "2.5600680556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254023582/square.jpeg",
+    "date": "2015-01-17",
+    "latitude": "11.6166426031",
+    "longitude": "-14.4359582272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254022817/square.jpeg",
+    "date": "2015-01-16",
+    "latitude": "11.6197644145",
+    "longitude": "-14.4542252889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253417055/square.jpeg",
+    "date": "2023-01-13",
+    "latitude": "13.3486573933",
+    "longitude": "-13.3662651379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/252477539/square.jpeg",
+    "date": "2022-12-25",
+    "latitude": "13.0561163877",
+    "longitude": "-13.2592823356",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248944702/square.jpeg",
+    "date": "2022-11-12",
+    "latitude": "13.3474352472",
+    "longitude": "-13.3712786436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247723939/square.jpeg",
+    "date": "1986-02-24",
+    "latitude": "13.0242742647",
+    "longitude": "-13.2410425231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/247311753/square.jpeg",
+    "date": "2022-11-15",
+    "latitude": "13.7100556",
+    "longitude": "-15.3336087",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247049240/square.jpg",
+    "date": "2022-11-21",
+    "latitude": "13.4377679",
+    "longitude": "-14.6659345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247049194/square.jpg",
+    "date": "2022-11-21",
+    "latitude": "13.4377679",
+    "longitude": "-14.6659345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247049171/square.jpg",
+    "date": "2022-11-21",
+    "latitude": "13.4377679",
+    "longitude": "-14.6659345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/243340419/square.jpeg",
+    "date": "2022-07-16",
+    "latitude": "9.483628069",
+    "longitude": "12.1069944217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/235523003/square.jpeg",
+    "date": "2021-04-11",
+    "latitude": "8.8281868363",
+    "longitude": "8.6732420325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/234713450/square.jpeg",
+    "date": "2018-12-24",
+    "latitude": "11.1245478431",
+    "longitude": "11.4790184051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/234662370/square.jpeg",
+    "date": "2018-12-24",
+    "latitude": "11.0927683154",
+    "longitude": "11.3783581182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232196725/square.jpeg",
+    "date": "2011-04-14",
+    "latitude": "8.4986087666",
+    "longitude": "13.8326813064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/217136753/square.jpeg",
+    "date": "2005-04-19",
+    "latitude": "16.9612125064",
+    "longitude": "-0.4184276735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207888991/square.jpeg",
+    "date": "2022-04-07",
+    "latitude": "10.1359100991",
+    "longitude": "35.9959544241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202654178/square.jpeg",
+    "date": "2021-10-23",
+    "latitude": "10.6498980556",
+    "longitude": "1.2402830556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200194849/square.jpg",
+    "date": "2017-02-14",
+    "latitude": "13.0260066667",
+    "longitude": "-13.29217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186536386/square.jpeg",
+    "date": "2022-03-27",
+    "latitude": "10.803456134",
+    "longitude": "19.8241402876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184854524/square.jpeg",
+    "date": "2022-03-18",
+    "latitude": "7.5250327944",
+    "longitude": "-11.3512216997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181660550/square.jpg",
+    "date": "2022-01-31",
+    "latitude": "13.3383997668",
+    "longitude": "-13.3807443348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181143646/square.jpg",
+    "date": "2020-01-01",
+    "latitude": "9.6690485073",
+    "longitude": "-1.0514248936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177246064/square.jpeg",
+    "date": "2022-01-25",
+    "latitude": "12.0404413889",
+    "longitude": "3.2123663889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177245983/square.jpeg",
+    "date": "2022-01-25",
+    "latitude": "12.0404413889",
+    "longitude": "3.2123663889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172247573/square.jpg",
+    "date": "2021-11-24",
+    "latitude": "11.06864",
+    "longitude": "-0.3624033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171871159/square.jpeg",
+    "date": "2021-10-23",
+    "latitude": "10.6498863889",
+    "longitude": "1.2402830556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170472099/square.jpg",
+    "date": "2021-11-27",
+    "latitude": "10.795706631",
+    "longitude": "19.7709160155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169106320/square.jpeg",
+    "date": "2012-02-28",
+    "latitude": "11.0688088042",
+    "longitude": "-0.361687964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167380747/square.jpeg",
+    "date": "2021-07-18",
+    "latitude": "10.8207663889",
+    "longitude": "1.14547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164780446/square.jpeg",
+    "date": "2007-10-31",
+    "latitude": "13.4442078",
+    "longitude": "-15.5386447",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164565997/square.jpeg",
+    "date": "2021-10-19",
+    "latitude": "13.5102930556",
+    "longitude": "2.0677380556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164565894/square.jpeg",
+    "date": "2021-10-19",
+    "latitude": "13.5102930556",
+    "longitude": "2.0677380556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163404704/square.jpg",
+    "date": "2005-02-05",
+    "latitude": "12.044692844",
+    "longitude": "3.0322265625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160041174/square.jpeg",
+    "date": "2021-04-11",
+    "latitude": "8.546929062",
+    "longitude": "8.3139177346",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143947449/square.jpg",
+    "date": "1995-11-21",
+    "latitude": "13.7022353046",
+    "longitude": "-15.3496061553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140389768/square.jpeg",
+    "date": "2018-01-06",
+    "latitude": "2.2829016667",
+    "longitude": "31.5658433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/139306617/square.jpeg",
+    "date": "2014-08-28",
+    "latitude": "-9.1589347159",
+    "longitude": "13.5875032506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137466720/square.jpeg",
+    "date": "2021-06-19",
+    "latitude": "7.6043264992",
+    "longitude": "6.6210611165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121318195/square.jpeg",
+    "date": "2015-11-28",
+    "latitude": "13.3489460785",
+    "longitude": "-13.3775141858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://static.inaturalist.org/photos/116074036/square.jpg",
+    "date": "2015-11-16",
+    "latitude": "11.0918583086",
+    "longitude": "-0.1417275302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114340951/square.jpg",
+    "date": "2021-02-28",
+    "latitude": "10.5943106006",
+    "longitude": "19.7745022942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111856148/square.jpg",
+    "date": "2020-01-16",
+    "latitude": "13.9499586401",
+    "longitude": "-12.2068054733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108928677/square.jpg",
+    "date": "2019-11-24",
+    "latitude": "13.32257002",
+    "longitude": "-13.3863889793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108923026/square.jpg",
+    "date": "2019-11-24",
+    "latitude": "13.3478",
+    "longitude": "-13.3778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108919868/square.jpg",
+    "date": "2019-11-24",
+    "latitude": "13.3480559408",
+    "longitude": "-13.3683911951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108915728/square.jpg",
+    "date": "2019-11-24",
+    "latitude": "13.3478993557",
+    "longitude": "-13.37776933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108914442/square.jpg",
+    "date": "2019-11-23",
+    "latitude": "13.3487",
+    "longitude": "-13.3758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108397001/square.jpg",
+    "date": "2010-11-27",
+    "latitude": "13.9053952",
+    "longitude": "-4.5559954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108288147/square.jpg",
+    "date": "2017-02-07",
+    "latitude": "12.5024197222",
+    "longitude": "2.5600963889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108288089/square.jpg",
+    "date": "2017-02-07",
+    "latitude": "12.5111763889",
+    "longitude": "2.5673980556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107902298/square.jpeg",
+    "date": "2020-01-22",
+    "latitude": "10.3083",
+    "longitude": "-9.3395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107900942/square.jpg",
+    "date": "2020-01-22",
+    "latitude": "10.3083",
+    "longitude": "-9.3395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107847915/square.jpg",
+    "date": "2020-01-23",
+    "latitude": "11.0675",
+    "longitude": "-9.2428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107846840/square.jpg",
+    "date": "2020-01-23",
+    "latitude": "11.2595",
+    "longitude": "-9.1308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107831629/square.jpg",
+    "date": "2020-01-25",
+    "latitude": "10.6516",
+    "longitude": "-9.7446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107830386/square.jpg",
+    "date": "2020-01-25",
+    "latitude": "10.6513",
+    "longitude": "-9.7443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107827729/square.jpg",
+    "date": "2020-01-25",
+    "latitude": "10.6496",
+    "longitude": "-9.7441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pluvianus aegyptius",
+    "common name": "Egyptian Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107807873/square.jpg",
+    "date": "2020-01-26",
+    "latitude": "10.6554",
+    "longitude": "-9.7473",
+    "quality_grade": "research"
+  }
+]

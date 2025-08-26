@@ -1,0 +1,965 @@
+[
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://static.inaturalist.org/photos/558162659/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "48.3928728037",
+    "longitude": "3.7079904445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558163479/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "50.663422",
+    "longitude": "-109.333702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558133614/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "50.6635630001",
+    "longitude": "-109.332771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558127149/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "39.25109",
+    "longitude": "-76.3666226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558119647/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "50.664829",
+    "longitude": "-109.282379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda affinis",
+    "common name": "Jerdon's Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063528/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.37581731",
+    "longitude": "81.0490661315",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda affinis",
+    "common name": "Jerdon's Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063006/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.354550572",
+    "longitude": "81.0017479101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558060959/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.3783858615",
+    "longitude": "31.6259182518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ammomanes phoenicura",
+    "common name": "Rufous-tailed Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558055394/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "13.0842648858",
+    "longitude": "80.2704621479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Melanocorypha calandra",
+    "common name": "Calandra Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558037024/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "41.3687566667",
+    "longitude": "-0.6310833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Melanocorypha calandra",
+    "common name": "Calandra Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558036948/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "41.369175",
+    "longitude": "-0.6318833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Melanocorypha calandra",
+    "common name": "Calandra Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558036956/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "41.3687366667",
+    "longitude": "-0.6311216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lullula arborea",
+    "common name": "Woodlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557988734/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "40.5690153701",
+    "longitude": "-1.6274177611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calendulauda sabota",
+    "common name": "Sabota Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557943118/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.1132896519",
+    "longitude": "31.6992460241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557941488/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.6384979997",
+    "longitude": "45.0061803997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lullula arborea",
+    "common name": "Woodlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557931977/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "40.5574341133",
+    "longitude": "-1.6296194913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557920225/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8332336962",
+    "longitude": "55.2515202973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremopterix griseus",
+    "common name": "Ashy-crowned Sparrow-Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557914901/square.jpg",
+    "date": "2025-04-02",
+    "latitude": "11.8356992",
+    "longitude": "76.1073503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calendulauda sabota",
+    "common name": "Sabota Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557908155/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.8440616667",
+    "longitude": "16.91869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://static.inaturalist.org/photos/557902302/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "53.3569955497",
+    "longitude": "58.632744974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calandrella brachydactyla",
+    "common name": "Greater Short-toed Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903239/square.jpg",
+    "date": "2017-06-21",
+    "latitude": "19.3482411",
+    "longitude": "73.6918806",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremopterix griseus",
+    "common name": "Ashy-crowned Sparrow-Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557886998/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "26.7082963869",
+    "longitude": "77.8450198065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557886156/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.9700583333",
+    "longitude": "-123.4967333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ammomanes phoenicura",
+    "common name": "Rufous-tailed Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557871928/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "13.0843007",
+    "longitude": "80.2704622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557787884/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "39.95007",
+    "longitude": "-84.1586833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557779255/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "49.0516297",
+    "longitude": "-112.9089098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557773848/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "34.8086384278",
+    "longitude": "-109.8596512264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557771996/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "46.2755010831",
+    "longitude": "20.438067135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557702008/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.6953601695",
+    "longitude": "-90.4660488663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557683598/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "36.4471918338",
+    "longitude": "-6.2285497853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557680175/square.jpg",
+    "date": "2012-07-12",
+    "latitude": "58.5411357663",
+    "longitude": "-129.1458422644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557642522/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "40.0083349166",
+    "longitude": "32.3359763506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida magnirostris",
+    "common name": "Large-billed Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649767/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-32.8223371336",
+    "longitude": "18.1965773594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida magnirostris",
+    "common name": "Large-billed Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649657/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-32.8197534067",
+    "longitude": "18.1925669846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557656473/square.jpg",
+    "date": "2023-05-13",
+    "latitude": "54.6799592153",
+    "longitude": "8.7582777813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557620430/square.jpg",
+    "date": "2024-12-26",
+    "latitude": "41.7300204272",
+    "longitude": "-71.415341761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557614561/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.7066793532",
+    "longitude": "100.9400811311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557595668/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.0565777018",
+    "longitude": "27.9870281741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557585353/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "37.7840013",
+    "longitude": "-0.7579785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda erythroptera",
+    "common name": "Indian Bush Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557576203/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "20.2717885",
+    "longitude": "79.3875706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calandrella brachydactyla",
+    "common name": "Greater Short-toed Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557567700/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5907427862",
+    "longitude": "-1.6026157599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda erythroptera",
+    "common name": "Indian Bush Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557559587/square.jpg",
+    "date": "2019-01-20",
+    "latitude": "21.3550114",
+    "longitude": "81.7284553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Melanocorypha calandra",
+    "common name": "Calandra Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557544916/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.1499499578",
+    "longitude": "76.9583865275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557516284/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.944586893",
+    "longitude": "33.806819922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lullula arborea",
+    "common name": "Woodlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557508631/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://static.inaturalist.org/photos/557501835/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "59.7054880256",
+    "longitude": "30.1570348337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://static.inaturalist.org/photos/557501709/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "59.7057478057",
+    "longitude": "30.1424436166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremopterix verticalis",
+    "common name": "Grey-backed Sparrow-Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557479739/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.7271816667",
+    "longitude": "16.9887166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lullula arborea",
+    "common name": "Woodlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557463603/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "40.5574312178",
+    "longitude": "-1.629629985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mirafra javanica",
+    "common name": "Singing Bushlark",
+    "observation photo url": "https://static.inaturalist.org/photos/557467738/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "26.2182049788",
+    "longitude": "74.8627566174",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calandrella cinerea",
+    "common name": "Red-capped Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557441444/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.7305066667",
+    "longitude": "16.9935883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557432983/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "59.840397089",
+    "longitude": "30.05877096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557425175/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "12.9852396021",
+    "longitude": "8.2421094962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calandrella cinerea",
+    "common name": "Red-capped Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557419627/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.7305266667",
+    "longitude": "16.9935683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda affinis",
+    "common name": "Jerdon's Bushlark",
+    "observation photo url": "https://static.inaturalist.org/photos/557392113/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.5498066667",
+    "longitude": "81.496685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Melanocorypha calandra",
+    "common name": "Calandra Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557387991/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.9368115117",
+    "longitude": "43.5045753152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda affinis",
+    "common name": "Jerdon's Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557358412/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "14.374485179",
+    "longitude": "79.9545284361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557330460/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "42.4365599",
+    "longitude": "-87.8071309",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida theklae",
+    "common name": "Thekla's Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557287008/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "35.3113328037",
+    "longitude": "-2.9525479268",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda erythrocephala",
+    "common name": "Indochinese Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557286603/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "13.211881122",
+    "longitude": "100.9888869524",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557272658/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "46.6172554036",
+    "longitude": "-124.0692155066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556974840/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "53.1035700087",
+    "longitude": "-6.0404050528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557215878/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "33.4518044626",
+    "longitude": "-80.741800635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida theklae",
+    "common name": "Thekla's Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557175233/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "31.2047083333",
+    "longitude": "-7.8664033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda affinis",
+    "common name": "Jerdon's Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557129807/square.jpg",
+    "date": "2025-01-14",
+    "latitude": "12.0734366",
+    "longitude": "76.1510815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557133145/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557133048/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557132672/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557128264/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557101669/square.jpg",
+    "date": "2024-04-10",
+    "latitude": "36.39639",
+    "longitude": "-5.3145433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557081609/square.jpg",
+    "date": "2024-04-17",
+    "latitude": "36.2908433333",
+    "longitude": "-5.3888883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chersomanes albofasciata",
+    "common name": "Spike-heeled Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557056760/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-32.1827766667",
+    "longitude": "24.5094716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calandrella cinerea",
+    "common name": "Red-capped Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557073232/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-32.1825866667",
+    "longitude": "24.509825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557044509/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "39.5033980975",
+    "longitude": "66.5479127876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557037354/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "51.627876",
+    "longitude": "-55.903336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calandrella acutirostris",
+    "common name": "Hume's Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/557020037/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "34.7543624",
+    "longitude": "97.6188773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557017074/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.9283186784",
+    "longitude": "53.6318891398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lullula arborea",
+    "common name": "Woodlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557011617/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.3384402",
+    "longitude": "2.1210647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida theklae",
+    "common name": "Thekla's Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556982215/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.3382963887",
+    "longitude": "-2.4462442297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556983488/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "55.7735086925",
+    "longitude": "37.2760577872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lullula arborea",
+    "common name": "Woodlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556974946/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.260315",
+    "longitude": "5.1871533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ammomanes cinctura",
+    "common name": "Bar-tailed Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556946176/square.jpg",
+    "date": "2024-04-01",
+    "latitude": "30.026523864",
+    "longitude": "34.9661580086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lullula arborea",
+    "common name": "Woodlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556925621/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.5120334549",
+    "longitude": "-4.0829289619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calendulauda sabota",
+    "common name": "Sabota Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556913733/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-32.21511",
+    "longitude": "24.5892066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda erythroptera",
+    "common name": "Indian Bush Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/556903573/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.9620787",
+    "longitude": "77.8990441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda affinis",
+    "common name": "Jerdon's Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556891889/square.jpg",
+    "date": "2013-05-09",
+    "latitude": "6.4904439324",
+    "longitude": "80.8671309928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556892588/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "59.4185683333",
+    "longitude": "29.5957983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris atlas",
+    "common name": "Atlas Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556888092/square.jpg",
+    "date": "2024-03-22",
+    "latitude": "31.1882150439",
+    "longitude": "-7.8458850549",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556856153/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "20.8179558383",
+    "longitude": "-156.9226069407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://static.inaturalist.org/photos/556854444/square.jpg",
+    "date": "2025-04-18",
+    "latitude": "35.0730431246",
+    "longitude": "135.9371988661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mirafra javanica",
+    "common name": "Singing Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556823803/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-28.3221929075",
+    "longitude": "152.268604359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556797393/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "63.7319446134",
+    "longitude": "-68.4531458158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida theklae",
+    "common name": "Thekla's Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556671179/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "35.3137253796",
+    "longitude": "-2.9554576099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://static.inaturalist.org/photos/556669098/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "59.8139014707",
+    "longitude": "30.1452860981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/556662551/square.jpg",
+    "date": "2009-12-19",
+    "latitude": "41.78645721",
+    "longitude": "-111.97170095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda erythrocephala",
+    "common name": "Indochinese Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556633577/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "12.5657345",
+    "longitude": "99.796477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556600268/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "47.8143172493",
+    "longitude": "10.2478364734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremopterix nigriceps",
+    "common name": "Black-crowned Sparrow-Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556595526/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "24.8316163",
+    "longitude": "55.2531995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556595383/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "24.8316163",
+    "longitude": "55.2531995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lullula arborea",
+    "common name": "Woodlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556583242/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.31568",
+    "longitude": "-8.2574633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://static.inaturalist.org/photos/556532931/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "36.66443",
+    "longitude": "-121.7207366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alauda arvensis",
+    "common name": "Eurasian Skylark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556521817/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "59.8405790065",
+    "longitude": "30.0771223199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556499321/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "42.5646101",
+    "longitude": "3.0456797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Galerida cristata",
+    "common name": "Crested Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556492552/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "56.8888134948",
+    "longitude": "21.1698182226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda erythroptera",
+    "common name": "Indian Bush Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556469727/square.jpg",
+    "date": "2018-08-09",
+    "latitude": "21.258903506",
+    "longitude": "81.6187155763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eremophila alpestris",
+    "common name": "Horned Lark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556465468/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "62.3052067536",
+    "longitude": "9.3494042867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plocealauda affinis",
+    "common name": "Jerdon's Bushlark",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556457279/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.35453774",
+    "longitude": "81.0016853009",
+    "quality_grade": "research"
+  }
+]

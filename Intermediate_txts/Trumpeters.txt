@@ -1,0 +1,1172 @@
+[
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/554247355/square.jpg",
+    "date": "2025-05-06",
+    "latitude": "-8.9074375849",
+    "longitude": "-63.2194094986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/554247179/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-8.9074375849",
+    "longitude": "-63.2194094986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/554245606/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-8.9074375849",
+    "longitude": "-63.2194094986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/554245249/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-8.9074375849",
+    "longitude": "-63.2194094986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552142478/square.jpg",
+    "date": "2024-06-28",
+    "latitude": "-11.9104192194",
+    "longitude": "-71.5297229479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552142475/square.jpg",
+    "date": "2024-06-28",
+    "latitude": "-11.9781057115",
+    "longitude": "-71.5548758515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551690448/square.jpg",
+    "date": "2024-06-25",
+    "latitude": "-11.979661089",
+    "longitude": "-71.5290879488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551594910/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-9.5584495348",
+    "longitude": "-55.9768668294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551125338/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-12.2776769237",
+    "longitude": "-69.1952620599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550992583/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-14.3010108407",
+    "longitude": "-67.795590747",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549604804/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-0.3269113219",
+    "longitude": "-55.8366694359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546034204/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-12.9332125276",
+    "longitude": "-69.5302320838",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544919234/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-12.2588018215",
+    "longitude": "-69.0875386293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/544863198/square.jpg",
+    "date": "2007-02-03",
+    "latitude": "-3.2782494541",
+    "longitude": "-73.1450917112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538775359/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-0.6390028009",
+    "longitude": "-76.1550062575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535625553/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-3.25792",
+    "longitude": "-72.917305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533068820/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "3.6044424341",
+    "longitude": "-53.2857381322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis dextralis",
+    "common name": "Dusky-backed Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532328885/square.jpg",
+    "date": "2025-04-04",
+    "latitude": "-9.2151522426",
+    "longitude": "-56.792405158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532036711/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-13.0250837384",
+    "longitude": "-69.4263237892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529256878/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "4.2350537397",
+    "longitude": "-54.7594125746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/527154698/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "-0.6319006513",
+    "longitude": "-76.1617078112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/525068126/square.jpg",
+    "date": "2024-11-15",
+    "latitude": "4.5596304932",
+    "longitude": "-52.1907411888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521950817/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "-12.2568302295",
+    "longitude": "-68.9303265931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520443559/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-12.268827499",
+    "longitude": "-69.0891361945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519134101/square.jpg",
+    "date": "2024-11-28",
+    "latitude": "-12.8242097225",
+    "longitude": "-69.4819352751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517943162/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "-12.2091708448",
+    "longitude": "-69.1243744628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/515704483/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "-0.5101533333",
+    "longitude": "-77.4134816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514883592/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-1.4990423042",
+    "longitude": "-77.9991377145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513797582/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-0.6350006429",
+    "longitude": "-76.9617268352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513575305/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-0.9349584614",
+    "longitude": "-75.3912480175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509336151/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-13.1410189539",
+    "longitude": "-69.646086498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508384678/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-0.6716416667",
+    "longitude": "-77.5985888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499224106/square.png",
+    "date": "2025-03-17",
+    "latitude": "3.6221830716",
+    "longitude": "-52.9992606937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498150837/square.jpeg",
+    "date": "2018-09-05",
+    "latitude": "1.2934369",
+    "longitude": "-61.1419515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497026427/square.png",
+    "date": "2025-04-24",
+    "latitude": "4.8930874278",
+    "longitude": "-52.5269128062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495965275/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "4.8740943411",
+    "longitude": "-52.2931978386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495958432/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "4.2117442805",
+    "longitude": "-52.7957648193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495958432/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "4.3002849649",
+    "longitude": "-52.3522339184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495958432/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "4.2786258392",
+    "longitude": "-52.4693298224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/490415845/square.png",
+    "date": "2025-04-22",
+    "latitude": "-8.8993366378",
+    "longitude": "-63.2372860677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487088734/square.jpg",
+    "date": "2024-01-11",
+    "latitude": "4.9493283333",
+    "longitude": "-55.1822783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485773649/square.jpg",
+    "date": "2024-01-10",
+    "latitude": "4.9494992299",
+    "longitude": "-55.1814094682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482247728/square.jpg",
+    "date": "2025-04-01",
+    "latitude": "-1.620555",
+    "longitude": "-77.9125883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477611627/square.jpeg",
+    "date": "2012-01-05",
+    "latitude": "4.9484327112",
+    "longitude": "-55.1817542135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477597734/square.jpeg",
+    "date": "2025-03-18",
+    "latitude": "-0.455669651",
+    "longitude": "-76.9987354428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/477318240/square.jpeg",
+    "date": "2025-03-04",
+    "latitude": "-1.7313099268",
+    "longitude": "-77.1105932817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477134399/square.jpg",
+    "date": "2024-06-23",
+    "latitude": "-11.9182980188",
+    "longitude": "-71.555052411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477134388/square.jpg",
+    "date": "2024-06-23",
+    "latitude": "-11.8311259494",
+    "longitude": "-71.4665827113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/475907069/square.jpeg",
+    "date": "2025-03-11",
+    "latitude": "-12.3820016777",
+    "longitude": "-69.164889829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475650578/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "4.9365962305",
+    "longitude": "-55.1922172894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474336618/square.jpeg",
+    "date": "2014-07-25",
+    "latitude": "-1.1554403609",
+    "longitude": "-77.6500440812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/473362051/square.jpg",
+    "date": "2025-01-12",
+    "latitude": "-12.1186160509",
+    "longitude": "-71.3358375469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473240659/square.jpeg",
+    "date": "2024-12-14",
+    "latitude": "4.2464684696",
+    "longitude": "-52.6265258865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472118903/square.jpeg",
+    "date": "2025-02-13",
+    "latitude": "4.9503331891",
+    "longitude": "-55.1817911491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472035127/square.jpg",
+    "date": "2025-02-18",
+    "latitude": "-12.5018274098",
+    "longitude": "-68.9915479256",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471410408/square.jpg",
+    "date": "2025-02-10",
+    "latitude": "-11.8374017628",
+    "longitude": "-71.5148334811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469367553/square.jpg",
+    "date": "2025-02-09",
+    "latitude": "-11.8673576357",
+    "longitude": "-71.4957581277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469329661/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-11.9354529975",
+    "longitude": "-71.4113780547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468667150/square.jpg",
+    "date": "2019-09-02",
+    "latitude": "-9.5987191169",
+    "longitude": "-55.936766587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468667149/square.jpg",
+    "date": "2019-09-02",
+    "latitude": "-9.5987125",
+    "longitude": "-55.9367344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467952189/square.jpeg",
+    "date": "2024-11-11",
+    "latitude": "4.24544",
+    "longitude": "-58.903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467535579/square.jpeg",
+    "date": "2025-01-26",
+    "latitude": "4.9433662",
+    "longitude": "-55.1706992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/467535749/square.jpeg",
+    "date": "2025-01-29",
+    "latitude": "-3.2582318366",
+    "longitude": "-72.9177926481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467163599/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-11.8086063163",
+    "longitude": "-71.5202664296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/467029090/square.jpg",
+    "date": "2024-05-19",
+    "latitude": "4.7629483956",
+    "longitude": "-52.9866404525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466974312/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-11.9823374972",
+    "longitude": "-71.5842931773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466784841/square.jpg",
+    "date": "2025-01-26",
+    "latitude": "-11.8004738897",
+    "longitude": "-71.5017123226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466773148/square.jpg",
+    "date": "2025-01-27",
+    "latitude": "4.9438466667",
+    "longitude": "-55.1860916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465793892/square.jpeg",
+    "date": "2025-01-24",
+    "latitude": "-10.6781983981",
+    "longitude": "-73.3087047982",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465793892/square.jpeg",
+    "date": "2025-01-03",
+    "latitude": "4.0201359508",
+    "longitude": "-52.1181255574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458086281/square.jpg",
+    "date": "2024-11-11",
+    "latitude": "4.2454442045",
+    "longitude": "-58.903166655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/457481658/square.jpeg",
+    "date": "2024-10-21",
+    "latitude": "-12.5582349674",
+    "longitude": "-71.1842875066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456894486/square.jpg",
+    "date": "2024-08-14",
+    "latitude": "-12.9641115936",
+    "longitude": "-69.2204988616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis dextralis",
+    "common name": "Dusky-backed Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456766884/square.jpg",
+    "date": "2024-04-23",
+    "latitude": "-9.2137169716",
+    "longitude": "-56.6984303054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452045445/square.jpeg",
+    "date": "2019-02-25",
+    "latitude": "-4.0668638333",
+    "longitude": "-69.9784083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/449676225/square.jpeg",
+    "date": "2024-06-15",
+    "latitude": "-14.5931998633",
+    "longitude": "-67.4239919654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/448727637/square.jpeg",
+    "date": "2024-02-10",
+    "latitude": "-12.6383091246",
+    "longitude": "-71.2153826519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445027881/square.jpeg",
+    "date": "2024-10-24",
+    "latitude": "4.9419824988",
+    "longitude": "-55.1750876382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/441334375/square.jpg",
+    "date": "2024-01-31",
+    "latitude": "2.154928",
+    "longitude": "-73.683639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441103528/square.jpeg",
+    "date": "2018-12-18",
+    "latitude": "0.6541561146",
+    "longitude": "-77.0738550648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/440462110/square.jpg",
+    "date": "2024-10-02",
+    "latitude": "-13.0326210893",
+    "longitude": "-69.7329759091",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis",
+    "common name": "Dark-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432666289/square.jpeg",
+    "date": "2024-09-18",
+    "latitude": "-6.1381555",
+    "longitude": "-50.30978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432666289/square.jpeg",
+    "date": "2024-09-04",
+    "latitude": "-7.8601826734",
+    "longitude": "-63.9956621583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432666289/square.jpeg",
+    "date": "2024-09-04",
+    "latitude": "-7.8833804712",
+    "longitude": "-63.9332703794",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432077008/square.jpg",
+    "date": "2024-09-04",
+    "latitude": "-7.9334887378",
+    "longitude": "-63.9826632559",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432076974/square.jpg",
+    "date": "2024-09-04",
+    "latitude": "-7.8372308041",
+    "longitude": "-63.8586387949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432076978/square.jpg",
+    "date": "2024-09-04",
+    "latitude": "-7.9564058667",
+    "longitude": "-63.9605558285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432076945/square.jpg",
+    "date": "2024-09-04",
+    "latitude": "-7.827975684",
+    "longitude": "-63.9047330722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/431629494/square.jpeg",
+    "date": "2024-09-16",
+    "latitude": "-12.8114027025",
+    "longitude": "-69.3999279631",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis dextralis",
+    "common name": "Dusky-backed Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430548453/square.jpg",
+    "date": "2022-09-11",
+    "latitude": "-11.8018025793",
+    "longitude": "-55.5303865766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/429831164/square.jpg",
+    "date": "2024-09-04",
+    "latitude": "-7.6637026346",
+    "longitude": "-63.7368319457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/428363932/square.jpeg",
+    "date": "2024-01-28",
+    "latitude": "1.6917216667",
+    "longitude": "-73.719995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425327284/square.jpg",
+    "date": "2024-08-30",
+    "latitude": "-0.6363916667",
+    "longitude": "-76.1505833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/425091964/square.jpeg",
+    "date": "2017-09-23",
+    "latitude": "-12.5778546877",
+    "longitude": "-68.9483653773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/425091964/square.jpeg",
+    "date": "2024-07-03",
+    "latitude": "-12.8034310282",
+    "longitude": "-69.544354781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/424689208/square.jpeg",
+    "date": "2014-08-29",
+    "latitude": "1.3981181909",
+    "longitude": "-70.2715098541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422958484/square.jpeg",
+    "date": "2024-07-25",
+    "latitude": "-12.4188408127",
+    "longitude": "-70.1698591361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis interjecta",
+    "common name": "Xingu Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/421984437/square.jpg",
+    "date": "2024-08-12",
+    "latitude": "-2.9821027344",
+    "longitude": "-50.075809105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/421706809/square.jpeg",
+    "date": "2024-08-17",
+    "latitude": "-0.7932019",
+    "longitude": "-76.40417865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421534588/square.jpeg",
+    "date": "2024-08-01",
+    "latitude": "-12.9648469344",
+    "longitude": "-71.4511822388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421356610/square.jpg",
+    "date": "2011-03-14",
+    "latitude": "-12.3321885543",
+    "longitude": "-70.7156652619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408925719/square.jpeg",
+    "date": "2023-03-25",
+    "latitude": "-12.584483187",
+    "longitude": "-68.8876198702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/405445557/square.jpg",
+    "date": "2023-11-15",
+    "latitude": "-12.2394094132",
+    "longitude": "-69.1195707274",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403183529/square.jpeg",
+    "date": "2011-02-07",
+    "latitude": "4.9516137476",
+    "longitude": "-55.1877056624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399438637/square.jpg",
+    "date": "2024-06-26",
+    "latitude": "-0.5737062379",
+    "longitude": "-75.7606247326",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396249984/square.jpeg",
+    "date": "2005-06-07",
+    "latitude": "-0.4722528703",
+    "longitude": "-76.4591299742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394523058/square.jpg",
+    "date": "2023-10-01",
+    "latitude": "4.9639290131",
+    "longitude": "-55.1545806508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/394504043/square.jpeg",
+    "date": "2008-05-11",
+    "latitude": "-3.5548456",
+    "longitude": "-73.0680865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392475439/square.jpeg",
+    "date": "2024-06-09",
+    "latitude": "-12.0872888593",
+    "longitude": "-69.5839082703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391709796/square.jpg",
+    "date": "2010-04-10",
+    "latitude": "-12.5685179038",
+    "longitude": "-69.3165407149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis interjecta",
+    "common name": "Xingu Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/390898303/square.jpg",
+    "date": "2024-05-26",
+    "latitude": "-2.9140017285",
+    "longitude": "-50.081670628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/387605889/square.jpg",
+    "date": "2024-05-28",
+    "latitude": "-13.1095492664",
+    "longitude": "-69.7575519861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/386289084/square.jpg",
+    "date": "2023-12-01",
+    "latitude": "1.490095",
+    "longitude": "-61.0058833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382104562/square.jpeg",
+    "date": "2014-11-17",
+    "latitude": "-0.4384189",
+    "longitude": "-76.279192",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia viridis interjecta",
+    "common name": "Xingu Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/379172832/square.jpeg",
+    "date": "2024-05-07",
+    "latitude": "-6.1648919563",
+    "longitude": "-50.351001285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363210352/square.jpeg",
+    "date": "2023-07-12",
+    "latitude": "3.5902149677",
+    "longitude": "-53.2296905518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361562531/square.jpeg",
+    "date": "2024-03-23",
+    "latitude": "-0.4867527778",
+    "longitude": "-76.3462722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361006147/square.jpg",
+    "date": "2015-07-15",
+    "latitude": "-11.9507568414",
+    "longitude": "-71.4857623513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360270797/square.jpeg",
+    "date": "2017-03-11",
+    "latitude": "-0.5792740786",
+    "longitude": "-75.8617912656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/359821503/square.jpeg",
+    "date": "2023-09-30",
+    "latitude": "-12.3097091082",
+    "longitude": "-69.1896976835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359357472/square.jpeg",
+    "date": "2016-06-12",
+    "latitude": "5.0934406706",
+    "longitude": "-54.3414482449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358010356/square.png",
+    "date": "2023-05-23",
+    "latitude": "-12.3419639908",
+    "longitude": "-69.0118624987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358009321/square.jpeg",
+    "date": "2023-05-25",
+    "latitude": "-12.2059311498",
+    "longitude": "-69.1261578665",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355104909/square.jpeg",
+    "date": "2024-02-15",
+    "latitude": "4.948872951",
+    "longitude": "-55.1816094396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/354414929/square.jpeg",
+    "date": "2023-02-15",
+    "latitude": "3.618470147",
+    "longitude": "-53.2182153314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353334196/square.jpeg",
+    "date": "2008-03-15",
+    "latitude": "-0.6772406603",
+    "longitude": "-76.0175070975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/350026475/square.jpg",
+    "date": "2023-08-28",
+    "latitude": "-12.308442496",
+    "longitude": "-69.1152285414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia leucoptera",
+    "common name": "Pale-winged Trumpeter",
+    "observation photo url": "https://static.inaturalist.org/photos/348325926/square.png",
+    "date": "2019-08-17",
+    "latitude": "-13.0261006858",
+    "longitude": "-69.6445039116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347690849/square.jpeg",
+    "date": "2011-01-14",
+    "latitude": "5.1325937714",
+    "longitude": "-54.3395783177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Psophia crepitans",
+    "common name": "Gray-winged Trumpeter",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347430353/square.jpeg",
+    "date": "2024-01-16",
+    "latitude": "-1.910253361",
+    "longitude": "-61.3292925359",
+    "quality_grade": "research"
+  }
+]

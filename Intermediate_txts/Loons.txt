@@ -1,0 +1,1163 @@
+[
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558164002/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.9079283333",
+    "longitude": "-70.3952866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151653/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.4700466667",
+    "longitude": "-78.4858866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/558132637/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.4147051941",
+    "longitude": "-65.967324671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558119270/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "53.9680964648",
+    "longitude": "27.4062662199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558117895/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.4085731157",
+    "longitude": "-86.8940609907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/558092162/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.4443223106",
+    "longitude": "-74.5260294969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558062222/square.jpg",
+    "date": "2022-01-06",
+    "latitude": "27.8884445178",
+    "longitude": "-97.1461331651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558038668/square.jpg",
+    "date": "2008-09-17",
+    "latitude": "43.8475136241",
+    "longitude": "-66.0340605401",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557999356/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "62.1002789072",
+    "longitude": "35.2005191005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557899354/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "57.7548226975",
+    "longitude": "10.6442123873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557896682/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "57.7427548813",
+    "longitude": "10.6488764788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557872078/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.225545",
+    "longitude": "-68.3186333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862686/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.2866630661",
+    "longitude": "-85.9531709886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557859918/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.2866630661",
+    "longitude": "-85.9531709886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557846848/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.709007285",
+    "longitude": "-70.4718819321",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557816040/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.1623699751",
+    "longitude": "-69.7628151253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557804470/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "45.5805837967",
+    "longitude": "-78.9063932938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557802360/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.900674",
+    "longitude": "-21.192448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557802108/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.9002172285",
+    "longitude": "-21.1915386997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557766149/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.6461105141",
+    "longitude": "-124.3943550661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557752441/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "43.7599216667",
+    "longitude": "-73.7667533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557748750/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "51.4434375",
+    "longitude": "-116.5307693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557724865/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.2693283333",
+    "longitude": "-71.0202111667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557720260/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "43.3085216667",
+    "longitude": "-73.9503033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557679560/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "43.776825",
+    "longitude": "-75.2143333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557657536/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.336382309",
+    "longitude": "-81.7671674557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557556800/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.8717166667",
+    "longitude": "-77.3508533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557540015/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "69.1689570187",
+    "longitude": "35.1466202512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557529038/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "47.3544444444",
+    "longitude": "103.6816666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557525130/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.2545018366",
+    "longitude": "-72.3262423338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557503367/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "64.2576362706",
+    "longitude": "-21.1210854669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557502544/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.6651727965",
+    "longitude": "131.1100562288",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557464411/square.jpg",
+    "date": "2025-03-01",
+    "latitude": "41.0434644758",
+    "longitude": "20.8023301448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557450202/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "61.1409154278",
+    "longitude": "-45.5707786865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557421918/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "56.4689310896",
+    "longitude": "60.580425784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557417513/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "44.4667086997",
+    "longitude": "-110.5544029997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557410274/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "50.4306024702",
+    "longitude": "29.396182201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557405869/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.3068894249",
+    "longitude": "-65.9729768336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557399188/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.85272",
+    "longitude": "-121.724395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557379886/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.7982779714",
+    "longitude": "-89.1151371032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557350285/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "43.6232064061",
+    "longitude": "-70.1991993862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557330617/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "49.9132295",
+    "longitude": "-74.3691986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557314401/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.4194701475",
+    "longitude": "-53.593709699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557273511/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.446111747",
+    "longitude": "-116.5352223673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557272640/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "52.7246939755",
+    "longitude": "-117.6323525286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557247353/square.jpg",
+    "date": "2020-11-15",
+    "latitude": "55.7021841834",
+    "longitude": "-1.9071980139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557242544/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "44.4343632787",
+    "longitude": "-76.3547917083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556977325/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "53.1036166666",
+    "longitude": "-6.0397827051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556976462/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "53.1036166666",
+    "longitude": "-6.0397827051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557233863/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.986849372",
+    "longitude": "-78.6076669022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557213738/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "49.9014583333",
+    "longitude": "-93.4737333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/557175155/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.4332689718",
+    "longitude": "-76.3375464143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557177175/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "55.3368766667",
+    "longitude": "-1.5873683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557159820/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "61.1609564025",
+    "longitude": "29.7032221779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557124006/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "50.054658973",
+    "longitude": "-119.2258429523",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557123931/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "50.054658973",
+    "longitude": "-119.2258429523",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557082509/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "55.5107356564",
+    "longitude": "60.1987725869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557060830/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.4317083333",
+    "longitude": "-81.845895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557052704/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "58.7634264041",
+    "longitude": "14.7819531031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557038024/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "63.9477360444",
+    "longitude": "20.9415483375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557037549/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "63.8460623914",
+    "longitude": "20.8714150445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557025110/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.3458822669",
+    "longitude": "-78.7169293687",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557009586/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "45.3442716883",
+    "longitude": "-65.54055742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556994910/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "45.3792503431",
+    "longitude": "-93.3896631356",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556895231/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "55.2139848128",
+    "longitude": "59.7580591177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556806594/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "46.2224472222",
+    "longitude": "-89.3209694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556781629/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "49.8834092997",
+    "longitude": "-120.041829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556780232/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.897272425",
+    "longitude": "-88.96881586",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556777488/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "72.6904698666",
+    "longitude": "-78.0238602659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556770190/square.jpg",
+    "date": "2010-06-25",
+    "latitude": "47.720091079",
+    "longitude": "-91.8969378201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556744692/square.jpg",
+    "date": "2013-06-15",
+    "latitude": "46.5379594994",
+    "longitude": "-95.9896899461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556742006/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "47.8131101997",
+    "longitude": "-91.2715847997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556730152/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "47.8097382997",
+    "longitude": "-91.2708171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556729359/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "47.8139327",
+    "longitude": "-91.2728041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556724325/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "47.8140761",
+    "longitude": "-91.2726176",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556716987/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "47.8061775997",
+    "longitude": "-91.2607095997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556715025/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.151862096",
+    "longitude": "-70.4322354271",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556714788/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "47.8070561997",
+    "longitude": "-91.2713786997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556683396/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "52.37313",
+    "longitude": "-121.3082416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556678662/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "63.9002706442",
+    "longitude": "-21.1924670965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556681509/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "72.7108169068",
+    "longitude": "-77.9608425147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556677603/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "63.9005262224",
+    "longitude": "-21.192689985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556675367/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "44.4964723997",
+    "longitude": "-63.9067697979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556743219/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.0822143555",
+    "longitude": "-73.0168304443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556665948/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "46.5027163084",
+    "longitude": "-84.3179773431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556642750/square.jpg",
+    "date": "2022-08-23",
+    "latitude": "51.2611416667",
+    "longitude": "-115.4699333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556638693/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "49.2019176206",
+    "longitude": "-122.387592718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556634115/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "60.3886111",
+    "longitude": "-151.3030556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556634115/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.9662137864",
+    "longitude": "-124.9107222426",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556559815/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "33.7066116667",
+    "longitude": "-118.2739716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556536770/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "46.1184616",
+    "longitude": "-74.5961852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556536770/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "49.9034993706",
+    "longitude": "-95.5226375422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556536770/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "49.9034993706",
+    "longitude": "-95.5226375422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556536770/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "49.9034993706",
+    "longitude": "-95.5226375422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556528802/square.jpg",
+    "date": "2015-06-14",
+    "latitude": "47.8826492791",
+    "longitude": "-89.500418106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556491632/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "44.3389839307",
+    "longitude": "-69.9408404974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556491632/square.jpg",
+    "date": "2024-07-07",
+    "latitude": "49.624",
+    "longitude": "-57.925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556437918/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "45.2718255583",
+    "longitude": "-80.0262932852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556434401/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "57.4058732539",
+    "longitude": "-3.7045668476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556406781/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.7184344466",
+    "longitude": "-74.8107235691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556406709/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.7181812495",
+    "longitude": "-74.8110159388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia stellata",
+    "common name": "Red-throated Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556385501/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "57.7294264076",
+    "longitude": "-5.7025898583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556380408/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.6465795609",
+    "longitude": "-73.0476274063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556381914/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.8941581949",
+    "longitude": "-71.9732775397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556381798/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.8931299775",
+    "longitude": "-71.9753235393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556363029/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "57.5277347898",
+    "longitude": "12.5013101926",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556302781/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "35.0209057976",
+    "longitude": "-111.4051259682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556281104/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "44.9674012809",
+    "longitude": "-70.7682767234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556262265/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "44.8938189214",
+    "longitude": "-64.6636561376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556257000/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "51.4551748",
+    "longitude": "-114.6076077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556253902/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "48.5705012179",
+    "longitude": "-53.9557256207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556253226/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "52.9210186428",
+    "longitude": "-118.0952563094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556230707/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "44.5146183184",
+    "longitude": "-69.1313728179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556230517/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "44.5147115539",
+    "longitude": "-69.1313385247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/556217694/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "48.4692216667",
+    "longitude": "-92.8264883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556207060/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "44.5626566667",
+    "longitude": "-76.2902983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556193503/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.915428218",
+    "longitude": "-70.395577106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia adamsii",
+    "common name": "Yellow-billed Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556188318/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "71.9972454076",
+    "longitude": "-94.7095999451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556196413/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.2240062177",
+    "longitude": "-72.7647588965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556130445/square.jpg",
+    "date": "2010-01-05",
+    "latitude": "53.749340711",
+    "longitude": "28.0094937023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia adamsii",
+    "common name": "Yellow-billed Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556117668/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "72.0003370216",
+    "longitude": "-94.7343811251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia arctica",
+    "common name": "Arctic Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556027928/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "53.9660927732",
+    "longitude": "27.4038792352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/555961683/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.640999752",
+    "longitude": "-78.6405588314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/555957309/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "45.5839944444",
+    "longitude": "-78.9051083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555857846/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "46.1388453452",
+    "longitude": "-118.9992424491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555856996/square.jpg",
+    "date": "2025-03-13",
+    "latitude": "48.435842",
+    "longitude": "-123.411234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia pacifica",
+    "common name": "Pacific Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555817072/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "70.7500000082",
+    "longitude": "-96.7499999329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia adamsii",
+    "common name": "Yellow-billed Loon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555810069/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "70.2527003366",
+    "longitude": "-96.839108925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gavia immer",
+    "common name": "Common Loon",
+    "observation photo url": "https://static.inaturalist.org/photos/555808403/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "52.9247255286",
+    "longitude": "-118.0966849253",
+    "quality_grade": "research"
+  }
+]

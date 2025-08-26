@@ -1,0 +1,1541 @@
+[
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558150844/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "50.6156660412",
+    "longitude": "-127.076285854",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558134846/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.4673796934",
+    "longitude": "-0.2119679376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558124961/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "36.7998539174",
+    "longitude": "-121.8977654494",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160596/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.0584096798",
+    "longitude": "-66.9915944466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558114634/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "36.6054006202",
+    "longitude": "-121.8894512376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alca torda",
+    "common name": "Razorbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558111221/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "55.9723333137",
+    "longitude": "-2.4131727563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558095356/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.6766383333",
+    "longitude": "-123.3727416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558081514/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "63.4035453796",
+    "longitude": "-20.2873287201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558080014/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "63.4035224915",
+    "longitude": "-20.2872714996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558079727/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "63.4035339355",
+    "longitude": "-20.2872714996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/558074805/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.2254216667",
+    "longitude": "1.6243866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557995857/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "63.413896688",
+    "longitude": "-19.0021725797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alca torda",
+    "common name": "Razorbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557993096/square.jpg",
+    "date": "2024-06-22",
+    "latitude": "48.8992016",
+    "longitude": "-3.4372616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557980904/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "63.4041883333",
+    "longitude": "-19.1031888333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus carbo",
+    "common name": "Spectacled Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557927005/square.jpg",
+    "date": "2024-07-23",
+    "latitude": "43.1588646377",
+    "longitude": "145.4957437143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula corniculata",
+    "common name": "Horned Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557916356/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "59.9039333333",
+    "longitude": "-149.3319866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557884014/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "63.4034533333",
+    "longitude": "-20.2872133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557868147/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "47.8790179309",
+    "longitude": "-124.5965493765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557864950/square.jpg",
+    "date": "2024-06-12",
+    "latitude": "44.6768455505",
+    "longitude": "-124.0794830322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557856391/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "58.1631521044",
+    "longitude": "-134.1857873055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557853113/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "36.8609716667",
+    "longitude": "-121.976325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://static.inaturalist.org/photos/557834441/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.6296444444",
+    "longitude": "-53.0196555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557833613/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "36.859255",
+    "longitude": "-121.9757916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557804964/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4274267564",
+    "longitude": "-20.3013450788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557804814/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4269627656",
+    "longitude": "-20.3037833936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557804054/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4469907662",
+    "longitude": "-20.2531156208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557804060/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4469907662",
+    "longitude": "-20.2531156208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803909/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4612110913",
+    "longitude": "-20.2033251269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803486/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4918643711",
+    "longitude": "-20.1566243817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803354/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4920358952",
+    "longitude": "-20.1525045296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803298/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "36.95150865",
+    "longitude": "-122.02687663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cerorhinca monocerata",
+    "common name": "Rhinoceros Auklet",
+    "observation photo url": "https://static.inaturalist.org/photos/557784926/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.04741899",
+    "longitude": "-123.93220178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557776570/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "36.6175616702",
+    "longitude": "-121.9415748876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://static.inaturalist.org/photos/557768543/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "44.3861631139",
+    "longitude": "-67.809205143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557768503/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "44.3645161289",
+    "longitude": "-67.8432681099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557768481/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "44.3619358696",
+    "longitude": "-67.8445129543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557764250/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "45.4856040331",
+    "longitude": "-123.9786481504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557764173/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "45.4858924911",
+    "longitude": "-123.9796338386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557757284/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.7614471828",
+    "longitude": "-123.9782170611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557754060/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "74.8056276525",
+    "longitude": "-88.5480911158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557751139/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "44.3631618279",
+    "longitude": "-67.8442696761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557750523/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "44.3673029",
+    "longitude": "-67.8652764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557735648/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8842592503",
+    "longitude": "-123.9679814743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula cirrhata",
+    "common name": "Tufted Puffin",
+    "observation photo url": "https://static.inaturalist.org/photos/557734888/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8847671027",
+    "longitude": "-123.9669515061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula cirrhata",
+    "common name": "Tufted Puffin",
+    "observation photo url": "https://static.inaturalist.org/photos/557734835/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8845611284",
+    "longitude": "-123.9680344095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557734834/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8842175805",
+    "longitude": "-123.9671331873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula cirrhata",
+    "common name": "Tufted Puffin",
+    "observation photo url": "https://static.inaturalist.org/photos/557734690/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8845674122",
+    "longitude": "-123.9678613275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557734647/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8843284226",
+    "longitude": "-123.9676467508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557736515/square.jpg",
+    "date": "2014-08-19",
+    "latitude": "63.7740583214",
+    "longitude": "-17.2912241891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cerorhinca monocerata",
+    "common name": "Rhinoceros Auklet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557732926/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "37.2812066501",
+    "longitude": "-122.8038778412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachyramphus marmoratus",
+    "common name": "Marbled Murrelet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557728598/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "37.5296499701",
+    "longitude": "-122.4060361185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557728284/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "37.5006509461",
+    "longitude": "-122.4806134837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557726044/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.8622166667",
+    "longitude": "-123.963555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alca torda",
+    "common name": "Razorbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557725466/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "46.3640886",
+    "longitude": "-60.4003406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557725407/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "46.364715285",
+    "longitude": "-60.399183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alca torda",
+    "common name": "Razorbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557718332/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "46.3679505",
+    "longitude": "-60.39395641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557705797/square.jpg",
+    "date": "2019-07-31",
+    "latitude": "54.147325",
+    "longitude": "-0.168545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557695278/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.1022877422",
+    "longitude": "-123.0501813633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cerorhinca monocerata",
+    "common name": "Rhinoceros Auklet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557690300/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.533620581",
+    "longitude": "-122.2079190196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cerorhinca monocerata",
+    "common name": "Rhinoceros Auklet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557690309/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.533620581",
+    "longitude": "-122.2079190196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557687149/square.jpg",
+    "date": "2022-07-20",
+    "latitude": "55.4395365756",
+    "longitude": "-4.6605229005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557682244/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "74.5418235099",
+    "longitude": "-82.4492646691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alca torda",
+    "common name": "Razorbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557677206/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "46.36905",
+    "longitude": "-60.392187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557677038/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "46.3689146433",
+    "longitude": "-60.3923198817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557676721/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "46.3691220783",
+    "longitude": "-60.3920955533",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cerorhinca monocerata",
+    "common name": "Rhinoceros Auklet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557801511/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.7994611111",
+    "longitude": "-124.1711861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557666796/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "63.4291976",
+    "longitude": "-19.0531343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557662250/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "77.0499195",
+    "longitude": "16.503455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557655754/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "63.4040681682",
+    "longitude": "-20.2875941375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557654206/square.jpg",
+    "date": "2023-06-17",
+    "latitude": "54.1826244453",
+    "longitude": "7.8860834241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557644993/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.80738",
+    "longitude": "-123.3674466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557636759/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "46.8183833333",
+    "longitude": "-54.18233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557633428/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "65.6889121073",
+    "longitude": "-18.0906858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557633392/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "65.6889121073",
+    "longitude": "-18.0906858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557633374/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "65.6889121073",
+    "longitude": "-18.0906858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557633375/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "65.6889121073",
+    "longitude": "-18.0906858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557633383/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "65.6889121073",
+    "longitude": "-18.0906858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cerorhinca monocerata",
+    "common name": "Rhinoceros Auklet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557617390/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.4987633333",
+    "longitude": "-122.991875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Brachyramphus marmoratus",
+    "common name": "Marbled Murrelet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557614449/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.505705704",
+    "longitude": "-122.9359110304",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alca torda",
+    "common name": "Razorbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557612670/square.jpg",
+    "date": "2020-07-10",
+    "latitude": "54.14735",
+    "longitude": "-0.1686754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://static.inaturalist.org/photos/557604635/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.7011383333",
+    "longitude": "-53.0844695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557601722/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "57.7469663081",
+    "longitude": "10.6526132053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557581118/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "48.4896603611",
+    "longitude": "-64.1455817001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557563026/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "57.9558728683",
+    "longitude": "-4.0707223598",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alle alle",
+    "common name": "Dovekie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557557243/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "74.73203",
+    "longitude": "-88.72564",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557557234/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "74.71107",
+    "longitude": "-88.765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557557028/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.38268",
+    "longitude": "-87.14189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alca torda",
+    "common name": "Razorbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557549396/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "57.6845614875",
+    "longitude": "-4.0377962901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557544788/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "57.9558790239",
+    "longitude": "-4.0707038633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557525668/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "78.22789",
+    "longitude": "15.6094299722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557522870/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "65.9670416667",
+    "longitude": "-18.2604166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557365953/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "43.8320622989",
+    "longitude": "-69.3751360646",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557365913/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "43.8596117698",
+    "longitude": "-69.3807617324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557476392/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "52.9353408659",
+    "longitude": "158.682783587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557473602/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "56.007835",
+    "longitude": "12.6966983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula cirrhata",
+    "common name": "Tufted Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557474598/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "52.8920199184",
+    "longitude": "158.6671624017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557470476/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "52.7557014427",
+    "longitude": "158.5706893784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434870/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.145441021",
+    "longitude": "-22.8492367202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434862/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.0069141275",
+    "longitude": "-22.8577697835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434849/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1661208145",
+    "longitude": "-22.955209797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434855/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.150780421",
+    "longitude": "-22.8819838096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434836/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.0942431768",
+    "longitude": "-22.8820860668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434835/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1572254713",
+    "longitude": "-22.8316459458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434827/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.0749888186",
+    "longitude": "-22.9716111266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434821/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.0673432675",
+    "longitude": "-22.8445498796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434840/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1995040989",
+    "longitude": "-22.9243170916",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434810/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1332841324",
+    "longitude": "-22.8898503384",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434805/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.0126963404",
+    "longitude": "-22.9581348029",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434804/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1163970635",
+    "longitude": "-22.8354630188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434800/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.0893119465",
+    "longitude": "-22.9492947888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434796/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1167105183",
+    "longitude": "-22.9095252439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434792/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.0058410562",
+    "longitude": "-22.8941585063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434780/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.025123419",
+    "longitude": "-22.861698038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434778/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1022556139",
+    "longitude": "-22.8150776714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434767/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.0471056464",
+    "longitude": "-22.8563089164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434762/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1781652518",
+    "longitude": "-22.9771324189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434755/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1535420427",
+    "longitude": "-22.8435981976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434771/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1403653651",
+    "longitude": "-22.9998451502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434752/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.1354829581",
+    "longitude": "-22.8736036273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula arctica",
+    "common name": "Atlantic Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434741/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.035321227",
+    "longitude": "-22.865067927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433981/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433909/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433903/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433899/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433887/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433882/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433891/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433853/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433847/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433841/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557436887/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.9268356707",
+    "longitude": "0.4751580209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557420309/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "45.8843005357",
+    "longitude": "-123.9679814363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557418567/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "48.1457083333",
+    "longitude": "-123.18762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557417871/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.959775",
+    "longitude": "-122.0187833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557413655/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.3276640725",
+    "longitude": "-123.3755654097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557393196/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.4670313173",
+    "longitude": "-123.9757045715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cerorhinca monocerata",
+    "common name": "Rhinoceros Auklet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557368537/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.7509392532",
+    "longitude": "-121.8982824725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557367309/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.7421360187",
+    "longitude": "-121.897595827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557366280/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.67719872",
+    "longitude": "-121.8820403688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557366040/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.638364652",
+    "longitude": "-121.8792947875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557366079/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.6263143008",
+    "longitude": "-121.877904757",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557365981/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.6231616075",
+    "longitude": "-121.8787121518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557371907/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.097338843",
+    "longitude": "-123.98745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557356732/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.8099009059",
+    "longitude": "-90.8866190684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557356617/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.7886495547",
+    "longitude": "-90.9209419619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557356380/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.7669012688",
+    "longitude": "-90.9800966442",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alle alle",
+    "common name": "Dovekie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557356495/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.779797544",
+    "longitude": "-90.9444965462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557356292/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "74.193288415",
+    "longitude": "-90.2669789651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alle alle",
+    "common name": "Dovekie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557356184/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "74.1947200216",
+    "longitude": "-90.2788560487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alle alle",
+    "common name": "Dovekie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557355748/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "74.1872477323",
+    "longitude": "-90.2287532983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alle alle",
+    "common name": "Dovekie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557355903/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "74.1889366894",
+    "longitude": "-90.2405391263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557355567/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "74.1853785009",
+    "longitude": "-90.2175822104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557355212/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "74.1821514343",
+    "longitude": "-90.2059387031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557354622/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "74.1586700997",
+    "longitude": "-90.0420759772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557353714/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "73.9240417419",
+    "longitude": "-90.0317032205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557346257/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.37352",
+    "longitude": "-86.86678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557346080/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.37405",
+    "longitude": "-86.59875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557345967/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.3794419287",
+    "longitude": "-86.4410263299",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557345894/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.36831",
+    "longitude": "-85.37404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557345860/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.41526",
+    "longitude": "-84.99082",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alle alle",
+    "common name": "Dovekie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557345673/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.486194015",
+    "longitude": "-83.6953396686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria lomvia",
+    "common name": "Thick-billed Murre",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557345644/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.48399",
+    "longitude": "-83.68322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alle alle",
+    "common name": "Dovekie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557345569/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.5498",
+    "longitude": "-83.18623",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alle alle",
+    "common name": "Dovekie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557345337/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.51493",
+    "longitude": "-82.69155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus columba",
+    "common name": "Pigeon Guillemot",
+    "observation photo url": "https://static.inaturalist.org/photos/557352300/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.6189091",
+    "longitude": "-121.9015361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557337752/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8842293126",
+    "longitude": "-123.9675854311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557337671/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8845877973",
+    "longitude": "-123.9668344126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula cirrhata",
+    "common name": "Tufted Puffin",
+    "observation photo url": "https://static.inaturalist.org/photos/557337663/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8846176709",
+    "longitude": "-123.9668558702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Uria aalge",
+    "common name": "Common Murre",
+    "observation photo url": "https://static.inaturalist.org/photos/557337578/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.8841171674",
+    "longitude": "-123.9679180795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fratercula cirrhata",
+    "common name": "Tufted Puffin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557325027/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.3103129877",
+    "longitude": "-122.8276222944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cepphus grylle",
+    "common name": "Black Guillemot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557310909/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "74.7178096999",
+    "longitude": "-91.0191551275",
+    "quality_grade": "research"
+  }
+]

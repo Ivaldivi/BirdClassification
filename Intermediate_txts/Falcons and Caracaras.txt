@@ -1,0 +1,992 @@
+[
+  {
+    "species": "Falco naumanni",
+    "common name": "Lesser Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558187721/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.2485461765",
+    "longitude": "87.888568081",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185475/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.5411559642",
+    "longitude": "-58.4701054812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco cherrug \u00d7 rusticolus",
+    "common name": "Saker Falcon \u00d7 Gyrfalcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182662/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.0333916258",
+    "longitude": "-8.9533421434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco eleonorae",
+    "common name": "Eleonora's Falcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182606/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.0875101255",
+    "longitude": "-8.907611337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558180360/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.8406318697",
+    "longitude": "39.8330383131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558178724/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.0073889916",
+    "longitude": "10.5131096765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558177777/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.5412973648",
+    "longitude": "-58.4702771426",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558172249/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.2624366225",
+    "longitude": "8.0648650602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://static.inaturalist.org/photos/558169843/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.5657754674",
+    "longitude": "2.5486008078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco peregrinus",
+    "common name": "Peregrine Falcon",
+    "observation photo url": "https://static.inaturalist.org/photos/558155970/square.jpg",
+    "date": "2011-11-12",
+    "latitude": "17.9047175183",
+    "longitude": "-62.7975460572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco peregrinus",
+    "common name": "Peregrine Falcon",
+    "observation photo url": "https://static.inaturalist.org/photos/558155707/square.jpg",
+    "date": "2013-01-24",
+    "latitude": "17.907495149",
+    "longitude": "-62.8026516548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco peregrinus",
+    "common name": "Peregrine Falcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157623/square.jpg",
+    "date": "2025-04-13",
+    "latitude": "13.5339975607",
+    "longitude": "-89.8225462802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://static.inaturalist.org/photos/558157372/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "9.8689485507",
+    "longitude": "-83.9515988901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius chimachima",
+    "common name": "Yellow-headed Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558154851/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "9.0696528333",
+    "longitude": "-83.65303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558154742/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.3173320708",
+    "longitude": "-121.9534076822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151666/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.7630923558",
+    "longitude": "27.8759776801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558144827/square.jpg",
+    "date": "2011-02-08",
+    "latitude": "25.1385636518",
+    "longitude": "-80.9294772236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558144197/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.5701080039",
+    "longitude": "-2.494525086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558137134/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "56.2429947805",
+    "longitude": "43.2197269559",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558132856/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "56.0149659005",
+    "longitude": "9.6956405349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco naumanni",
+    "common name": "Lesser Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558128258/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.5265532571",
+    "longitude": "3.3835207179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558131772/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-32.9020445517",
+    "longitude": "-60.6620588154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius chimachima",
+    "common name": "Yellow-headed Caracara",
+    "observation photo url": "https://static.inaturalist.org/photos/558125445/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-22.6346555556",
+    "longitude": "-45.5934111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558123704/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.35117647",
+    "longitude": "12.36253176",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558118168/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.9963430031",
+    "longitude": "2.1422194432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius ater",
+    "common name": "Black Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115461/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "1.4081896109",
+    "longitude": "-70.7209910252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco columbarius",
+    "common name": "Merlin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558116585/square.jpg",
+    "date": "2019-05-09",
+    "latitude": "43.2051305556",
+    "longitude": "-72.4432472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115311/square.jpg",
+    "date": "2021-01-14",
+    "latitude": "38.2003216726",
+    "longitude": "-122.0810916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius chimango",
+    "common name": "Chimango Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558112808/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.7010416667",
+    "longitude": "-63.72947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558111416/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "28.202922",
+    "longitude": "-110.611791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558110451/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "28.201701",
+    "longitude": "-110.675203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Micrastur semitorquatus",
+    "common name": "Collared Forest-Falcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558106675/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-23.8676604653",
+    "longitude": "-52.3167725344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco vespertinus",
+    "common name": "Red-footed Falcon",
+    "observation photo url": "https://static.inaturalist.org/photos/558111323/square.jpg",
+    "date": "2025-08-26",
+    "latitude": null,
+    "longitude": null,
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558099071/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.3081783333",
+    "longitude": "-98.494145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558110486/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.7010416667",
+    "longitude": "-63.72947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558103142/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-50.3270499632",
+    "longitude": "-72.2288836101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558103087/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-50.33556775",
+    "longitude": "-72.2485038974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558108009/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.7010416667",
+    "longitude": "-63.72947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius chimango",
+    "common name": "Chimango Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558106689/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.7010416667",
+    "longitude": "-63.72947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558098247/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2659288377",
+    "longitude": "44.1414953261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558101172/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-50.4690339051",
+    "longitude": "-73.0302010459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558101445/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "6.613395871",
+    "longitude": "-75.5889113992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558100220/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "51.7479686",
+    "longitude": "-115.5755388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558099785/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.642429",
+    "longitude": "-78.575148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558099795/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.642578",
+    "longitude": "-78.575086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpetotheres cachinnans",
+    "common name": "Laughing Falcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558094833/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "10.4240352997",
+    "longitude": "-83.9921417997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://static.inaturalist.org/photos/558088892/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "48.4330498433",
+    "longitude": "2.6727992383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558090594/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-34.60734817",
+    "longitude": "-58.3596680542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086152/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "54.5527660747",
+    "longitude": "-113.3454641519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558085414/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "54.5527660747",
+    "longitude": "-113.3454641519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558083899/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.5256097134",
+    "longitude": "-119.5655448523",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558076305/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "47.933977",
+    "longitude": "-2.898462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco peregrinus peregrinator",
+    "common name": "Shaheen Falcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558064099/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "7.9566998696",
+    "longitude": "80.7593488996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco columbarius",
+    "common name": "Merlin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558073736/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "53.6157266533",
+    "longitude": "-113.5341471434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558064676/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-49.6118934898",
+    "longitude": "-72.0690945881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius chimango",
+    "common name": "Chimango Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063712/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-49.6129947968",
+    "longitude": "-72.0643241431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558062610/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-49.6158086305",
+    "longitude": "-72.0451865987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558061324/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.4600865854",
+    "longitude": "3.6831939234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558055774/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "50.0938492307",
+    "longitude": "14.4168404786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558058343/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.720775",
+    "longitude": "-73.9518883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558050605/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.2228077651",
+    "longitude": "58.2643315384",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco vespertinus",
+    "common name": "Red-footed Falcon",
+    "observation photo url": "https://static.inaturalist.org/photos/558050052/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.2209285865",
+    "longitude": "58.3113276638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco rupicolus",
+    "common name": "Rock Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558053177/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.366945",
+    "longitude": "18.1648361667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco columbarius",
+    "common name": "Merlin",
+    "observation photo url": "https://static.inaturalist.org/photos/558052800/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.8179531711",
+    "longitude": "-75.7365710288",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558051430/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.67907",
+    "longitude": "-63.7394533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558050686/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.5318333333",
+    "longitude": "-105.0724333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558042170/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "38.6161157027",
+    "longitude": "-9.3265232796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558049600/square.jpg",
+    "date": "2024-08-02",
+    "latitude": "38.7372909434",
+    "longitude": "15.1501228316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco naumanni",
+    "common name": "Lesser Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558047934/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "50.4097807572",
+    "longitude": "86.8762966997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius chimachima",
+    "common name": "Yellow-headed Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558048205/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-28.176368336",
+    "longitude": "-55.6416986534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius caribaearum",
+    "common name": "Eastern Caribbean Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558046989/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "17.9012627191",
+    "longitude": "-62.8518337011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558047543/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.67907",
+    "longitude": "-63.7394533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558041272/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.3317966667",
+    "longitude": "48.628695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco naumanni",
+    "common name": "Lesser Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558026750/square.jpg",
+    "date": "2025-04-30",
+    "latitude": "36.5732505029",
+    "longitude": "44.0864639488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558040876/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.2311189997",
+    "longitude": "-8.5018487997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco vespertinus",
+    "common name": "Red-footed Falcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025757/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.0718898182",
+    "longitude": "35.0585760608",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558036428/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-31.4191516467",
+    "longitude": "-64.1472816467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558033448/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.5312853348",
+    "longitude": "-2.6373327536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558029712/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "48.1142777778",
+    "longitude": "-1.5416361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558022709/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-17.2725311067",
+    "longitude": "-56.7035471879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558027108/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.1572508258",
+    "longitude": "37.7949439207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558024921/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.1567608007",
+    "longitude": "37.7953043853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025300/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.67992",
+    "longitude": "-109.0455333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius chimachima",
+    "common name": "Yellow-headed Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558023573/square.jpg",
+    "date": "2019-12-23",
+    "latitude": "4.9117872884",
+    "longitude": "-52.3190084675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558021183/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "30.6823616389",
+    "longitude": "-96.5174732778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus cheriway",
+    "common name": "Northern Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558019718/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "25.8790565409",
+    "longitude": "-100.0415501744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557888044/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.9177783333",
+    "longitude": "-121.667435",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558016335/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.2861321503",
+    "longitude": "4.478295967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco vespertinus",
+    "common name": "Red-footed Falcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558011940/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.4923677044",
+    "longitude": "81.2019727832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558008789/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "-22.7343588503",
+    "longitude": "31.0158378258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558011630/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.5308700616",
+    "longitude": "81.2618290031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558004183/square.jpg",
+    "date": "2024-07-13",
+    "latitude": "48.2187533818",
+    "longitude": "24.2348930011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://static.inaturalist.org/photos/558009658/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-3.91179",
+    "longitude": "-38.6196216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco peregrinus",
+    "common name": "Peregrine Falcon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557997578/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "47.8099066185",
+    "longitude": "16.024626226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557998406/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "62.083146995",
+    "longitude": "35.2162191249",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557994903/square.jpg",
+    "date": "2023-06-29",
+    "latitude": "-28.193522166",
+    "longitude": "-48.6681212003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557993530/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.52803",
+    "longitude": "-89.5370783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Daptrius megalopterus",
+    "common name": "Mountain Caracara",
+    "observation photo url": "https://static.inaturalist.org/photos/557992075/square.jpg",
+    "date": "2022-06-25",
+    "latitude": "-23.3734619424",
+    "longitude": "-64.9737566144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/557993225/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "52.3288070276",
+    "longitude": "21.0789686814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557989664/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.2575289652",
+    "longitude": "35.3166782807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987919/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.7566675029",
+    "longitude": "-1.3630754352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557977886/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "41.3995108441",
+    "longitude": "22.7441684475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco sparverius",
+    "common name": "American Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/557984468/square.jpg",
+    "date": "2022-08-06",
+    "latitude": "-24.8952046696",
+    "longitude": "-64.6129790773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus plancus",
+    "common name": "Southern Crested Caracara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557984581/square.jpg",
+    "date": "2023-06-28",
+    "latitude": "-28.192262616",
+    "longitude": "-48.6615404606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557982558/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.8167941187",
+    "longitude": "-1.1861049432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco subbuteo",
+    "common name": "Eurasian Hobby",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557982404/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.816753158",
+    "longitude": "-1.1881756505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557981067/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.9584089017",
+    "longitude": "6.3547636933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://static.inaturalist.org/photos/557980892/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.5727616667",
+    "longitude": "7.7564633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caracara plancus",
+    "common name": "Crested Caracara",
+    "observation photo url": "https://static.inaturalist.org/photos/557979285/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-22.3737818087",
+    "longitude": "-46.9392870474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco tinnunculus",
+    "common name": "Eurasian Kestrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557973003/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.0340527922",
+    "longitude": "-4.8544164189",
+    "quality_grade": "research"
+  }
+]

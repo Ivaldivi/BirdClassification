@@ -1,0 +1,1208 @@
+[
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557770295/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "69.4475629029",
+    "longitude": "-133.0353227277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557635388/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "65.6556904816",
+    "longitude": "-17.168588659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557455869/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "60.9275792029",
+    "longitude": "-46.7642557153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557453893/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "60.4210099834",
+    "longitude": "-44.5936203758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557453837/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "60.4196918625",
+    "longitude": "-44.5950031854",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557449821/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "61.1445957069",
+    "longitude": "-45.5591922797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557298599/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "74.7127366667",
+    "longitude": "-94.9832483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556912052/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "64.048551",
+    "longitude": "-16.179437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556842045/square.jpg",
+    "date": "2021-07-01",
+    "latitude": "64.730428839",
+    "longitude": "15.0237913008",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556763420/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "64.865685",
+    "longitude": "-19.5562466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/556662749/square.jpg",
+    "date": "2009-12-20",
+    "latitude": "41.874601",
+    "longitude": "-111.887587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/556487211/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "78.9241466667",
+    "longitude": "11.9189716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556465562/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "62.3025091803",
+    "longitude": "9.3498582173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556465542/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "62.308642926",
+    "longitude": "9.3352555216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556465500/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "62.3187360672",
+    "longitude": "9.3437850135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556411450/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "66.5423498",
+    "longitude": "-17.9961161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/556262357/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "64.0480804442",
+    "longitude": "-16.1808910369",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556095092/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "66.5423498",
+    "longitude": "-17.9961161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556025368/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "62.8488024012",
+    "longitude": "-69.8912246944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/555792461/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "62.9470739659",
+    "longitude": "-82.0151229136",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/555792463/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "62.9467616687",
+    "longitude": "-82.0148654215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555315816/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "69.5680351352",
+    "longitude": "-138.9198501427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555304099/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "69.5828016667",
+    "longitude": "-138.9178016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555566931/square.jpg",
+    "date": "2022-12-24",
+    "latitude": "41.6799106866",
+    "longitude": "-84.4106930089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555535730/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "64.04853533",
+    "longitude": "-16.179439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://static.inaturalist.org/photos/555484034/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "63.7770447262",
+    "longitude": "-171.7344462345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/555481421/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "63.77579947",
+    "longitude": "-171.7070310569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius pictus",
+    "common name": "Smith's Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555461438/square.jpg",
+    "date": "2025-04-14",
+    "latitude": "40.0560736942",
+    "longitude": "-88.3815414834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555325345/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "69.2207466667",
+    "longitude": "-51.0961611667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555321028/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "69.212945",
+    "longitude": "-51.0762888333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555310150/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "68.6242773",
+    "longitude": "-95.8721696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555304669/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "68.6242773",
+    "longitude": "-95.8721696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555293184/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "68.6242359599",
+    "longitude": "-95.872169584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555259030/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "68.6214170571",
+    "longitude": "-95.8994711195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555144311/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "68.6242359599",
+    "longitude": "-95.872169584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/555133617/square.jpg",
+    "date": "2024-04-25",
+    "latitude": "56.6699706508",
+    "longitude": "-111.1410665159",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/555128213/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "78.21376065",
+    "longitude": "15.62854903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/554897717/square.jpg",
+    "date": "2013-10-26",
+    "latitude": "50.4524444477",
+    "longitude": "-96.5676416454",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554885226/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "69.2444882795",
+    "longitude": "-53.5379288596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554885445/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "67.8727202378",
+    "longitude": "34.5128870676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554881292/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "68.8549460211",
+    "longitude": "34.8575530555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554881288/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "68.8542634986",
+    "longitude": "34.8560177129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554881267/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "67.8719431871",
+    "longitude": "34.5091520918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554842546/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "66.9378583333",
+    "longitude": "-53.650825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554822354/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "66.9354116667",
+    "longitude": "-53.657855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://static.inaturalist.org/photos/554765982/square.jpg",
+    "date": "2008-09-06",
+    "latitude": "49.2099718825",
+    "longitude": "-123.2417107211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://static.inaturalist.org/photos/554765787/square.jpg",
+    "date": "2007-10-27",
+    "latitude": "49.2099718825",
+    "longitude": "-123.2417107211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/554765785/square.jpg",
+    "date": "2007-10-27",
+    "latitude": "49.2099718825",
+    "longitude": "-123.2417107211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://static.inaturalist.org/photos/554742335/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "69.45508038",
+    "longitude": "-133.036298245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554547716/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.125952295",
+    "longitude": "-105.0329035857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554547006/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1178474635",
+    "longitude": "-105.039887531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554546910/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1178780917",
+    "longitude": "-105.0402737305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554546821/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1173468608",
+    "longitude": "-105.039887018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554545713/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1182876707",
+    "longitude": "-105.0401882419",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554526866/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "71.2993",
+    "longitude": "-156.756525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554474170/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1168641",
+    "longitude": "-105.0596814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554469123/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1168641",
+    "longitude": "-105.0596814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554463058/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1168641",
+    "longitude": "-105.0596814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554453965/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1168641",
+    "longitude": "-105.0596814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554420420/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1167137323",
+    "longitude": "-105.0596816093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554417043/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "69.1167137323",
+    "longitude": "-105.0596816093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554012863/square.jpg",
+    "date": "2024-11-01",
+    "latitude": "44.2540722226",
+    "longitude": "-83.4491571039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553872197/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "65.1402833333",
+    "longitude": "-22.8087116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553795142/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "70.7365727271",
+    "longitude": "-117.77044449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/553613768/square.jpg",
+    "date": "2023-10-29",
+    "latitude": "55.3849405518",
+    "longitude": "12.8174131653",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553578777/square.jpg",
+    "date": "2024-10-26",
+    "latitude": "46.7708595514",
+    "longitude": "-84.9535502191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553484079/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "70.7369777906",
+    "longitude": "-117.7767002753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://static.inaturalist.org/photos/553357308/square.jpg",
+    "date": "2013-08-31",
+    "latitude": "59.1978104112",
+    "longitude": "-94.7998499832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553073063/square.jpg",
+    "date": "2018-01-07",
+    "latitude": "43.1569720526",
+    "longitude": "142.8640376812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553072722/square.jpg",
+    "date": "2018-01-05",
+    "latitude": "43.1569720526",
+    "longitude": "142.8640376812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553050158/square.jpg",
+    "date": "2020-02-23",
+    "latitude": "43.1569720526",
+    "longitude": "142.8640376812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552981255/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "62.31997",
+    "longitude": "9.26748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552853923/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "64.4751289212",
+    "longitude": "-164.762096191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552838302/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "66.9412083333",
+    "longitude": "-53.6726783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552676879/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "63.7258818752",
+    "longitude": "-68.4345245365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552648199/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "63.5548401644",
+    "longitude": "-40.6761080772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552644046/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "69.2420716667",
+    "longitude": "-53.5437133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552635220/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "64.0451133751",
+    "longitude": "-16.1786621614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552585436/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "69.9136578533",
+    "longitude": "32.2009823844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552496228/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "56.0552090714",
+    "longitude": "160.3919942699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552489112/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "69.242048",
+    "longitude": "-53.5436512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/552485328/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "62.9455102723",
+    "longitude": "-82.0109072111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552464046/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "77.4691665138",
+    "longitude": "-69.2339759641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552423266/square.jpg",
+    "date": "2010-01-01",
+    "latitude": "54.9387286",
+    "longitude": "-1.3659883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/552331368/square.jpg",
+    "date": "2018-12-28",
+    "latitude": "50.2255555556",
+    "longitude": "1.6194444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552193680/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "69.7546083333",
+    "longitude": "-50.89755",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552173900/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "77.4658416667",
+    "longitude": "-69.21733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552173830/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "77.4658416667",
+    "longitude": "-69.21733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius pictus",
+    "common name": "Smith's Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552159167/square.jpg",
+    "date": "2025-04-22",
+    "latitude": "41.5443857988",
+    "longitude": "-87.7614818669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551977303/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "70.6778360185",
+    "longitude": "-52.1188580655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551975224/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "70.6778360185",
+    "longitude": "-52.1188580655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551960728/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "69.0837498062",
+    "longitude": "35.0073989902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551950751/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "66.577337",
+    "longitude": "-53.4984283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius ornatus",
+    "common name": "Chestnut-collared Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551819544/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "49.1584707401",
+    "longitude": "-107.5408353104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynchophanes mccownii",
+    "common name": "Thick-billed Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551819368/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "49.161910435",
+    "longitude": "-107.5428033733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius ornatus",
+    "common name": "Chestnut-collared Longspur",
+    "observation photo url": "https://static.inaturalist.org/photos/551673946/square.jpg",
+    "date": "2008-09-10",
+    "latitude": "43.0476729601",
+    "longitude": "-103.25953276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551562660/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "78.1027159",
+    "longitude": "14.9625158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551483520/square.jpg",
+    "date": "2024-10-21",
+    "latitude": "48.4584",
+    "longitude": "-5.1004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551435054/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "76.5707493203",
+    "longitude": "-68.7598028771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551434945/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "76.5697326636",
+    "longitude": "-68.7694865156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551434867/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "76.5650386095",
+    "longitude": "-68.7804711775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/551313748/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "69.1626016409",
+    "longitude": "21.2885377591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/551310610/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "69.0649353416",
+    "longitude": "21.2129576925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550983422/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "66.5529122442",
+    "longitude": "-18.0096287738",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/550973820/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "57.1194584744",
+    "longitude": "-3.6495245506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/550973811/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "57.1194584744",
+    "longitude": "-3.6495245506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/550849705/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "64.044334",
+    "longitude": "-16.1776622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynchophanes mccownii",
+    "common name": "Thick-billed Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550490245/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "31.7118722222",
+    "longitude": "-110.6044222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550501867/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "65.1394116667",
+    "longitude": "-22.8157816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550407579/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "61.3933860408",
+    "longitude": "8.8070342986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550285786/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "64.2383669527",
+    "longitude": "-15.4904655899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/550266511/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "57.0723673748",
+    "longitude": "-3.6644269153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550126777/square.jpg",
+    "date": "2024-11-12",
+    "latitude": "43.5871331237",
+    "longitude": "-79.510300914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://static.inaturalist.org/photos/550095570/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "66.8807453902",
+    "longitude": "-64.682187985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550050128/square.jpg",
+    "date": "2024-10-01",
+    "latitude": "43.5874447582",
+    "longitude": "-79.5098209529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549982989/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "71.3332889771",
+    "longitude": "-156.6491180724",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549897463/square.jpg",
+    "date": "2025-04-07",
+    "latitude": "46.5665888889",
+    "longitude": "-67.795625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://static.inaturalist.org/photos/549860136/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "52.9966458633",
+    "longitude": "4.7423698284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549868080/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "54.1274963558",
+    "longitude": "8.8556666893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549823211/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "78.1969555556",
+    "longitude": "15.7929611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549820755/square.jpg",
+    "date": "2008-03-24",
+    "latitude": "55.2519288594",
+    "longitude": "-1.5569694941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549738839/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "77.4655716667",
+    "longitude": "-69.2174133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynchophanes mccownii",
+    "common name": "Thick-billed Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549390978/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "46.6107646046",
+    "longitude": "-109.8202466422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549526618/square.jpg",
+    "date": "2017-07-24",
+    "latitude": "64.71495",
+    "longitude": "-19.028362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549526585/square.jpg",
+    "date": "2017-07-24",
+    "latitude": "64.71495",
+    "longitude": "-19.028362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549518934/square.jpg",
+    "date": "2017-07-19",
+    "latitude": "64.71495",
+    "longitude": "-19.028362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549510585/square.jpg",
+    "date": "2017-07-15",
+    "latitude": "64.71495",
+    "longitude": "-19.028362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549510543/square.jpg",
+    "date": "2017-07-15",
+    "latitude": "64.71495",
+    "longitude": "-19.028362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549510501/square.jpg",
+    "date": "2017-07-15",
+    "latitude": "64.71495",
+    "longitude": "-19.028362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549510460/square.jpg",
+    "date": "2017-07-15",
+    "latitude": "64.71495",
+    "longitude": "-19.028362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549510402/square.jpg",
+    "date": "2017-07-15",
+    "latitude": "64.71495",
+    "longitude": "-19.028362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius lapponicus",
+    "common name": "Lapland Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549433842/square.jpg",
+    "date": "2018-10-10",
+    "latitude": "44.5946090084",
+    "longitude": "-63.4518920408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Plectrophenax nivalis",
+    "common name": "Snow Bunting",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549418994/square.jpg",
+    "date": "2022-12-28",
+    "latitude": "44.6445822469",
+    "longitude": "-63.3760604893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calcarius ornatus",
+    "common name": "Chestnut-collared Longspur",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549195645/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "31.7121055556",
+    "longitude": "-110.6043305556",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,1694 @@
+[
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554483651/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-41.30117",
+    "longitude": "174.74312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554127651/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-39.340201",
+    "longitude": "174.1603169997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551717428/square.jpg",
+    "date": "2017-03-19",
+    "latitude": "-41.2817312351",
+    "longitude": "174.9205084569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551717414/square.jpg",
+    "date": "2017-03-19",
+    "latitude": "-41.2805392907",
+    "longitude": "174.9190777669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551717421/square.jpg",
+    "date": "2017-03-19",
+    "latitude": "-41.2805655989",
+    "longitude": "174.9174238035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551717391/square.jpg",
+    "date": "2017-03-19",
+    "latitude": "-41.2807039939",
+    "longitude": "174.9159167373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550760149/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "-42.8984694001",
+    "longitude": "171.5264346537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550755806/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-43.7216271245",
+    "longitude": "170.0640632098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550755780/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-43.7216271245",
+    "longitude": "170.0640632098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550753500/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-42.9449872163",
+    "longitude": "171.7508040769",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550080343/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-41.3282276997",
+    "longitude": "173.2970966997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549012491/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-41.29852",
+    "longitude": "174.7455883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548231806/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-41.3322491997",
+    "longitude": "173.292234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548229498/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-41.3270698997",
+    "longitude": "173.2908726997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547791887/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-41.3255382997",
+    "longitude": "173.3235717997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547454941/square.jpg",
+    "date": "2017-06-25",
+    "latitude": "-45.7640984644",
+    "longitude": "170.5908548802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547222151/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-41.3225161",
+    "longitude": "173.3250200997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546716232/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-41.294182454",
+    "longitude": "174.7506096217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545391383/square.jpg",
+    "date": "2023-01-02",
+    "latitude": "-46.931832",
+    "longitude": "168.12534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544796200/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-45.7733944995",
+    "longitude": "170.5942770524",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541558896/square.gif",
+    "date": "2025-07-18",
+    "latitude": "-43.30416793",
+    "longitude": "170.16369541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539529158/square.jpg",
+    "date": "2017-12-05",
+    "latitude": "-46.9283767279",
+    "longitude": "168.1278950818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539529299/square.jpg",
+    "date": "2017-12-05",
+    "latitude": "-46.9285455863",
+    "longitude": "168.1273294343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539529364/square.jpg",
+    "date": "2017-12-05",
+    "latitude": "-46.9285455863",
+    "longitude": "168.1273294343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539528136/square.jpg",
+    "date": "2017-12-05",
+    "latitude": "-46.9282111571",
+    "longitude": "168.1209387712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539503443/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9283432215",
+    "longitude": "168.1280944575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539503542/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9283432215",
+    "longitude": "168.1280944575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539503346/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9283432215",
+    "longitude": "168.1280944575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539502954/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9275510213",
+    "longitude": "168.1165341367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539336772/square.jpg",
+    "date": "2025-04-10",
+    "latitude": "-41.2997169904",
+    "longitude": "174.7429705576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537915627/square.jpg",
+    "date": "2018-04-26",
+    "latitude": "-43.9151987776",
+    "longitude": "170.1239674424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537915361/square.jpg",
+    "date": "2018-04-26",
+    "latitude": "-43.9151987776",
+    "longitude": "170.1239674424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537915269/square.jpg",
+    "date": "2018-04-26",
+    "latitude": "-43.9151987776",
+    "longitude": "170.1239674424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537915230/square.jpg",
+    "date": "2018-04-26",
+    "latitude": "-43.9151987776",
+    "longitude": "170.1239674424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537915079/square.jpg",
+    "date": "2018-04-26",
+    "latitude": "-43.9144336505",
+    "longitude": "170.1243000382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537914956/square.jpg",
+    "date": "2018-04-25",
+    "latitude": "-43.9151987776",
+    "longitude": "170.1239674424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537913676/square.jpg",
+    "date": "2018-04-25",
+    "latitude": "-43.7153423142",
+    "longitude": "170.085842678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536762633/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-44.0778050492",
+    "longitude": "169.3851773273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536454716/square.jpg",
+    "date": "2018-09-29",
+    "latitude": "-41.2813378025",
+    "longitude": "174.9204179392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536454829/square.jpg",
+    "date": "2018-09-29",
+    "latitude": "-41.2813378025",
+    "longitude": "174.9204179392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536453776/square.jpg",
+    "date": "2018-09-29",
+    "latitude": "-41.2805691976",
+    "longitude": "174.9175010502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536453740/square.jpg",
+    "date": "2018-09-29",
+    "latitude": "-41.2805691976",
+    "longitude": "174.9175010502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536453560/square.jpg",
+    "date": "2018-09-29",
+    "latitude": "-41.2810422998",
+    "longitude": "174.9149261296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536453243/square.jpg",
+    "date": "2018-09-29",
+    "latitude": "-41.2810422998",
+    "longitude": "174.9149261296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/536311187/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-36.5988722603",
+    "longitude": "174.8876224472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535822940/square.jpg",
+    "date": "2024-12-19",
+    "latitude": "-41.3021284384",
+    "longitude": "174.7418877526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533768972/square.jpg",
+    "date": "2018-02-04",
+    "latitude": "-44.7241091",
+    "longitude": "168.2248623",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533768915/square.jpg",
+    "date": "2018-02-05",
+    "latitude": "-44.7261087106",
+    "longitude": "168.1702863601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533768875/square.jpg",
+    "date": "2018-02-05",
+    "latitude": "-44.7261087106",
+    "longitude": "168.1702863601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533299800/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-43.27342342",
+    "longitude": "170.20666566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532840202/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-39.453205",
+    "longitude": "174.4169766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530661754/square.jpg",
+    "date": "2018-12-30",
+    "latitude": "-39.1112339564",
+    "longitude": "176.8111412756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530183610/square.jpg",
+    "date": "2019-01-14",
+    "latitude": "-36.598319633",
+    "longitude": "174.8865994621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529097314/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-41.3311175997",
+    "longitude": "173.3058584997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528530210/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-43.2417727348",
+    "longitude": "171.9978805259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526966762/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-37.966953182",
+    "longitude": "175.1208023586",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526044254/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "-39.5483696901",
+    "longitude": "175.7157563814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526044246/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "-39.5483195842",
+    "longitude": "175.7156469422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526044239/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "-39.5484087769",
+    "longitude": "175.715654576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526044227/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "-39.5482666667",
+    "longitude": "175.715545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526044018/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "-39.5503465528",
+    "longitude": "175.7121427389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526043959/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "-39.5503383333",
+    "longitude": "175.7121116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525468939/square.jpg",
+    "date": "2022-01-07",
+    "latitude": "-44.741739797",
+    "longitude": "168.0123049649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525468939/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-45.7273350957",
+    "longitude": "170.4955008253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/525326365/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-41.297672775",
+    "longitude": "174.7378599644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522796232/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-42.65485",
+    "longitude": "171.5009032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/522696573/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-41.297320632",
+    "longitude": "174.7518745065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/522628955/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-41.3010137573",
+    "longitude": "174.7506825998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520641608/square.jpg",
+    "date": "2025-03-10",
+    "latitude": "-44.7275502421",
+    "longitude": "168.1735366144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520641608/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-43.30059352",
+    "longitude": "170.27722379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516896176/square.jpg",
+    "date": "2025-04-01",
+    "latitude": "-44.1589355404",
+    "longitude": "169.2834749445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/515560744/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-41.2908983477",
+    "longitude": "174.7535086423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514810496/square.jpg",
+    "date": "2025-03-29",
+    "latitude": "-43.0253672021",
+    "longitude": "171.6190715016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514507933/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-42.9328675087",
+    "longitude": "171.7435275856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512554056/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "-42.89548",
+    "longitude": "171.540783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512051796/square.jpg",
+    "date": "2016-12-17",
+    "latitude": "-44.7180283333",
+    "longitude": "168.27425",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508801028/square.jpg",
+    "date": "2010-03-03",
+    "latitude": "-43.6665536142",
+    "longitude": "169.6035195483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/507689963/square.jpg",
+    "date": "2025-04-22",
+    "latitude": "-46.9310112818",
+    "longitude": "168.1313484355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507231344/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "-41.0118533333",
+    "longitude": "175.370615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/506805929/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "-43.7153265637",
+    "longitude": "170.0861638784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506654477/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-46.1754312302",
+    "longitude": "167.3170660364",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506516811/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "-41.2908724931",
+    "longitude": "174.753465984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504209211/square.jpg",
+    "date": "2025-04-05",
+    "latitude": "-41.297620133",
+    "longitude": "174.7462097832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502611144/square.jpeg",
+    "date": "2025-05-10",
+    "latitude": "-41.3345379",
+    "longitude": "173.3052083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500842111/square.jpeg",
+    "date": "2025-05-06",
+    "latitude": "-43.3047247",
+    "longitude": "170.14871176",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500823970/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-42.705945",
+    "longitude": "171.9747916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500795500/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "-44.7237666667",
+    "longitude": "168.1730033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500352849/square.png",
+    "date": "2025-03-09",
+    "latitude": "-43.691037412",
+    "longitude": "170.0788190376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/500284372/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-43.7200778654",
+    "longitude": "170.0945440973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498451321/square.jpg",
+    "date": "2022-01-13",
+    "latitude": "-44.7647643804",
+    "longitude": "167.9931502052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498451120/square.jpg",
+    "date": "2022-01-14",
+    "latitude": "-45.2633293146",
+    "longitude": "168.1744471877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498450909/square.jpg",
+    "date": "2022-01-14",
+    "latitude": "-45.2633293146",
+    "longitude": "168.1744471877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/498435222/square.jpg",
+    "date": "2025-04-15",
+    "latitude": "-46.9304701469",
+    "longitude": "168.1215341616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/497926745/square.jpg",
+    "date": "2025-04-13",
+    "latitude": "-45.7758541407",
+    "longitude": "170.6018475562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496432652/square.jpeg",
+    "date": "2025-04-09",
+    "latitude": "-42.8978805671",
+    "longitude": "171.5243053499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496432652/square.jpeg",
+    "date": "2025-04-28",
+    "latitude": "-39.2094785651",
+    "longitude": "174.1138809323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496354999/square.jpeg",
+    "date": "2025-04-18",
+    "latitude": "-44.7586304",
+    "longitude": "168.1660891997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496354999/square.jpeg",
+    "date": "2025-04-28",
+    "latitude": "-39.2094775745",
+    "longitude": "174.1138718284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495759003/square.jpeg",
+    "date": "2025-04-27",
+    "latitude": "-36.5994111111",
+    "longitude": "174.8891055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492929487/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "-42.3428175298",
+    "longitude": "172.4192818734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492913075/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "-42.3282189106",
+    "longitude": "172.4288282214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492906698/square.jpeg",
+    "date": "2025-04-25",
+    "latitude": "-42.3393247742",
+    "longitude": "172.4218058865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492899379/square.jpeg",
+    "date": "2025-04-25",
+    "latitude": "-42.3746667868",
+    "longitude": "172.4041566472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490919977/square.jpeg",
+    "date": "2025-04-25",
+    "latitude": "-41.3118599388",
+    "longitude": "173.2924228907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/490093088/square.jpeg",
+    "date": "2025-04-19",
+    "latitude": "-41.2354593232",
+    "longitude": "174.9775307626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489621723/square.jpeg",
+    "date": "2025-04-19",
+    "latitude": "-44.7145712",
+    "longitude": "168.1754692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489587915/square.jpeg",
+    "date": "2025-04-22",
+    "latitude": "-44.2514988012",
+    "longitude": "169.8157469183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484365230/square.jpeg",
+    "date": "2025-04-09",
+    "latitude": "-41.2994333333",
+    "longitude": "174.7445388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483690923/square.jpeg",
+    "date": "2025-04-06",
+    "latitude": "-44.1851682137",
+    "longitude": "169.5785521343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483684039/square.jpg",
+    "date": "2025-03-29",
+    "latitude": "-42.9429312635",
+    "longitude": "171.5359284012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/483008605/square.jpeg",
+    "date": "2024-02-21",
+    "latitude": "-47.1735337703",
+    "longitude": "167.980489285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482940883/square.jpeg",
+    "date": "2025-04-05",
+    "latitude": "-39.0239465498",
+    "longitude": "175.7450740412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://static.inaturalist.org/photos/482609338/square.jpg",
+    "date": "2025-02-25",
+    "latitude": "-44.743214369",
+    "longitude": "168.0097989674",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482351561/square.jpg",
+    "date": "2025-03-31",
+    "latitude": "-41.298175",
+    "longitude": "174.7446527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482351052/square.jpg",
+    "date": "2025-03-31",
+    "latitude": "-41.2999583333",
+    "longitude": "174.7435416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482048553/square.jpeg",
+    "date": "2025-03-23",
+    "latitude": "-44.8177426929",
+    "longitude": "168.1264440715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481748108/square.jpeg",
+    "date": "2025-04-01",
+    "latitude": "-43.4527415",
+    "longitude": "170.4289038997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481698062/square.jpeg",
+    "date": "2025-04-01",
+    "latitude": "-43.4174979",
+    "longitude": "170.4676095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481434793/square.jpg",
+    "date": "2025-03-31",
+    "latitude": "-42.8971977022",
+    "longitude": "171.5266682677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481391805/square.jpeg",
+    "date": "2025-03-29",
+    "latitude": "-42.8973903114",
+    "longitude": "171.5298864538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479953541/square.jpg",
+    "date": "2025-02-09",
+    "latitude": "-44.7159288488",
+    "longitude": "168.2756779382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/479043949/square.jpg",
+    "date": "2024-10-22",
+    "latitude": "-46.9267682555",
+    "longitude": "168.13185041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478902237/square.jpeg",
+    "date": "2025-02-09",
+    "latitude": "-44.1613728779",
+    "longitude": "169.2765978246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://static.inaturalist.org/photos/478870177/square.jpeg",
+    "date": "2025-03-22",
+    "latitude": "-44.4253281577",
+    "longitude": "168.6994604766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478535538/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "-42.8957435958",
+    "longitude": "171.5337615621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478535420/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "-42.8960346465",
+    "longitude": "171.5337043451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/478528271/square.jpeg",
+    "date": "2025-03-21",
+    "latitude": "-43.9833528972",
+    "longitude": "171.1825265363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478252200/square.jpeg",
+    "date": "2025-03-19",
+    "latitude": "-44.6196433333",
+    "longitude": "168.24785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478027621/square.jpeg",
+    "date": "2022-03-26",
+    "latitude": "-42.8955921535",
+    "longitude": "171.5920026228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478012905/square.jpeg",
+    "date": "2025-03-16",
+    "latitude": "-40.8911756081",
+    "longitude": "175.4422613491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477774062/square.jpg",
+    "date": "2025-01-03",
+    "latitude": "-46.9267476299",
+    "longitude": "168.1196355041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/477205923/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "-43.7185052209",
+    "longitude": "170.0932001529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477183783/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-44.7165416667",
+    "longitude": "168.2386783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476930639/square.jpeg",
+    "date": "2025-03-12",
+    "latitude": "-44.3705533333",
+    "longitude": "168.0575666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476718140/square.jpg",
+    "date": "2022-11-15",
+    "latitude": "-44.8932761828",
+    "longitude": "168.0754283068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476676193/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "-41.3101626081",
+    "longitude": "174.8974663867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476600959/square.jpg",
+    "date": "2022-11-07",
+    "latitude": "-43.9078485096",
+    "longitude": "170.1253127146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/475635233/square.jpeg",
+    "date": "2025-03-07",
+    "latitude": "-45.4561194653",
+    "longitude": "168.0825841028",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475506925/square.jpeg",
+    "date": "2023-01-15",
+    "latitude": "-43.6889797333",
+    "longitude": "170.07589905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://static.inaturalist.org/photos/475490849/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-44.225105",
+    "longitude": "168.9197383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475336323/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "-45.6061377814",
+    "longitude": "170.5814201484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475171682/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-43.72232",
+    "longitude": "170.0655221667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475143105/square.jpeg",
+    "date": "2024-11-30",
+    "latitude": "-40.697352563",
+    "longitude": "175.5310298431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/474911682/square.jpeg",
+    "date": "2025-02-21",
+    "latitude": "-39.2414799733",
+    "longitude": "174.1125713289",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474894173/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-43.717838",
+    "longitude": "170.0950695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474758437/square.jpg",
+    "date": "2025-02-04",
+    "latitude": "-44.205451335",
+    "longitude": "169.8109940067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474077413/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "-42.7998776001",
+    "longitude": "171.5426918663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821765/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752687",
+    "longitude": "168.017538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473822305/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752667",
+    "longitude": "168.017687",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473822303/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752667",
+    "longitude": "168.017685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473822300/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752705",
+    "longitude": "168.017492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821772/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752665",
+    "longitude": "168.017683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821744/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752685",
+    "longitude": "168.017713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821726/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.75263",
+    "longitude": "168.017638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821700/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752708",
+    "longitude": "168.017688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821731/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752707",
+    "longitude": "168.017723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821719/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.752673",
+    "longitude": "168.017728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821711/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.749155",
+    "longitude": "168.01833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821763/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.749075",
+    "longitude": "168.018395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821767/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.749023",
+    "longitude": "168.01838",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821743/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.749027",
+    "longitude": "168.018525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821704/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.748992",
+    "longitude": "168.018382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473823334/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.894647",
+    "longitude": "168.073723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821653/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.894648",
+    "longitude": "168.073725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473821689/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-44.894637",
+    "longitude": "168.073668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473811099/square.jpeg",
+    "date": "2025-03-03",
+    "latitude": "-41.2961083333",
+    "longitude": "174.7471472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473540628/square.jpeg",
+    "date": "2025-02-15",
+    "latitude": "-41.2966589102",
+    "longitude": "174.7457553819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473252808/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "-41.2003241484",
+    "longitude": "172.7262353993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/473087156/square.jpeg",
+    "date": "2025-02-28",
+    "latitude": "-42.9329838374",
+    "longitude": "171.5607317537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472639289/square.jpg",
+    "date": "2024-12-11",
+    "latitude": "-44.1441183333",
+    "longitude": "170.9556716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472459691/square.jpeg",
+    "date": "2025-02-24",
+    "latitude": "-42.3506164648",
+    "longitude": "172.1285877096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xenicus gilviventris",
+    "common name": "New Zealand Rockwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472238195/square.jpg",
+    "date": "2025-01-09",
+    "latitude": "-44.3999486",
+    "longitude": "168.7867241496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472171236/square.jpeg",
+    "date": "2025-02-24",
+    "latitude": "-41.3310928",
+    "longitude": "173.2880609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471983444/square.jpeg",
+    "date": "2025-01-24",
+    "latitude": "-46.9288595485",
+    "longitude": "168.1253312387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471982436/square.jpg",
+    "date": "2025-02-20",
+    "latitude": "-44.817348",
+    "longitude": "167.7844669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471741268/square.jpg",
+    "date": "2023-11-26",
+    "latitude": "-44.7236124633",
+    "longitude": "168.2305403583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471702935/square.jpeg",
+    "date": "2025-02-22",
+    "latitude": "-42.9659150639",
+    "longitude": "171.7459268102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471702925/square.jpeg",
+    "date": "2025-02-22",
+    "latitude": "-42.9639983951",
+    "longitude": "171.7461736697",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471722813/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "-44.1160195",
+    "longitude": "169.3477783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471692239/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "-38.7593716667",
+    "longitude": "176.2165966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471670153/square.jpeg",
+    "date": "2025-02-17",
+    "latitude": "-44.2345335035",
+    "longitude": "169.8868325994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471517947/square.jpg",
+    "date": "2025-02-19",
+    "latitude": "-41.2938957968",
+    "longitude": "174.9921576003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/471448722/square.jpeg",
+    "date": "2025-02-14",
+    "latitude": "-43.6960283974",
+    "longitude": "170.1682790353",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "common name": "Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/471448716/square.jpeg",
+    "date": "2025-02-14",
+    "latitude": "-43.6960283974",
+    "longitude": "170.1682790353",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/471410029/square.jpeg",
+    "date": "2025-02-11",
+    "latitude": "-46.9260058888",
+    "longitude": "168.1307507636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris chloris",
+    "common name": "South Island Rifleman",
+    "observation photo url": "https://static.inaturalist.org/photos/471409988/square.jpeg",
+    "date": "2025-02-11",
+    "latitude": "-46.9304508516",
+    "longitude": "168.1221936073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471408126/square.jpg",
+    "date": "2025-02-19",
+    "latitude": "-41.3082546636",
+    "longitude": "174.9955217542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acanthisitta chloris granti",
+    "common name": "North Island Rifleman",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471321049/square.jpg",
+    "date": "2025-02-18",
+    "latitude": "-41.3287349961",
+    "longitude": "174.9966709211",
+    "quality_grade": "research"
+  }
+]

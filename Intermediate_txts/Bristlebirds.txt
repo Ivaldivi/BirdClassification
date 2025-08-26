@@ -1,0 +1,1703 @@
+[
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557811443/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-38.429837201",
+    "longitude": "141.5431623902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557811443/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-35.1492245824",
+    "longitude": "150.8315298248",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553621580/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-38.3952116389",
+    "longitude": "144.2530032778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/552127476/square.jpg",
+    "date": "2024-08-07",
+    "latitude": "-34.6580207619",
+    "longitude": "150.6061108978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551339659/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-38.3449557269",
+    "longitude": "144.3144200656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549743303/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "-35.5791955445",
+    "longitude": "138.9433693069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549743303/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-37.9542594077",
+    "longitude": "140.9582878557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545846676/square.jpg",
+    "date": "2024-04-23",
+    "latitude": "-34.9206382767",
+    "longitude": "118.56445335",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545846667/square.jpg",
+    "date": "2024-04-23",
+    "latitude": "-34.8132022108",
+    "longitude": "118.4939728511",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543556435/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-38.4054116667",
+    "longitude": "144.1997216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537417794/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-38.3483529584",
+    "longitude": "144.3031800552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535765277/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-35.0707595372",
+    "longitude": "150.9102057066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535765277/square.jpg",
+    "date": "2022-09-02",
+    "latitude": "-34.7478586828",
+    "longitude": "150.6197413953",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534252116/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-38.7221572511",
+    "longitude": "143.7142771945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532614525/square.jpg",
+    "date": "2024-04-23",
+    "latitude": "-34.9748997072",
+    "longitude": "118.5931790045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530499088/square.jpg",
+    "date": "2004-05-17",
+    "latitude": "-38.6461373102",
+    "longitude": "143.0716816688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527499372/square.jpg",
+    "date": "2024-05-19",
+    "latitude": "-34.7985710729",
+    "longitude": "150.6341296305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524919784/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-35.1703661694",
+    "longitude": "150.7481534811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/524876204/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-38.4690914033",
+    "longitude": "144.1046890989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/523623587/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "-38.4662193075",
+    "longitude": "144.1035732999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644504/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.9260528351",
+    "longitude": "118.2251339709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644492/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.9973979227",
+    "longitude": "118.3842729738",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644488/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.9591470672",
+    "longitude": "118.2387863813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644465/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.8882607376",
+    "longitude": "118.2182668118",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644451/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.9023001111",
+    "longitude": "118.3966178305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644446/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.9609376299",
+    "longitude": "118.2481063284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644428/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.9932169979",
+    "longitude": "118.2316868821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644411/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.9801718182",
+    "longitude": "118.3772736898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521644389/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-34.9024295525",
+    "longitude": "118.2496540285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/516486750/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "-38.8272542156",
+    "longitude": "143.5823664442",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513323652/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-34.8459860042",
+    "longitude": "118.5553793077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513247576/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-38.723175",
+    "longitude": "143.7168716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513247576/square.jpg",
+    "date": "2017-12-29",
+    "latitude": "-38.3906027778",
+    "longitude": "144.2506111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510689474/square.jpg",
+    "date": "2014-03-13",
+    "latitude": "-38.0572331402",
+    "longitude": "141.0016887496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510174188/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-35.1160180187",
+    "longitude": "150.8966963392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510172077/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "-38.4046984304",
+    "longitude": "144.1999236121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509436960/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-38.2672427083",
+    "longitude": "144.2251029196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509436928/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-38.2304196331",
+    "longitude": "144.223247638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507529175/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "-35.0507046715",
+    "longitude": "150.6900014069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/507223850/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "-35.0350413757",
+    "longitude": "150.6327739056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506041658/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-38.8283608897",
+    "longitude": "143.5826640689",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506041658/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-35.1051344782",
+    "longitude": "150.8831060879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502666406/square.jpeg",
+    "date": "2025-04-07",
+    "latitude": "-34.9118615064",
+    "longitude": "118.2045062615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/502125499/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "-38.7820583333",
+    "longitude": "143.427825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496554092/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "-38.8021012849",
+    "longitude": "143.4755830094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/495433870/square.jpeg",
+    "date": "2024-08-12",
+    "latitude": "-38.3953751814",
+    "longitude": "144.2517805666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/495433679/square.jpeg",
+    "date": "2024-08-12",
+    "latitude": "-38.3953751814",
+    "longitude": "144.2517805666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492855439/square.jpeg",
+    "date": "2025-04-11",
+    "latitude": "-34.9865733003",
+    "longitude": "118.2689745581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491462010/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "-34.7933256187",
+    "longitude": "150.7320785905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490543165/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "-38.61992",
+    "longitude": "143.0007825283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490471815/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-38.3914028363",
+    "longitude": "144.2501765276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490347370/square.jpg",
+    "date": "2025-03-05",
+    "latitude": "-38.8371853438",
+    "longitude": "143.5432434487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488057514/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-38.4676666667",
+    "longitude": "144.1047221667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487808145/square.jpg",
+    "date": "2025-04-15",
+    "latitude": "-34.8283318674",
+    "longitude": "118.5296330126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483760137/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "-35.1621099478",
+    "longitude": "150.7437018363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482983370/square.jpeg",
+    "date": "2025-04-02",
+    "latitude": "-38.0311083333",
+    "longitude": "141.138625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus monoides",
+    "common name": "Northern Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481998179/square.jpg",
+    "date": "2010-10-02",
+    "latitude": "-28.2835479372",
+    "longitude": "152.950644899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479557721/square.jpeg",
+    "date": "2025-02-07",
+    "latitude": "-38.6522846905",
+    "longitude": "143.083685115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478194356/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "-38.0198333333",
+    "longitude": "141.10675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478026022/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "-38.6237966667",
+    "longitude": "143.0174555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476957770/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-34.82466329",
+    "longitude": "118.5371724605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476908162/square.jpg",
+    "date": "2025-03-16",
+    "latitude": "-34.8666016095",
+    "longitude": "118.5495939406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476827333/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-34.9288369873",
+    "longitude": "118.4365178662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476618787/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-38.4036147323",
+    "longitude": "143.7267008462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476618787/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "-34.8462234327",
+    "longitude": "118.5478290331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476161665/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "-38.4678992551",
+    "longitude": "144.1045582892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476161664/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "-38.4678992551",
+    "longitude": "144.1045582892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474305592/square.jpg",
+    "date": "2025-02-25",
+    "latitude": "-38.6196466667",
+    "longitude": "143.01531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472487147/square.jpg",
+    "date": "2019-03-11",
+    "latitude": "-38.3525587725",
+    "longitude": "144.2968246158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472448341/square.jpg",
+    "date": "2025-02-25",
+    "latitude": "-38.4073735091",
+    "longitude": "144.1969494931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472192454/square.jpg",
+    "date": "2019-09-06",
+    "latitude": "-34.8536597688",
+    "longitude": "118.5390414648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472192331/square.jpg",
+    "date": "2013-09-16",
+    "latitude": "-34.9195837075",
+    "longitude": "118.4333111896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472192008/square.jpg",
+    "date": "2019-09-06",
+    "latitude": "-34.8463188249",
+    "longitude": "118.4955491406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472191871/square.jpg",
+    "date": "2017-11-05",
+    "latitude": "-38.0414053326",
+    "longitude": "141.0121597583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472191718/square.jpg",
+    "date": "2019-04-01",
+    "latitude": "-38.0555487016",
+    "longitude": "141.0111405189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472191579/square.jpg",
+    "date": "2019-04-01",
+    "latitude": "-38.0554304291",
+    "longitude": "141.0112370784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470952925/square.jpeg",
+    "date": "2025-01-21",
+    "latitude": "-38.3796276161",
+    "longitude": "141.4081759148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/470849871/square.jpeg",
+    "date": "2025-02-15",
+    "latitude": "-35.0943865778",
+    "longitude": "150.9587499448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/470604017/square.jpg",
+    "date": "2025-02-15",
+    "latitude": "-35.001669776",
+    "longitude": "150.9979474755",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/470278889/square.png",
+    "date": "2024-10-05",
+    "latitude": "-38.617589",
+    "longitude": "142.996013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470201184/square.jpeg",
+    "date": "2014-03-13",
+    "latitude": "-38.0342834666",
+    "longitude": "141.0130363475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/469966119/square.jpeg",
+    "date": "2025-02-14",
+    "latitude": "-38.3951998",
+    "longitude": "144.2535804997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469282194/square.jpeg",
+    "date": "2025-02-10",
+    "latitude": "-35.0256221913",
+    "longitude": "150.6478399444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467769001/square.jpg",
+    "date": "2025-02-03",
+    "latitude": "-34.7985339032",
+    "longitude": "150.6485145135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467085466/square.jpg",
+    "date": "2024-11-04",
+    "latitude": "-35.1655085085",
+    "longitude": "150.8967283163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466890280/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-35.0890297867",
+    "longitude": "150.6878863046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466749558/square.jpeg",
+    "date": "2025-01-29",
+    "latitude": "-38.3452247413",
+    "longitude": "144.3101838583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466701079/square.jpg",
+    "date": "2025-01-29",
+    "latitude": "-35.1480515072",
+    "longitude": "150.9275149658",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466658691/square.jpeg",
+    "date": "2025-01-23",
+    "latitude": "-38.0563976112",
+    "longitude": "141.2189763927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus brachypterus",
+    "common name": "Southern Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466551045/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-34.7247025323",
+    "longitude": "150.650401858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466283057/square.jpg",
+    "date": "2025-01-26",
+    "latitude": "-34.8317944456",
+    "longitude": "118.2834146197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466283057/square.jpg",
+    "date": "2025-01-11",
+    "latitude": "-38.8525522921",
+    "longitude": "143.5529357574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466283057/square.jpg",
+    "date": "2025-01-11",
+    "latitude": "-38.8264450059",
+    "longitude": "143.5829046463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464026848/square.jpeg",
+    "date": "2025-01-05",
+    "latitude": "-38.0404672349",
+    "longitude": "141.0052735542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus brachypterus",
+    "common name": "Southern Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463735747/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-34.7703213583",
+    "longitude": "150.7401714176",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus brachypterus",
+    "common name": "Southern Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463735728/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-34.7919761806",
+    "longitude": "150.6595169025",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus brachypterus",
+    "common name": "Southern Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463735755/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-34.7660346314",
+    "longitude": "150.7162788669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463496899/square.jpeg",
+    "date": "2024-10-21",
+    "latitude": "-38.3948278",
+    "longitude": "144.2534126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463163808/square.jpg",
+    "date": "2025-01-12",
+    "latitude": "-35.0553510977",
+    "longitude": "150.7731466451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462491442/square.jpeg",
+    "date": "2024-12-30",
+    "latitude": "-38.0486541168",
+    "longitude": "141.1734543786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461126497/square.jpg",
+    "date": "2025-01-02",
+    "latitude": "-38.8287560075",
+    "longitude": "143.5833537941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460906708/square.jpeg",
+    "date": "2025-01-01",
+    "latitude": "-38.8551256465",
+    "longitude": "143.5233158948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460048143/square.jpeg",
+    "date": "2024-12-03",
+    "latitude": "-38.3950456624",
+    "longitude": "144.2534823818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460004516/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-38.7802089428",
+    "longitude": "143.6634543965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus brachypterus",
+    "common name": "Southern Eastern Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/459820826/square.jpeg",
+    "date": "2024-12-01",
+    "latitude": "-34.6751487966",
+    "longitude": "150.6584166737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458527818/square.jpeg",
+    "date": "2024-08-03",
+    "latitude": "-35.0914470957",
+    "longitude": "150.7816697939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458216255/square.jpg",
+    "date": "2024-12-20",
+    "latitude": "-38.4222249833",
+    "longitude": "144.178615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456654750/square.jpg",
+    "date": "2024-12-03",
+    "latitude": "-38.3950826109",
+    "longitude": "144.2536301253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456653840/square.jpeg",
+    "date": "2024-10-31",
+    "latitude": "-38.4685331946",
+    "longitude": "144.1045475006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455641977/square.jpg",
+    "date": "2024-10-13",
+    "latitude": "-34.9416075059",
+    "longitude": "118.5169109088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455242775/square.jpg",
+    "date": "2024-09-24",
+    "latitude": "-35.0495331889",
+    "longitude": "150.8538649497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454954011/square.jpg",
+    "date": "2024-09-20",
+    "latitude": "-34.919286832",
+    "longitude": "118.4003067944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453701811/square.jpg",
+    "date": "2024-09-19",
+    "latitude": "-34.975665989",
+    "longitude": "118.4556908045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452955043/square.jpeg",
+    "date": "2024-10-23",
+    "latitude": "-38.8448495129",
+    "longitude": "143.5033688563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452955043/square.jpeg",
+    "date": "2024-11-25",
+    "latitude": "-38.8282530527",
+    "longitude": "143.5826195967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452158187/square.jpeg",
+    "date": "2024-11-05",
+    "latitude": "-37.1654687",
+    "longitude": "139.762471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452158187/square.jpeg",
+    "date": "2024-11-18",
+    "latitude": "-38.7859167169",
+    "longitude": "143.5790264234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450062664/square.jpg",
+    "date": "2024-10-14",
+    "latitude": "-38.0460349578",
+    "longitude": "141.0079283683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448793626/square.jpeg",
+    "date": "2024-11-06",
+    "latitude": "-38.8290638889",
+    "longitude": "143.5831444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448113806/square.jpg",
+    "date": "2023-09-23",
+    "latitude": "-34.7840623191",
+    "longitude": "150.6378171085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447988223/square.jpg",
+    "date": "2024-10-05",
+    "latitude": "-38.46819316",
+    "longitude": "144.10412156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447988207/square.jpg",
+    "date": "2024-10-05",
+    "latitude": "-38.46818218",
+    "longitude": "144.1040989283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447770952/square.jpeg",
+    "date": "2024-10-05",
+    "latitude": "-38.4680700493",
+    "longitude": "144.1024789342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447770952/square.jpeg",
+    "date": "2024-11-03",
+    "latitude": "-35.1985714084",
+    "longitude": "150.6113177754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447422374/square.jpeg",
+    "date": "2024-05-20",
+    "latitude": "-38.3950159391",
+    "longitude": "144.2526600166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447397646/square.jpeg",
+    "date": "2024-11-03",
+    "latitude": "-34.7563398128",
+    "longitude": "150.7768312541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447397646/square.jpeg",
+    "date": "2024-11-02",
+    "latitude": "-34.6494511652",
+    "longitude": "150.7513905886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447397646/square.jpeg",
+    "date": "2024-11-02",
+    "latitude": "-34.6383751041",
+    "longitude": "150.647545114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447139855/square.jpeg",
+    "date": "2024-11-02",
+    "latitude": "-38.4074791617",
+    "longitude": "144.1962412745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446305294/square.jpeg",
+    "date": "2024-09-19",
+    "latitude": "-34.8811022319",
+    "longitude": "118.4737082191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444985554/square.jpeg",
+    "date": "2024-10-25",
+    "latitude": "-38.3440159335",
+    "longitude": "144.3178471037",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444194638/square.png",
+    "date": "2021-04-02",
+    "latitude": "-34.8191732454",
+    "longitude": "118.1426654691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442504131/square.jpg",
+    "date": "2024-09-05",
+    "latitude": "-35.0392046274",
+    "longitude": "150.9489840619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442459486/square.jpeg",
+    "date": "2024-10-17",
+    "latitude": "-38.4345740621",
+    "longitude": "143.604944418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442229729/square.jpeg",
+    "date": "2024-10-16",
+    "latitude": "-38.3953730972",
+    "longitude": "144.2518957823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442229729/square.jpeg",
+    "date": "2024-10-13",
+    "latitude": "-38.8537756261",
+    "longitude": "143.5411247147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/440504483/square.jpeg",
+    "date": "2024-09-15",
+    "latitude": "-34.846434096",
+    "longitude": "118.5469297419",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440273015/square.jpeg",
+    "date": "2024-10-10",
+    "latitude": "-38.418858617",
+    "longitude": "144.1800735577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus brachypterus",
+    "common name": "Southern Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440110930/square.jpg",
+    "date": "2024-08-29",
+    "latitude": "-34.6450046302",
+    "longitude": "150.6103722636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439877277/square.jpeg",
+    "date": "2024-10-09",
+    "latitude": "-35.1883227382",
+    "longitude": "150.6094641152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437823624/square.jpg",
+    "date": "2024-09-25",
+    "latitude": "-34.8092020812",
+    "longitude": "118.4203146246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/436605118/square.jpg",
+    "date": "2024-09-25",
+    "latitude": "-34.9779498391",
+    "longitude": "118.4852535751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435051053/square.jpeg",
+    "date": "2024-09-25",
+    "latitude": "-38.3452340693",
+    "longitude": "144.3094280856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/434916967/square.jpeg",
+    "date": "2024-09-24",
+    "latitude": "-34.7689260109",
+    "longitude": "150.7536215548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/433812360/square.jpeg",
+    "date": "2024-09-22",
+    "latitude": "-38.3512673189",
+    "longitude": "144.2994904776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/433812360/square.jpeg",
+    "date": "2024-09-07",
+    "latitude": "-34.8234535004",
+    "longitude": "118.4599880406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430979886/square.jpeg",
+    "date": "2024-09-07",
+    "latitude": "-34.8968486837",
+    "longitude": "118.5006141735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/431863217/square.jpg",
+    "date": "2024-09-15",
+    "latitude": "-34.9467348898",
+    "longitude": "118.5574950725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/431863217/square.jpg",
+    "date": "2021-11-27",
+    "latitude": "-38.3950642169",
+    "longitude": "144.2534651476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428066782/square.jpg",
+    "date": "2024-08-20",
+    "latitude": "-35.1469030505",
+    "longitude": "150.8216556437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426984641/square.jpeg",
+    "date": "2024-09-04",
+    "latitude": "-35.1961929695",
+    "longitude": "150.6648419787",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426984641/square.jpeg",
+    "date": "2024-08-27",
+    "latitude": "-35.075973675",
+    "longitude": "150.7309558683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/423793240/square.jpeg",
+    "date": "2024-08-24",
+    "latitude": "-38.7793070123",
+    "longitude": "143.6653187217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/423793240/square.jpeg",
+    "date": "2024-08-04",
+    "latitude": "-38.6502284601",
+    "longitude": "143.6050464035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/423793240/square.jpeg",
+    "date": "2024-08-11",
+    "latitude": "-38.60123175",
+    "longitude": "142.85962975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/415389594/square.jpg",
+    "date": "2024-07-25",
+    "latitude": "-38.3957166667",
+    "longitude": "144.2515466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414495883/square.jpeg",
+    "date": "2024-07-28",
+    "latitude": "-36.2923866667",
+    "longitude": "139.6987616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414495883/square.jpeg",
+    "date": "2024-07-27",
+    "latitude": "-37.9917055012",
+    "longitude": "140.9656056762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/413363963/square.jpeg",
+    "date": "2024-07-30",
+    "latitude": "-38.3778560879",
+    "longitude": "144.2647882369",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/413363963/square.jpeg",
+    "date": "2024-07-28",
+    "latitude": "-36.2876958626",
+    "longitude": "139.7047997692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412998235/square.jpeg",
+    "date": "2024-07-28",
+    "latitude": "-35.0461576903",
+    "longitude": "150.8536691758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/399725052/square.jpeg",
+    "date": "2015-01-01",
+    "latitude": "-38.6025781425",
+    "longitude": "142.8593485057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397237549/square.jpeg",
+    "date": "2024-06-20",
+    "latitude": "-38.4673168654",
+    "longitude": "144.1011049971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392314782/square.jpg",
+    "date": "2021-12-23",
+    "latitude": "-35.0955474608",
+    "longitude": "150.6875435288",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391962905/square.jpg",
+    "date": "2024-05-11",
+    "latitude": "-34.9531568623",
+    "longitude": "118.5019307818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388188643/square.jpeg",
+    "date": "2024-04-19",
+    "latitude": "-35.0492807052",
+    "longitude": "150.8206883473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386908749/square.jpeg",
+    "date": "2024-05-27",
+    "latitude": "-34.9891945134",
+    "longitude": "118.4564257756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386906121/square.jpeg",
+    "date": "2024-05-27",
+    "latitude": "-34.8512410682",
+    "longitude": "118.4507281395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/383842953/square.jpeg",
+    "date": "2024-05-14",
+    "latitude": "-38.0472903116",
+    "longitude": "141.0061794789",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/381124590/square.jpg",
+    "date": "2021-12-25",
+    "latitude": "-36.2872222",
+    "longitude": "139.7094444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378869957/square.jpg",
+    "date": "2024-05-08",
+    "latitude": "-38.4301842741",
+    "longitude": "141.5472835016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378129150/square.jpg",
+    "date": "2024-04-07",
+    "latitude": "-38.8546571173",
+    "longitude": "143.5124770996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/373855980/square.jpg",
+    "date": "2024-04-29",
+    "latitude": "-38.6828527156",
+    "longitude": "143.8389342186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/373855980/square.jpg",
+    "date": "2024-04-15",
+    "latitude": "-38.038784258",
+    "longitude": "141.0102124119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/373855980/square.jpg",
+    "date": "2024-04-15",
+    "latitude": "-38.0052383943",
+    "longitude": "141.0637464905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369862845/square.jpeg",
+    "date": "2024-04-20",
+    "latitude": "-38.4680319359",
+    "longitude": "144.1046599299",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368126790/square.jpg",
+    "date": "2024-04-15",
+    "latitude": "-38.0395316667",
+    "longitude": "141.00873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/367393237/square.jpg",
+    "date": "2024-04-13",
+    "latitude": "-38.0300153279",
+    "longitude": "141.1403888736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis brachypterus",
+    "common name": "Eastern Bristlebird",
+    "observation photo url": "https://static.inaturalist.org/photos/366707844/square.jpg",
+    "date": "2024-03-10",
+    "latitude": "-34.6311718837",
+    "longitude": "150.7938552961",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364409991/square.jpg",
+    "date": "2024-04-07",
+    "latitude": "-38.8566447",
+    "longitude": "143.5117489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis longirostris",
+    "common name": "Western Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364311514/square.jpeg",
+    "date": "2023-12-30",
+    "latitude": "-34.99293331",
+    "longitude": "118.5278374672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti broadbenti",
+    "common name": "Coorong Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363070865/square.jpg",
+    "date": "2024-03-23",
+    "latitude": "-38.0462278333",
+    "longitude": "141.16095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363028128/square.jpeg",
+    "date": "2024-04-04",
+    "latitude": "-38.3513330627",
+    "longitude": "144.2991136826",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361849820/square.jpeg",
+    "date": "2024-03-31",
+    "latitude": "-38.4583295776",
+    "longitude": "144.1151832417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361489449/square.jpg",
+    "date": "2024-03-30",
+    "latitude": "-38.44917",
+    "longitude": "144.1188666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360073867/square.jpg",
+    "date": "2024-03-24",
+    "latitude": "-38.4660916667",
+    "longitude": "144.1056971667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357430128/square.jpg",
+    "date": "2024-03-14",
+    "latitude": "-38.7796115444",
+    "longitude": "143.6631829307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti caryochrous",
+    "common name": "Otways Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357396089/square.jpg",
+    "date": "2024-03-10",
+    "latitude": "-38.7743628701",
+    "longitude": "143.6794139991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dasyornis broadbenti",
+    "common name": "Rufous Bristlebird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357396089/square.jpg",
+    "date": "2024-03-10",
+    "latitude": "-38.6289742825",
+    "longitude": "143.9015913479",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557967758/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-24.0560032993",
+    "longitude": "31.3615619282",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557966448/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-24.1488575137",
+    "longitude": "31.4064880359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557684766/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-25.3415352851",
+    "longitude": "31.8091931194",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557290969/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-17.902039379",
+    "longitude": "25.8201027818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556921439/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-25.7686898641",
+    "longitude": "28.2259955126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556398591/square.jpg",
+    "date": "2024-01-30",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556347725/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.3668415239",
+    "longitude": "31.757280305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/556321278/square.jpg",
+    "date": "2020-02-20",
+    "latitude": "-25.4775",
+    "longitude": "30.9841666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555646325/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-6.2712538396",
+    "longitude": "39.4252338088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555045198/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-29.62864",
+    "longitude": "30.9883116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554682595/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-19.9252179827",
+    "longitude": "23.5092095491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554524084/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.5358080387",
+    "longitude": "26.068514809",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554461362/square.jpg",
+    "date": "2024-12-19",
+    "latitude": "-0.7922092381",
+    "longitude": "36.4157177356",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554413105/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-24.0673491694",
+    "longitude": "31.4451537714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554378710/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-24.5747616596",
+    "longitude": "25.9910666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus bollei",
+    "common name": "White-headed Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554053927/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-3.1957545219",
+    "longitude": "29.5604872798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553798446/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-24.9087297202",
+    "longitude": "31.7185543722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553034610/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-29.0720307715",
+    "longitude": "24.4722189138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553034591/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-29.0720450955",
+    "longitude": "24.4722049828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552663134/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-25.1142362478",
+    "longitude": "31.6231435175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552663110/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-25.1227591109",
+    "longitude": "31.6013365996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552662892/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-25.038271574",
+    "longitude": "31.7791850674",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/552450957/square.jpg",
+    "date": "2019-07-28",
+    "latitude": "-24.2651683",
+    "longitude": "16.2391126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552298849/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-25.7649197039",
+    "longitude": "28.2876233915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus castaneiceps",
+    "common name": "Forest Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552113430/square.jpg",
+    "date": "2025-02-12",
+    "latitude": "5.3536138611",
+    "longitude": "-1.3827944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus bollei",
+    "common name": "White-headed Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551692015/square.jpg",
+    "date": "2012-01-05",
+    "latitude": "5.3501428207",
+    "longitude": "-1.3811492391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus bollei",
+    "common name": "White-headed Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551411511/square.jpg",
+    "date": "2022-03-19",
+    "latitude": "-0.6305273384",
+    "longitude": "36.4291429147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551352791/square.jpg",
+    "date": "2024-07-29",
+    "latitude": "-22.6567251933",
+    "longitude": "31.0933144188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/550437185/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-20.5163693",
+    "longitude": "17.2452939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/550434970/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-20.5163693",
+    "longitude": "17.2452939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550264872/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "6.4193730278",
+    "longitude": "2.3270618889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus minor",
+    "common name": "Abyssinian Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/550263658/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-1.3373513",
+    "longitude": "35.6973481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550251806/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-24.8647077771",
+    "longitude": "28.2781645283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus angolensis",
+    "common name": "Larger Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550245829/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-26.1189424357",
+    "longitude": "27.9450114361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/550166548/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.1706966667",
+    "longitude": "31.2682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549990472/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-24.9938520529",
+    "longitude": "31.5952728592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549826954/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-15.4053033246",
+    "longitude": "28.4841573374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus angolensis",
+    "common name": "Larger Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550288303/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-26.0609861667",
+    "longitude": "27.9498833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549753346/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-19.543505",
+    "longitude": "22.8621533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549727589/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-23.116667",
+    "longitude": "31.433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus angolensis",
+    "common name": "Larger Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549284673/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-22.6822579",
+    "longitude": "29.101224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549219713/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-25.6918273172",
+    "longitude": "28.1926638778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549002036/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-17.9128528296",
+    "longitude": "25.7263530819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548309000/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-24.6328872258",
+    "longitude": "25.9746328541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547533499/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-22.4355801",
+    "longitude": "31.381833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546421767/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-33.9416445583",
+    "longitude": "22.4561249618",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus angolensis",
+    "common name": "Larger Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546290923/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-26.1618119",
+    "longitude": "28.0152443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546234112/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-24.3233513569",
+    "longitude": "30.8641098574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546234041/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-24.3240682574",
+    "longitude": "30.8393109108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545965701/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-33.9415329335",
+    "longitude": "22.456076085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/545779891/square.jpg",
+    "date": "2023-09-04",
+    "latitude": "-22.2671482012",
+    "longitude": "28.9709390405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545771960/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-29.6280231475",
+    "longitude": "30.9870166778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545770815/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-29.6280231475",
+    "longitude": "30.9870166778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544994025/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "-24.363637067",
+    "longitude": "31.68694134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544989636/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-24.2189257355",
+    "longitude": "31.7132678373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/543885485/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-20.2536111352",
+    "longitude": "30.9192806703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/543503851/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-24.984705",
+    "longitude": "31.5775383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543390663/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-33.9416966637",
+    "longitude": "22.4561105557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543359657/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-33.6264361111",
+    "longitude": "26.5854722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543202440/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-33.6126472222",
+    "longitude": "26.4430694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/542892598/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-23.3635904898",
+    "longitude": "29.8031773791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542864291/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "6.89610357",
+    "longitude": "0.587692791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542688037/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-25.5084715456",
+    "longitude": "28.4821731484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542660939/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-24.43",
+    "longitude": "31.169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/541843192/square.jpg",
+    "date": "2019-08-27",
+    "latitude": "-15.477",
+    "longitude": "28.433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/541804107/square.jpg",
+    "date": "2017-05-06",
+    "latitude": "-26.961",
+    "longitude": "21.858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/541763443/square.jpg",
+    "date": "2019-11-01",
+    "latitude": "-25.89314308",
+    "longitude": "28.28428217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/541758875/square.jpg",
+    "date": "2019-05-17",
+    "latitude": "-26.959",
+    "longitude": "21.859",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus angolensis",
+    "common name": "Larger Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/541758319/square.jpg",
+    "date": "2019-05-17",
+    "latitude": "-26.959",
+    "longitude": "21.859",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/541755397/square.jpg",
+    "date": "2017-08-24",
+    "latitude": "-26.95917",
+    "longitude": "21.85884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/541740703/square.jpg",
+    "date": "2015-04-08",
+    "latitude": "-27.44224",
+    "longitude": "22.27453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541206905/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-26.4139282711",
+    "longitude": "27.506428651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/540831292/square.jpg",
+    "date": "2023-10-08",
+    "latitude": "-27.645697",
+    "longitude": "32.1511412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/540821582/square.jpg",
+    "date": "2023-10-08",
+    "latitude": "-27.645697",
+    "longitude": "32.1511412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/540816351/square.jpg",
+    "date": "2024-02-10",
+    "latitude": "-27.645697",
+    "longitude": "32.1511412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas schalowi",
+    "common name": "Lowveld Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540314527/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-24.995621481",
+    "longitude": "31.5918002652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540231810/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-11.782059",
+    "longitude": "32.504447",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539761476/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-28.018939106",
+    "longitude": "23.4490771964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539528342/square.jpg",
+    "date": "2024-09-22",
+    "latitude": "-22.6977905301",
+    "longitude": "30.9613293189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539196241/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-18.5475760924",
+    "longitude": "26.5874151747",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538567591/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-33.941616237",
+    "longitude": "22.4564252739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/538544658/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-22.609220463",
+    "longitude": "30.1752981827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://static.inaturalist.org/photos/538551033/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-22.609220463",
+    "longitude": "30.1752981827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538358043/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-34.0009862187",
+    "longitude": "23.2508544937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538355758/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-24.67240864",
+    "longitude": "27.2661187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537752997/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "-17.9223108",
+    "longitude": "25.830634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537420381/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-25.2316227806",
+    "longitude": "28.5229978809",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537325236/square.jpg",
+    "date": "2024-10-14",
+    "latitude": "-18.4294013021",
+    "longitude": "21.8938284443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537101766/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-24.3999620675",
+    "longitude": "31.781116904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537100065/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "-28.3754531943",
+    "longitude": "32.4129443021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536865329/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-24.61718862",
+    "longitude": "31.78827486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/536816839/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "0.6110771",
+    "longitude": "37.5375057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536588679/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-25.2324186061",
+    "longitude": "28.5198650593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536382143/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-25.01144197",
+    "longitude": "31.5891378783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535943294/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-33.3093754475",
+    "longitude": "26.5284328535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535900863/square.jpg",
+    "date": "2022-09-24",
+    "latitude": "-33.4442544528",
+    "longitude": "25.7469427617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535329040/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "-19.0369159405",
+    "longitude": "16.4699950478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535258890/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-33.9490834434",
+    "longitude": "23.6260157282",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534923980/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-12.89986",
+    "longitude": "31.9223083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534909752/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "10.2629877911",
+    "longitude": "1.3751631943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534909081/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "10.2629877911",
+    "longitude": "1.3751631943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534909042/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "10.2629877911",
+    "longitude": "1.3751631943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534768247/square.jpg",
+    "date": "2024-09-19",
+    "latitude": "-26.4816849951",
+    "longitude": "18.2418648441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534009653/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-25.694126429",
+    "longitude": "28.2102344609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534009490/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-25.6941276375",
+    "longitude": "28.2102384842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533832470/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-20.4848831985",
+    "longitude": "17.0323470225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533581870/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-20.4552323466",
+    "longitude": "17.115559854",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533387969/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "11.0179063889",
+    "longitude": "0.9770580556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533387535/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "11.0189013889",
+    "longitude": "0.9759680556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533104941/square.jpg",
+    "date": "2024-07-08",
+    "latitude": "-7.604198",
+    "longitude": "34.999399",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532460221/square.jpg",
+    "date": "2025-03-12",
+    "latitude": "-22.42305078",
+    "longitude": "31.24750712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532403088/square.jpg",
+    "date": "2025-03-30",
+    "latitude": "-33.4886597819",
+    "longitude": "22.0333567912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532196651/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-17.9292638889",
+    "longitude": "25.8209805556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531550687/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-0.5687307905",
+    "longitude": "30.9999972373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531550686/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-0.5687307905",
+    "longitude": "30.9999972373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531099043/square.jpg",
+    "date": "2017-07-26",
+    "latitude": "-27.9167425425",
+    "longitude": "17.4895345672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530665622/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-25.9110916667",
+    "longitude": "28.1723833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530233394/square.jpg",
+    "date": "2021-08-19",
+    "latitude": "-25.344758",
+    "longitude": "27.096933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530187157/square.jpg",
+    "date": "2018-04-29",
+    "latitude": "-18.5896586635",
+    "longitude": "23.5334255013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530141442/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-20.4498545301",
+    "longitude": "17.047890164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530091207/square.jpg",
+    "date": "2012-01-07",
+    "latitude": "-23.5618364",
+    "longitude": "15.0413125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529753609/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "-26.3284841116",
+    "longitude": "20.739267154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529723598/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-0.816503",
+    "longitude": "36.387903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus minor",
+    "common name": "Abyssinian Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529142004/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "0.6050877194",
+    "longitude": "37.5848895238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus marwitzi",
+    "common name": "Lowveld Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528837273/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "-22.90528052",
+    "longitude": "31.25186563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus angolensis",
+    "common name": "Larger Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528829241/square.jpg",
+    "date": "2010-11-10",
+    "latitude": "-20.51531318",
+    "longitude": "17.2456773067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528561658/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-30.3860857679",
+    "longitude": "30.6805040641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528496594/square.jpg",
+    "date": "2024-09-02",
+    "latitude": "-21.8441820622",
+    "longitude": "15.1894581813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528187422/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-0.5989437",
+    "longitude": "30.973218",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528123732/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "-28.6315848998",
+    "longitude": "27.9991395042",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528056552/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-29.7920597353",
+    "longitude": "30.8667817258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527954571/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-24.3930124217",
+    "longitude": "31.7798085138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527952384/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "-24.475943162",
+    "longitude": "31.3909076527",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527604060/square.jpg",
+    "date": "2023-06-27",
+    "latitude": "-25.1343461726",
+    "longitude": "27.4848861247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/527551852/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "-18.6588616667",
+    "longitude": "26.983935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/527551840/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "-18.6587966667",
+    "longitude": "26.9840233333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://static.inaturalist.org/photos/527551800/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "-18.6587616667",
+    "longitude": "26.9840266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526565638/square.jpg",
+    "date": "2011-04-08",
+    "latitude": "-29.0697486235",
+    "longitude": "24.4810836989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525970149/square.jpg",
+    "date": "2011-04-07",
+    "latitude": "-29.1517677352",
+    "longitude": "24.309191046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525515708/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-26.0104033844",
+    "longitude": "28.152726989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525394692/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-17.8815695162",
+    "longitude": "25.152053833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525061236/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-29.8636337",
+    "longitude": "30.9871489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas cyanomelas",
+    "common name": "Kalahari Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524273905/square.jpg",
+    "date": "2024-08-10",
+    "latitude": "-22.6024050166",
+    "longitude": "17.0640209026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523999540/square.jpg",
+    "date": "2007-08-11",
+    "latitude": "-19.4784007876",
+    "longitude": "14.8591962576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523933989/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-25.2881759282",
+    "longitude": "30.9695472487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523557717/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "14.3464191325",
+    "longitude": "-16.9185169707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523277801/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "0.932955",
+    "longitude": "34.22508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522919046/square.jpg",
+    "date": "2023-11-06",
+    "latitude": "-21.5185231855",
+    "longitude": "15.5844839197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522583205/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-33.9471463889",
+    "longitude": "22.46301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522500206/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-2.3847881759",
+    "longitude": "37.3411074057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522090178/square.jpg",
+    "date": "2025-02-24",
+    "latitude": "-0.8951109475",
+    "longitude": "36.3198281452",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas schalowi",
+    "common name": "Lowveld Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521830401/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "-25.2072859522",
+    "longitude": "31.9592726413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus purpureus",
+    "common name": "Southern Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521805114/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-29.7801167509",
+    "longitude": "30.8390266428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521516999/square.jpg",
+    "date": "2025-06-11",
+    "latitude": "-26.1968096509",
+    "longitude": "27.8477741795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phoeniculus purpureus",
+    "common name": "Green Woodhoopoe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520905432/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-25.7452116142",
+    "longitude": "29.0680650249",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinopomastus cyanomelas",
+    "common name": "Common Scimitarbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520853267/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-32.181045",
+    "longitude": "25.4783166667",
+    "quality_grade": "research"
+  }
+]

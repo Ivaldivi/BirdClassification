@@ -1,0 +1,1667 @@
+[
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556938091/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "18.3635716667",
+    "longitude": "-65.6946633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555315552/square.jpg",
+    "date": "2023-03-22",
+    "latitude": "18.2778373",
+    "longitude": "-66.8100065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/553464476/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "18.7544769283",
+    "longitude": "-69.1543575482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553306821/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "18.3730688889",
+    "longitude": "-70.0497247222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553299131/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "18.3421111111",
+    "longitude": "-70.0748705556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553298171/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "18.3507230556",
+    "longitude": "-70.0691944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/551212506/square.jpg",
+    "date": "2022-06-26",
+    "latitude": "18.295121271",
+    "longitude": "-65.8000326902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550403292/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "18.70345",
+    "longitude": "-68.6513833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549407591/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "17.9528449997",
+    "longitude": "-66.8359897997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549004481/square.jpg",
+    "date": "2022-02-16",
+    "latitude": "17.9714",
+    "longitude": "-66.8686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548958220/square.jpg",
+    "date": "2022-02-14",
+    "latitude": "18.324676",
+    "longitude": "-65.727339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548664344/square.jpg",
+    "date": "2023-04-06",
+    "latitude": "21.9281416446",
+    "longitude": "-80.3111063411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547082309/square.jpg",
+    "date": "2022-05-19",
+    "latitude": "20.5635194601",
+    "longitude": "-75.4375072983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546050250/square.jpg",
+    "date": "2023-04-02",
+    "latitude": "21.0073861007",
+    "longitude": "-77.7250698476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543374227/square.jpg",
+    "date": "2013-01-09",
+    "latitude": "19.9300434416",
+    "longitude": "-77.1926519493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543373397/square.jpg",
+    "date": "2013-01-14",
+    "latitude": "19.9300434416",
+    "longitude": "-77.1926519493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543341638/square.jpg",
+    "date": "2010-01-17",
+    "latitude": "19.933101671",
+    "longitude": "-77.2183830776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/542889230/square.jpg",
+    "date": "2016-02-08",
+    "latitude": "22.6317893",
+    "longitude": "-83.4016388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542032126/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "18.3206603465",
+    "longitude": "-65.8150359365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/541619328/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "18.34246",
+    "longitude": "-65.754352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/540464749/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "18.3229172",
+    "longitude": "-65.8736506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/540460603/square.jpg",
+    "date": "2025-02-12",
+    "latitude": "18.3229172",
+    "longitude": "-65.8736506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539778617/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "18.1496357241",
+    "longitude": "-66.9916729677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/533788378/square.jpg",
+    "date": "2024-09-17",
+    "latitude": "21.9147811329",
+    "longitude": "-80.0185588002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus angustirostris",
+    "common name": "Narrow-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/533538802/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "18.1329831951",
+    "longitude": "-71.5471522122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533221068/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "17.9601133333",
+    "longitude": "-66.8479783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533214948/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "17.9552116667",
+    "longitude": "-66.8493416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530812569/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "18.4175840048",
+    "longitude": "-66.9702240284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529984478/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "18.513614668",
+    "longitude": "-68.3791457306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529586845/square.jpg",
+    "date": "2015-03-11",
+    "latitude": "18.2715410637",
+    "longitude": "-77.1133743972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528311878/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "19.0185805",
+    "longitude": "-68.9784466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527366687/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "18.3230487663",
+    "longitude": "-65.7471501599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526709359/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "18.0693345",
+    "longitude": "-66.988449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525899193/square.jpg",
+    "date": "2025-03-21",
+    "latitude": "18.1305083333",
+    "longitude": "-66.9525333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/525763941/square.jpg",
+    "date": "2009-03-16",
+    "latitude": "18.0707328",
+    "longitude": "-76.6556845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/525747777/square.jpg",
+    "date": "2008-04-15",
+    "latitude": "22.1585714089",
+    "longitude": "-79.9644990785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525717215/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "18.3391996474",
+    "longitude": "-65.7629366129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524690149/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "18.7430166667",
+    "longitude": "-70.4374233333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524190678/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "18.0730055",
+    "longitude": "-66.838325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus angustirostris",
+    "common name": "Narrow-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523678833/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "18.5438089828",
+    "longitude": "-70.4124042519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522027475/square.jpg",
+    "date": "2024-12-26",
+    "latitude": "18.4405069964",
+    "longitude": "-66.5902681115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521900909/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "18.24565",
+    "longitude": "-66.6058883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/520918953/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "18.3304400486",
+    "longitude": "-68.8089439305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520562659/square.jpg",
+    "date": "2025-06-11",
+    "latitude": "17.8080107",
+    "longitude": "-71.4223316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/520394354/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "18.0722388333",
+    "longitude": "-66.9068133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/518982748/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "18.4289760499",
+    "longitude": "-68.9072809374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518505520/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "19.2653116667",
+    "longitude": "-69.4515133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517932858/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "18.3932840185",
+    "longitude": "-66.1956357793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/517868508/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "18.4289760499",
+    "longitude": "-68.9072809374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/517373974/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "19.0574075",
+    "longitude": "-69.4559661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517091842/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "22.4658450814",
+    "longitude": "-79.8133141547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516414886/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "18.348849357",
+    "longitude": "-67.2414608672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/516248673/square.jpg",
+    "date": "2025-02-11",
+    "latitude": "19.0606966446",
+    "longitude": "-69.4520842568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515815956/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "19.4036722222",
+    "longitude": "-70.1764388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/514266020/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "19.0574075",
+    "longitude": "-69.4559661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/513737154/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "18.2993172197",
+    "longitude": "-65.7839329158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513464112/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "20.3039300627",
+    "longitude": "-74.4747948647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus angustirostris",
+    "common name": "Narrow-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512687859/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "18.116667",
+    "longitude": "-71.416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512474527/square.jpg",
+    "date": "2022-01-19",
+    "latitude": "18.2911061451",
+    "longitude": "-66.0805967823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/512235477/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "22.7420700162",
+    "longitude": "-81.3921780512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512203197/square.jpg",
+    "date": "2025-03-24",
+    "latitude": "18.149221",
+    "longitude": "-66.992135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512030350/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "17.8464580302",
+    "longitude": "-66.9861618046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511746737/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "17.9406160861",
+    "longitude": "-67.1917526978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus angustirostris",
+    "common name": "Narrow-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/511660749/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "18.1503055556",
+    "longitude": "-71.6258361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511535522/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "18.2951347",
+    "longitude": "-65.8000327",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/511129919/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "18.2976383333",
+    "longitude": "-65.7908083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509797420/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "18.3381633333",
+    "longitude": "-67.2290716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509627030/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "19.4011416667",
+    "longitude": "-71.4526972222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509409417/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "18.2373672782",
+    "longitude": "-66.0377100964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508827440/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "18.2983370852",
+    "longitude": "-65.7906572325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508714229/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "18.0412600744",
+    "longitude": "-65.877785305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508711545/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "18.2976616667",
+    "longitude": "-65.790955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/508673228/square.jpg",
+    "date": "2025-03-19",
+    "latitude": "19.2637326781",
+    "longitude": "-71.5327845758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508447709/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "21.8893916667",
+    "longitude": "-79.5963366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507977068/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "18.3500151799",
+    "longitude": "-67.1801578996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506537065/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "18.3140283333",
+    "longitude": "-65.74823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505944026/square.jpg",
+    "date": "2025-03-18",
+    "latitude": "22.5494638495",
+    "longitude": "-78.4084157325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505871548/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "22.3832942049",
+    "longitude": "-79.935805276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505218149/square.jpg",
+    "date": "2025-05-11",
+    "latitude": "18.3349768637",
+    "longitude": "-71.5896785177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505004833/square.jpg",
+    "date": "2025-04-04",
+    "latitude": "22.6687755585",
+    "longitude": "-83.4775543213",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503871164/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "18.3224022743",
+    "longitude": "-71.5663940468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503703561/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "19.9673839285",
+    "longitude": "-75.8176434525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503685881/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "19.9688053201",
+    "longitude": "-75.8218141007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503371260/square.jpeg",
+    "date": "2025-03-03",
+    "latitude": "17.9543704987",
+    "longitude": "-67.2120666504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/502787561/square.jpeg",
+    "date": "2025-05-10",
+    "latitude": "18.45152664",
+    "longitude": "-66.59500769",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/497656675/square.jpeg",
+    "date": "2025-04-30",
+    "latitude": "18.4775222222",
+    "longitude": "-70.8627166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496741250/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "18.0222028333",
+    "longitude": "-65.8514716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496444095/square.jpeg",
+    "date": "2025-04-22",
+    "latitude": "18.32490612",
+    "longitude": "-66.66004857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496443816/square.jpeg",
+    "date": "2025-04-22",
+    "latitude": "18.3262265",
+    "longitude": "-66.66025647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495707529/square.jpeg",
+    "date": "2025-04-27",
+    "latitude": "19.4011861111",
+    "longitude": "-71.4526777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494847409/square.jpeg",
+    "date": "2025-04-20",
+    "latitude": "18.10111917",
+    "longitude": "-66.07638693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/494359894/square.jpeg",
+    "date": "2025-04-27",
+    "latitude": "19.4713180137",
+    "longitude": "-71.3395801932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493448812/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "17.97493",
+    "longitude": "-76.39772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493286069/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "19.7300679755",
+    "longitude": "-70.8208486006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493092392/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "18.299433",
+    "longitude": "-65.794492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/490302664/square.jpeg",
+    "date": "2025-02-23",
+    "latitude": "18.1792890175",
+    "longitude": "-71.2697696664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/490291007/square.jpeg",
+    "date": "2025-02-24",
+    "latitude": "18.1535023982",
+    "longitude": "-71.7543894462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490166141/square.jpg",
+    "date": "2024-03-02",
+    "latitude": "22.5090128",
+    "longitude": "-78.4069732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490166141/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "18.1214013019",
+    "longitude": "-66.1630958112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489961077/square.jpg",
+    "date": "2025-03-24",
+    "latitude": "22.4129261111",
+    "longitude": "-81.4449438889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489467671/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "17.9538308304",
+    "longitude": "-66.878173045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489428635/square.jpg",
+    "date": "2025-03-21",
+    "latitude": "22.5625530556",
+    "longitude": "-83.8294875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489097759/square.jpg",
+    "date": "2025-03-16",
+    "latitude": "18.4244382897",
+    "longitude": "-66.4656109427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489058620/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "22.8367055556",
+    "longitude": "-82.8918144444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488582829/square.jpg",
+    "date": "2024-01-13",
+    "latitude": "18.301834432",
+    "longitude": "-65.7934436557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/488414185/square.jpg",
+    "date": "2011-01-02",
+    "latitude": "22.4469880867",
+    "longitude": "-81.1274278972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/488301358/square.jpg",
+    "date": "2010-12-31",
+    "latitude": "22.1159877801",
+    "longitude": "-80.9695380325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498223634/square.jpeg",
+    "date": "2025-04-18",
+    "latitude": "20.271708802",
+    "longitude": "-76.2523554638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487978720/square.jpeg",
+    "date": "2025-04-05",
+    "latitude": "18.1571243795",
+    "longitude": "-67.0010750386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487645475/square.jpeg",
+    "date": "2025-04-15",
+    "latitude": "18.0424016667",
+    "longitude": "-67.2022116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487484871/square.jpg",
+    "date": "2025-04-16",
+    "latitude": "18.220465",
+    "longitude": "-70.4941483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus angustirostris",
+    "common name": "Narrow-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487478953/square.jpeg",
+    "date": "2025-04-09",
+    "latitude": "18.3076635117",
+    "longitude": "-71.7034120198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487071318/square.jpeg",
+    "date": "2025-04-03",
+    "latitude": "18.1571893286",
+    "longitude": "-67.0016814537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486872601/square.jpeg",
+    "date": "2025-04-07",
+    "latitude": "19.0589316813",
+    "longitude": "-69.4524017442",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486872601/square.jpeg",
+    "date": "2025-04-15",
+    "latitude": "18.0426765165",
+    "longitude": "-67.2022280783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/486391620/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "17.971867746",
+    "longitude": "-66.8624349937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486124768/square.jpeg",
+    "date": "2025-03-21",
+    "latitude": "22.5626638889",
+    "longitude": "-83.8295277778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485864596/square.png",
+    "date": "2004-04-21",
+    "latitude": "17.9583629177",
+    "longitude": "-66.8694356679",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/485630531/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "18.540235",
+    "longitude": "-68.3573066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/485570840/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "18.5121866667",
+    "longitude": "-68.3782883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485235295/square.jpeg",
+    "date": "2025-04-01",
+    "latitude": "18.150363828",
+    "longitude": "-66.9935352979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485026179/square.jpg",
+    "date": "2025-03-25",
+    "latitude": "18.0774287417",
+    "longitude": "-76.7246301027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484786585/square.jpg",
+    "date": "2025-03-24",
+    "latitude": "18.0543904",
+    "longitude": "-76.7660232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484236555/square.jpg",
+    "date": "2025-03-24",
+    "latitude": "18.0543904",
+    "longitude": "-76.7660232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484058451/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "18.016804",
+    "longitude": "-67.1551672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483989245/square.jpg",
+    "date": "2025-04-07",
+    "latitude": "18.2988866667",
+    "longitude": "-65.794205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483890453/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "18.43292",
+    "longitude": "-66.2991333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483530779/square.jpg",
+    "date": "2025-02-23",
+    "latitude": "18.0698861667",
+    "longitude": "-66.2024",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482967512/square.jpeg",
+    "date": "2016-02-06",
+    "latitude": "21.8346644065",
+    "longitude": "-80.0050543627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482227360/square.jpeg",
+    "date": "2025-03-28",
+    "latitude": "17.9718786653",
+    "longitude": "-66.8676646321",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481699593/square.jpeg",
+    "date": "2025-03-27",
+    "latitude": "18.6608447476",
+    "longitude": "-68.4029670145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/481502997/square.jpeg",
+    "date": "2025-03-31",
+    "latitude": "19.4100988464",
+    "longitude": "-71.4432945102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/481244689/square.jpeg",
+    "date": "2025-03-22",
+    "latitude": "18.0199083333",
+    "longitude": "-76.3841972222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/480025603/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "18.2710366667",
+    "longitude": "-65.7263416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479997303/square.jpg",
+    "date": "2025-03-26",
+    "latitude": "18.1581878027",
+    "longitude": "-66.9988342956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/479781920/square.jpg",
+    "date": "2025-03-13",
+    "latitude": "18.3120095275",
+    "longitude": "-65.787110902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478985530/square.jpeg",
+    "date": "2025-03-21",
+    "latitude": "18.3377425",
+    "longitude": "-66.2278276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus angustirostris",
+    "common name": "Narrow-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478662120/square.jpeg",
+    "date": "2019-07-20",
+    "latitude": "18.3844512788",
+    "longitude": "-74.2337701325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478477215/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "18.3328416981",
+    "longitude": "-65.7460966846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478176610/square.jpg",
+    "date": "2009-11-22",
+    "latitude": "18.5123308455",
+    "longitude": "-68.3774043915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/478129214/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "18.2733354802",
+    "longitude": "-65.6779054523",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478105729/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "18.2479706",
+    "longitude": "-78.0530145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477660707/square.jpg",
+    "date": "2017-03-06",
+    "latitude": "20.2825",
+    "longitude": "-74.2866666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477660616/square.jpg",
+    "date": "2017-03-24",
+    "latitude": "22.8452631783",
+    "longitude": "-82.9425779517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477660512/square.jpg",
+    "date": "2017-03-23",
+    "latitude": "22.8452631783",
+    "longitude": "-82.9425779517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477660120/square.jpg",
+    "date": "2017-03-19",
+    "latitude": "21.9142134183",
+    "longitude": "-80.0183226083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477660089/square.jpg",
+    "date": "2017-03-19",
+    "latitude": "21.9142134183",
+    "longitude": "-80.0183226083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477650128/square.jpg",
+    "date": "2017-03-22",
+    "latitude": "22.0700205733",
+    "longitude": "-81.0221874917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/477477337/square.jpeg",
+    "date": "2025-03-18",
+    "latitude": "22.4875476749",
+    "longitude": "-84.2028457671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/477280101/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "18.3752383333",
+    "longitude": "-65.64167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477190065/square.jpeg",
+    "date": "2025-03-16",
+    "latitude": "18.0744662806",
+    "longitude": "-76.7841285467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477183870/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "18.1793790922",
+    "longitude": "-66.9934633673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477183290/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "18.1474653041",
+    "longitude": "-66.9907171727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477183092/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "18.1474653041",
+    "longitude": "-66.9907171727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477182583/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "18.1474653041",
+    "longitude": "-66.9907171727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477179105/square.jpeg",
+    "date": "2025-02-26",
+    "latitude": "18.3331411772",
+    "longitude": "-68.8079389894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477114721/square.jpeg",
+    "date": "2025-03-05",
+    "latitude": "18.1273840006",
+    "longitude": "-65.8293639868",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477032661/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "18.1604180257",
+    "longitude": "-67.0015144103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477015578/square.jpg",
+    "date": "2025-03-10",
+    "latitude": "18.1497691773",
+    "longitude": "-66.9931353257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/476826626/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "18.375295",
+    "longitude": "-65.641695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/476826942/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "18.3752383333",
+    "longitude": "-65.64167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/476747346/square.jpg",
+    "date": "2025-03-07",
+    "latitude": "18.3121464561",
+    "longitude": "-65.6997296358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476729154/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "18.159672253",
+    "longitude": "-67.0012078584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476729102/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "18.159672253",
+    "longitude": "-67.0012078584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476638527/square.jpg",
+    "date": "2025-03-13",
+    "latitude": "17.9609914608",
+    "longitude": "-66.8629510942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476604846/square.jpeg",
+    "date": "2025-03-13",
+    "latitude": "17.9617199997",
+    "longitude": "-66.8640639997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/476505968/square.jpg",
+    "date": "2025-03-13",
+    "latitude": "17.9622247483",
+    "longitude": "-66.864304583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476371543/square.jpeg",
+    "date": "2025-03-13",
+    "latitude": "17.9681805556",
+    "longitude": "-66.8695666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476303208/square.jpg",
+    "date": "2025-03-07",
+    "latitude": "18.4835168678",
+    "longitude": "-66.3369112877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476251597/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "18.1425029",
+    "longitude": "-66.9748303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476251597/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "18.2718115652",
+    "longitude": "-65.6788164915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus todus",
+    "common name": "Jamaican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475585019/square.jpeg",
+    "date": "2025-03-09",
+    "latitude": "18.0178615862",
+    "longitude": "-76.8099042401",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475545400/square.jpeg",
+    "date": "2025-02-08",
+    "latitude": "18.0249083333",
+    "longitude": "-66.03086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475324123/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "18.316286",
+    "longitude": "-71.576074",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475291529/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "18.3334249298",
+    "longitude": "-71.6610539942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475027614/square.jpeg",
+    "date": "2025-03-08",
+    "latitude": "18.2991166667",
+    "longitude": "-65.7936222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus angustirostris",
+    "common name": "Narrow-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474981351/square.jpg",
+    "date": "2025-03-01",
+    "latitude": "18.094761",
+    "longitude": "-71.193034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474832938/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "18.22485",
+    "longitude": "-70.550496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474635797/square.jpg",
+    "date": "2025-02-27",
+    "latitude": "19.0026956797",
+    "longitude": "-70.2662266714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474170203/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "18.3398522081",
+    "longitude": "-65.7623031521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473531990/square.jpg",
+    "date": "2024-11-19",
+    "latitude": "17.9722279",
+    "longitude": "-67.0321097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus mexicanus",
+    "common name": "Puerto Rican Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/473276178/square.jpeg",
+    "date": "2025-02-28",
+    "latitude": "18.2964983984",
+    "longitude": "-65.7841604743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/473269508/square.jpeg",
+    "date": "2025-02-17",
+    "latitude": "22.5170430556",
+    "longitude": "-78.5119213889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus multicolor",
+    "common name": "Cuban Tody",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472163444/square.jpeg",
+    "date": "2025-02-22",
+    "latitude": "20.5040851997",
+    "longitude": "-74.7232225997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Todus subulatus",
+    "common name": "Broad-billed Tody",
+    "observation photo url": "https://static.inaturalist.org/photos/471379710/square.jpeg",
+    "date": "2025-02-12",
+    "latitude": "19.0550700984",
+    "longitude": "-69.4486810669",
+    "quality_grade": "research"
+  }
+]

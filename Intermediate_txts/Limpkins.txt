@@ -1,0 +1,1685 @@
+[
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139871/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.538547",
+    "longitude": "-58.443664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558090385/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-34.6073560605",
+    "longitude": "-58.3597123159",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558073119/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.6997249946",
+    "longitude": "-54.442657196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558073001/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.688719522",
+    "longitude": "-54.444030487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557857358/square.jpg",
+    "date": "2022-05-09",
+    "latitude": "28.36448",
+    "longitude": "-81.5573883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/557800659/square.jpg",
+    "date": "2024-05-10",
+    "latitude": "-27.2834232128",
+    "longitude": "-55.4576469585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/557776809/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.6007932096",
+    "longitude": "-58.361873813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557774352/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "28.0427355711",
+    "longitude": "-82.5215727836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/557767161/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "14.3326523048",
+    "longitude": "-89.5676950446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557741233/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "29.6176607217",
+    "longitude": "-82.3240240065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557667545/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "20.6778237795",
+    "longitude": "-87.02316273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557657323/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-22.966881",
+    "longitude": "-43.2295459722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557590116/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "27.2439349",
+    "longitude": "-80.8297828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/557588363/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "30.7483360405",
+    "longitude": "-88.6551835498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557618116/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-34.5400818572",
+    "longitude": "-58.4434780106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557565909/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.8683038563",
+    "longitude": "-57.8456095557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557369676/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "26.6325643189",
+    "longitude": "-80.2353910295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557347139/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.7662138206",
+    "longitude": "-58.1204096402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557340897/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-15.1856533333",
+    "longitude": "-64.745175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/557246847/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.2499578831",
+    "longitude": "-58.7173248042",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557244744/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-23.4801399",
+    "longitude": "-46.3472664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/557239574/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "26.826395",
+    "longitude": "-80.0883721667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557173748/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.8305985701",
+    "longitude": "-82.6610283944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557097433/square.jpg",
+    "date": "2021-11-18",
+    "latitude": "-22.9025625184",
+    "longitude": "-47.0195788713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/557074671/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.3833951997",
+    "longitude": "-81.537344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/557065387/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.4426164145",
+    "longitude": "-49.1478917375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556764377/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.6351668",
+    "longitude": "-95.6605289",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556756738/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "28.0955100984",
+    "longitude": "-81.6815651123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/556718051/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "26.4438770068",
+    "longitude": "-81.6551115086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/556823350/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "26.6386827017",
+    "longitude": "-81.9932091236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556578200/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-3.7446023556",
+    "longitude": "-38.4857077573",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/556520014/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "26.7062983333",
+    "longitude": "-80.7190116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556454070/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "9.1308668014",
+    "longitude": "-79.7859662214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556399353/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-25.6846190453",
+    "longitude": "-54.4427741691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556223023/square.jpg",
+    "date": "2024-01-27",
+    "latitude": "-34.608204",
+    "longitude": "-58.353968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556230269/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-21.5487378",
+    "longitude": "-42.1763096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556216572/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "28.3420752739",
+    "longitude": "-81.4056391085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556163925/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "27.2263004",
+    "longitude": "-82.2666075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556163678/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "27.2263004",
+    "longitude": "-82.2666075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556163481/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "27.2263004",
+    "longitude": "-82.2666075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/556160674/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "27.5383941634",
+    "longitude": "-80.38545688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/556145336/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "26.9401812154",
+    "longitude": "-80.2587096535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556141482/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "29.6270116667",
+    "longitude": "-95.64602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/556104617/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.5153036775",
+    "longitude": "-54.6201035428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/556104320/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.5153036775",
+    "longitude": "-54.6201035428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556003595/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "20.9468310193",
+    "longitude": "-89.5782173751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555952878/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-14.86963697",
+    "longitude": "-64.8682796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555952612/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-14.87143605",
+    "longitude": "-64.87156453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/555946308/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-18.8448288462",
+    "longitude": "-41.9028990104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555792798/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "28.5815669034",
+    "longitude": "-81.0069437944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555784144/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "27.9376503607",
+    "longitude": "-81.2256737208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555777241/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "20.9468312124",
+    "longitude": "-89.5789621779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555760916/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-25.8658198356",
+    "longitude": "-54.3635480851",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555711251/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-34.5403",
+    "longitude": "-58.4431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555566270/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "29.6368579865",
+    "longitude": "-95.6600341797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555558006/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-16.7484218255",
+    "longitude": "-56.8575236946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555421543/square.jpg",
+    "date": "2013-10-23",
+    "latitude": "20.5501224",
+    "longitude": "-87.4207518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555330163/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-34.6019944444",
+    "longitude": "-58.3607222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555329578/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-34.5580222222",
+    "longitude": "-58.4340305556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555334314/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-9.9528108495",
+    "longitude": "-67.8661241931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555313078/square.jpg",
+    "date": "2023-12-05",
+    "latitude": "26.1260091",
+    "longitude": "-97.9499002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/555258194/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-22.9222592778",
+    "longitude": "-44.183986816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555173236/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "29.6197209604",
+    "longitude": "-82.3296674341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/555109234/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-6.5384966667",
+    "longitude": "-76.4003616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555076669/square.jpg",
+    "date": "2025-04-02",
+    "latitude": "28.2834701389",
+    "longitude": "-82.6128921389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/554994191/square.jpg",
+    "date": "2018-03-31",
+    "latitude": "27.3076810476",
+    "longitude": "-82.4543963862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554954561/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "28.9750333232",
+    "longitude": "-81.3569324077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554944119/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.4617427002",
+    "longitude": "-56.8231683976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554835919/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-23.4861820139",
+    "longitude": "-46.5194236786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna elucus",
+    "common name": "Hispaniolan Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/554832130/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "18.6786107837",
+    "longitude": "-69.6270723144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna elucus",
+    "common name": "Hispaniolan Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/554828487/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "18.7291299835",
+    "longitude": "-69.7331842921",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/554803505/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-21.9515700648",
+    "longitude": "-47.457677936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554804539/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "29.6351667788",
+    "longitude": "-95.6605288759",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554751832/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "28.9014769722",
+    "longitude": "-82.3735309722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/554871530/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-22.9714269969",
+    "longitude": "-43.2159833181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554713579/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "29.5742216667",
+    "longitude": "-82.3341833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554665873/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-3.8635451115",
+    "longitude": "-38.6276118457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/554613768/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-6.5366166667",
+    "longitude": "-76.39962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554508027/square.jpg",
+    "date": "2019-05-13",
+    "latitude": "16.5547565968",
+    "longitude": "-88.7056332298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554473092/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "20.974615",
+    "longitude": "-87.4214616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554367475/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-22.9050994219",
+    "longitude": "-47.0214677808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554287080/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "20.9474006892",
+    "longitude": "-89.5784020003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554245663/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "30.3649430809",
+    "longitude": "-84.3014733812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554235744/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-3.7928603461",
+    "longitude": "-38.5121434182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/553950377/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "26.6196044",
+    "longitude": "-82.0051942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553943718/square.jpg",
+    "date": "2022-03-26",
+    "latitude": "29.6052261648",
+    "longitude": "-82.3014760758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553834717/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-6.3825342074",
+    "longitude": "-39.3364890515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna pictus",
+    "common name": "Northern Speckled Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553824858/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "28.2126916667",
+    "longitude": "-82.5356366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/553795967/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "29.8750953177",
+    "longitude": "-95.1732102992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/555663051/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "28.0060682731",
+    "longitude": "-82.3436336964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553535300/square.jpg",
+    "date": "2024-09-09",
+    "latitude": "28.0880407",
+    "longitude": "-82.7039012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553507807/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "26.5945252435",
+    "longitude": "-80.0781382507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/553507243/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "26.5108964413",
+    "longitude": "-80.0787719466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553496276/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "30.2242107749",
+    "longitude": "-81.3914183274",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553454677/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-16.452152",
+    "longitude": "-56.67704",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553448777/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "26.119838348",
+    "longitude": "-80.2634320781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553432381/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "34.0521555556",
+    "longitude": "-83.8853638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553397659/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-34.6147051554",
+    "longitude": "-58.3558421077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553394795/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-23.3284685441",
+    "longitude": "-51.1692343855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/553383244/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-33.5010150778",
+    "longitude": "-58.6722177889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553266170/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "29.6362829994",
+    "longitude": "-95.6603867302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553258052/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-31.6379728022",
+    "longitude": "-60.6736242609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553263452/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "29.6354652123",
+    "longitude": "-95.6606791108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/553219880/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-34.6157033333",
+    "longitude": "-58.354845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553172655/square.jpg",
+    "date": "2023-08-18",
+    "latitude": "-17.2968888872",
+    "longitude": "-56.8474281988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553175853/square.jpg",
+    "date": "2024-01-06",
+    "latitude": "27.975825",
+    "longitude": "-81.9528583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/553020636/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "25.9568116667",
+    "longitude": "-81.2623666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552952855/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "29.6008367046",
+    "longitude": "-82.3048248142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552879089/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "27.8703666667",
+    "longitude": "-81.0455695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552837958/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-24.2088870745",
+    "longitude": "-46.9251855243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552735050/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-25.6876616667",
+    "longitude": "-54.445525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/552734833/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "25.894445",
+    "longitude": "-81.279142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552717639/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "18.7354954305",
+    "longitude": "-99.3362703547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552716932/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-22.9040869891",
+    "longitude": "-47.0201402814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552636419/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-2.2772289933",
+    "longitude": "-56.23369663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552622855/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "-3.000315",
+    "longitude": "-64.8596658333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552619589/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-17.2602738883",
+    "longitude": "-56.7204491667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552544227/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "9.1717434402",
+    "longitude": "-78.7952046096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552526845/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-31.6127638889",
+    "longitude": "-60.7285166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552386991/square.jpg",
+    "date": "2023-12-03",
+    "latitude": "26.4767477",
+    "longitude": "-99.0910350997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552486820/square.jpg",
+    "date": "2024-11-19",
+    "latitude": "-3.8006340584",
+    "longitude": "-38.4907414019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552452122/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-22.9678216667",
+    "longitude": "-43.22815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552386127/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "23.2412153165",
+    "longitude": "-106.263552774",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552352636/square.jpg",
+    "date": "2018-12-18",
+    "latitude": "28.2900581115",
+    "longitude": "-81.4029661323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552331568/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "18.368977",
+    "longitude": "-66.9201034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552324584/square.jpg",
+    "date": "2019-04-13",
+    "latitude": "28.2868159519",
+    "longitude": "-81.4092666413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/552323698/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "28.610525244",
+    "longitude": "-81.3190013987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552308504/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "26.3188659722",
+    "longitude": "-81.804314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552289696/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-9.6522125",
+    "longitude": "-56.142859445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552243793/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-2.9026126881",
+    "longitude": "-41.6054881532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552101279/square.jpg",
+    "date": "2018-10-13",
+    "latitude": "28.0439957289",
+    "longitude": "-81.9516656919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552101169/square.jpg",
+    "date": "2018-10-13",
+    "latitude": "28.0439957289",
+    "longitude": "-81.9516656919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552101048/square.jpg",
+    "date": "2018-10-13",
+    "latitude": "28.0439957289",
+    "longitude": "-81.9516656919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552100461/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-29.9819133315",
+    "longitude": "-51.0337121416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552061114/square.jpg",
+    "date": "2012-09-01",
+    "latitude": "28.0379869691",
+    "longitude": "-81.9530708995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552069781/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "29.5407055556",
+    "longitude": "-95.5235416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/552063455/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-25.6832824999",
+    "longitude": "-54.44995251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552035477/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-9.953189384",
+    "longitude": "-67.8658898804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna pictus",
+    "common name": "Northern Speckled Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552029053/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "28.2141083333",
+    "longitude": "-82.52977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552017462/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-33.3132666621",
+    "longitude": "-60.2267172834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551959371/square.jpg",
+    "date": "2019-07-19",
+    "latitude": "-17.2929916138",
+    "longitude": "-56.7099097518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551968659/square.jpg",
+    "date": "2010-01-16",
+    "latitude": "27.9985651582",
+    "longitude": "-81.8599159054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551889979/square.jpg",
+    "date": "2019-08-04",
+    "latitude": "28.0440926",
+    "longitude": "-81.9517767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551889296/square.jpg",
+    "date": "2019-08-04",
+    "latitude": "28.0440926",
+    "longitude": "-81.9517767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551893285/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-3.3801874234",
+    "longitude": "-60.2844410017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551822777/square.jpg",
+    "date": "2019-08-04",
+    "latitude": "28.0380646111",
+    "longitude": "-81.9530902028",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551822634/square.jpg",
+    "date": "2019-08-04",
+    "latitude": "28.0380646111",
+    "longitude": "-81.9530902028",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551821980/square.jpg",
+    "date": "2019-08-04",
+    "latitude": "28.0380646111",
+    "longitude": "-81.9530902028",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551817320/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "29.6182383333",
+    "longitude": "-82.3192883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551780545/square.jpg",
+    "date": "2022-04-16",
+    "latitude": "30.39765833",
+    "longitude": "-90.42607778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551750084/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "18.2070403321",
+    "longitude": "-65.8846219562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551724625/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "25.6332393899",
+    "longitude": "-80.3187559056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551702804/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "28.5832583333",
+    "longitude": "-81.3571916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551634209/square.jpg",
+    "date": "2019-08-08",
+    "latitude": "28.0380085383",
+    "longitude": "-81.9530296319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551633465/square.jpg",
+    "date": "2019-08-08",
+    "latitude": "28.0380085383",
+    "longitude": "-81.9530296319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551635102/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "29.6361527778",
+    "longitude": "-95.6603888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551593478/square.jpg",
+    "date": "2010-10-23",
+    "latitude": "28.229729579",
+    "longitude": "-82.1847713669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551621003/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "29.6369105556",
+    "longitude": "-95.6599775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551621716/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "27.2590611111",
+    "longitude": "-82.2876777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/551594029/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "26.2573241",
+    "longitude": "-80.2105071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551530637/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "29.1245621536",
+    "longitude": "-81.5028309078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551522894/square.jpg",
+    "date": "2009-08-14",
+    "latitude": "27.9611216",
+    "longitude": "-81.192896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551522471/square.jpg",
+    "date": "2023-06-17",
+    "latitude": "26.1745283333",
+    "longitude": "-80.1643361667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551510114/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "28.700405",
+    "longitude": "-81.2382423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551451711/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "20.9475356682",
+    "longitude": "-89.577537328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551447032/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "16.5501961394",
+    "longitude": "-92.8179052042",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551450638/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "28.6111360509",
+    "longitude": "-81.3438375202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552328911/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "27.7265083333",
+    "longitude": "-82.6487966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551419402/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "27.7264032467",
+    "longitude": "-82.6487245784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551340487/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "28.3524833333",
+    "longitude": "-81.657745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551304706/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-2.3455608175",
+    "longitude": "-54.877914709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551178129/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "25.9568116667",
+    "longitude": "-81.2623583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551137250/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "27.025125",
+    "longitude": "-82.0596611667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551119151/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "29.6523406115",
+    "longitude": "-81.5043421473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551116322/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.5601288",
+    "longitude": "-58.4305336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551111726/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "28.0157756549",
+    "longitude": "-82.1191612447",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/551111053/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "25.6049912997",
+    "longitude": "-80.3975721997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551105307/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-22.9671933571",
+    "longitude": "-43.2290771976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/551067195/square.jpg",
+    "date": "2025-04-11",
+    "latitude": "28.2867087066",
+    "longitude": "-81.4071309905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/551051541/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "28.2869747818",
+    "longitude": "-81.4074554424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550960277/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "30.261",
+    "longitude": "-89.6746666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna guarauna",
+    "common name": "Brown-backed Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550888513/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-9.7156248476",
+    "longitude": "-35.8199921733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550840630/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "28.3044319219",
+    "longitude": "-81.4308295148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550669722/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "20.9468730759",
+    "longitude": "-89.5780952126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550623917/square.jpg",
+    "date": "2025-05-02",
+    "latitude": "-31.6376980507",
+    "longitude": "-60.6717561117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/550595609/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "29.572246061",
+    "longitude": "-95.129789114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aramus guarauna",
+    "common name": "Limpkin",
+    "observation photo url": "https://static.inaturalist.org/photos/550594811/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "26.6253633333",
+    "longitude": "-81.7996533333",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,1514 @@
+[
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/558169556/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.6463389526",
+    "longitude": "-2.8030204262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558037153/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "40.8723080145",
+    "longitude": "-1.5694754439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/558024328/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.7984403538",
+    "longitude": "16.9386831607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/557986940/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2650842274",
+    "longitude": "27.1151540056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557945027/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.4442611111",
+    "longitude": "31.8839722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557937763/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.9409555556",
+    "longitude": "31.2534333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557930208/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-22.7807719301",
+    "longitude": "140.5817716702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557884488/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-22.1132651235",
+    "longitude": "113.88589088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda tarda",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/557747097/square.jpg",
+    "date": "2008-02-19",
+    "latitude": "39.5581816794",
+    "longitude": "-5.73701388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557725239/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-30.5380782222",
+    "longitude": "21.5352755833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557716591/square.jpg",
+    "date": "2019-04-29",
+    "latitude": "-18.8530467048",
+    "longitude": "16.7397592572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649926/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-33.1500777663",
+    "longitude": "18.1038596731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neotis denhami stanleyi",
+    "common name": "Stanley's Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557635103/square.jpg",
+    "date": "2024-09-13",
+    "latitude": "-33.6203264543",
+    "longitude": "25.8047226749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557613168/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.2253199918",
+    "longitude": "18.139274528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis senegalensis",
+    "common name": "White-bellied Korhaan",
+    "observation photo url": "https://static.inaturalist.org/photos/557589567/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-2.4264813758",
+    "longitude": "34.890721328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557577350/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-23.108904",
+    "longitude": "31.435554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heterotetrax vigorsii",
+    "common name": "Karoo Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557575272/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-27.6131864978",
+    "longitude": "17.6137638465",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/557527292/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "43.5708064651",
+    "longitude": "5.7683635306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lissotis hartlaubii",
+    "common name": "Hartlaub's Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557504697/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-3.5684489319",
+    "longitude": "38.7527731061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heterotetrax rueppelii",
+    "common name": "R\u00fcppell's Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557502259/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-24.2305666667",
+    "longitude": "15.90825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda tarda",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/557452590/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.7591090843",
+    "longitude": "15.9358190848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/557447692/square.jpg",
+    "date": "2024-06-02",
+    "latitude": "-22.3742795091",
+    "longitude": "142.9986090237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557164951/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-18.32201",
+    "longitude": "143.52743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557351933/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-24.963917983",
+    "longitude": "148.4189552441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557266348/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-23.94320851",
+    "longitude": "31.2526161766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557237992/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "47.1403399354",
+    "longitude": "19.2627216301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557169601/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "52.3013728888",
+    "longitude": "12.0452423298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis senegalensis",
+    "common name": "White-bellied Korhaan",
+    "observation photo url": "https://static.inaturalist.org/photos/557022995/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-2.2187176857",
+    "longitude": "34.7604960311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556993549/square.jpg",
+    "date": "2017-11-18",
+    "latitude": "38.9571227552",
+    "longitude": "-8.8804011981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neotis denhami stanleyi",
+    "common name": "Stanley's Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556987758/square.jpg",
+    "date": "2024-03-12",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neotis ludwigii",
+    "common name": "Ludwig's Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/556928450/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-31.4860668124",
+    "longitude": "23.4511577543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/556909484/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-20.4078125305",
+    "longitude": "144.4368783385",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556853169/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-24.6851834477",
+    "longitude": "113.6720919564",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/556690546/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-3.086804707",
+    "longitude": "35.4433549707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556659064/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "0.620707304",
+    "longitude": "36.4211403148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis senegalensis",
+    "common name": "White-bellied Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556536848/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-0.0680980533",
+    "longitude": "36.9321784973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556533025/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-1.2141019088",
+    "longitude": "36.9583898093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/556469716/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-3.1187150958",
+    "longitude": "35.5714202438",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/556399234/square.jpg",
+    "date": "2022-04-20",
+    "latitude": "43.914963616",
+    "longitude": "6.0326838029",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heterotetrax rueppelii",
+    "common name": "R\u00fcppell's Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556377845/square.jpg",
+    "date": "2015-07-14",
+    "latitude": "-19.0870797478",
+    "longitude": "16.2679339573",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556366368/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.0750866365",
+    "longitude": "18.065433763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/556295298/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-19.1115181644",
+    "longitude": "16.2613250732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556264847/square.jpg",
+    "date": "2018-11-29",
+    "latitude": "-28.4259372556",
+    "longitude": "117.7777869192",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis nigriceps",
+    "common name": "Great Indian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556119971/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "26.7119527397",
+    "longitude": "70.7678640128",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556057972/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-19.9293954001",
+    "longitude": "24.760390303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides etoschae",
+    "common name": "Far-northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556052415/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.0412179306",
+    "longitude": "15.9703814251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555975757/square.jpg",
+    "date": "2023-06-28",
+    "latitude": "-21.5931498646",
+    "longitude": "22.4579236471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555900984/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-1.2377929117",
+    "longitude": "35.3198203851",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555899173/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "50.9732878689",
+    "longitude": "60.6750557002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555888752/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-31.7246115782",
+    "longitude": "115.83725743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555881463/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.122107833",
+    "longitude": "18.0795416272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lissotis hartlaubii",
+    "common name": "Hartlaub's Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555841200/square.jpg",
+    "date": "2023-12-09",
+    "latitude": "-1.3859333333",
+    "longitude": "36.8919633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555452104/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-17.0489443803",
+    "longitude": "145.3511349906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555451957/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-17.0490201738",
+    "longitude": "145.3510813464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555671444/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-24.5316521232",
+    "longitude": "31.7567998543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555657458/square.jpg",
+    "date": "2025-02-27",
+    "latitude": "-22.9879195832",
+    "longitude": "31.3133114863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556020765/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-24.3513366287",
+    "longitude": "31.0711501166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neotis denhami",
+    "common name": "Denham's Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/555488667/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "2.1344893834",
+    "longitude": "31.9097203325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555472109/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-17.1540563932",
+    "longitude": "144.5061524212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555467219/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555456990/square.jpg",
+    "date": "2023-06-29",
+    "latitude": "-21.5308359466",
+    "longitude": "22.6374050776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://static.inaturalist.org/photos/555432739/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.02077",
+    "longitude": "15.8651116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lissotis melanogaster",
+    "common name": "Black-bellied Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555423917/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "0.90834",
+    "longitude": "30.35681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/555409441/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.1641961901",
+    "longitude": "15.9271774157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://static.inaturalist.org/photos/555404438/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.065945",
+    "longitude": "15.8762366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555301218/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-25.8657821169",
+    "longitude": "28.2803469067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda tarda",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/555279655/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "48.7588098045",
+    "longitude": "15.9099430039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555271224/square.jpg",
+    "date": "2025-01-26",
+    "latitude": "-19.117375",
+    "longitude": "15.8577166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555271226/square.jpg",
+    "date": "2025-01-26",
+    "latitude": "-19.0660628103",
+    "longitude": "15.9139258945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sypheotides indicus",
+    "common name": "Lesser Florican",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555256560/square.jpg",
+    "date": "2025-08-01",
+    "latitude": null,
+    "longitude": null,
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis caerulescens",
+    "common name": "Blue Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555123713/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-28.4286497324",
+    "longitude": "29.0631689876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://static.inaturalist.org/photos/555118396/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.18379",
+    "longitude": "15.9521266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555088610/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "46.3922506806",
+    "longitude": "43.1971741812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555081252/square.jpg",
+    "date": "2016-07-06",
+    "latitude": "-28.0310454895",
+    "longitude": "145.6238259428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neotis denhami",
+    "common name": "Denham's Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555055461/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-34.1819360825",
+    "longitude": "19.3121018523",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554894806/square.jpg",
+    "date": "2025-04-18",
+    "latitude": "46.1949951862",
+    "longitude": "43.4183867466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554894653/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "46.0983359345",
+    "longitude": "43.4114021588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554894485/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "46.1814800611",
+    "longitude": "43.509819889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chlamydotis macqueenii",
+    "common name": "Asian Houbara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554889173/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "44.3021794329",
+    "longitude": "75.3851757497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chlamydotis macqueenii",
+    "common name": "Asian Houbara",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554889159/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "44.2694757042",
+    "longitude": "75.3158232742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554849322/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-30.60600311",
+    "longitude": "21.35812694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554832355/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-30.66468012",
+    "longitude": "21.28642464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides afraoides",
+    "common name": "South African Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554831276/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-30.72275179",
+    "longitude": "21.1984009101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554716096/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "45.1136087885",
+    "longitude": "36.3815392178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://static.inaturalist.org/photos/554672408/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-34.3504061957",
+    "longitude": "20.3197880471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/554667044/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-25.26437",
+    "longitude": "27.1362888333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554645547/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-32.8125916667",
+    "longitude": "17.9068933056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554636156/square.jpg",
+    "date": "2025-04-24",
+    "latitude": "-2.7312137754",
+    "longitude": "37.2013795427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554628439/square.jpg",
+    "date": "2018-06-28",
+    "latitude": "-33.3614530947",
+    "longitude": "138.2809732268",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554583316/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-29.5117778523",
+    "longitude": "147.9369159569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554577476/square.jpg",
+    "date": "2023-12-30",
+    "latitude": "-25.2302756022",
+    "longitude": "27.1012708917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis nigriceps",
+    "common name": "Great Indian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554569825/square.jpg",
+    "date": "2022-09-04",
+    "latitude": "23.5310175579",
+    "longitude": "69.5463370763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554571169/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-33.7694",
+    "longitude": "21.5506055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Houbaropsis bengalensis",
+    "common name": "Bengal Florican",
+    "observation photo url": "https://static.inaturalist.org/photos/554556111/square.jpg",
+    "date": "2021-04-19",
+    "latitude": "26.9171961784",
+    "longitude": "91.2263243891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554491090/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-24.9922335",
+    "longitude": "148.4197211997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides afraoides",
+    "common name": "South African Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554373570/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-30.7332721099",
+    "longitude": "21.19163138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554362647/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-3.0081293551",
+    "longitude": "35.4833036812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554283757/square.jpg",
+    "date": "2025-04-16",
+    "latitude": "-25.8073794011",
+    "longitude": "20.4223837937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554263310/square.jpg",
+    "date": "2025-04-11",
+    "latitude": "-25.8864776136",
+    "longitude": "20.44435645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554209979/square.jpg",
+    "date": "2022-04-11",
+    "latitude": "37.2797094087",
+    "longitude": "-5.911731756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554209963/square.jpg",
+    "date": "2022-04-11",
+    "latitude": "37.230739935",
+    "longitude": "-5.9484358876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554209952/square.jpg",
+    "date": "2022-04-11",
+    "latitude": "37.3338043823",
+    "longitude": "-5.8362515627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis senegalensis",
+    "common name": "White-bellied Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554183866/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-1.3898855",
+    "longitude": "36.8502689997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis senegalensis",
+    "common name": "White-bellied Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554183843/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-1.3899624997",
+    "longitude": "36.8503498997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554179259/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-29.5324654845",
+    "longitude": "147.9252744537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554179240/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-29.5328233561",
+    "longitude": "147.9245878082",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554152827/square.jpg",
+    "date": "2015-01-16",
+    "latitude": "-28.8395382709",
+    "longitude": "24.832991084",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554107768/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.7467103281",
+    "longitude": "76.6326279122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554107764/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.6831115338",
+    "longitude": "76.6122416477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554107729/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.7174847234",
+    "longitude": "76.6326885431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554107725/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.7869869753",
+    "longitude": "76.6957813933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554101537/square.jpg",
+    "date": "2014-05-11",
+    "latitude": "-17.8099304976",
+    "longitude": "24.6286439342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554092982/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "52.1818075089",
+    "longitude": "60.3169711462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heterotetrax rueppelii fitzsimonsi",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554054802/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.905353407",
+    "longitude": "15.6146094332",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553967090/square.jpg",
+    "date": "2025-04-07",
+    "latitude": "-25.9654876428",
+    "longitude": "20.3564472777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553941090/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-18.9848812454",
+    "longitude": "27.0832375493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neotis denhami stanleyi",
+    "common name": "Stanley's Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/553864632/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-33.5663899339",
+    "longitude": "25.7803359255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553802900/square.jpg",
+    "date": "2022-03-09",
+    "latitude": "37.609834851",
+    "longitude": "-8.0575167383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553773710/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-18.8047341525",
+    "longitude": "16.879337298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553756847/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-18.9619482768",
+    "longitude": "16.9026074042",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553756564/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-18.8166667",
+    "longitude": "16.95",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553736421/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-19.0053630203",
+    "longitude": "15.8073098759",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553736422/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-19.104097711",
+    "longitude": "15.8818686133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553736391/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-19.104097711",
+    "longitude": "15.8818686133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis senegalensis",
+    "common name": "White-bellied Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553732916/square.jpg",
+    "date": "2025-03-29",
+    "latitude": "-1.502725",
+    "longitude": "35.115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553727982/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-16.56728",
+    "longitude": "145.183475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553702420/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-24.7943549969",
+    "longitude": "31.8871806669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553680053/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-18.9109214369",
+    "longitude": "16.3418517235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553645662/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-24.795581981",
+    "longitude": "31.884796934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553552630/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "-23.9641709058",
+    "longitude": "31.7835802303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis nigriceps",
+    "common name": "Great Indian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553450146/square.jpg",
+    "date": "2005-09-22",
+    "latitude": "23.3317221398",
+    "longitude": "68.8780752603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553444344/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-19.4360635271",
+    "longitude": "146.7242658511",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553443394/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-19.430611086",
+    "longitude": "146.7357460409",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553287966/square.jpg",
+    "date": "2024-08-18",
+    "latitude": "0.7535040817",
+    "longitude": "37.4320229908",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553272738/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-25.4321804129",
+    "longitude": "31.4470446338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553195379/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-33.1872811872",
+    "longitude": "18.1235639423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553185939/square.jpg",
+    "date": "2024-05-12",
+    "latitude": "37.6383825244",
+    "longitude": "-8.0493804973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553185901/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-32.3115583333",
+    "longitude": "24.48327",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553175353/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-34.3505816667",
+    "longitude": "20.3189566667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553158951/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-24.3181566579",
+    "longitude": "31.7212679828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553158846/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-23.9864201282",
+    "longitude": "31.6845849976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lissotis melanogaster",
+    "common name": "Black-bellied Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553158735/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "0.5740383333",
+    "longitude": "37.6088666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553133315/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-3.1683543368",
+    "longitude": "35.4493984885",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis senegalensis",
+    "common name": "White-bellied Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553117552/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "9.3136990414",
+    "longitude": "40.4104613222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrax tetrax",
+    "common name": "Little Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553106147/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "52.0600068235",
+    "longitude": "60.5165657543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553061330/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "-23.966680707",
+    "longitude": "31.7849535213",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552896028/square.jpg",
+    "date": "2007-03-22",
+    "latitude": "-38.1073945771",
+    "longitude": "141.2118848744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis gindiana",
+    "common name": "Buff-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552858867/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "9.3136990414",
+    "longitude": "40.4104613222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lissotis melanogaster",
+    "common name": "Black-bellied Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552845495/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-0.281900036",
+    "longitude": "29.9638983607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis caerulescens",
+    "common name": "Blue Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552731119/square.jpg",
+    "date": "2023-10-13",
+    "latitude": "-31.0460372904",
+    "longitude": "24.3922518577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552653564/square.jpg",
+    "date": "2018-06-27",
+    "latitude": "-18.9993085692",
+    "longitude": "16.2897585599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552650868/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.123822234",
+    "longitude": "31.4434161019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552636667/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-17.8706264827",
+    "longitude": "24.9716301716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda tarda",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/552614319/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "48.6702266069",
+    "longitude": "15.9810277833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552608939/square.jpg",
+    "date": "2017-08-09",
+    "latitude": "-2.5148639795",
+    "longitude": "34.9878311072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori",
+    "common name": "Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552608662/square.jpg",
+    "date": "2017-08-10",
+    "latitude": "-3.114128115",
+    "longitude": "35.5325043461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552601197/square.jpg",
+    "date": "2024-08-20",
+    "latitude": "-17.4855733",
+    "longitude": "140.8461782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis australis",
+    "common name": "Australian Bustard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552476555/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-21.955208114",
+    "longitude": "113.9587583006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophotis ruficrista",
+    "common name": "Red-crested Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552455015/square.jpg",
+    "date": "2019-08-04",
+    "latitude": "-19.6063889",
+    "longitude": "15.0705556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ardeotis kori kori",
+    "common name": "Southern Kori Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552454769/square.jpg",
+    "date": "2019-08-08",
+    "latitude": "-18.9448594187",
+    "longitude": "16.2508443246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heterotetrax rueppelii fitzsimonsi",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/552454562/square.jpg",
+    "date": "2019-07-31",
+    "latitude": "-24.6305171846",
+    "longitude": "15.6298430483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Neotis ludwigii",
+    "common name": "Ludwig's Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552454250/square.jpg",
+    "date": "2019-07-30",
+    "latitude": "-24.7980668914",
+    "longitude": "15.6580842557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afraoides",
+    "common name": "Northern Black Korhaan",
+    "observation photo url": "https://static.inaturalist.org/photos/552453898/square.jpg",
+    "date": "2019-08-06",
+    "latitude": "-18.8555909",
+    "longitude": "16.3293197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Afrotis afra",
+    "common name": "Southern Black Korhaan",
+    "observation photo url": "https://static.inaturalist.org/photos/552400507/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-34.351015",
+    "longitude": "20.3105616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eupodotis senegalensis",
+    "common name": "White-bellied Korhaan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552427889/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "-7.7674633333",
+    "longitude": "34.872995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Otis tarda",
+    "common name": "Great Bustard",
+    "observation photo url": "https://static.inaturalist.org/photos/552322948/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "38.7757532197",
+    "longitude": "-2.4875898595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chlamydotis undulata fuertaventurae",
+    "common name": "Canary Island Houbara",
+    "observation photo url": "https://static.inaturalist.org/photos/552317218/square.jpg",
+    "date": "2008-12-09",
+    "latitude": "28.2477918489",
+    "longitude": "-14.0768070525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chlamydotis undulata fuertaventurae",
+    "common name": "Canary Island Houbara",
+    "observation photo url": "https://static.inaturalist.org/photos/552315309/square.jpg",
+    "date": "2008-12-09",
+    "latitude": "28.3917818327",
+    "longitude": "-14.0684422727",
+    "quality_grade": "research"
+  }
+]

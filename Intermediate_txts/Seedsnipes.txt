@@ -1,0 +1,1307 @@
+[
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557516397/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-37.1893248771",
+    "longitude": "-67.6319825219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/556671791/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-38.726218847",
+    "longitude": "-60.2297240473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis malouinus",
+    "common name": "White-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556640152/square.jpg",
+    "date": "2023-04-27",
+    "latitude": "-52.7292549476",
+    "longitude": "-71.0451448831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556572787/square.jpg",
+    "date": "2023-04-23",
+    "latitude": "-52.6116983691",
+    "longitude": "-69.4767072802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555504701/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-11.3969628053",
+    "longitude": "-77.3838336672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554217159/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.2081729944",
+    "longitude": "-70.8197475832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554217406/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.2081729944",
+    "longitude": "-70.8197475832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/554046417/square.jpg",
+    "date": "2024-10-31",
+    "latitude": "-38.7716446627",
+    "longitude": "-72.6804524805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/554046415/square.jpg",
+    "date": "2024-10-31",
+    "latitude": "-38.7716450302",
+    "longitude": "-72.6804578554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553572089/square.jpg",
+    "date": "2024-06-21",
+    "latitude": "-18.281026815",
+    "longitude": "-69.1155189417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus orbignyianus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552063781/square.jpg",
+    "date": "2012-01-01",
+    "latitude": "-33.782394445",
+    "longitude": "-70.07265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus orbignyianus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552063780/square.jpg",
+    "date": "2012-01-01",
+    "latitude": "-33.782394445",
+    "longitude": "-70.07265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550595352/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-31.582945156",
+    "longitude": "-71.5486416221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549380538/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-49.161589641",
+    "longitude": "-67.6188684627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548566276/square.jpg",
+    "date": "2012-03-17",
+    "latitude": "-28.2996194444",
+    "longitude": "-68.8393444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547799072/square.jpg",
+    "date": "2024-11-24",
+    "latitude": "-52.261366065",
+    "longitude": "-69.7364041933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547798843/square.jpg",
+    "date": "2024-11-24",
+    "latitude": "-52.4293917833",
+    "longitude": "-69.6462547767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547751189/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-22.2068782976",
+    "longitude": "-65.2156648002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546689273/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-12.7318105969",
+    "longitude": "-76.5569314993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545901936/square.jpg",
+    "date": "2006-10-14",
+    "latitude": "-33.3281457233",
+    "longitude": "-70.5316422939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545105187/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-12.0053635513",
+    "longitude": "-77.0259189538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543557880/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-16.4002885829",
+    "longitude": "-71.1175892542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541939575/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-48.3458156331",
+    "longitude": "-71.3855002965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539894380/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-38.5737064133",
+    "longitude": "-59.6956450395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538256035/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-38.4600808072",
+    "longitude": "-60.0095654634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536597563/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-33.2101661898",
+    "longitude": "-70.8229288761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536396406/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-33.206411584",
+    "longitude": "-70.8216259048",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531589005/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-35.9227934063",
+    "longitude": "-64.2366592319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531588524/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-35.9234278936",
+    "longitude": "-64.2343600423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530929343/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-11.3585425303",
+    "longitude": "-77.3586053839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529234662/square.jpg",
+    "date": "2017-12-13",
+    "latitude": "-26.26623804",
+    "longitude": "-67.1325867696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus orbignyianus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/528532859/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "-33.6313736885",
+    "longitude": "-70.0152088228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus orbignyianus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/528532817/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "-33.6196698199",
+    "longitude": "-69.965943667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus orbignyianus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/528532809/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "-33.6118379696",
+    "longitude": "-69.9776724726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis malouinus",
+    "common name": "White-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528303683/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-51.9999752",
+    "longitude": "-69.08789",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/528022564/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-31.5705940168",
+    "longitude": "-71.5519839898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/527168634/square.jpg",
+    "date": "2011-06-27",
+    "latitude": "-16.3401834",
+    "longitude": "-68.0425343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525286407/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-33.3507286862",
+    "longitude": "-70.6525176837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/524687232/square.jpg",
+    "date": "2016-11-14",
+    "latitude": "-53.1508766683",
+    "longitude": "-70.3882526038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524186208/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-33.2083785441",
+    "longitude": "-70.8221626276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520468810/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-22.1967606",
+    "longitude": "-65.2104982",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519372250/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "-18.2107994805",
+    "longitude": "-69.2232884175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517260245/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-35.9219934406",
+    "longitude": "-64.2372567442",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515359521/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-22.5342447841",
+    "longitude": "-68.0406603563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis malouinus",
+    "common name": "White-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515325192/square.jpg",
+    "date": "2024-11-09",
+    "latitude": "-54.9626759192",
+    "longitude": "-67.6343171952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis malouinus",
+    "common name": "White-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515324626/square.jpg",
+    "date": "2025-02-02",
+    "latitude": "-54.9662649565",
+    "longitude": "-67.6372642843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis malouinus",
+    "common name": "White-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515324068/square.jpg",
+    "date": "2024-11-07",
+    "latitude": "-54.9606513781",
+    "longitude": "-67.6325327157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513391249/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-23.5041535587",
+    "longitude": "-46.3210747805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513391244/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-23.5041535587",
+    "longitude": "-46.3210747805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508889580/square.jpg",
+    "date": "2024-04-27",
+    "latitude": "-31.5781808",
+    "longitude": "-71.5356033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/508672600/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-34.0253841396",
+    "longitude": "-70.2891969681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/508405403/square.jpg",
+    "date": "2024-11-13",
+    "latitude": "-29.685818",
+    "longitude": "-70.926676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507370294/square.jpg",
+    "date": "2025-03-18",
+    "latitude": "-33.6174828",
+    "longitude": "-69.9092741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507370304/square.jpg",
+    "date": "2025-03-18",
+    "latitude": "-34.0253842",
+    "longitude": "-70.2891968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506267396/square.jpg",
+    "date": "2022-02-12",
+    "latitude": "-11.4031111111",
+    "longitude": "-77.3860611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/504021224/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "-33.2108336699",
+    "longitude": "-70.8208699451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500322294/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "-34.7611658505",
+    "longitude": "-56.4307067509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/499989501/square.jpeg",
+    "date": "2025-05-03",
+    "latitude": "-29.3806693312",
+    "longitude": "-49.7546731308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499586224/square.jpg",
+    "date": "2025-03-24",
+    "latitude": "-18.190327",
+    "longitude": "-69.27455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499157781/square.jpg",
+    "date": "2014-01-15",
+    "latitude": "-32.8058155973",
+    "longitude": "-69.9430373595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499157568/square.jpg",
+    "date": "2014-01-14",
+    "latitude": "-32.8255094096",
+    "longitude": "-69.9108877093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498383927/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "-34.3332920548",
+    "longitude": "-58.7051887186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496752217/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "-16.2858762985",
+    "longitude": "-68.1157000158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496752223/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "-16.2858117129",
+    "longitude": "-68.1157851598",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/495207510/square.jpeg",
+    "date": "2025-04-23",
+    "latitude": "-30.8459227584",
+    "longitude": "-70.3140903108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492819812/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "-0.2970497046",
+    "longitude": "-78.3366179405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492819406/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "-0.3610287183",
+    "longitude": "-78.2873808918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/493192262/square.jpeg",
+    "date": "2025-04-25",
+    "latitude": "-16.0449441182",
+    "longitude": "-71.4057888463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491223656/square.jpeg",
+    "date": "2025-04-12",
+    "latitude": "-27.6395052557",
+    "longitude": "-68.5782550648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490818811/square.jpeg",
+    "date": "2025-04-24",
+    "latitude": "-38.3653392541",
+    "longitude": "-62.6769856652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490816308/square.jpg",
+    "date": "2024-11-24",
+    "latitude": "-23.065777599",
+    "longitude": "-67.249034717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490816307/square.jpg",
+    "date": "2025-02-23",
+    "latitude": "-37.0226135",
+    "longitude": "-73.5181833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus orbignyianus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489577061/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "-33.6174483429",
+    "longitude": "-69.9092028488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488646414/square.jpg",
+    "date": "2008-12-02",
+    "latitude": "-28.3238111111",
+    "longitude": "-68.8593388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488565085/square.jpg",
+    "date": "2025-04-18",
+    "latitude": "-37.6903949443",
+    "longitude": "-62.2702346182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus orbignyianus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/486755782/square.jpeg",
+    "date": "2024-11-23",
+    "latitude": "-36.0008661672",
+    "longitude": "-70.4131733626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus orbignyianus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/486742068/square.jpeg",
+    "date": "2024-11-23",
+    "latitude": "-35.9948186149",
+    "longitude": "-70.4061111063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486375929/square.jpeg",
+    "date": "2024-07-05",
+    "latitude": "-33.2101661898",
+    "longitude": "-70.8229288761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/486080329/square.jpeg",
+    "date": "2025-04-12",
+    "latitude": "-0.3510121706",
+    "longitude": "-78.1971265911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485339420/square.jpeg",
+    "date": "2025-03-10",
+    "latitude": "-11.3985376964",
+    "longitude": "-77.3821018813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485102175/square.jpg",
+    "date": "2008-12-02",
+    "latitude": "-28.3238111111",
+    "longitude": "-68.8593388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484535860/square.jpeg",
+    "date": "2025-04-05",
+    "latitude": "-35.5994990551",
+    "longitude": "-59.6838163936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482471875/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "-47.0533000325",
+    "longitude": "-70.6392686741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis malouinus",
+    "common name": "White-bellied Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/482250218/square.jpg",
+    "date": "2024-04-15",
+    "latitude": "-42.4840331272",
+    "longitude": "-72.3869873189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482243379/square.jpeg",
+    "date": "2025-03-04",
+    "latitude": "-28.3100834809",
+    "longitude": "-68.8335784446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482166624/square.jpg",
+    "date": "2025-03-18",
+    "latitude": "-33.6429251",
+    "longitude": "-70.0652004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482166608/square.jpg",
+    "date": "2025-03-18",
+    "latitude": "-33.6206099162",
+    "longitude": "-69.9652110433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481582981/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-22.1707563901",
+    "longitude": "-67.8049707124",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479952339/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "-29.1729402146",
+    "longitude": "-69.4036210862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479949867/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "-29.2155304879",
+    "longitude": "-69.3730296213",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479879799/square.jpg",
+    "date": "2025-02-24",
+    "latitude": "-29.123054434",
+    "longitude": "-69.3603773079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477086481/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "-49.4447",
+    "longitude": "-73.0935166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/477042794/square.jpeg",
+    "date": "2024-01-17",
+    "latitude": "-33.6267555556",
+    "longitude": "-69.9564972222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476956858/square.jpeg",
+    "date": "2015-03-27",
+    "latitude": "-49.2433972222",
+    "longitude": "-73.0256",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi gayi",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476832525/square.jpeg",
+    "date": "2025-03-14",
+    "latitude": "-27.0832016667",
+    "longitude": "-69.1767316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476496281/square.jpg",
+    "date": "2025-02-16",
+    "latitude": "-29.4038362418",
+    "longitude": "-69.2589348494",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476468315/square.jpg",
+    "date": "2025-03-05",
+    "latitude": "-45.1269412733",
+    "longitude": "-66.5424441855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475694916/square.jpeg",
+    "date": "2025-03-05",
+    "latitude": "-50.301355863",
+    "longitude": "-72.2147685662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475349040/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "-33.5189065866",
+    "longitude": "-70.1639188018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475349038/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "-33.5189065866",
+    "longitude": "-70.1639188018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475349009/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "-33.5189065866",
+    "longitude": "-70.1639188018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475348901/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "-33.5189065866",
+    "longitude": "-70.1639188018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473968119/square.jpeg",
+    "date": "2025-02-20",
+    "latitude": "-16.3571421251",
+    "longitude": "-71.1962441099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473968079/square.jpeg",
+    "date": "2025-02-20",
+    "latitude": "-16.3554126271",
+    "longitude": "-71.1934975279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473055651/square.jpeg",
+    "date": "2024-12-20",
+    "latitude": "-30.5871819655",
+    "longitude": "-71.5387801453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472995679/square.jpeg",
+    "date": "2025-02-18",
+    "latitude": "-34.1218033161",
+    "longitude": "-71.7139096186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472409728/square.jpeg",
+    "date": "2024-11-22",
+    "latitude": "-30.8862466649",
+    "longitude": "-71.6169645265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470988439/square.jpg",
+    "date": "2023-03-05",
+    "latitude": "-37.3474300612",
+    "longitude": "-69.9371588095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470882210/square.jpeg",
+    "date": "2022-07-16",
+    "latitude": "-12.436760596",
+    "longitude": "-76.7475513934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470830078/square.jpg",
+    "date": "2014-09-27",
+    "latitude": "-22.4203873128",
+    "longitude": "-65.9926718549",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469381970/square.jpeg",
+    "date": "2020-03-04",
+    "latitude": "-34.171285",
+    "longitude": "-69.6808616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468289662/square.jpeg",
+    "date": "2016-01-18",
+    "latitude": "-32.806281",
+    "longitude": "-69.943463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467714251/square.jpg",
+    "date": "2025-01-11",
+    "latitude": "-28.4552446213",
+    "longitude": "-66.0292307214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis malouinus",
+    "common name": "White-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467116084/square.jpeg",
+    "date": "2025-01-30",
+    "latitude": "-54.759467013",
+    "longitude": "-67.3192813196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/465956185/square.jpg",
+    "date": "2024-10-26",
+    "latitude": "-47.1405632436",
+    "longitude": "-71.2222235033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/465956067/square.jpg",
+    "date": "2024-10-26",
+    "latitude": "-47.2167253445",
+    "longitude": "-71.2103441627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465080216/square.jpg",
+    "date": "2024-12-04",
+    "latitude": "-32.964005",
+    "longitude": "-70.10505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464926052/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-22.7804414512",
+    "longitude": "-67.778447606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463969694/square.jpeg",
+    "date": "2024-12-27",
+    "latitude": "-50.3901721731",
+    "longitude": "-72.2232208889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463218069/square.jpg",
+    "date": "2024-12-26",
+    "latitude": "-47.1900896194",
+    "longitude": "-71.166144224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463133390/square.jpg",
+    "date": "2024-12-26",
+    "latitude": "-47.223182304",
+    "longitude": "-71.182823181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462992370/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-47.246912",
+    "longitude": "-71.200691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/462578819/square.jpeg",
+    "date": "2025-01-08",
+    "latitude": "-53.8111766997",
+    "longitude": "-67.6471889997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/462436458/square.jpeg",
+    "date": "2025-01-07",
+    "latitude": "-27.5609202723",
+    "longitude": "-68.1469280273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462224968/square.jpg",
+    "date": "2022-02-11",
+    "latitude": "-0.3300197489",
+    "longitude": "-78.1119200211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/461673333/square.jpg",
+    "date": "2024-10-12",
+    "latitude": "-51.0208107311",
+    "longitude": "-72.7902866516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461638594/square.jpg",
+    "date": "2025-01-03",
+    "latitude": "-32.805395",
+    "longitude": "-69.942025",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461531491/square.jpg",
+    "date": "2025-01-01",
+    "latitude": "-47.00894445",
+    "longitude": "-71.7781833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/461399626/square.jpg",
+    "date": "2024-10-10",
+    "latitude": "-48.8439113335",
+    "longitude": "-70.9479853596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461399430/square.jpg",
+    "date": "2024-12-29",
+    "latitude": "-38.8885639207",
+    "longitude": "-70.6507863794",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461258833/square.jpeg",
+    "date": "2024-12-04",
+    "latitude": "-33.6261933333",
+    "longitude": "-69.9572683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461210410/square.jpeg",
+    "date": "2024-12-02",
+    "latitude": "-23.0851883333",
+    "longitude": "-67.5939866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461210385/square.jpeg",
+    "date": "2024-12-02",
+    "latitude": "-23.085135",
+    "longitude": "-67.5940383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus orbignyianus",
+    "common name": "Gray-breasted Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461210389/square.jpeg",
+    "date": "2024-12-02",
+    "latitude": "-23.0851633333",
+    "longitude": "-67.5940266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461207565/square.jpeg",
+    "date": "2024-12-02",
+    "latitude": "-23.0821333333",
+    "longitude": "-67.5983083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461207562/square.jpeg",
+    "date": "2024-12-02",
+    "latitude": "-23.0821333333",
+    "longitude": "-67.5983083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/461008743/square.jpg",
+    "date": "2024-10-08",
+    "latitude": "-50.310255501",
+    "longitude": "-68.9378969054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/461008753/square.jpg",
+    "date": "2024-10-08",
+    "latitude": "-50.310255501",
+    "longitude": "-68.9378969054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460985435/square.jpeg",
+    "date": "2024-11-25",
+    "latitude": "-52.10431",
+    "longitude": "-70.7442283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460985433/square.jpeg",
+    "date": "2024-11-25",
+    "latitude": "-52.2155683333",
+    "longitude": "-70.6129033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://static.inaturalist.org/photos/460230762/square.jpg",
+    "date": "2024-10-08",
+    "latitude": "-51.6640334825",
+    "longitude": "-69.1993718254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thinocorus rumicivorus",
+    "common name": "Least Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459844160/square.jpg",
+    "date": "2024-12-04",
+    "latitude": "-52.2692140417",
+    "longitude": "-70.5627331033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459811608/square.jpg",
+    "date": "2024-12-26",
+    "latitude": "-0.2001337879",
+    "longitude": "-78.008393736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis gayi",
+    "common name": "Rufous-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459811483/square.jpg",
+    "date": "2024-12-26",
+    "latitude": "-0.3406699612",
+    "longitude": "-78.1627791711",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Attagis malouinus",
+    "common name": "White-bellied Seedsnipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459062003/square.jpg",
+    "date": "2024-11-22",
+    "latitude": "-54.6841666667",
+    "longitude": "-67.8497222217",
+    "quality_grade": "research"
+  }
+]

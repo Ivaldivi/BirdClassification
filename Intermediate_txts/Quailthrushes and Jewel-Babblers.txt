@@ -1,0 +1,1703 @@
+[
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556924253/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-35.8993082169",
+    "longitude": "147.3289283971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556889087/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-34.6849066667",
+    "longitude": "142.2710266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/556217728/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.3081744648",
+    "longitude": "152.3108662414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555319386/square.jpg",
+    "date": "2016-07-05",
+    "latitude": "-27.8693152447",
+    "longitude": "145.5723879333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555072914/square.jpg",
+    "date": "2023-10-23",
+    "latitude": "-32.436295",
+    "longitude": "145.462065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/554249523/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-29.610344718",
+    "longitude": "117.4228180495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554119106/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.4545033333",
+    "longitude": "152.9137716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553649640/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-30.2817256619",
+    "longitude": "150.1533976727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/553048833/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-33.556325",
+    "longitude": "150.2971055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/552551299/square.jpg",
+    "date": "2024-08-12",
+    "latitude": "-34.7564337",
+    "longitude": "142.3392427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552156917/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-25.1879546999",
+    "longitude": "149.980586482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550130319/square.jpg",
+    "date": "2025-01-25",
+    "latitude": "-28.8576111117",
+    "longitude": "152.03675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549573200/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-28.5798737648",
+    "longitude": "143.8142638654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/548660057/square.jpg",
+    "date": "2016-07-18",
+    "latitude": "-32.0670625",
+    "longitude": "151.6631875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546861317/square.jpg",
+    "date": "2024-04-25",
+    "latitude": "-28.5550952042",
+    "longitude": "117.7170667035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546861253/square.jpg",
+    "date": "2024-04-25",
+    "latitude": "-28.4475092879",
+    "longitude": "117.6391097874",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546861250/square.jpg",
+    "date": "2024-04-25",
+    "latitude": "-28.4340789545",
+    "longitude": "117.6466509948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546856672/square.jpg",
+    "date": "2024-04-25",
+    "latitude": "-29.6208357935",
+    "longitude": "117.1080445291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546856658/square.jpg",
+    "date": "2024-04-25",
+    "latitude": "-29.7709721269",
+    "longitude": "117.1436654287",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546856651/square.jpg",
+    "date": "2024-04-25",
+    "latitude": "-29.6237132703",
+    "longitude": "117.1054053204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546761958/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-22.5459354",
+    "longitude": "142.9866393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546197301/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-28.0625590664",
+    "longitude": "145.3016210797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545734152/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-37.9020692496",
+    "longitude": "144.2236254028",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543452525/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-28.060385554",
+    "longitude": "117.9586108813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/542678335/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-34.3560768598",
+    "longitude": "139.5262262734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541472875/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-34.3601066374",
+    "longitude": "139.5264748111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539367249/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-31.3798861111",
+    "longitude": "136.9231861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539367127/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-31.3798861111",
+    "longitude": "136.9231861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539341480/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-31.3798861111",
+    "longitude": "136.9231861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539341480/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-34.7496385806",
+    "longitude": "142.2818982836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/538729374/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-33.5973632997",
+    "longitude": "151.1373164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537899712/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-23.0903822191",
+    "longitude": "142.5273808237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537331563/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-28.8251682899",
+    "longitude": "151.9436967371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537281505/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-26.6399491324",
+    "longitude": "144.2440864729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537225316/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-25.7643374519",
+    "longitude": "140.7148249112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536847365/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-25.7925722",
+    "longitude": "139.3270218917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536847044/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-25.7927848684",
+    "longitude": "139.327331004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536846946/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-25.1245286998",
+    "longitude": "139.5929054222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536282089/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-34.0576691856",
+    "longitude": "139.4054548815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535761174/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-32.9599019037",
+    "longitude": "151.5371727571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535259262/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-26.6398107186",
+    "longitude": "144.2455416173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534786835/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-36.1276784168",
+    "longitude": "148.6284212569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534781362/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-36.1884138835",
+    "longitude": "148.624327466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532883165/square.jpg",
+    "date": "2025-02-16",
+    "latitude": "-34.2537194125",
+    "longitude": "139.3896663742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532202717/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-35.5829486",
+    "longitude": "148.9749981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530665205/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-36.1340805111",
+    "longitude": "148.5981445773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527927632/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-27.4318088748",
+    "longitude": "152.8990701879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527508034/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-34.9325391667",
+    "longitude": "141.7162697222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/526548932/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-29.9189311682",
+    "longitude": "139.6414249018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526531888/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-29.014999",
+    "longitude": "141.005413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525910000/square.jpg",
+    "date": "2023-09-20",
+    "latitude": "-27.7019157464",
+    "longitude": "138.3375342637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525909858/square.jpg",
+    "date": "2023-09-20",
+    "latitude": "-27.7016826717",
+    "longitude": "138.3365653041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525910069/square.jpg",
+    "date": "2023-09-20",
+    "latitude": "-27.7020563",
+    "longitude": "138.3358243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525894060/square.jpg",
+    "date": "2024-08-09",
+    "latitude": "-34.7047260817",
+    "longitude": "141.0611013545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525893764/square.jpg",
+    "date": "2024-08-09",
+    "latitude": "-34.7047334213",
+    "longitude": "141.0611521378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523857505/square.jpg",
+    "date": "2023-05-14",
+    "latitude": "-30.5301283333",
+    "longitude": "145.714705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518995231/square.jpg",
+    "date": "2022-07-13",
+    "latitude": "-36.1549195",
+    "longitude": "148.568145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518559196/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-34.3766905024",
+    "longitude": "139.4968508411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ptilorrhoa leucosticta",
+    "common name": "Spotted Jewel-babbler",
+    "observation photo url": "https://static.inaturalist.org/photos/518203414/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-9.149415",
+    "longitude": "147.730804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517120579/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "-37.2743767236",
+    "longitude": "146.107888357",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/514564952/square.jpg",
+    "date": "2017-08-03",
+    "latitude": "-28.55954",
+    "longitude": "117.768799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514489380/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-37.2275878278",
+    "longitude": "145.9397656471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513719748/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-33.7707055556",
+    "longitude": "150.0580277778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512170672/square.jpg",
+    "date": "2024-06-18",
+    "latitude": "-30.521369",
+    "longitude": "145.716997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/512124616/square.jpg",
+    "date": "2016-07-18",
+    "latitude": "-33.1460831246",
+    "longitude": "151.0912798307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512105453/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "-30.5337974",
+    "longitude": "145.7418433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/511361767/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-30.3686486802",
+    "longitude": "136.8986370327",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511331226/square.jpg",
+    "date": "2015-10-07",
+    "latitude": "-27.4032387803",
+    "longitude": "117.5785374723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510593298/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-32.8347866667",
+    "longitude": "150.2146030556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/510183527/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-27.6738573997",
+    "longitude": "117.9426629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510123519/square.jpg",
+    "date": "2013-09-30",
+    "latitude": "-33.7622452",
+    "longitude": "140.1243773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509630963/square.jpg",
+    "date": "2020-12-17",
+    "latitude": "-34.678204",
+    "longitude": "142.318772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma alisteri",
+    "common name": "Nullarbor Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/509127165/square.jpg",
+    "date": "2025-05-06",
+    "latitude": "-31.4441154386",
+    "longitude": "129.6186142026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma alisteri",
+    "common name": "Nullarbor Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/509127145/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "-31.4596130201",
+    "longitude": "129.6192650505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/509116494/square.jpg",
+    "date": "2025-05-08",
+    "latitude": "-33.0640430241",
+    "longitude": "136.5696669098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509105692/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-28.2844885378",
+    "longitude": "152.730898476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509105298/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-28.2844650943",
+    "longitude": "152.7308712976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509064661/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-28.8310572475",
+    "longitude": "151.9385413075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508224639/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-34.6031926443",
+    "longitude": "139.4982528638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508224575/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-34.6031926443",
+    "longitude": "139.4982528638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/507182015/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-34.9842631127",
+    "longitude": "140.7902755915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/507181705/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-34.9618826568",
+    "longitude": "140.822451009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/507181640/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-34.9623750432",
+    "longitude": "140.8222793476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/507180540/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-34.9610822881",
+    "longitude": "140.8336991455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/507039642/square.jpg",
+    "date": "2025-04-24",
+    "latitude": "-33.1645973053",
+    "longitude": "151.3944442356",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505987850/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-34.9592",
+    "longitude": "140.8363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505607560/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-36.7354226395",
+    "longitude": "147.1875155345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503109754/square.jpg",
+    "date": "2025-05-11",
+    "latitude": "-37.644856",
+    "longitude": "148.314487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503054760/square.jpg",
+    "date": "2019-03-09",
+    "latitude": "-34.6904072605",
+    "longitude": "142.2711777313",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502954055/square.jpeg",
+    "date": "2023-10-21",
+    "latitude": "-35.3526771734",
+    "longitude": "148.8934971077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502954055/square.jpeg",
+    "date": "2025-04-23",
+    "latitude": "-32.9658054765",
+    "longitude": "146.160868064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496444094/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "-37.3086774918",
+    "longitude": "146.3481083486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492130017/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "-34.3493464559",
+    "longitude": "139.5155887478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/487428671/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "-34.6170398963",
+    "longitude": "142.2709134379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486641166/square.jpeg",
+    "date": "2018-08-25",
+    "latitude": "-26.114985",
+    "longitude": "138.54206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486639847/square.jpeg",
+    "date": "2018-08-24",
+    "latitude": "-26.20542",
+    "longitude": "138.51402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486638980/square.jpeg",
+    "date": "2018-08-23",
+    "latitude": "-26.19154",
+    "longitude": "138.51339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486580474/square.jpg",
+    "date": "2025-03-31",
+    "latitude": "-32.649",
+    "longitude": "145.387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485824088/square.jpg",
+    "date": "2024-09-16",
+    "latitude": "-34.7426956614",
+    "longitude": "142.3245143279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485771191/square.jpg",
+    "date": "2023-01-08",
+    "latitude": "-34.7292434895",
+    "longitude": "142.3165989113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485013682/square.jpeg",
+    "date": "2023-12-21",
+    "latitude": "-33.0882218485",
+    "longitude": "136.603137525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482307804/square.jpg",
+    "date": "2013-01-18",
+    "latitude": "-29.5339765",
+    "longitude": "152.0340968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482307804/square.jpg",
+    "date": "2024-04-25",
+    "latitude": "-29.6502567441",
+    "longitude": "117.0060549437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480680548/square.jpeg",
+    "date": "2025-03-29",
+    "latitude": "-42.1161974986",
+    "longitude": "148.3360069245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475246631/square.jpeg",
+    "date": "2025-01-26",
+    "latitude": "-37.9212022445",
+    "longitude": "146.0724248592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475246319/square.jpeg",
+    "date": "2025-01-26",
+    "latitude": "-37.9179483596",
+    "longitude": "146.0805641714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475111784/square.jpg",
+    "date": "2023-03-15",
+    "latitude": "-23.9469914916",
+    "longitude": "116.3038967469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474854817/square.jpg",
+    "date": "2025-02-09",
+    "latitude": "-37.8649533937",
+    "longitude": "144.2423918553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474236667/square.jpeg",
+    "date": "2025-03-05",
+    "latitude": "-36.110872",
+    "longitude": "149.4898977997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473614056/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-34.319418",
+    "longitude": "139.502498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ptilorrhoa caerulescens",
+    "common name": "Blue Jewel-babbler",
+    "observation photo url": "https://static.inaturalist.org/photos/473079692/square.jpg",
+    "date": "2025-02-27",
+    "latitude": "-6.7376624879",
+    "longitude": "140.5113222231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472468335/square.jpg",
+    "date": "2025-02-24",
+    "latitude": "-28.937721196",
+    "longitude": "152.1003728168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472369249/square.jpeg",
+    "date": "2024-10-31",
+    "latitude": "-27.4758996",
+    "longitude": "152.9312591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472264542/square.jpeg",
+    "date": "2025-02-21",
+    "latitude": "-34.6202874747",
+    "longitude": "139.5731244609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/471871581/square.jpeg",
+    "date": "2025-02-01",
+    "latitude": "-34.0507043151",
+    "longitude": "140.6100449841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471690213/square.jpg",
+    "date": "2023-04-01",
+    "latitude": "-30.7406545416",
+    "longitude": "142.2856346007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469842697/square.jpeg",
+    "date": "2025-01-19",
+    "latitude": "-34.6836119203",
+    "longitude": "142.2704143219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468978625/square.jpeg",
+    "date": "2025-02-09",
+    "latitude": "-35.44796705",
+    "longitude": "149.54357372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468970308/square.jpeg",
+    "date": "2025-02-09",
+    "latitude": "-35.4472962068",
+    "longitude": "149.5436546858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468923862/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "-30.5962383333",
+    "longitude": "151.802445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467734065/square.jpeg",
+    "date": "2021-01-21",
+    "latitude": "-25.6209660542",
+    "longitude": "119.3721615092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467509419/square.jpeg",
+    "date": "2023-05-19",
+    "latitude": "-30.7018763502",
+    "longitude": "136.9116042943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/466503522/square.jpg",
+    "date": "2024-09-14",
+    "latitude": "-33.7275404107",
+    "longitude": "143.1755746913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465975670/square.jpg",
+    "date": "2025-01-25",
+    "latitude": "-28.8576111117",
+    "longitude": "152.03675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/465857761/square.jpeg",
+    "date": "2025-01-25",
+    "latitude": "-27.4735194444",
+    "longitude": "152.9302694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465447589/square.jpg",
+    "date": "2024-11-17",
+    "latitude": "-34.6233350937",
+    "longitude": "139.494480752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465308607/square.jpg",
+    "date": "2015-10-05",
+    "latitude": "-27.4120661836",
+    "longitude": "117.6517777246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/464660321/square.jpeg",
+    "date": "2025-01-19",
+    "latitude": "-27.4632055556",
+    "longitude": "152.8768444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464468347/square.jpg",
+    "date": "2025-01-11",
+    "latitude": "-30.3807371175",
+    "longitude": "136.900129202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463520794/square.jpeg",
+    "date": "2024-05-17",
+    "latitude": "-34.6406645522",
+    "longitude": "139.5065562103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463520679/square.jpg",
+    "date": "2024-11-13",
+    "latitude": "-34.6445733848",
+    "longitude": "139.4995084962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461626232/square.jpg",
+    "date": "2025-01-01",
+    "latitude": "-34.5985531763",
+    "longitude": "139.4950529648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460060114/square.jpg",
+    "date": "2024-12-28",
+    "latitude": "-42.0305112137",
+    "longitude": "147.8759759118",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459846495/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-34.598231291",
+    "longitude": "139.4758236408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459846337/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-34.5982265993",
+    "longitude": "139.4758206233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458841247/square.jpg",
+    "date": "2024-06-26",
+    "latitude": "-27.9797638883",
+    "longitude": "145.546219445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456384721/square.jpg",
+    "date": "2024-09-25",
+    "latitude": "-30.3048760406",
+    "longitude": "120.6876011922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum fordianum",
+    "common name": "Northern Copperback Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456344869/square.jpg",
+    "date": "2024-09-24",
+    "latitude": "-32.3516804576",
+    "longitude": "121.7810169619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453454378/square.jpeg",
+    "date": "2024-11-20",
+    "latitude": "-34.0545498997",
+    "longitude": "140.6180698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453226024/square.jpeg",
+    "date": "2024-11-26",
+    "latitude": "-30.7109041882",
+    "longitude": "121.4518234607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452296313/square.jpeg",
+    "date": "2024-11-21",
+    "latitude": "-30.5465986771",
+    "longitude": "136.9538401187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451756990/square.jpeg",
+    "date": "2024-11-20",
+    "latitude": "-35.7331769997",
+    "longitude": "149.2866381997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451718757/square.jpg",
+    "date": "2024-11-12",
+    "latitude": "-31.6971502746",
+    "longitude": "150.0170457269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451142735/square.jpeg",
+    "date": "2024-10-08",
+    "latitude": "-34.6880828277",
+    "longitude": "142.302239773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451005720/square.jpg",
+    "date": "2024-11-17",
+    "latitude": "-35.682045",
+    "longitude": "150.165337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449547452/square.jpg",
+    "date": "2024-09-20",
+    "latitude": "-28.5617414722",
+    "longitude": "117.7691280556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ptilorrhoa castanonota",
+    "common name": "Chestnut-backed Jewel-babbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449330061/square.jpeg",
+    "date": "2017-10-03",
+    "latitude": "-1.1228217886",
+    "longitude": "134.0301664593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447820016/square.jpg",
+    "date": "2024-10-04",
+    "latitude": "-37.884645355",
+    "longitude": "144.1730359333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447575725/square.jpg",
+    "date": "2024-10-07",
+    "latitude": "-30.0211482",
+    "longitude": "138.0435701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446708737/square.jpeg",
+    "date": "2024-08-29",
+    "latitude": "-34.3469965822",
+    "longitude": "139.5237317828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446450440/square.jpeg",
+    "date": "2024-09-17",
+    "latitude": "-34.7066448291",
+    "longitude": "141.0618979463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445965897/square.jpg",
+    "date": "2024-10-28",
+    "latitude": "-35.2516586925",
+    "longitude": "142.1382694948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445535839/square.jpeg",
+    "date": "2024-10-24",
+    "latitude": "-37.4795414654",
+    "longitude": "144.5976821054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445002740/square.jpeg",
+    "date": "2024-10-07",
+    "latitude": "-34.6508599",
+    "longitude": "142.2709742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444999262/square.jpeg",
+    "date": "2024-10-07",
+    "latitude": "-34.6599677116",
+    "longitude": "142.2716608455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444741665/square.jpeg",
+    "date": "2024-10-02",
+    "latitude": "-29.4620373214",
+    "longitude": "142.22892216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444444937/square.jpeg",
+    "date": "2024-09-22",
+    "latitude": "-28.082734962",
+    "longitude": "145.2454625063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443025008/square.png",
+    "date": "2024-10-16",
+    "latitude": "-33.2055729471",
+    "longitude": "141.1884979792",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442209472/square.jpeg",
+    "date": "2024-10-09",
+    "latitude": "-28.0257305",
+    "longitude": "120.842255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/442252168/square.jpeg",
+    "date": "2024-10-12",
+    "latitude": "-34.809755712",
+    "longitude": "150.0233296305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441593801/square.jpeg",
+    "date": "2024-10-05",
+    "latitude": "-30.5281509123",
+    "longitude": "145.7152097686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum punctatum",
+    "common name": "Eastern Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440697534/square.jpg",
+    "date": "2024-09-05",
+    "latitude": "-33.5706527409",
+    "longitude": "150.240952224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439331046/square.jpg",
+    "date": "2024-10-06",
+    "latitude": "-30.216625",
+    "longitude": "136.981713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439333542/square.jpg",
+    "date": "2024-09-20",
+    "latitude": "-28.5611363333",
+    "longitude": "117.7688692222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438796220/square.jpeg",
+    "date": "2024-09-30",
+    "latitude": "-34.0552987",
+    "longitude": "140.6188005997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438157183/square.jpeg",
+    "date": "2024-09-26",
+    "latitude": "-34.680299557",
+    "longitude": "142.2715894259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437782805/square.jpeg",
+    "date": "2024-09-22",
+    "latitude": "-30.7267308292",
+    "longitude": "139.3422130641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/437767633/square.jpg",
+    "date": "2024-09-27",
+    "latitude": "-32.1602832571",
+    "longitude": "136.5567990164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437123383/square.png",
+    "date": "2024-09-29",
+    "latitude": "-30.481",
+    "longitude": "137.222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/434741340/square.jpeg",
+    "date": "2024-08-03",
+    "latitude": "-37.1599030728",
+    "longitude": "145.8419522905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/433349554/square.jpeg",
+    "date": "2024-09-21",
+    "latitude": "-27.3760166667",
+    "longitude": "121.017325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/432969854/square.jpeg",
+    "date": "2022-06-11",
+    "latitude": "-33.7929141997",
+    "longitude": "150.6084660997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/431440734/square.jpg",
+    "date": "2024-09-16",
+    "latitude": "-33.5984188715",
+    "longitude": "151.1291143829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429587676/square.jpeg",
+    "date": "2024-09-11",
+    "latitude": "-37.6310232747",
+    "longitude": "143.6049884805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429280459/square.jpg",
+    "date": "2024-09-08",
+    "latitude": "-27.9112923524",
+    "longitude": "138.54582288",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427705352/square.jpeg",
+    "date": "2024-09-03",
+    "latitude": "-30.1929466667",
+    "longitude": "137.89918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427703215/square.jpeg",
+    "date": "2024-09-02",
+    "latitude": "-29.9688155556",
+    "longitude": "138.0160075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma cinnamomeum",
+    "common name": "Cinnamon Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427703165/square.jpeg",
+    "date": "2024-09-02",
+    "latitude": "-29.9688163889",
+    "longitude": "138.0160080556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427281746/square.jpeg",
+    "date": "2020-06-12",
+    "latitude": "-28.6216667",
+    "longitude": "143.8708333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/426734087/square.jpeg",
+    "date": "2024-08-30",
+    "latitude": "-32.6613738536",
+    "longitude": "150.028910478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426718804/square.jpg",
+    "date": "2024-09-03",
+    "latitude": "-34.348715",
+    "longitude": "139.524015",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma marginatum",
+    "common name": "Western Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/426235936/square.jpg",
+    "date": "2024-08-29",
+    "latitude": "-27.810317494",
+    "longitude": "117.952874085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/426235936/square.jpg",
+    "date": "2024-08-24",
+    "latitude": "-34.0394344024",
+    "longitude": "139.3995517031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma clarum",
+    "common name": "Copperback Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/425325900/square.jpeg",
+    "date": "2024-07-27",
+    "latitude": "-33.0661487409",
+    "longitude": "136.7587174814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castanotum",
+    "common name": "Chestnut Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/425324212/square.jpeg",
+    "date": "2024-07-17",
+    "latitude": "-34.7367387982",
+    "longitude": "142.3245727604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/425324212/square.jpeg",
+    "date": "2024-08-28",
+    "latitude": "-26.637457095",
+    "longitude": "144.2288004343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424034903/square.jpeg",
+    "date": "2024-08-27",
+    "latitude": "-36.1267041262",
+    "longitude": "148.5521714656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma punctatum",
+    "common name": "Spotted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/423732604/square.jpeg",
+    "date": "2024-08-24",
+    "latitude": "-36.5213770698",
+    "longitude": "149.9770625308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclosoma castaneothorax",
+    "common name": "Chestnut-breasted Quailthrush",
+    "observation photo url": "https://static.inaturalist.org/photos/423732604/square.jpeg",
+    "date": "2024-08-26",
+    "latitude": "-28.1032289888",
+    "longitude": "145.2323519786",
+    "quality_grade": "research"
+  }
+]

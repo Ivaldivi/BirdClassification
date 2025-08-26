@@ -1,0 +1,1442 @@
+[
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552700656/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-12.9413333333",
+    "longitude": "49.116045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cryptosylvicola randrianasoloi",
+    "common name": "Cryptic Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543291980/square.jpg",
+    "date": "2024-11-27",
+    "latitude": "-18.7706204394",
+    "longitude": "48.4321342821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Randia pseudozosterops",
+    "common name": "Rand's Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543291758/square.jpg",
+    "date": "2024-11-27",
+    "latitude": "-18.7706204394",
+    "longitude": "48.4321342821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536489704/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-21.2642877962",
+    "longitude": "47.4218586222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532361410/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-21.2716377569",
+    "longitude": "47.4376366776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532203472/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-18.965695",
+    "longitude": "48.46542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521617173/square.jpg",
+    "date": "2017-07-19",
+    "latitude": "-18.9382179253",
+    "longitude": "48.4190137154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505177318/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "-12.4487241056",
+    "longitude": "49.1682369635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505176866/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "-12.2235426989",
+    "longitude": "49.2636911237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497902550/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "-15.5964836",
+    "longitude": "50.1417789",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490139235/square.jpg",
+    "date": "2024-11-17",
+    "latitude": "-18.9346386383",
+    "longitude": "48.4178134701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487120604/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "-21.2601465572",
+    "longitude": "47.4125113061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476765272/square.jpeg",
+    "date": "2019-11-11",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476757174/square.jpeg",
+    "date": "2019-11-13",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475500312/square.jpeg",
+    "date": "2025-01-23",
+    "latitude": "-21.2636868014",
+    "longitude": "47.4240235001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/472369494/square.jpeg",
+    "date": "2018-11-29",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/472368471/square.jpeg",
+    "date": "2018-12-08",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/472368320/square.jpeg",
+    "date": "2018-12-08",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472101999/square.jpeg",
+    "date": "2025-01-19",
+    "latitude": "-18.9294837463",
+    "longitude": "48.4151874432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis incelebris",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471234212/square.jpg",
+    "date": "2025-01-09",
+    "latitude": "-20.0596490978",
+    "longitude": "44.6411722284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/470321472/square.jpg",
+    "date": "2016-10-31",
+    "latitude": "-14.4389858884",
+    "longitude": "49.7778827258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469953238/square.jpeg",
+    "date": "2022-12-11",
+    "latitude": "-18.8801033292",
+    "longitude": "48.4938515402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469883146/square.jpeg",
+    "date": "2022-12-10",
+    "latitude": "-18.8323806293",
+    "longitude": "48.5889487499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469853517/square.jpeg",
+    "date": "2022-12-10",
+    "latitude": "-18.8951425622",
+    "longitude": "48.5856468536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469853368/square.jpeg",
+    "date": "2022-12-10",
+    "latitude": "-18.9322639875",
+    "longitude": "48.5764570761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469853070/square.jpeg",
+    "date": "2022-12-10",
+    "latitude": "-18.8293157678",
+    "longitude": "48.5386156224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469777329/square.jpeg",
+    "date": "2022-12-06",
+    "latitude": "-18.9336256422",
+    "longitude": "48.4021055943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469776311/square.jpeg",
+    "date": "2022-12-06",
+    "latitude": "-18.8467226829",
+    "longitude": "48.5845890874",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464960027/square.jpeg",
+    "date": "2024-11-07",
+    "latitude": "-21.2640611963",
+    "longitude": "47.4192915112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460975958/square.jpeg",
+    "date": "2024-10-27",
+    "latitude": "-18.9270625",
+    "longitude": "48.4180625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Randia pseudozosterops",
+    "common name": "Rand's Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460960750/square.png",
+    "date": "2024-10-27",
+    "latitude": "-18.9270625",
+    "longitude": "48.4180625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460950818/square.jpeg",
+    "date": "2017-10-02",
+    "latitude": "-18.93867",
+    "longitude": "48.42324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460459578/square.jpeg",
+    "date": "2017-11-17",
+    "latitude": "-20.07322",
+    "longitude": "44.6749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459453633/square.jpeg",
+    "date": "2017-11-07",
+    "latitude": "-22.9624024605",
+    "longitude": "44.6404751607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459453624/square.jpeg",
+    "date": "2017-11-07",
+    "latitude": "-22.8480573",
+    "longitude": "44.6576983469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459420957/square.jpeg",
+    "date": "2024-11-28",
+    "latitude": "-18.9439439411",
+    "longitude": "48.4194425196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459419870/square.jpeg",
+    "date": "2024-11-28",
+    "latitude": "-18.940940187",
+    "longitude": "48.4188417048",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/458249488/square.jpeg",
+    "date": "2024-12-15",
+    "latitude": "-22.8302738948",
+    "longitude": "44.6306499683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crossleyia xanthophrys",
+    "common name": "Madagascar Yellowbrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458045838/square.jpeg",
+    "date": "2024-11-21",
+    "latitude": "-21.2456983692",
+    "longitude": "47.5759992831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Randia pseudozosterops",
+    "common name": "Rand's Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458027986/square.jpeg",
+    "date": "2024-11-20",
+    "latitude": "-21.2675784084",
+    "longitude": "47.4167601906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457661824/square.jpeg",
+    "date": "2024-11-18",
+    "latitude": "-22.9720075528",
+    "longitude": "44.6593057947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457494896/square.jpg",
+    "date": "2024-10-31",
+    "latitude": "-21.2598663",
+    "longitude": "47.4514912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456700476/square.jpeg",
+    "date": "2024-11-05",
+    "latitude": "-18.8020058107",
+    "longitude": "48.4396475274",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456646394/square.jpeg",
+    "date": "2024-11-04",
+    "latitude": "-18.9333759213",
+    "longitude": "48.4266761759",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hartertula flavoviridis",
+    "common name": "Wedge-tailed Jery",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456646353/square.jpeg",
+    "date": "2024-11-03",
+    "latitude": "-18.686982672",
+    "longitude": "48.5404141239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456646347/square.jpeg",
+    "date": "2024-11-03",
+    "latitude": "-18.7963012968",
+    "longitude": "48.4367564647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456185583/square.jpeg",
+    "date": "2024-10-25",
+    "latitude": "-18.9358059187",
+    "longitude": "48.4132995612",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455692800/square.jpeg",
+    "date": "2024-11-18",
+    "latitude": "-21.2644930561",
+    "longitude": "47.4260827681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/455510852/square.jpeg",
+    "date": "2024-12-06",
+    "latitude": "-18.79826948",
+    "longitude": "48.42771553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hartertula flavoviridis",
+    "common name": "Wedge-tailed Jery",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455477933/square.jpg",
+    "date": "2024-11-03",
+    "latitude": "-18.9458127112",
+    "longitude": "48.422164964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455477259/square.jpg",
+    "date": "2024-11-03",
+    "latitude": "-18.8815782877",
+    "longitude": "48.4314799872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455475309/square.jpeg",
+    "date": "2024-10-30",
+    "latitude": "-20.0669496081",
+    "longitude": "44.6575212343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455475088/square.jpeg",
+    "date": "2024-10-30",
+    "latitude": "-20.0672153",
+    "longitude": "44.657497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cryptosylvicola randrianasoloi",
+    "common name": "Cryptic Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455095501/square.jpg",
+    "date": "2024-11-07",
+    "latitude": "-18.766901382",
+    "longitude": "46.8691248814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455077495/square.jpg",
+    "date": "2024-11-05",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454662718/square.jpg",
+    "date": "2024-11-18",
+    "latitude": "-20.1191465",
+    "longitude": "44.68314569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454461597/square.jpeg",
+    "date": "2024-10-26",
+    "latitude": "-22.8279516281",
+    "longitude": "44.6770237264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454204587/square.jpg",
+    "date": "2024-10-26",
+    "latitude": "-22.8155473273",
+    "longitude": "44.7039702403",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnornis chloropetoides",
+    "common name": "Thamnornis",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453949979/square.jpeg",
+    "date": "2024-10-23",
+    "latitude": "-23.117754947",
+    "longitude": "43.6241525218",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnornis chloropetoides",
+    "common name": "Thamnornis",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453515706/square.jpg",
+    "date": "2024-10-23",
+    "latitude": "-23.1222477481",
+    "longitude": "43.6242918623",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452411278/square.jpeg",
+    "date": "2024-10-19",
+    "latitude": "-16.3122427356",
+    "longitude": "46.8171858889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452197503/square.jpg",
+    "date": "2024-10-20",
+    "latitude": "-16.3114340243",
+    "longitude": "46.8171995502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451501954/square.jpeg",
+    "date": "2024-11-14",
+    "latitude": "-15.78411622",
+    "longitude": "50.058243824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451501069/square.jpeg",
+    "date": "2024-11-12",
+    "latitude": "-15.78411622",
+    "longitude": "50.058243824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/451307617/square.jpeg",
+    "date": "2024-11-18",
+    "latitude": "-22.9927259553",
+    "longitude": "44.6089550306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/451304889/square.jpeg",
+    "date": "2024-11-18",
+    "latitude": "-22.8417034317",
+    "longitude": "44.6818377078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cryptosylvicola randrianasoloi",
+    "common name": "Cryptic Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/449095414/square.jpeg",
+    "date": "2024-11-09",
+    "latitude": "-18.9568293129",
+    "longitude": "48.457712789",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/447262301/square.jpeg",
+    "date": "2024-11-02",
+    "latitude": "-16.2731893517",
+    "longitude": "46.8761693314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447208988/square.jpeg",
+    "date": "2024-07-25",
+    "latitude": "-18.9302291667",
+    "longitude": "48.4147186111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/443959184/square.jpg",
+    "date": "2024-10-13",
+    "latitude": "-21.2959475768",
+    "longitude": "47.2849246272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/546162422/square.jpg",
+    "date": "2024-10-16",
+    "latitude": "-22.8369608399",
+    "longitude": "44.6138681286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443079138/square.jpeg",
+    "date": "2024-10-16",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/432285026/square.jpeg",
+    "date": "2023-08-09",
+    "latitude": "-16.1619383534",
+    "longitude": "47.1163687568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/432285008/square.jpeg",
+    "date": "2023-08-09",
+    "latitude": "-16.1619383534",
+    "longitude": "47.1163687568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis cinereiceps",
+    "common name": "Grey-crowned Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/432262492/square.jpeg",
+    "date": "2023-07-20",
+    "latitude": "-22.0223226373",
+    "longitude": "46.9163721577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/422732067/square.jpeg",
+    "date": "2011-10-22",
+    "latitude": "-18.9258403049",
+    "longitude": "48.4156050906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411351011/square.jpg",
+    "date": "2024-06-25",
+    "latitude": "-15.4722674392",
+    "longitude": "46.6581770614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408427014/square.jpeg",
+    "date": "2024-06-18",
+    "latitude": "-18.9675823266",
+    "longitude": "48.4650597005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/406997390/square.jpeg",
+    "date": "2024-03-28",
+    "latitude": "-18.7928646078",
+    "longitude": "48.4265551019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400804572/square.jpeg",
+    "date": "2012-02-08",
+    "latitude": "-21.3858375543",
+    "longitude": "47.501036142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399428003/square.jpeg",
+    "date": "2024-06-03",
+    "latitude": "-18.9657756007",
+    "longitude": "48.4654049948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399232475/square.jpeg",
+    "date": "2012-01-05",
+    "latitude": "-15.6698139908",
+    "longitude": "49.8142703263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398085830/square.jpeg",
+    "date": "2024-06-22",
+    "latitude": "-18.9463799494",
+    "longitude": "48.4187989309",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/395683490/square.jpg",
+    "date": "2024-06-08",
+    "latitude": "-18.927864",
+    "longitude": "48.418568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394990660/square.jpeg",
+    "date": "2013-11-03",
+    "latitude": "-20.0670659374",
+    "longitude": "44.6569686993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388142178/square.jpg",
+    "date": "2024-05-29",
+    "latitude": "-21.3513136969",
+    "longitude": "47.2056129305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385234203/square.jpeg",
+    "date": "2011-09-22",
+    "latitude": "-18.871248625",
+    "longitude": "48.4380311305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369606198/square.jpg",
+    "date": "2024-02-09",
+    "latitude": "-22.883842191",
+    "longitude": "44.692000685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hartertula flavoviridis",
+    "common name": "Wedge-tailed Jery",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369578061/square.jpg",
+    "date": "2024-02-05",
+    "latitude": "-21.236329548",
+    "longitude": "47.4506069484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crossleyia xanthophrys",
+    "common name": "Madagascar Yellowbrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369577991/square.jpg",
+    "date": "2024-02-05",
+    "latitude": "-21.2598432214",
+    "longitude": "47.5591845231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364125081/square.jpg",
+    "date": "2024-04-07",
+    "latitude": "-18.9293416667",
+    "longitude": "48.4164666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/364031332/square.jpeg",
+    "date": "2023-07-31",
+    "latitude": "-18.9369567057",
+    "longitude": "48.4138036519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362671992/square.jpeg",
+    "date": "2023-11-15",
+    "latitude": "-21.2407102226",
+    "longitude": "47.4063931312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hartertula flavoviridis",
+    "common name": "Wedge-tailed Jery",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362671870/square.jpeg",
+    "date": "2023-11-18",
+    "latitude": "-21.3487760424",
+    "longitude": "47.5473099617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362671828/square.jpeg",
+    "date": "2023-11-20",
+    "latitude": "-21.2963902439",
+    "longitude": "47.4219613519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358835797/square.jpeg",
+    "date": "2019-10-06",
+    "latitude": "-12.910948",
+    "longitude": "49.167555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358597476/square.jpg",
+    "date": "2023-12-04",
+    "latitude": "-18.935915",
+    "longitude": "48.414449",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnornis chloropetoides",
+    "common name": "Thamnornis",
+    "observation photo url": "https://static.inaturalist.org/photos/358516105/square.jpeg",
+    "date": "2024-02-12",
+    "latitude": "-23.1166897398",
+    "longitude": "43.623284496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnornis chloropetoides",
+    "common name": "Thamnornis",
+    "observation photo url": "https://static.inaturalist.org/photos/358516101/square.jpeg",
+    "date": "2024-02-12",
+    "latitude": "-23.1167440104",
+    "longitude": "43.6232415807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/358513524/square.jpeg",
+    "date": "2024-02-09",
+    "latitude": "-22.8880843305",
+    "longitude": "44.6936743784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347355754/square.jpg",
+    "date": "2019-10-25",
+    "latitude": "-15.7223097165",
+    "longitude": "49.9606577912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hartertula flavoviridis",
+    "common name": "Wedge-tailed Jery",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341655052/square.jpeg",
+    "date": "2023-11-10",
+    "latitude": "-21.2021172995",
+    "longitude": "47.3313716018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341654565/square.jpeg",
+    "date": "2023-11-10",
+    "latitude": "-21.2397599193",
+    "longitude": "47.3934914564",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341625706/square.jpeg",
+    "date": "2023-11-09",
+    "latitude": "-21.2601986207",
+    "longitude": "47.424848614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341509678/square.jpeg",
+    "date": "2023-11-07",
+    "latitude": "-22.9698180057",
+    "longitude": "44.7456662135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340644012/square.jpg",
+    "date": "2023-11-25",
+    "latitude": "-18.9344904089",
+    "longitude": "48.4251309275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnornis chloropetoides",
+    "common name": "Thamnornis",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/339588148/square.jpeg",
+    "date": "2023-11-04",
+    "latitude": "-24.1247056212",
+    "longitude": "43.770270997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/336855097/square.jpeg",
+    "date": "2023-11-24",
+    "latitude": "-21.2630259991",
+    "longitude": "47.4098445863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/336270382/square.jpg",
+    "date": "2013-11-08",
+    "latitude": "-18.938839",
+    "longitude": "48.433764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335186185/square.jpeg",
+    "date": "2022-11-12",
+    "latitude": "-18.9384461295",
+    "longitude": "48.424644439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnornis chloropetoides",
+    "common name": "Thamnornis",
+    "observation photo url": "https://static.inaturalist.org/photos/334350654/square.jpg",
+    "date": "2023-10-06",
+    "latitude": "-23.1182399835",
+    "longitude": "43.6288967979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332499885/square.jpg",
+    "date": "2023-10-17",
+    "latitude": "-19.017591493",
+    "longitude": "44.7706994456",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/332482019/square.jpg",
+    "date": "2023-09-28",
+    "latitude": "-18.9309966667",
+    "longitude": "48.4171433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332322356/square.jpg",
+    "date": "2023-10-16",
+    "latitude": "-20.06694",
+    "longitude": "44.668081",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/332195687/square.jpg",
+    "date": "2023-09-26",
+    "latitude": "-18.79873",
+    "longitude": "48.4274166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/332195674/square.jpg",
+    "date": "2023-09-26",
+    "latitude": "-18.79873",
+    "longitude": "48.4274166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/332025324/square.jpg",
+    "date": "2023-09-27",
+    "latitude": "-18.9316366667",
+    "longitude": "48.4139466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/331807989/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-18.946825",
+    "longitude": "48.4187066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/331788282/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-18.8284482367",
+    "longitude": "48.5119585083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/331699830/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-18.9290716667",
+    "longitude": "48.4141666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cryptosylvicola randrianasoloi",
+    "common name": "Cryptic Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/331671374/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-19.0043933333",
+    "longitude": "48.4541916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://static.inaturalist.org/photos/331663860/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-19.0138633333",
+    "longitude": "48.4566466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cryptosylvicola randrianasoloi",
+    "common name": "Cryptic Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/331663811/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-19.0128533333",
+    "longitude": "48.4581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/324853451/square.jpg",
+    "date": "2019-11-10",
+    "latitude": "-18.9325804131",
+    "longitude": "48.4151856583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/324688628/square.jpg",
+    "date": "2019-10-24",
+    "latitude": "-16.3203987268",
+    "longitude": "46.8045549731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/324688216/square.jpg",
+    "date": "2019-10-24",
+    "latitude": "-16.3203987268",
+    "longitude": "46.8045549731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/324680130/square.jpg",
+    "date": "2019-11-04",
+    "latitude": "-22.8916607662",
+    "longitude": "44.6906347639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/318475581/square.jpg",
+    "date": "2023-09-06",
+    "latitude": "-19.0184916667",
+    "longitude": "44.7738516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/315587094/square.jpeg",
+    "date": "2015-11-11",
+    "latitude": "-22.9287313815",
+    "longitude": "44.7780949158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/315495762/square.jpg",
+    "date": "2023-06-06",
+    "latitude": "-12.8954978702",
+    "longitude": "49.1423183202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/315490226/square.jpg",
+    "date": "2023-06-04",
+    "latitude": "-16.3003119193",
+    "longitude": "46.8147694284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/315490195/square.jpg",
+    "date": "2023-06-04",
+    "latitude": "-16.3010461283",
+    "longitude": "46.8141900131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnornis chloropetoides",
+    "common name": "Thamnornis",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313810229/square.jpeg",
+    "date": "2023-08-20",
+    "latitude": "-23.1310538939",
+    "longitude": "43.6180058867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313594685/square.jpg",
+    "date": "2008-11-25",
+    "latitude": "-16.3006017357",
+    "longitude": "46.8131334186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/313305282/square.jpg",
+    "date": "2012-10-27",
+    "latitude": "-20.0721666667",
+    "longitude": "44.6588333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/312804986/square.jpg",
+    "date": "2023-05-15",
+    "latitude": "-18.9304444814",
+    "longitude": "48.4193583896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310299942/square.jpeg",
+    "date": "2018-12-07",
+    "latitude": "-21.2595817268",
+    "longitude": "47.421737871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310299757/square.jpeg",
+    "date": "2018-12-06",
+    "latitude": "-21.2595817268",
+    "longitude": "47.421737871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Randia pseudozosterops",
+    "common name": "Rand's Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310299418/square.jpg",
+    "date": "2018-12-04",
+    "latitude": "-18.9336918527",
+    "longitude": "48.414835279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309936176/square.jpeg",
+    "date": "2023-07-17",
+    "latitude": "-18.9402047328",
+    "longitude": "48.4268945472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309936086/square.jpeg",
+    "date": "2023-07-17",
+    "latitude": "-18.9402047328",
+    "longitude": "48.4268945472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Oxylabes madagascariensis",
+    "common name": "White-throated Oxylabes",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309936066/square.jpeg",
+    "date": "2023-07-17",
+    "latitude": "-18.9402047328",
+    "longitude": "48.4268945472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/305276123/square.jpg",
+    "date": "2005-10-27",
+    "latitude": "-21.2560661976",
+    "longitude": "47.4176911161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/305275818/square.jpg",
+    "date": "2005-10-27",
+    "latitude": "-21.2555062554",
+    "longitude": "47.4190214918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/305057040/square.jpg",
+    "date": "2005-10-21",
+    "latitude": "-22.8835009723",
+    "longitude": "44.6931793875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/305056866/square.jpg",
+    "date": "2005-10-21",
+    "latitude": "-22.8302700466",
+    "longitude": "44.6785313956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crossleyia xanthophrys",
+    "common name": "Madagascar Yellowbrow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295036829/square.jpeg",
+    "date": "2022-05-27",
+    "latitude": "-21.3428431427",
+    "longitude": "47.272412169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hartertula flavoviridis",
+    "common name": "Wedge-tailed Jery",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283277615/square.png",
+    "date": "2023-01-02",
+    "latitude": "-21.2090288161",
+    "longitude": "47.43212228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279964622/square.jpeg",
+    "date": "2023-05-07",
+    "latitude": "-12.9133701006",
+    "longitude": "49.3359061693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/262308229/square.jpg",
+    "date": "2017-10-26",
+    "latitude": "-18.9387980992",
+    "longitude": "48.4215228032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/262308155/square.jpg",
+    "date": "2017-10-26",
+    "latitude": "-18.9412627162",
+    "longitude": "48.4214993928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/258381182/square.jpg",
+    "date": "2022-10-11",
+    "latitude": "-20.95",
+    "longitude": "44.216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257569217/square.jpeg",
+    "date": "2022-06-19",
+    "latitude": "-18.8495590317",
+    "longitude": "48.4437604648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis zosterops",
+    "common name": "Spectacled Tetraka",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252281345/square.jpg",
+    "date": "2017-08-29",
+    "latitude": "-18.89416",
+    "longitude": "48.4336166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Xanthomixis apperti",
+    "common name": "Appert's Tetraka",
+    "observation photo url": "https://static.inaturalist.org/photos/248478612/square.jpeg",
+    "date": "2022-12-19",
+    "latitude": "-22.9510226739",
+    "longitude": "44.6912874791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/247672978/square.jpeg",
+    "date": "2022-12-12",
+    "latitude": "-20.067112",
+    "longitude": "44.6571846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://static.inaturalist.org/photos/247672922/square.jpeg",
+    "date": "2022-12-12",
+    "latitude": "-20.067112",
+    "longitude": "44.6571846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cryptosylvicola randrianasoloi",
+    "common name": "Cryptic Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/247444135/square.jpg",
+    "date": "2022-11-12",
+    "latitude": "-21.2315772236",
+    "longitude": "47.3939576532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bernieria madagascariensis",
+    "common name": "Long-billed Bernieria",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246643761/square.jpg",
+    "date": "2022-10-17",
+    "latitude": "-16.318258275",
+    "longitude": "46.809725105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnornis chloropetoides",
+    "common name": "Thamnornis",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246365484/square.jpg",
+    "date": "2022-11-18",
+    "latitude": "-23.1218725706",
+    "longitude": "43.6252199845",
+    "quality_grade": "research"
+  }
+]

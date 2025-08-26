@@ -1,0 +1,1460 @@
+[
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558076770/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8524607816",
+    "longitude": "55.2499208164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558047845/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "14.7828070879",
+    "longitude": "79.076086552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558044925/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.4884780997",
+    "longitude": "76.938354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558027189/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.4563764535",
+    "longitude": "76.9381007223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558027163/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.4074704726",
+    "longitude": "76.928657363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/557954629/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0135382257",
+    "longitude": "100.7300853427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557954103/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "24.0465695",
+    "longitude": "120.3915466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius temminckii",
+    "common name": "Temminck's Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557941824/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.102008043",
+    "longitude": "31.697872733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/557905769/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2391141667",
+    "longitude": "120.1448494444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/557905743/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2391297222",
+    "longitude": "120.1448711111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/557905698/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.2392221448",
+    "longitude": "120.1450988319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557922022/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.8412017547",
+    "longitude": "55.3681148216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nordmanni",
+    "common name": "Black-winged Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557917867/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "46.0479725874",
+    "longitude": "43.5648872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/557915161/square.jpg",
+    "date": "2025-01-05",
+    "latitude": "11.2674594",
+    "longitude": "75.9425235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius temminckii",
+    "common name": "Temminck's Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557777830/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-1.9720682906",
+    "longitude": "35.5503287262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557629648/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "23.2566815587",
+    "longitude": "120.2687888918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/558126811/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.5372697609",
+    "longitude": "4.8661381938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557604366/square.jpg",
+    "date": "2019-02-18",
+    "latitude": "20.6821703",
+    "longitude": "81.1692374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557536442/square.jpg",
+    "date": "2018-04-21",
+    "latitude": "38.8792880833",
+    "longitude": "48.8917500716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557475267/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.6934304728",
+    "longitude": "-2.7017458808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557471925/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.6945448319",
+    "longitude": "-2.7010382962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557461724/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.42429",
+    "longitude": "120.6911272217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola isabella",
+    "common name": "Australian Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557451149/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-25.44258",
+    "longitude": "142.810745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius coromandelicus",
+    "common name": "Indian Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/557439828/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "26.2167455739",
+    "longitude": "74.8653148365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557082044/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "38.154355",
+    "longitude": "-0.62942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557014450/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.5413378643",
+    "longitude": "4.8644040356",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/556903298/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-18.78516",
+    "longitude": "17.005875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556901417/square.jpg",
+    "date": "2014-05-18",
+    "latitude": "-20.0954911",
+    "longitude": "24.8092691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556866846/square.jpg",
+    "date": "2014-11-28",
+    "latitude": "19.1851773917",
+    "longitude": "73.4169027954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556837376/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "23.7173813889",
+    "longitude": "120.4022813889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556834111/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "23.7239913889",
+    "longitude": "120.4210430556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556658747/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "31.6858724056",
+    "longitude": "34.7809180225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nordmanni",
+    "common name": "Black-winged Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556643903/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.5518501556",
+    "longitude": "-0.6549571462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556546189/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.5413127354",
+    "longitude": "4.8644085782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus africanus",
+    "common name": "Kalahari Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556528848/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "-23.426464",
+    "longitude": "16.504925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius coromandelicus",
+    "common name": "Indian Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556433908/square.jpg",
+    "date": "2018-06-19",
+    "latitude": "21.3550114",
+    "longitude": "81.7284553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556387721/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "32.2283335971",
+    "longitude": "34.8207242956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556326624/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.8302906928",
+    "longitude": "55.3446438164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/556175768/square.jpg",
+    "date": "2006-04-15",
+    "latitude": "40.7233675774",
+    "longitude": "0.847023193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius coromandelicus",
+    "common name": "Indian Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556022460/square.jpg",
+    "date": "2018-01-16",
+    "latitude": "21.1610957",
+    "longitude": "81.7864088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556016128/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-0.023559",
+    "longitude": "37.906193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius coromandelicus",
+    "common name": "Indian Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556017811/square.jpg",
+    "date": "2018-01-02",
+    "latitude": "21.055945",
+    "longitude": "81.9690886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556017579/square.jpg",
+    "date": "2018-01-02",
+    "latitude": "21.055945",
+    "longitude": "81.9690886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius coromandelicus",
+    "common name": "Indian Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556017320/square.jpg",
+    "date": "2018-01-02",
+    "latitude": "21.055945",
+    "longitude": "81.9690886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556003234/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "24.8435198689",
+    "longitude": "55.3354915736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555972674/square.jpg",
+    "date": "2023-06-25",
+    "latitude": "-21.3376740304",
+    "longitude": "22.629237234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nordmanni",
+    "common name": "Black-winged Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555933173/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "50.9002885006",
+    "longitude": "60.6819814254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555923200/square.jpg",
+    "date": "2017-10-31",
+    "latitude": "21.2573491043",
+    "longitude": "81.7849668886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola isabella",
+    "common name": "Australian Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555887565/square.jpg",
+    "date": "2010-10-01",
+    "latitude": "-29.1029290244",
+    "longitude": "141.2332551997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/555894006/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-19.0956566667",
+    "longitude": "15.8860716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555880386/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "30.2904473378",
+    "longitude": "121.4437633756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/555871826/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "28.5004709931",
+    "longitude": "76.8551113076",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/555590481/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "31.307995",
+    "longitude": "-5.8911283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nordmanni",
+    "common name": "Black-winged Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555481981/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "50.9192781166",
+    "longitude": "60.7659313692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555173198/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "36.6940892271",
+    "longitude": "-2.7017236239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555173047/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "36.6940595169",
+    "longitude": "-2.7017371734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555160927/square.jpg",
+    "date": "2017-11-18",
+    "latitude": "22.8209477",
+    "longitude": "72.0571863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/555142393/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.1498933333",
+    "longitude": "15.9068433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/555141743/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.1498883333",
+    "longitude": "15.9068516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/555136581/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.1501533333",
+    "longitude": "15.9069066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/555131285/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-19.1648833333",
+    "longitude": "15.9134483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555000612/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "24.0576446369",
+    "longitude": "120.4616620277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nordmanni",
+    "common name": "Black-winged Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554894585/square.jpg",
+    "date": "2025-04-24",
+    "latitude": "45.8913106558",
+    "longitude": "43.4382196733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nordmanni",
+    "common name": "Black-winged Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554725606/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "50.9705552065",
+    "longitude": "60.6989858937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/554652185/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "32.2369127805",
+    "longitude": "34.8399975507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554649733/square.jpg",
+    "date": "2023-02-05",
+    "latitude": "24.7224943435",
+    "longitude": "98.0095968213",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola isabella",
+    "common name": "Australian Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554563432/square.jpg",
+    "date": "1980-08-26",
+    "latitude": "-24.1513109",
+    "longitude": "141.100952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/554491567/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "13.7494888444",
+    "longitude": "100.0398147851",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553708190/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0086483297",
+    "longitude": "100.7267899019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553707989/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0086483297",
+    "longitude": "100.7267899019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553707936/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0086483297",
+    "longitude": "100.7267899019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553707930/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0086483297",
+    "longitude": "100.7267899019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553649227/square.jpg",
+    "date": "2024-05-20",
+    "latitude": "29.5689333863",
+    "longitude": "34.8438362819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/553613616/square.jpg",
+    "date": "2023-10-02",
+    "latitude": "24.972633777",
+    "longitude": "55.5538994742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553265161/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "23.3215345207",
+    "longitude": "120.285287311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553174794/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-2.594513043",
+    "longitude": "35.9110538167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553113698/square.jpg",
+    "date": "2021-01-09",
+    "latitude": "20.4341315",
+    "longitude": "85.7198652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553101017/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "38.5283476719",
+    "longitude": "26.9466932748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nordmanni",
+    "common name": "Black-winged Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553092721/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "45.9056040989",
+    "longitude": "46.7706496358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553087077/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "27.5506430899",
+    "longitude": "84.1013198293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553086879/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "27.5563498474",
+    "longitude": "84.1267399909",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553066725/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "13.695505",
+    "longitude": "75.6353331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola isabella",
+    "common name": "Australian Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552988724/square.jpg",
+    "date": "2016-12-20",
+    "latitude": "-34.0239429329",
+    "longitude": "141.2409970317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola isabella",
+    "common name": "Australian Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/552820482/square.jpg",
+    "date": "2024-08-23",
+    "latitude": "-16.8446991619",
+    "longitude": "145.7177249339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/552789568/square.jpg",
+    "date": "2022-12-18",
+    "latitude": "19.9194047",
+    "longitude": "85.4254317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/552788966/square.jpg",
+    "date": "2025-01-31",
+    "latitude": "19.9194047",
+    "longitude": "85.4254317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/552736727/square.jpg",
+    "date": "2005-04-27",
+    "latitude": "43.6589094415",
+    "longitude": "4.5240000338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nordmanni",
+    "common name": "Black-winged Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552650585/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "47.9757042545",
+    "longitude": "43.0530942067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552768866/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "26.7077021997",
+    "longitude": "77.8450423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola isabella",
+    "common name": "Australian Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/552602017/square.jpg",
+    "date": "2024-08-20",
+    "latitude": "-17.4855733",
+    "longitude": "140.8461782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/552453165/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "37.4470871742",
+    "longitude": "-7.5944696236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius rufus",
+    "common name": "Burchell's Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/552444251/square.jpg",
+    "date": "2019-08-07",
+    "latitude": "-18.8555909",
+    "longitude": "16.3293197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/552444037/square.jpg",
+    "date": "2019-08-06",
+    "latitude": "-18.8555909",
+    "longitude": "16.3293197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552275245/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "24.0460733333",
+    "longitude": "120.3914283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552124139/square.jpg",
+    "date": "2023-11-04",
+    "latitude": "-2.6526705",
+    "longitude": "37.2606207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/551922405/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "36.816753011",
+    "longitude": "39.8335398956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551403278/square.jpg",
+    "date": "2024-04-11",
+    "latitude": "40.5729",
+    "longitude": "0.6535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551321244/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "24.8151873841",
+    "longitude": "120.9160314817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/551021530/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-18.847870327",
+    "longitude": "16.7825601983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551008959/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "36.6929786067",
+    "longitude": "-2.7012353364",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551008943/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "36.6927226609",
+    "longitude": "-2.7011402074",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550996149/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "45.3206490907",
+    "longitude": "35.425191017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550937404/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "45.3277684",
+    "longitude": "35.4143685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550841817/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "23.2343408849",
+    "longitude": "120.1291643756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550820940/square.jpg",
+    "date": "2022-05-02",
+    "latitude": "42.219444",
+    "longitude": "3.110556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550818974/square.jpg",
+    "date": "2022-04-28",
+    "latitude": "43.619438",
+    "longitude": "4.25986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550776669/square.jpg",
+    "date": "2023-01-06",
+    "latitude": "-30.8091774149",
+    "longitude": "22.3458401997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550774917/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "45.9576599993",
+    "longitude": "81.5698436837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550768215/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "46.7873507479",
+    "longitude": "61.6693722635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550766082/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "46.7868571522",
+    "longitude": "61.6676556464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550491082/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "45.3202867668",
+    "longitude": "35.4269514965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550490517/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "45.3181140802",
+    "longitude": "35.4300414013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550421857/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "43.6297900171",
+    "longitude": "76.5601623058",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550396810/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "21.0598019596",
+    "longitude": "76.059767518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550403741/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.6274916675",
+    "longitude": "29.6657399495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550403273/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.6337629852",
+    "longitude": "29.6736257622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius temminckii",
+    "common name": "Temminck's Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550402379/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.5884538379",
+    "longitude": "29.7030789685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550343659/square.jpg",
+    "date": "2020-08-08",
+    "latitude": "42.219444",
+    "longitude": "3.110556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/550305540/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "34.3485649757",
+    "longitude": "2.7983057499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550300035/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "37.0206509846",
+    "longitude": "14.3433504179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nuchalis",
+    "common name": "Rock Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550244194/square.jpg",
+    "date": "2021-06-16",
+    "latitude": "4.5424308909",
+    "longitude": "-7.0542292061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nuchalis",
+    "common name": "Rock Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550243448/square.jpg",
+    "date": "2021-06-16",
+    "latitude": "4.5434349862",
+    "longitude": "-7.0538415548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550271129/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "24.817957053",
+    "longitude": "120.9170431785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550204041/square.jpg",
+    "date": "2019-05-25",
+    "latitude": "43.582222",
+    "longitude": "4.045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550202933/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "24.2079900006",
+    "longitude": "120.5980954665",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550201776/square.jpg",
+    "date": "2019-05-10",
+    "latitude": "43.582222",
+    "longitude": "4.045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549971475/square.jpg",
+    "date": "2025-01-16",
+    "latitude": "10.628465",
+    "longitude": "42.5466133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinoptilus chalcopterus",
+    "common name": "Bronze-winged Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549933693/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-22.22672498",
+    "longitude": "29.30883058",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinoptilus chalcopterus",
+    "common name": "Bronze-winged Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549933428/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-22.23763491",
+    "longitude": "29.25321339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549864349/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "3.4248856373",
+    "longitude": "101.4638458944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/549808571/square.jpg",
+    "date": "2010-03-21",
+    "latitude": "5.5983488985",
+    "longitude": "118.1706052199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549761686/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "13.743056",
+    "longitude": "100.041944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549749679/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "13.743056",
+    "longitude": "100.041944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549741225/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "13.744444",
+    "longitude": "100.045556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola lactea",
+    "common name": "Small Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549727094/square.jpg",
+    "date": "2013-05-14",
+    "latitude": "6.1818035748",
+    "longitude": "81.2314554044",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549696709/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "23.2670045993",
+    "longitude": "120.1983893641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/549652666/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "23.14672657",
+    "longitude": "71.2135136873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549549628/square.jpg",
+    "date": "2018-02-24",
+    "latitude": "30.509",
+    "longitude": "-6.7648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549548174/square.jpg",
+    "date": "2018-02-20",
+    "latitude": "31.366092",
+    "longitude": "-5.990424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549472913/square.jpg",
+    "date": "2017-07-07",
+    "latitude": "43.619438",
+    "longitude": "4.25986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549455678/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "39.6478530066",
+    "longitude": "32.774008152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius coromandelicus",
+    "common name": "Indian Courser",
+    "observation photo url": "https://static.inaturalist.org/photos/549406812/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "23.1179957857",
+    "longitude": "71.1919983476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549344525/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "21.9271405767",
+    "longitude": "120.8479028184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549344415/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "21.9276194593",
+    "longitude": "120.8472717847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549337537/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "22.7937818036",
+    "longitude": "121.1934473095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549262067/square.jpg",
+    "date": "2016-07-18",
+    "latitude": "43.582222",
+    "longitude": "4.045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549094138/square.jpg",
+    "date": "2016-04-19",
+    "latitude": "42.219444",
+    "longitude": "3.110556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549000918/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-33.03796",
+    "longitude": "18.5943799722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548972147/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "8.1276292443",
+    "longitude": "80.912290171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/548945364/square.jpg",
+    "date": "2021-04-13",
+    "latitude": "42.2089865456",
+    "longitude": "3.0999724567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548937490/square.jpg",
+    "date": "2015-06-27",
+    "latitude": "43.582222",
+    "longitude": "4.045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548925698/square.jpg",
+    "date": "2015-05-17",
+    "latitude": "42.219444",
+    "longitude": "3.110556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548919773/square.jpg",
+    "date": "2015-04-21",
+    "latitude": "37.039646",
+    "longitude": "-6.435305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nuchalis",
+    "common name": "Rock Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548841248/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "2.2783052023",
+    "longitude": "31.6860072292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhinoptilus cinctus",
+    "common name": "Three-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548776016/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "0.6320551",
+    "longitude": "36.0567202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola nuchalis",
+    "common name": "Rock Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548775883/square.jpg",
+    "date": "2022-11-23",
+    "latitude": "5.6069746",
+    "longitude": "-1.5450766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548761851/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-6.1283927911",
+    "longitude": "35.9563337825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola maldivarum",
+    "common name": "Oriental Pratincole",
+    "observation photo url": "https://static.inaturalist.org/photos/548699717/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "23.6473638889",
+    "longitude": "120.2637361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius cursor",
+    "common name": "Cream-coloured Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548598384/square.jpg",
+    "date": "2024-05-18",
+    "latitude": "30.0569548",
+    "longitude": "-9.6863495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Smutsornis africanus",
+    "common name": "Double-banded Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548483153/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-18.9304816667",
+    "longitude": "16.4874533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Glareola pratincola",
+    "common name": "Collared Pratincole",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548262889/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "45.0909448749",
+    "longitude": "36.3115299215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cursorius temminckii",
+    "common name": "Temminck's Courser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548213222/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-1.9288829794",
+    "longitude": "35.1839727573",
+    "quality_grade": "research"
+  }
+]

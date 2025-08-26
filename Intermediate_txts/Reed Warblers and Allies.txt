@@ -1,0 +1,956 @@
+[
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160427/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "67.3608331162",
+    "longitude": "32.4850979794",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais icterina",
+    "common name": "Icterine Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130226/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.6406620031",
+    "longitude": "11.5970235284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558104981/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "39.8678023477",
+    "longitude": "-8.8614009817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/558098411/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2404421684",
+    "longitude": "44.1815577092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna caligata",
+    "common name": "Booted Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/558098383/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2598932585",
+    "longitude": "44.1664969893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus arundinaceus",
+    "common name": "Great Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558024887/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.8484221663",
+    "longitude": "4.8809955474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558024837/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.8397337526",
+    "longitude": "4.9975423594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558024820/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.9338870812",
+    "longitude": "4.9458090491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558012601/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.7413609722",
+    "longitude": "-8.56817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558012557/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.6324908964",
+    "longitude": "-8.5081352928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558000959/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "57.8131965906",
+    "longitude": "24.3392212052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557978624/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "35.3058124608",
+    "longitude": "-0.093991825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus arundinaceus",
+    "common name": "Great Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557977054/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "41.3964699202",
+    "longitude": "22.7747035247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557975655/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "57.744282807",
+    "longitude": "10.6363790487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557970202/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.5293029332",
+    "longitude": "36.644483719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus orientalis",
+    "common name": "Oriental Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557961975/square.jpg",
+    "date": "2021-09-09",
+    "latitude": "35.1060836804",
+    "longitude": "135.9885620712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557958468/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.5977607368",
+    "longitude": "0.9381579235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557954454/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.7182238167",
+    "longitude": "-3.0637570991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557910247/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "40.5689919689",
+    "longitude": "-1.6274881206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557901854/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.7305021451",
+    "longitude": "-2.0567708513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557902409/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.3547561557",
+    "longitude": "58.6853348813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557711568/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.8165437115",
+    "longitude": "-1.1864051678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557711484/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "51.816554763",
+    "longitude": "-1.1864415472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557731206/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "41.2377076",
+    "longitude": "0.5225935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557443382/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "50.7209599862",
+    "longitude": "-3.0611303471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557645017/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "58.6210520557",
+    "longitude": "49.5439904828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus dumetorum",
+    "common name": "Blyth's Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557640322/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "58.6211637848",
+    "longitude": "49.543389668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557639244/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.7413529722",
+    "longitude": "-8.5681609722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus palustris",
+    "common name": "Marsh Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557636178/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.1787929803",
+    "longitude": "37.6789764592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus dumetorum",
+    "common name": "Blyth's Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557635696/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "54.1780897111",
+    "longitude": "37.6780323216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557580953/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "32.2463760101",
+    "longitude": "34.8598614601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus stentoreus",
+    "common name": "Clamorous Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557603898/square.jpg",
+    "date": "2019-02-18",
+    "latitude": "20.6821703",
+    "longitude": "81.1692374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557604986/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.0445162328",
+    "longitude": "36.2325998264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna rama",
+    "common name": "Sykes's Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557601834/square.jpg",
+    "date": "2019-02-17",
+    "latitude": "21.276677",
+    "longitude": "81.6446049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus stentoreus",
+    "common name": "Clamorous Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557601707/square.jpg",
+    "date": "2019-02-17",
+    "latitude": "21.276677",
+    "longitude": "81.6446049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557601269/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.0429394596",
+    "longitude": "36.2217851597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus stentoreus",
+    "common name": "Clamorous Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557559699/square.jpg",
+    "date": "2019-01-20",
+    "latitude": "21.3550114",
+    "longitude": "81.7284553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557516711/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "56.9182216667",
+    "longitude": "60.640605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557510588/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557508887/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557508195/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557507547/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557507437/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557507332/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557503609/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557502380/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557502042/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "40.5690408986",
+    "longitude": "-1.6274585562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557510743/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.5390774722",
+    "longitude": "-2.9577497372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna caligata",
+    "common name": "Booted Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557501762/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "59.7033231128",
+    "longitude": "30.1477651193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557481247/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "60.0196423636",
+    "longitude": "29.9714222923",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus australis",
+    "common name": "Australian Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557472583/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2760600347",
+    "longitude": "152.759578324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557466679/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "40.5691592174",
+    "longitude": "-1.6275598386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557465098/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "40.5574312178",
+    "longitude": "-1.629629985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus palustris",
+    "common name": "Marsh Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557458627/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "56.2442763408",
+    "longitude": "40.789575796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557461014/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.7419703071",
+    "longitude": "-2.4043951027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna pallida",
+    "common name": "Eastern Olivaceous Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557451749/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.9998312342",
+    "longitude": "21.4310456603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus australis",
+    "common name": "Australian Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557447273/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-29.6816894",
+    "longitude": "152.9336547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna pallida",
+    "common name": "Eastern Olivaceous Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557427097/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "40.217837",
+    "longitude": "20.378456",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus agricola",
+    "common name": "Paddyfield Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557431909/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.3728158853",
+    "longitude": "61.7185631767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557424070/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.7829218742",
+    "longitude": "20.7182551548",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna caligata",
+    "common name": "Booted Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557394433/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "56.7127647756",
+    "longitude": "61.1945207517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus australis",
+    "common name": "Australian Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557390248/square.jpg",
+    "date": "2024-11-30",
+    "latitude": "-34.18732",
+    "longitude": "142.180905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557214207/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "50.1073256715",
+    "longitude": "30.3015952836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557238583/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "39.9832594238",
+    "longitude": "-7.3817843947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus stentoreus",
+    "common name": "Clamorous Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557152929/square.jpg",
+    "date": "2025-01-16",
+    "latitude": "11.564812",
+    "longitude": "76.632263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557159525/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "49.3417214323",
+    "longitude": "2.0533679651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus arundinaceus",
+    "common name": "Great Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557128915/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557123313/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "58.6213985776",
+    "longitude": "59.7809403793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus stentoreus",
+    "common name": "Clamorous Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557101563/square.jpg",
+    "date": "2024-04-18",
+    "latitude": "32.4147265652",
+    "longitude": "35.5354762656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557106995/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "53.9396419134",
+    "longitude": "37.0597302541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus agricola",
+    "common name": "Paddyfield Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557068656/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "53.4475611375",
+    "longitude": "58.7827178581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557025468/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "60.2157287266",
+    "longitude": "24.9929919938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus familiaris kingi",
+    "common name": "Nihoa Millerbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557032341/square.jpg",
+    "date": "2019-08-24",
+    "latitude": "25.6317466732",
+    "longitude": "-171.6448713514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557021038/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "36.6704826343",
+    "longitude": "-4.4570662826",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna pallida",
+    "common name": "Eastern Olivaceous Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/557012700/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "58.569414067",
+    "longitude": "55.6752385504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557008401/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "36.6732113113",
+    "longitude": "-4.4584801421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556993445/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "36.6728681815",
+    "longitude": "-4.4623733684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/556993103/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.77634",
+    "longitude": "2.4524533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus agricola",
+    "common name": "Paddyfield Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556970753/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "52.9529091014",
+    "longitude": "80.8231752231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556954931/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.6204029508",
+    "longitude": "-8.4706347534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556948156/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "54.549684541",
+    "longitude": "23.3375117269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna caligata",
+    "common name": "Booted Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556931107/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "50.4776253824",
+    "longitude": "86.6344977642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556929226/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "53.5748734042",
+    "longitude": "-7.7161336318",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus stentoreus",
+    "common name": "Clamorous Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/556917676/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "28.479673417",
+    "longitude": "76.9410127596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Iduna rama",
+    "common name": "Sykes's Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556909377/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "10.1298124875",
+    "longitude": "76.68706242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556898804/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.1791292544",
+    "longitude": "4.6356459602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais icterina",
+    "common name": "Icterine Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/556905954/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.8537754388",
+    "longitude": "11.6232409575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hippolais polyglotta",
+    "common name": "Melodious Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556897226/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.4958971839",
+    "longitude": "-2.0471841535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus stentoreus",
+    "common name": "Clamorous Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556882841/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.4319338891",
+    "longitude": "76.8702027071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556869770/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "58.3624981997",
+    "longitude": "26.7519190997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556869635/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "58.3625254997",
+    "longitude": "26.7519285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus australis",
+    "common name": "Australian Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/556868183/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-23.5659509023",
+    "longitude": "145.2675178785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556865511/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "59.7459816667",
+    "longitude": "30.3756483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556858071/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "57.8124159042",
+    "longitude": "24.3375005994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556855078/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "57.8121683581",
+    "longitude": "24.3379751861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556854626/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "57.8123300689",
+    "longitude": "24.3377872177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus orientalis",
+    "common name": "Oriental Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/556855101/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "35.0737305234",
+    "longitude": "135.9375864976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus stentoreus",
+    "common name": "Clamorous Reed Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556823342/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "12.8832017285",
+    "longitude": "79.9309140939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556668564/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "61.6226567689",
+    "longitude": "50.7844633609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556568678/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "43.4849980892",
+    "longitude": "-3.7807875675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556542606/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "48.5832816973",
+    "longitude": "16.9082474904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556549182/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.3220596111",
+    "longitude": "15.3423557222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556490684/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "56.2221196101",
+    "longitude": "35.9750586748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus scirpaceus",
+    "common name": "Common Reed Warbler",
+    "observation photo url": "https://static.inaturalist.org/photos/556485349/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.5280925695",
+    "longitude": "-3.3273909241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556471626/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.2859329554",
+    "longitude": "58.7247300893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Acrocephalus schoenobaenus",
+    "common name": "Sedge Warbler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556463142/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.7413609722",
+    "longitude": "-8.56817",
+    "quality_grade": "research"
+  }
+]
