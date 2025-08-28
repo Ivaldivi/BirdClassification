@@ -1,8 +1,10 @@
-import requests
 import json
-import os
+import os, requests
 from pathlib import Path
 import re 
+from multiprocessing import Pool
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
 
 # API endpoint for observations
 url = "https://api.inaturalist.org/v1/observations"
@@ -64,21 +66,60 @@ def query_inaturalist():
         else:
             print("Error:", response.status_code)
 
+def process_file(file): 
+    """worker function for one .txt file!"""
+    animal_name = file.split(".")[0]
+    os.makedirs("data/"+animal_name, exist_ok=True)
+    with open("Intermediate_txts/"+file) as f:
+        data_list= json.load(f)
+    print(f"Processing {animal_name} with {len(data_list)} images")
+    download_images(data_list, animal_name, max_workers=20)
 
-def download_photos(file_path_to_search):
-    for root, dirs, files in os.walk(file_path_to_search):
-        for file in files: 
-            # print(file)
-            if file =="Cranes.txt": 
-                with open("Intermediate_txts/"+file) as f: 
-                    # print(f.read())
-                    openfile = f.read()
-                    openfile = openfile.strip("\n")
-    # requests.get(image_url, stream=True)
+def handle_urls(file_path_to_search, num_processes=4):
+    """Run multiprocessing across all txt files."""
+    files = [f for f in os.listdir(file_path_to_search) if f.endswith(".txt")]
+
+    with Pool(processes=num_processes) as pool:
+        pool.map(process_file, files)
+
+def download_images(data_list, animal_name, max_workers=20): 
+    """Use parallelization to download images"""
+    results = []
+    with ThreadPoolExecutor(max_workers=max_workers) as executor: 
+        futures = {executor.submit(download_single_image, img, animal_name): img for img in data_list}
+        for future in as_completed(futures):
+            result = future.result()
+            results.append(result)
+            print(result)
+    return results
+            
+
+def download_single_image(image, animal_name):
+    """Download a single image-- WORKER FUNCTION!"""
+    url = image['observation photo url'].replace("square", "original")
+    split_url = url.split('/')
+    file_path = "data/"+animal_name+"/"+animal_name+"_"+split_url[-2]+".jpg"
+
+    if os.path.exists(file_path): 
+        return f"Skipped '{file_path}' because it already exists."
+    
+    try: 
+        response = requests.get(url, stream=True, timeout=20)
+        if response.status_code==200: 
+            with open(file_path, 'wb') as fi: 
+                fi.write(response.content)
+                return f"Saved image to {file_path}"
+        else: 
+            return f"Failed to save '{file_path}' becasue the status code was: '{response.status_code}'"
+    except Exception as e: 
+        return f"Error downloading {file_path}: {e}"
 
 def main():
     # query_inaturalist()
-    download_photos('Intermediate_txts')
+    start = time.time()
+    handle_urls('Intermediate_txts', num_processes=4)
+    end = time.time()
+    print(f"Downloading images took {end-start:.2f} seconds or {end-start/60} minutes")
 
 if __name__ == '__main__':
     main()
