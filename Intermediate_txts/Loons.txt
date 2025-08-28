@@ -1150,14 +1150,5 @@
     "latitude": "70.2527003366",
     "longitude": "-96.839108925",
     "quality_grade": "research"
-  },
-  {
-    "species": "Gavia immer",
-    "common name": "Common Loon",
-    "observation photo url": "https://static.inaturalist.org/photos/555808403/square.jpg",
-    "date": "2025-08-21",
-    "latitude": "52.9247255286",
-    "longitude": "-118.0966849253",
-    "quality_grade": "research"
   }
 ]

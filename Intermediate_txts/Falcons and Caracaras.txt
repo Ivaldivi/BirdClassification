@@ -45,6 +45,24 @@
     "quality_grade": "research"
   },
   {
+    "species": "Herpetotheres cachinnans",
+    "common name": "Laughing Falcon",
+    "observation photo url": "https://static.inaturalist.org/photos/558180357/square.jpg",
+    "date": "2025-03-27",
+    "latitude": "-0.0554260997",
+    "longitude": "-78.7701852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Falco columbarius",
+    "common name": "Merlin",
+    "observation photo url": "https://static.inaturalist.org/photos/558180115/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.1161181622",
+    "longitude": "-86.488237381",
+    "quality_grade": "research"
+  },
+  {
     "species": "Falco tinnunculus",
     "common name": "Eurasian Kestrel",
     "observation photo url": "https://static.inaturalist.org/photos/558178724/square.jpg",
@@ -969,24 +987,6 @@
     "date": "2025-08-26",
     "latitude": "48.5727616667",
     "longitude": "7.7564633333",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Caracara plancus",
-    "common name": "Crested Caracara",
-    "observation photo url": "https://static.inaturalist.org/photos/557979285/square.jpg",
-    "date": "2025-08-08",
-    "latitude": "-22.3737818087",
-    "longitude": "-46.9392870474",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Falco tinnunculus",
-    "common name": "Eurasian Kestrel",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557973003/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "48.0340527922",
-    "longitude": "-4.8544164189",
     "quality_grade": "research"
   }
 ]

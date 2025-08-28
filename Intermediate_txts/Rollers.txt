@@ -2,6 +2,15 @@
   {
     "species": "Coracias garrulus",
     "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/558196229/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.8034233046",
+    "longitude": "3.5434852846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182728/square.jpg",
     "date": "2025-08-26",
     "latitude": "37.171395255",
@@ -1482,15 +1491,6 @@
     "date": "2022-12-30",
     "latitude": "15.3189083333",
     "longitude": "73.9261916667",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Coracias benghalensis",
-    "common name": "Indian Roller",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554759274/square.jpg",
-    "date": "2025-07-28",
-    "latitude": "25.2492",
-    "longitude": "73.4904",
     "quality_grade": "research"
   }
 ]

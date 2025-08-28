@@ -952,14 +952,5 @@
     "latitude": "62.3052067536",
     "longitude": "9.3494042867",
     "quality_grade": "research"
-  },
-  {
-    "species": "Plocealauda affinis",
-    "common name": "Jerdon's Bushlark",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556457279/square.jpg",
-    "date": "2025-08-03",
-    "latitude": "7.35453774",
-    "longitude": "81.0016853009",
-    "quality_grade": "research"
   }
 ]

@@ -2,10 +2,28 @@
   {
     "species": "Grus grus",
     "common name": "Common Crane",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193248/square.jpg",
+    "date": "2023-09-30",
+    "latitude": "56.7762908845",
+    "longitude": "37.8185220115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Grus grus",
+    "common name": "Common Crane",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182355/square.jpg",
     "date": "2025-07-19",
     "latitude": "57.073719",
     "longitude": "40.379738",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antigone canadensis",
+    "common name": "Sandhill Crane",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558176466/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.432125523",
+    "longitude": "-88.0336145209",
     "quality_grade": "research"
   },
   {
@@ -1284,15 +1302,6 @@
     "date": "2025-08-23",
     "latitude": "42.4923905518",
     "longitude": "-83.7753903745",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Antigone canadensis",
-    "common name": "Sandhill Crane",
-    "observation photo url": "https://static.inaturalist.org/photos/556538852/square.jpg",
-    "date": "2025-07-21",
-    "latitude": "44.7842366667",
-    "longitude": "-110.74032",
     "quality_grade": "research"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "species": "Zenaida macroura",
+    "common name": "Mourning Dove",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185875/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.29359",
+    "longitude": "-98.490485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Columba livia domestica",
+    "common name": "Feral Pigeon",
+    "observation photo url": "https://static.inaturalist.org/photos/558197565/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.9505583333",
+    "longitude": "-75.1600945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Columba livia",
+    "common name": "Rock Pigeon",
+    "observation photo url": "https://static.inaturalist.org/photos/558197982/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.7056655884",
+    "longitude": "-74.0372619629",
+    "quality_grade": "research"
+  },
+  {
     "species": "Patagioenas picazuro",
     "common name": "Picazuro Pigeon",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558190335/square.jpg",
@@ -27,6 +54,15 @@
     "quality_grade": "research"
   },
   {
+    "species": "Columba palumbus",
+    "common name": "Common Wood-Pigeon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558187491/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.7908085092",
+    "longitude": "5.9608363798",
+    "quality_grade": "research"
+  },
+  {
     "species": "Zenaida macroura",
     "common name": "Mourning Dove",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558187277/square.jpg",
@@ -51,6 +87,15 @@
     "date": "2025-08-25",
     "latitude": "53.5641561719",
     "longitude": "9.9770077226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Columba livia",
+    "common name": "Rock Pigeon",
+    "observation photo url": "https://static.inaturalist.org/photos/558182763/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.5814511612",
+    "longitude": "19.5684229955",
     "quality_grade": "research"
   },
   {
@@ -87,6 +132,24 @@
     "date": "2025-08-24",
     "latitude": "36.7822510201",
     "longitude": "-3.1104343333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Zenaida macroura",
+    "common name": "Mourning Dove",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558166771/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.3032233333",
+    "longitude": "-98.4937066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Patagioenas cayennensis",
+    "common name": "Pale-vented Pigeon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558180187/square.jpg",
+    "date": "2017-01-21",
+    "latitude": "-4.9362536364",
+    "longitude": "-73.7184613069",
     "quality_grade": "research"
   },
   {
@@ -189,6 +252,24 @@
     "quality_grade": "research"
   },
   {
+    "species": "Columba livia domestica",
+    "common name": "Feral Pigeon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558163915/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.5424433586",
+    "longitude": "-58.4692893269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Zenaida galapagoensis",
+    "common name": "Gal\u00e1pagos Dove",
+    "observation photo url": "https://static.inaturalist.org/photos/558146394/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-0.8882644",
+    "longitude": "-89.6026167",
+    "quality_grade": "research"
+  },
+  {
     "species": "Columba palumbus",
     "common name": "Common Wood-Pigeon",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558163135/square.jpg",
@@ -231,6 +312,15 @@
     "date": "2025-08-26",
     "latitude": "33.5867339275",
     "longitude": "-101.8795858694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Columba livia domestica",
+    "common name": "Feral Pigeon",
+    "observation photo url": "https://static.inaturalist.org/photos/558155863/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-23.1890405",
+    "longitude": "-46.8909146",
     "quality_grade": "research"
   },
   {
@@ -294,6 +384,15 @@
     "date": "2023-08-15",
     "latitude": "-28.0056837864",
     "longitude": "153.0621574493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Columba livia",
+    "common name": "Rock Pigeon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558145430/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.8955421763",
+    "longitude": "-87.6224653538",
     "quality_grade": "research"
   },
   {
@@ -753,51 +852,6 @@
     "date": "2025-08-26",
     "latitude": "-12.0675816667",
     "longitude": "-77.0793683333",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Columba palumbus",
-    "common name": "Common Wood-Pigeon",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558088220/square.jpg",
-    "date": "2025-07-03",
-    "latitude": "53.1391508557",
-    "longitude": "50.2603054055",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Zenaida macroura",
-    "common name": "Mourning Dove",
-    "observation photo url": "https://static.inaturalist.org/photos/558087946/square.jpg",
-    "date": "2025-07-05",
-    "latitude": "35.4100425316",
-    "longitude": "-80.5819527805",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Columba palumbus",
-    "common name": "Common Wood-Pigeon",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086916/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "54.2062091602",
-    "longitude": "-0.806557801",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Zenaida auriculata",
-    "common name": "Eared Dove",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558085663/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "6.2747533333",
-    "longitude": "-75.588455",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Columba livia domestica",
-    "common name": "Feral Pigeon",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558084781/square.jpg",
-    "date": "2025-08-22",
-    "latitude": "55.8234904342",
-    "longitude": "37.6142603656",
     "quality_grade": "research"
   }
 ]

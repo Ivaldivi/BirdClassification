@@ -1,5 +1,14 @@
 [
   {
+    "species": "Mackenziaena severa",
+    "common name": "Tufted Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169416/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.616052468",
+    "longitude": "-45.7741103654",
+    "quality_grade": "research"
+  },
+  {
     "species": "Poliocrania exsul",
     "common name": "Chestnut-backed Antbird",
     "observation photo url": "https://static.inaturalist.org/photos/558151011/square.jpg",

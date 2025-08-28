@@ -9,6 +9,15 @@
     "quality_grade": "research"
   },
   {
+    "species": "Carpornis cucullata",
+    "common name": "Hooded Berryeater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169578/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.6684727463",
+    "longitude": "-45.7666500172",
+    "quality_grade": "research"
+  },
+  {
     "species": "Phytotoma rutila",
     "common name": "White-tipped Plantcutter",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141736/square.jpg",

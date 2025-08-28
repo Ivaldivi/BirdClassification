@@ -1,5 +1,50 @@
 [
   {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://static.inaturalist.org/photos/558197453/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "33.337357753",
+    "longitude": "-81.8411017061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Vanellus chilensis",
+    "common name": "Southern Lapwing",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558198468/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.4110908508",
+    "longitude": "-49.2676887512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558189142/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.2944716667",
+    "longitude": "-98.4915366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558187015/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.2944683333",
+    "longitude": "-98.4915366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius vociferus",
+    "common name": "Killdeer",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558181729/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.2913283333",
+    "longitude": "-98.4960716667",
+    "quality_grade": "research"
+  },
+  {
     "species": "Vanellus indicus",
     "common name": "Red-wattled Lapwing",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558188706/square.jpg",
@@ -123,6 +168,15 @@
     "date": "2025-08-25",
     "latitude": "37.4715892845",
     "longitude": "-122.4467645865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Charadrius semipalmatus",
+    "common name": "Semipalmated Plover",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558154510/square.jpg",
+    "date": "2025-04-11",
+    "latitude": "13.5290801273",
+    "longitude": "-89.8136461945",
     "quality_grade": "research"
   },
   {
@@ -1077,69 +1131,6 @@
     "date": "2025-08-23",
     "latitude": "23.2398982944",
     "longitude": "120.1327591121",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Thinornis dubius curonicus",
-    "common name": "Northern Little Ringed Plover",
-    "observation photo url": "https://static.inaturalist.org/photos/557905880/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "23.2389027778",
-    "longitude": "120.1443966667",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Thinornis dubius curonicus",
-    "common name": "Northern Little Ringed Plover",
-    "observation photo url": "https://static.inaturalist.org/photos/557905787/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "23.2389855556",
-    "longitude": "120.1445327778",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Pluvialis fulva",
-    "common name": "Pacific Golden Plover",
-    "observation photo url": "https://static.inaturalist.org/photos/557905708/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "23.2391647222",
-    "longitude": "120.1449758333",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Thinornis dubius curonicus",
-    "common name": "Northern Little Ringed Plover",
-    "observation photo url": "https://static.inaturalist.org/photos/557905699/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "23.2392288889",
-    "longitude": "120.1451072222",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Thinornis dubius curonicus",
-    "common name": "Northern Little Ringed Plover",
-    "observation photo url": "https://static.inaturalist.org/photos/557905687/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "23.2392627778",
-    "longitude": "120.1452022222",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Pluvialis fulva",
-    "common name": "Pacific Golden Plover",
-    "observation photo url": "https://static.inaturalist.org/photos/557905657/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "23.2393605556",
-    "longitude": "120.1454116667",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Thinornis dubius curonicus",
-    "common name": "Northern Little Ringed Plover",
-    "observation photo url": "https://static.inaturalist.org/photos/557905651/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "23.2393469444",
-    "longitude": "120.1453879527",
     "quality_grade": "research"
   }
 ]

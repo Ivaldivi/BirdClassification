@@ -2,6 +2,33 @@
   {
     "species": "Alectura lathami",
     "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558181383/square.jpg",
+    "date": "2024-10-27",
+    "latitude": "-17.3552598161",
+    "longitude": "145.5860470222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558181248/square.jpg",
+    "date": "2024-10-27",
+    "latitude": "-17.3567730424",
+    "longitude": "145.5876039418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173928/square.jpg",
+    "date": "2024-10-27",
+    "latitude": "-17.2858461991",
+    "longitude": "145.6294955948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557969013/square.jpg",
     "date": "2025-08-22",
     "latitude": "-25.9006484517",
@@ -1716,33 +1743,6 @@
     "date": "2025-08-17",
     "latitude": "-33.895568224",
     "longitude": "151.1489240627",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Alectura lathami",
-    "common name": "Australian Brushturkey",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553643429/square.jpg",
-    "date": "2025-08-17",
-    "latitude": "-18.8536840751",
-    "longitude": "146.1248855269",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Alectura lathami",
-    "common name": "Australian Brushturkey",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553638638/square.jpg",
-    "date": "2025-08-17",
-    "latitude": "-17.3415",
-    "longitude": "145.86992",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Alectura lathami",
-    "common name": "Australian Brushturkey",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553635216/square.jpg",
-    "date": "2025-08-12",
-    "latitude": "-29.4395441521",
-    "longitude": "153.3672421296",
     "quality_grade": "research"
   }
 ]

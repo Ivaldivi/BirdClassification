@@ -1528,14 +1528,5 @@
     "latitude": "48.3103129877",
     "longitude": "-122.8276222944",
     "quality_grade": "research"
-  },
-  {
-    "species": "Cepphus grylle",
-    "common name": "Black Guillemot",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557310909/square.jpg",
-    "date": "2025-08-24",
-    "latitude": "74.7178096999",
-    "longitude": "-91.0191551275",
-    "quality_grade": "research"
   }
 ]

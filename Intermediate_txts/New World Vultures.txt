@@ -1,5 +1,95 @@
 [
   {
+    "species": "Coragyps atratus",
+    "common name": "Black Vulture",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558197793/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.2433023126",
+    "longitude": "-96.2689485026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coragyps atratus",
+    "common name": "Black Vulture",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191893/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.3037033333",
+    "longitude": "-98.49132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cathartes aura",
+    "common name": "Turkey Vulture",
+    "observation photo url": "https://static.inaturalist.org/photos/558176102/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.3387370571",
+    "longitude": "-105.5649373156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cathartes aura",
+    "common name": "Turkey Vulture",
+    "observation photo url": "https://static.inaturalist.org/photos/558176037/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.38819974",
+    "longitude": "-105.4093208094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cathartes aura",
+    "common name": "Turkey Vulture",
+    "observation photo url": "https://static.inaturalist.org/photos/558175953/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.3780266308",
+    "longitude": "-105.4274182365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coragyps atratus",
+    "common name": "Black Vulture",
+    "observation photo url": "https://static.inaturalist.org/photos/558187942/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-22.9209166667",
+    "longitude": "-43.175725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coragyps atratus",
+    "common name": "Black Vulture",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182141/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.1959716667",
+    "longitude": "-79.120125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cathartes aura",
+    "common name": "Turkey Vulture",
+    "observation photo url": "https://static.inaturalist.org/photos/558180345/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.5485860081",
+    "longitude": "-121.0984881617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coragyps atratus",
+    "common name": "Black Vulture",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558179456/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.1970166667",
+    "longitude": "-97.1538778333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cathartes aura",
+    "common name": "Turkey Vulture",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558175105/square.jpg",
+    "date": "2025-04-08",
+    "latitude": "29.8244666667",
+    "longitude": "-94.7431805556",
+    "quality_grade": "research"
+  },
+  {
     "species": "Cathartes aura",
     "common name": "Turkey Vulture",
     "observation photo url": "https://static.inaturalist.org/photos/558164670/square.jpg",
@@ -1356,42 +1446,6 @@
     "date": "2025-08-24",
     "latitude": "32.5936395697",
     "longitude": "-115.461673066",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Cathartes aura",
-    "common name": "Turkey Vulture",
-    "observation photo url": "https://static.inaturalist.org/photos/557590804/square.jpg",
-    "date": "2025-08-25",
-    "latitude": "42.5119759499",
-    "longitude": "-83.0978634953",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Cathartes aura",
-    "common name": "Turkey Vulture",
-    "observation photo url": "https://static.inaturalist.org/photos/557581324/square.jpg",
-    "date": "2025-08-25",
-    "latitude": "37.3159333333",
-    "longitude": "-121.9845194444",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Cathartes aura",
-    "common name": "Turkey Vulture",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557575423/square.jpg",
-    "date": "2013-08-31",
-    "latitude": "33.9432119994",
-    "longitude": "-117.6460561955",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Cathartes aura",
-    "common name": "Turkey Vulture",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557574701/square.jpg",
-    "date": "2013-08-06",
-    "latitude": "33.944",
-    "longitude": "-117.6455",
     "quality_grade": "research"
   }
 ]

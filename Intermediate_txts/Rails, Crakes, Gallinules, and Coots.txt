@@ -2,6 +2,33 @@
   {
     "species": "Gallinula chloropus",
     "common name": "Common Moorhen",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558198315/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.421675",
+    "longitude": "2.2288388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fulica americana",
+    "common name": "American Coot",
+    "observation photo url": "https://static.inaturalist.org/photos/558176679/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.3918018637",
+    "longitude": "-105.530916767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Fulica atra",
+    "common name": "Eurasian Coot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558189549/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "55.7775969971",
+    "longitude": "37.4298845872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinula chloropus",
+    "common name": "Common Moorhen",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558184096/square.jpg",
     "date": "2025-08-25",
     "latitude": "53.5619082987",
@@ -15,6 +42,15 @@
     "date": "2025-08-26",
     "latitude": "53.6161606415",
     "longitude": "0.1385266079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinula galeata",
+    "common name": "Common Gallinule",
+    "observation photo url": "https://static.inaturalist.org/photos/558182389/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-6.041395401",
+    "longitude": "-77.0119862011",
     "quality_grade": "research"
   },
   {
@@ -1275,51 +1311,6 @@
     "date": "2025-08-21",
     "latitude": "50.8101577436",
     "longitude": "4.4484084585",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Gallinula chloropus",
-    "common name": "Common Moorhen",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557918435/square.jpg",
-    "date": "2025-08-21",
-    "latitude": "50.8101577436",
-    "longitude": "4.4484084585",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Fulica atra",
-    "common name": "Eurasian Coot",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557918367/square.jpg",
-    "date": "2025-08-21",
-    "latitude": "50.8101577436",
-    "longitude": "4.4484084585",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Fulica atra",
-    "common name": "Eurasian Coot",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557918319/square.jpg",
-    "date": "2025-08-21",
-    "latitude": "50.8101577436",
-    "longitude": "4.4484084585",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Fulica atra",
-    "common name": "Eurasian Coot",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557918141/square.jpg",
-    "date": "2025-08-21",
-    "latitude": "50.8101577436",
-    "longitude": "4.4484084585",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Fulica atra",
-    "common name": "Eurasian Coot",
-    "observation photo url": "https://static.inaturalist.org/photos/557916708/square.jpg",
-    "date": "2025-08-22",
-    "latitude": "51.8184883787",
-    "longitude": "-0.6491750528",
     "quality_grade": "research"
   }
 ]

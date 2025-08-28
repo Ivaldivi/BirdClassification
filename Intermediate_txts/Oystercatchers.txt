@@ -1,5 +1,23 @@
 [
   {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558198230/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.5131866667",
+    "longitude": "-74.1917283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185740/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.4033476555",
+    "longitude": "-123.348133406",
+    "quality_grade": "research"
+  },
+  {
     "species": "Haematopus ostralegus",
     "common name": "Eurasian Oystercatcher",
     "observation photo url": "https://static.inaturalist.org/photos/558171824/square.jpg",
@@ -1127,6 +1145,15 @@
   {
     "species": "Haematopus palliatus",
     "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557288587/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.3599466667",
+    "longitude": "-74.4170966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
     "observation photo url": "https://static.inaturalist.org/photos/557283397/square.jpg",
     "date": "2025-08-24",
     "latitude": "38.24525",
@@ -1653,24 +1680,6 @@
     "date": "2010-09-26",
     "latitude": "-46.5111673796",
     "longitude": "168.3260050418",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Haematopus finschi",
-    "common name": "South Island Pied Oystercatcher",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556868659/square.jpg",
-    "date": "2025-08-24",
-    "latitude": "-45.9083083",
-    "longitude": "170.5187434",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Haematopus longirostris",
-    "common name": "Pied Oystercatcher",
-    "observation photo url": "https://static.inaturalist.org/photos/556871272/square.jpg",
-    "date": "2025-01-25",
-    "latitude": "-36.9684979315",
-    "longitude": "149.8847130686",
     "quality_grade": "research"
   }
 ]

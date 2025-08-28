@@ -2,6 +2,15 @@
   {
     "species": "Bombycilla cedrorum",
     "common name": "Cedar Waxwing",
+    "observation photo url": "https://static.inaturalist.org/photos/558196596/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "42.9031216667",
+    "longitude": "-124.5020966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bombycilla cedrorum",
+    "common name": "Cedar Waxwing",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558088177/square.jpg",
     "date": "2025-07-17",
     "latitude": "48.8314485119",
@@ -1590,15 +1599,6 @@
     "date": "2025-07-19",
     "latitude": "44.0294174131",
     "longitude": "-80.069748424",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Bombycilla cedrorum",
-    "common name": "Cedar Waxwing",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556431316/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "45.4717571702",
-    "longitude": "-73.931828285",
     "quality_grade": "research"
   }
 ]

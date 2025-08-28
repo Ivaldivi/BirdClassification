@@ -1,5 +1,23 @@
 [
   {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558197261/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.0706488005",
+    "longitude": "-3.6134756729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Himantopus himantopus",
+    "common name": "Black-winged Stilt",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558186154/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8446504452",
+    "longitude": "55.3518909647",
+    "quality_grade": "research"
+  },
+  {
     "species": "Recurvirostra avosetta",
     "common name": "Pied Avocet",
     "observation photo url": "https://static.inaturalist.org/photos/558177354/square.jpg",
@@ -1527,42 +1545,6 @@
     "date": "2025-08-23",
     "latitude": "26.6575066667",
     "longitude": "-80.4930183333",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Himantopus mexicanus",
-    "common name": "Black-necked Stilt",
-    "observation photo url": "https://static.inaturalist.org/photos/557344798/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "26.6475133333",
-    "longitude": "-80.5900083333",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Himantopus mexicanus",
-    "common name": "Black-necked Stilt",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557335096/square.jpg",
-    "date": "2025-08-23",
-    "latitude": "9.003211",
-    "longitude": "-79.493697",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Recurvirostra americana",
-    "common name": "American Avocet",
-    "observation photo url": "https://static.inaturalist.org/photos/557335468/square.jpg",
-    "date": "2025-08-12",
-    "latitude": "40.5577313616",
-    "longitude": "-80.2173285681",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Himantopus mexicanus",
-    "common name": "Black-necked Stilt",
-    "observation photo url": "https://static.inaturalist.org/photos/557325891/square.jpg",
-    "date": "2025-08-17",
-    "latitude": "-38.8950671",
-    "longitude": "-60.3191029",
     "quality_grade": "research"
   }
 ]

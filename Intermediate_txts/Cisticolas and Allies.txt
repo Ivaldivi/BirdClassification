@@ -164,19 +164,19 @@
   {
     "species": "Orthotomus atrogularis",
     "common name": "Dark-necked Tailorbird",
-    "observation photo url": "https://static.inaturalist.org/photos/557940012/square.jpg",
+    "observation photo url": "https://static.inaturalist.org/photos/557939995/square.jpg",
     "date": "2025-08-26",
-    "latitude": "3.1003032663",
-    "longitude": "101.5056587599",
+    "latitude": "3.0997461832",
+    "longitude": "101.5060916824",
     "quality_grade": "research"
   },
   {
     "species": "Orthotomus atrogularis",
     "common name": "Dark-necked Tailorbird",
-    "observation photo url": "https://static.inaturalist.org/photos/557939995/square.jpg",
+    "observation photo url": "https://static.inaturalist.org/photos/557940012/square.jpg",
     "date": "2025-08-26",
-    "latitude": "3.0997461832",
-    "longitude": "101.5060916824",
+    "latitude": "3.1003032663",
+    "longitude": "101.5056587599",
     "quality_grade": "research"
   },
   {

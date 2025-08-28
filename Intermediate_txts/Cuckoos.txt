@@ -1,11 +1,29 @@
 [
   {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558195688/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.306165",
+    "longitude": "-98.4924633333",
+    "quality_grade": "research"
+  },
+  {
     "species": "Piaya cayana",
     "common name": "Squirrel Cuckoo",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558192806/square.jpg",
     "date": "2025-08-25",
     "latitude": "9.9196922232",
     "longitude": "-84.0300511569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Piaya cayana",
+    "common name": "Squirrel Cuckoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558186931/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-2.1448778889",
+    "longitude": "-79.9630889722",
     "quality_grade": "research"
   },
   {
@@ -42,6 +60,24 @@
     "date": "2025-01-29",
     "latitude": "18.1026902226",
     "longitude": "-94.3963862697",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169424/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.5620378514",
+    "longitude": "-45.8029039177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crotophaga ani",
+    "common name": "Smooth-billed Ani",
+    "observation photo url": "https://static.inaturalist.org/photos/558157221/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-0.7513608",
+    "longitude": "-90.3240598",
     "quality_grade": "research"
   },
   {
@@ -402,6 +438,15 @@
     "date": "2025-08-03",
     "latitude": "-13.981973",
     "longitude": "-75.7444882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Geococcyx californianus",
+    "common name": "Greater Roadrunner",
+    "observation photo url": "https://static.inaturalist.org/photos/557908627/square.jpg",
+    "date": "2023-08-26",
+    "latitude": "32.20997",
+    "longitude": "-110.992546",
     "quality_grade": "research"
   },
   {
@@ -1383,15 +1428,6 @@
     "date": "2025-07-13",
     "latitude": "47.5450228646",
     "longitude": "0.8351020887",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Chalcites basalis",
-    "common name": "Horsfield's Bronze Cuckoo",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557471938/square.jpg",
-    "date": "2025-08-25",
-    "latitude": "-33.7011786111",
-    "longitude": "140.1251158333",
     "quality_grade": "research"
   }
 ]

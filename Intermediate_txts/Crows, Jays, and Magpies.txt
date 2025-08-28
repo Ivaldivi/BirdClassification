@@ -1,5 +1,95 @@
 [
   {
+    "species": "Perisoreus canadensis",
+    "common name": "Canada Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558197315/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.5736363439",
+    "longitude": "-105.4377121478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558196807/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.4100854493",
+    "longitude": "-3.998221457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558196318/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "41.8040581503",
+    "longitude": "-6.7564519867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Garrulus glandarius",
+    "common name": "Eurasian Jay",
+    "observation photo url": "https://static.inaturalist.org/photos/558196267/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.0658916667",
+    "longitude": "13.6511616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica hudsonia",
+    "common name": "Black-billed Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558176172/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.2399028751",
+    "longitude": "-105.5919822777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica hudsonia",
+    "common name": "Black-billed Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558176095/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.2015813465",
+    "longitude": "-105.4410367403",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica hudsonia",
+    "common name": "Black-billed Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558175752/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.2025838257",
+    "longitude": "-105.5008869941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica hudsonia",
+    "common name": "Black-billed Magpie",
+    "observation photo url": "https://static.inaturalist.org/photos/558175530/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.346111813",
+    "longitude": "-105.5261220915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193250/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.1355364819",
+    "longitude": "-8.6648829015",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coloeus monedula",
+    "common name": "Eurasian Jackdaw",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193948/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "60.1676033333",
+    "longitude": "24.9544",
+    "quality_grade": "research"
+  },
+  {
     "species": "Cyanocitta cristata",
     "common name": "Blue Jay",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558189514/square.jpg",
@@ -69,6 +159,33 @@
     "date": "2025-04-20",
     "latitude": "48.6976904901",
     "longitude": "6.1839165562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica nuttalli",
+    "common name": "Yellow-billed Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182267/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.5742588",
+    "longitude": "-121.6888081997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nucifraga columbiana",
+    "common name": "Clark's Nutcracker",
+    "observation photo url": "https://static.inaturalist.org/photos/558181836/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.4004583333",
+    "longitude": "-105.6635366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cyanocitta cristata",
+    "common name": "Blue Jay",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558181162/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "40.3152699722",
+    "longitude": "-74.6542359722",
     "quality_grade": "research"
   },
   {
@@ -168,6 +285,15 @@
     "date": "2025-07-03",
     "latitude": "36.1515766032",
     "longitude": "-86.8144623935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pica pica",
+    "common name": "Eurasian Magpie",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558162942/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "53.7065460756",
+    "longitude": "27.3013131734",
     "quality_grade": "research"
   },
   {
@@ -906,96 +1032,6 @@
     "date": "2025-08-26",
     "latitude": "40.3383977",
     "longitude": "9.6825337997",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Corvus albus",
-    "common name": "Pied Crow",
-    "observation photo url": "https://static.inaturalist.org/photos/558087163/square.jpg",
-    "date": "2025-08-15",
-    "latitude": "-1.9440727",
-    "longitude": "30.0618851",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Pica pica",
-    "common name": "Eurasian Magpie",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558088790/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "52.0975886999",
-    "longitude": "-1.8346526037",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Pica pica",
-    "common name": "Eurasian Magpie",
-    "observation photo url": "https://static.inaturalist.org/photos/558089077/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "51.2828483582",
-    "longitude": "6.8314824104",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Corvus brachyrhynchos",
-    "common name": "American Crow",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558087719/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "48.4297316667",
-    "longitude": "-123.4020983333",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Dendrocitta vagabunda",
-    "common name": "Rufous Treepie",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558087381/square.jpg",
-    "date": "2025-05-16",
-    "latitude": "18.5492583333",
-    "longitude": "73.7838966667",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Cyanocitta cristata",
-    "common name": "Blue Jay",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558087238/square.jpg",
-    "date": "2025-08-22",
-    "latitude": "54.5527660747",
-    "longitude": "-113.3454641519",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Cyanocitta cristata",
-    "common name": "Blue Jay",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086738/square.jpg",
-    "date": "2025-08-22",
-    "latitude": "54.5527660747",
-    "longitude": "-113.3454641519",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Nucifraga caryocatactes",
-    "common name": "Northern Nutcracker",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086242/square.jpg",
-    "date": "2025-07-30",
-    "latitude": "45.1316402511",
-    "longitude": "5.8923851024",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Coloeus monedula",
-    "common name": "Eurasian Jackdaw",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558084981/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "50.8760621835",
-    "longitude": "20.6059098244",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Aphelocoma californica",
-    "common name": "California Scrub-Jay",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558084920/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "32.9710366667",
-    "longitude": "-117.0491028333",
     "quality_grade": "research"
   }
 ]

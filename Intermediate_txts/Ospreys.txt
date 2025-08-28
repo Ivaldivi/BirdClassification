@@ -2,6 +2,15 @@
   {
     "species": "Pandion haliaetus",
     "common name": "Osprey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558192491/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.0302666667",
+    "longitude": "-76.1152638333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pandion haliaetus",
+    "common name": "Osprey",
     "observation photo url": "https://static.inaturalist.org/photos/558190439/square.jpg",
     "date": "2025-08-26",
     "latitude": "49.4995566667",
@@ -1545,15 +1554,6 @@
     "date": "2025-08-25",
     "latitude": "55.671036815",
     "longitude": "12.5412957916",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Pandion haliaetus",
-    "common name": "Osprey",
-    "observation photo url": "https://static.inaturalist.org/photos/557484442/square.jpg",
-    "date": "2025-08-25",
-    "latitude": "55.670830542",
-    "longitude": "12.5411382724",
     "quality_grade": "research"
   }
 ]

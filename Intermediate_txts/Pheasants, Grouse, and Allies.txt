@@ -27,6 +27,15 @@
     "quality_grade": "research"
   },
   {
+    "species": "Dendragapus obscurus",
+    "common name": "Dusky Grouse",
+    "observation photo url": "https://static.inaturalist.org/photos/558175608/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.92746",
+    "longitude": "-106.9737209722",
+    "quality_grade": "research"
+  },
+  {
     "species": "Meleagris gallopavo",
     "common name": "Wild Turkey",
     "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558175060/square.jpg",
@@ -69,6 +78,15 @@
     "date": "2025-08-14",
     "latitude": "62.9459437221",
     "longitude": "25.9898385317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus gallus",
+    "common name": "Red Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160354/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.8140841",
+    "longitude": "-76.0550855",
     "quality_grade": "research"
   },
   {
@@ -150,6 +168,15 @@
     "date": "2025-08-18",
     "latitude": "37.6465203323",
     "longitude": "-122.1464369819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://static.inaturalist.org/photos/558126686/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.4481048594",
+    "longitude": "-77.3827935756",
     "quality_grade": "research"
   },
   {
@@ -987,15 +1014,6 @@
     "date": "2025-08-25",
     "latitude": "43.4007542488",
     "longitude": "-89.8468623777",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Pavo cristatus",
-    "common name": "Indian Peafowl",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557885342/square.jpg",
-    "date": "2025-08-26",
-    "latitude": "17.423755",
-    "longitude": "78.4156783333",
     "quality_grade": "research"
   }
 ]

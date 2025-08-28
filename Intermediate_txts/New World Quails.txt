@@ -1,5 +1,14 @@
 [
   {
+    "species": "Callipepla douglasii",
+    "common name": "Elegant Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/558194807/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "24.8090649",
+    "longitude": "-107.3940117",
+    "quality_grade": "research"
+  },
+  {
     "species": "Callipepla californica",
     "common name": "California Quail",
     "observation photo url": "https://static.inaturalist.org/photos/558164037/square.jpg",
@@ -96,6 +105,15 @@
     "date": "2025-08-23",
     "latitude": "34.563475576",
     "longitude": "-79.9275578791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colinus virginianus",
+    "common name": "Northern Bobwhite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558014297/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "26.4763887349",
+    "longitude": "-99.6372222528",
     "quality_grade": "research"
   },
   {
@@ -1338,15 +1356,6 @@
     "date": "2025-08-20",
     "latitude": "38.1935481983",
     "longitude": "-122.9015093367",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Callipepla californica",
-    "common name": "California Quail",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556037463/square.jpg",
-    "date": "2025-08-20",
-    "latitude": "38.1355331942",
-    "longitude": "-122.9993479105",
     "quality_grade": "research"
   }
 ]

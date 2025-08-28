@@ -2,6 +2,15 @@
   {
     "species": "Ciconia ciconia",
     "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193194/square.jpg",
+    "date": "2023-05-20",
+    "latitude": "56.1588597221",
+    "longitude": "36.102123486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
     "observation photo url": "https://static.inaturalist.org/photos/558189195/square.jpg",
     "date": "2025-06-27",
     "latitude": "42.6381831462",
@@ -321,6 +330,15 @@
     "date": "2025-08-03",
     "latitude": "7.2667437517",
     "longitude": "80.8885566518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558060881/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "12.9440324498",
+    "longitude": "77.5827149609",
     "quality_grade": "research"
   },
   {
@@ -1626,15 +1644,6 @@
     "date": "2025-08-19",
     "latitude": "45.9889626217",
     "longitude": "43.5762423392",
-    "quality_grade": "research"
-  },
-  {
-    "species": "Ciconia ciconia ciconia",
-    "common name": "European White Stork",
-    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557439961/square.jpg",
-    "date": "2023-04-29",
-    "latitude": "47.2086638494",
-    "longitude": "29.1782931294",
     "quality_grade": "research"
   }
 ]
