@@ -1,0 +1,1280 @@
+[
+  {
+    "species": "Dromaius novaehollandiae novaehollandiae",
+    "common name": "Mainland Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558174839/square.jpg",
+    "date": "2025-01-17",
+    "latitude": "-34.3419616667",
+    "longitude": "118.1670383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/557951343/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-24.3555416667",
+    "longitude": "139.4547116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557842904/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-35.1055583333",
+    "longitude": "139.1449361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557780213/square.jpg",
+    "date": "2025-01-29",
+    "latitude": "-38.9481609232",
+    "longitude": "146.2839375728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/557768753/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-32.5393125",
+    "longitude": "142.2974375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557769954/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-34.5038050125",
+    "longitude": "135.4061414324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557554710/square.jpg",
+    "date": "2023-03-22",
+    "latitude": "-16.1387666667",
+    "longitude": "145.4375616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557506312/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-24.7260447222",
+    "longitude": "113.7715313889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557384716/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.30792",
+    "longitude": "143.53768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557359070/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-35.023684",
+    "longitude": "138.6679662997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557325302/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-35.0893027778",
+    "longitude": "139.1594027778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557238729/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-29.4664466667",
+    "longitude": "147.7613216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/557103922/square.jpg",
+    "date": "2023-12-10",
+    "latitude": "-38.2741",
+    "longitude": "147.3144388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/557103569/square.jpg",
+    "date": "2022-12-26",
+    "latitude": "-38.3182972222",
+    "longitude": "142.3648694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/557103549/square.jpg",
+    "date": "2022-12-26",
+    "latitude": "-38.3189055556",
+    "longitude": "142.3627472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556952918/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.336220305",
+    "longitude": "150.1796779966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556888205/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-34.7853808273",
+    "longitude": "142.4926867048",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556887962/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-34.7827",
+    "longitude": "142.45951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556864325/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-24.9947078648",
+    "longitude": "148.3398314193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556847604/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-28.2985316667",
+    "longitude": "148.5430483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556825437/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.7142614663",
+    "longitude": "142.3359700665",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/556746507/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.96685",
+    "longitude": "147.9874883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556393957/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-38.9337244311",
+    "longitude": "146.2525767621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556371348/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-17.8677444266",
+    "longitude": "146.0885721936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556366087/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-35.0891",
+    "longitude": "139.1592833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556338344/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-32.0588973408",
+    "longitude": "116.0407851264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556308722/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-21.9873633333",
+    "longitude": "146.3320166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556299724/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.42432",
+    "longitude": "115.8662866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556257467/square.jpg",
+    "date": "2019-11-08",
+    "latitude": "-37.0232075953",
+    "longitude": "147.2216248211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556236436/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.4429666667",
+    "longitude": "116.0262361667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556217182/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-27.3030456818",
+    "longitude": "114.5977333098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556207469/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-24.6879469294",
+    "longitude": "150.3854890188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/555922867/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-32.4329412194",
+    "longitude": "142.3493905111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555904389/square.jpg",
+    "date": "2016-03-30",
+    "latitude": "-30.591275",
+    "longitude": "115.1581522",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555887516/square.jpg",
+    "date": "2010-10-01",
+    "latitude": "-29.160563966",
+    "longitude": "141.6510666151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555727025/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-17.8163708319",
+    "longitude": "146.0973880067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555524001/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-17.8169897537",
+    "longitude": "146.1008131877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555513345/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-31.1141909596",
+    "longitude": "115.423895225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555482325/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-34.0417896955",
+    "longitude": "141.0289738989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555464691/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-37.912648536",
+    "longitude": "144.705777663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555462064/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-35.6491906419",
+    "longitude": "140.1022917622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555427959/square.jpg",
+    "date": "2018-11-07",
+    "latitude": "-17.8694425046",
+    "longitude": "146.1069437116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555383151/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-20.4245184147",
+    "longitude": "148.4689335153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555319581/square.jpg",
+    "date": "2016-07-06",
+    "latitude": "-27.8467404295",
+    "longitude": "145.4079502659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555193761/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-34.69394388",
+    "longitude": "138.9529721144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555017058/square.jpg",
+    "date": "2022-12-16",
+    "latitude": "-17.559718",
+    "longitude": "146.090286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555015719/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-22.6747904286",
+    "longitude": "118.2889232039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554979672/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-34.3905277638",
+    "longitude": "118.1128558726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554979421/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-34.3187441041",
+    "longitude": "116.4594408939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554980331/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-17.5978133333",
+    "longitude": "146.1192638333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554944663/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-31.5226549881",
+    "longitude": "138.6307279766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554930435/square.jpg",
+    "date": "1980-08-26",
+    "latitude": "-24.1513109",
+    "longitude": "141.100952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554916003/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-32.1456668858",
+    "longitude": "150.3131895885",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554887092/square.jpg",
+    "date": "2024-11-27",
+    "latitude": "-21.8873754102",
+    "longitude": "114.0044762751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554762599/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-16.1745280801",
+    "longitude": "145.4298495801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554629289/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-34.806315",
+    "longitude": "143.3808433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554618846/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-34.7555933333",
+    "longitude": "142.34197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554617727/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-35.819238358",
+    "longitude": "139.8048909266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554519971/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-20.3860287921",
+    "longitude": "148.5622731346",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554234413/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.2849979136",
+    "longitude": "145.6294167045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/554105359/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.6519565997",
+    "longitude": "150.8119172",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554104264/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.7281820076",
+    "longitude": "150.7557218827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554101967/square.jpg",
+    "date": "2023-03-25",
+    "latitude": "-37.1089027778",
+    "longitude": "142.4119194444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554046401/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-16.1742295033",
+    "longitude": "145.43375647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554029448/square.jpg",
+    "date": "2025-01-10",
+    "latitude": "-21.929094968",
+    "longitude": "114.1254648261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554021817/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-22.4361055556",
+    "longitude": "141.443025",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553970695/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-35.3491032672",
+    "longitude": "141.1874380867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius unappendiculatus",
+    "common name": "Northern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553865251/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-0.9027972337",
+    "longitude": "133.3026195757",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553675708/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-29.4497462059",
+    "longitude": "149.5009914281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553629600/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-16.8855866641",
+    "longitude": "145.6477840573",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553628694/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-20.4933011775",
+    "longitude": "148.5988343656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553489361/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.7350327289",
+    "longitude": "150.7453802136",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553212006/square.jpg",
+    "date": "2025-01-10",
+    "latitude": "-33.84253",
+    "longitude": "115.92495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553211855/square.jpg",
+    "date": "2025-01-10",
+    "latitude": "-33.9213966667",
+    "longitude": "115.812295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553114683/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-36.0775138889",
+    "longitude": "150.131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553110005/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-17.9018962409",
+    "longitude": "146.0918010648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://static.inaturalist.org/photos/553090054/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-17.7499989997",
+    "longitude": "145.6162105997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553087219/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-35.4388299398",
+    "longitude": "148.944673324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553076762/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.5978667122",
+    "longitude": "145.7573115676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553068043/square.jpg",
+    "date": "2009-08-27",
+    "latitude": "-31.2769462691",
+    "longitude": "148.9966280921",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553069314/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-33.7394675771",
+    "longitude": "150.7393982245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553061013/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-35.4388077264",
+    "longitude": "148.9446276426",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553054252/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-35.4395207941",
+    "longitude": "148.9444192387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553037975/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-35.9685710997",
+    "longitude": "144.9595338997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553018471/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-20.3879002258",
+    "longitude": "148.5586869344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/552894411/square.jpg",
+    "date": "2007-03-22",
+    "latitude": "-38.3150606028",
+    "longitude": "141.5341950606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552843051/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-17.5556055556",
+    "longitude": "146.0902416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://static.inaturalist.org/photos/552816832/square.jpg",
+    "date": "2024-08-21",
+    "latitude": "-17.5660094455",
+    "longitude": "146.0860200847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://static.inaturalist.org/photos/552685252/square.jpg",
+    "date": "2024-12-25",
+    "latitude": "-17.5575859833",
+    "longitude": "146.0899442694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/552679937/square.jpg",
+    "date": "2024-12-17",
+    "latitude": "-38.9499904",
+    "longitude": "146.2811648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552493975/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "-21.8717220957",
+    "longitude": "114.0243636239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552490355/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-21.8680799876",
+    "longitude": "114.1399465669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552409319/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "10.2023968768",
+    "longitude": "-84.4834878519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552316382/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-26.7268116667",
+    "longitude": "120.3991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://static.inaturalist.org/photos/552200135/square.jpg",
+    "date": "2017-12-09",
+    "latitude": "-16.8026628794",
+    "longitude": "145.636885739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://static.inaturalist.org/photos/552200154/square.jpg",
+    "date": "2017-12-09",
+    "latitude": "-16.8026628794",
+    "longitude": "145.636885739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552199580/square.jpg",
+    "date": "2024-01-29",
+    "latitude": "-43.912025",
+    "longitude": "-176.5100416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/552169418/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-23.9386286244",
+    "longitude": "147.9130960588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552153533/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-28.4596816667",
+    "longitude": "151.2490133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552148137/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-16.1397333333",
+    "longitude": "145.445555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552147377/square.jpg",
+    "date": "2024-09-24",
+    "latitude": "-23.440207729",
+    "longitude": "144.2362621125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552089989/square.jpg",
+    "date": "2023-06-27",
+    "latitude": "-17.2794797987",
+    "longitude": "145.5268628085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551820629/square.jpg",
+    "date": "2025-05-07",
+    "latitude": "-17.5578717905",
+    "longitude": "146.0897229239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551737859/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-29.61344",
+    "longitude": "141.8968999722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551736599/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-16.1379053997",
+    "longitude": "145.4397458956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551735422/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-34.5304059722",
+    "longitude": "142.8050179722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551715829/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-17.218705",
+    "longitude": "145.67882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551690761/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-16.0717668852",
+    "longitude": "145.4381419267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551661689/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-37.2096791278",
+    "longitude": "142.5462448656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551361676/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-34.7193705773",
+    "longitude": "139.0213587072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551355792/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-34.4853697",
+    "longitude": "139.3600014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/551280395/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-24.9754083333",
+    "longitude": "148.3871783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551270340/square.jpg",
+    "date": "2013-10-19",
+    "latitude": "-38.9493101978",
+    "longitude": "146.2818315377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551246534/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-16.2312866667",
+    "longitude": "145.4482583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551229607/square.jpg",
+    "date": "2014-10-26",
+    "latitude": "-31.9100984374",
+    "longitude": "141.4777804007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551202857/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-34.2228501657",
+    "longitude": "140.7161298607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551175747/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-28.0895888333",
+    "longitude": "145.68808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551152441/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-29.4800744466",
+    "longitude": "149.1520908102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551003573/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "-38.3138557077",
+    "longitude": "142.3565862782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551004599/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "-38.3186033769",
+    "longitude": "142.3631094105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://static.inaturalist.org/photos/550840833/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-17.4283064985",
+    "longitude": "145.4861263186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550769132/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-32.5074116394",
+    "longitude": "145.4040086867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550740485/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-38.3197171388",
+    "longitude": "142.35805196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550663911/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-17.2873947338",
+    "longitude": "145.6303920815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/550734866/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-32.2510133333",
+    "longitude": "149.732375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550712608/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-34.4014397798",
+    "longitude": "118.1061062502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://static.inaturalist.org/photos/550702880/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-38.317305",
+    "longitude": "142.3651416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550698045/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-16.1062602997",
+    "longitude": "145.4573364258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550696785/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-30.00801945",
+    "longitude": "115.1170195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550632994/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-26.7847683361",
+    "longitude": "151.3905778932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550255480/square.jpg",
+    "date": "2024-10-09",
+    "latitude": "-12.8655050532",
+    "longitude": "132.7942451576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550252412/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-34.5304059722",
+    "longitude": "142.8050179722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550249149/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-31.9789969722",
+    "longitude": "141.463613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550199368/square.jpg",
+    "date": "2010-09-27",
+    "latitude": "-30.7335683569",
+    "longitude": "143.5695614802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550198667/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-16.1741",
+    "longitude": "145.4163666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550197074/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-25.9350578086",
+    "longitude": "152.6993707265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550196000/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-16.1170900981",
+    "longitude": "145.4570722746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Casuarius casuarius",
+    "common name": "Southern Cassowary",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550137140/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-17.2200339128",
+    "longitude": "145.6810504808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550063788/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-35.0582439514",
+    "longitude": "136.9302022103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550061961/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-31.6505206",
+    "longitude": "138.5941693997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549805577/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-29.72577",
+    "longitude": "116.8122166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "common name": "Emu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549697119/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.8236663197",
+    "longitude": "138.8304509595",
+    "quality_grade": "research"
+  }
+]

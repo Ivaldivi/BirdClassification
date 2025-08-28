@@ -1,0 +1,1685 @@
+[
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/558139208/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-23.4907130784",
+    "longitude": "-46.5160698391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558091202/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-34.6073547929",
+    "longitude": "-58.3596465965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/558055202/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "12.6828661",
+    "longitude": "80.1570372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558028641/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-1.89490935",
+    "longitude": "-55.11637395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558000303/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-2.5582239273",
+    "longitude": "30.0715803802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557993285/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-12.5635358",
+    "longitude": "131.3034402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557988146/square.jpg",
+    "date": "2023-06-30",
+    "latitude": "-28.2465376223",
+    "longitude": "-48.6710891707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557975978/square.jpg",
+    "date": "2021-11-27",
+    "latitude": "23.0177569933",
+    "longitude": "120.3656975752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557953624/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "24.0086026649",
+    "longitude": "120.2903412035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557943945/square.jpg",
+    "date": "2025-04-10",
+    "latitude": "22.1980328683",
+    "longitude": "80.6264152457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557926416/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-12.893039495",
+    "longitude": "132.5171865517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557886997/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "26.7082963869",
+    "longitude": "77.8450198065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557747123/square.jpg",
+    "date": "2024-05-10",
+    "latitude": "-27.2834232128",
+    "longitude": "-55.4576469585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557734734/square.jpg",
+    "date": "2007-02-16",
+    "latitude": "15.708508778",
+    "longitude": "100.209187389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557734069/square.jpg",
+    "date": "2005-07-17",
+    "latitude": "-23.1066836743",
+    "longitude": "31.4334189614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557733495/square.jpg",
+    "date": "2007-02-16",
+    "latitude": "15.7081059805",
+    "longitude": "100.2055610424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557657156/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "8.6998430163",
+    "longitude": "-83.1943918716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557626090/square.jpg",
+    "date": "2025-01-17",
+    "latitude": "-4.5485158993",
+    "longitude": "-73.4529909516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557623598/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "8.4511806931",
+    "longitude": "76.9800578803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557609089/square.jpg",
+    "date": "2024-12-08",
+    "latitude": "10.89241",
+    "longitude": "-84.79567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557604397/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "22.5617537",
+    "longitude": "88.2893772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557604070/square.jpg",
+    "date": "2019-02-18",
+    "latitude": "20.6821703",
+    "longitude": "81.1692374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557589243/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "6.0304616667",
+    "longitude": "-71.3521016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557577473/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-23.108904",
+    "longitude": "31.435554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557577444/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-23.108904",
+    "longitude": "31.435554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557560473/square.jpg",
+    "date": "2019-01-20",
+    "latitude": "21.3550114",
+    "longitude": "81.7284553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557527136/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.2076216667",
+    "longitude": "79.0826861667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557505593/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "21.7546678114",
+    "longitude": "88.2217853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557478469/square.jpg",
+    "date": "2024-08-27",
+    "latitude": "-16.9203476",
+    "longitude": "145.7709529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557444583/square.jpg",
+    "date": "2024-07-19",
+    "latitude": "19.4759969753",
+    "longitude": "-88.0544866938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557429278/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.4018388889",
+    "longitude": "150.4894277778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557428667/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.3997388889",
+    "longitude": "150.4884555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557401204/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.3020587716",
+    "longitude": "143.3510869718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557408141/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2754389832",
+    "longitude": "152.767379599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557393492/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "8.3567368144",
+    "longitude": "-75.0950458078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557386808/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "8.3479891593",
+    "longitude": "-75.0891599686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557374778/square.jpg",
+    "date": "2024-12-08",
+    "latitude": "6.2568481489",
+    "longitude": "-75.492651053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557374668/square.jpg",
+    "date": "2024-12-08",
+    "latitude": "6.2568481489",
+    "longitude": "-75.492651053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557312931/square.jpg",
+    "date": "2022-10-21",
+    "latitude": "-26.8936279521",
+    "longitude": "-59.0101209214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557295360/square.jpg",
+    "date": "2025-02-20",
+    "latitude": "15.2007201879",
+    "longitude": "-92.5779959983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557237866/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.8244506922",
+    "longitude": "25.1295987496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557236809/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.8244506922",
+    "longitude": "25.1295987496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557088340/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "15.7331550125",
+    "longitude": "-96.1594043187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/557072880/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.4426164145",
+    "longitude": "-49.1478917375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557014215/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "15.7314259792",
+    "longitude": "-96.1588863107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557029543/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "9.1084939",
+    "longitude": "76.4836866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557029434/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "9.1084939",
+    "longitude": "76.4836866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556940889/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.2032929474",
+    "longitude": "119.0182626382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556909005/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-0.5265033333",
+    "longitude": "-76.4258533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556890493/square.jpg",
+    "date": "2013-05-11",
+    "latitude": "6.4315075124",
+    "longitude": "81.1195590212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556888575/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-18.6533901992",
+    "longitude": "146.1517117918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Microparra capensis",
+    "common name": "Lesser Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556875569/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-18.9832103288",
+    "longitude": "22.9361504634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556870055/square.jpg",
+    "date": "2024-05-15",
+    "latitude": "22.090888961",
+    "longitude": "88.7613659352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556837073/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "23.7109297198",
+    "longitude": "120.4950633374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556807165/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.4923730962",
+    "longitude": "152.7574895849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556754768/square.jpg",
+    "date": "2019-06-03",
+    "latitude": "-12.5624425142",
+    "longitude": "131.3018431348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556754699/square.jpg",
+    "date": "2019-06-03",
+    "latitude": "-12.5623650718",
+    "longitude": "131.3018538636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556766954/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.4357216667",
+    "longitude": "153.1492778333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556693118/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "10.3302244",
+    "longitude": "-61.4523076997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556653667/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-27.4949216667",
+    "longitude": "-55.7723783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556641624/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "6.0142863893",
+    "longitude": "-71.2978508805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556581680/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "18.6415724061",
+    "longitude": "-69.7882180017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556576339/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-22.4508814601",
+    "longitude": "-42.7726737741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556574643/square.jpg",
+    "date": "2017-01-16",
+    "latitude": "-4.644246348",
+    "longitude": "-73.8435391937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556562586/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "9.9757456061",
+    "longitude": "-84.160433051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556547573/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "7.9270986077",
+    "longitude": "38.7248811068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556540344/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-20.5034576486",
+    "longitude": "-54.6168559095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556540197/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-20.5034576486",
+    "longitude": "-54.6168559095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556542236/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "10.532195",
+    "longitude": "-83.50682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556498255/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "15.7326496917",
+    "longitude": "-96.1588997132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556493478/square.jpg",
+    "date": "2019-06-02",
+    "latitude": "-12.6500129834",
+    "longitude": "132.5738638186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556493158/square.jpg",
+    "date": "2019-06-02",
+    "latitude": "-12.6501640299",
+    "longitude": "132.5738250401",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556487115/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "2.2761971705",
+    "longitude": "31.6782889143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556465420/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "2.2256165752",
+    "longitude": "31.7698481306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556463573/square.jpg",
+    "date": "2013-02-22",
+    "latitude": "-24.5140415689",
+    "longitude": "30.9023623003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556445202/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "23.1012201107",
+    "longitude": "120.2037725262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556444648/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "23.0342870951",
+    "longitude": "120.3789825801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556443347/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "23.1817390824",
+    "longitude": "120.3728789684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556416364/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "4.9261502745",
+    "longitude": "-52.2767056468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556401496/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.8820363455",
+    "longitude": "73.7036534026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556386639/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "-24.64427737",
+    "longitude": "28.69691092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556390438/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-13.210464794",
+    "longitude": "134.8658624432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556384826/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-23.401431",
+    "longitude": "150.4915111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556371860/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "21.0776048444",
+    "longitude": "-86.7752632499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556371837/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "21.0776048444",
+    "longitude": "-86.7752632499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556360719/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-3.3502706274",
+    "longitude": "29.2284299146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556350590/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-7.2802883333",
+    "longitude": "37.1565778333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556441047/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "23.3107238044",
+    "longitude": "120.3022100161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556345053/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "23.1336750014",
+    "longitude": "120.2978452925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556326528/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-2.652",
+    "longitude": "37.261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556215144/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-17.2615060046",
+    "longitude": "145.5907012983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556290229/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "10.4050080528",
+    "longitude": "-84.7124201065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556163474/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-3.8188813276",
+    "longitude": "-70.3401442101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556163412/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-3.8188813276",
+    "longitude": "-70.3401442101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556104471/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.5153036775",
+    "longitude": "-54.6201035428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556102080/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-6.0665088873",
+    "longitude": "-35.1000496537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556092119/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-2.6355343136",
+    "longitude": "37.2427100676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556055679/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "6.0866005667",
+    "longitude": "80.9376781833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556055645/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "6.0864368833",
+    "longitude": "80.9375453167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556055588/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "6.0864270667",
+    "longitude": "80.9375364167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556055398/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "6.0851156833",
+    "longitude": "80.9365271",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556055064/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "6.0833284167",
+    "longitude": "80.9337200833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556012457/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "15.4566313356",
+    "longitude": "-87.9225266787",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556013680/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-0.023559",
+    "longitude": "37.906193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555930861/square.jpg",
+    "date": "2017-12-19",
+    "latitude": "20.8973799",
+    "longitude": "81.6016944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555930681/square.jpg",
+    "date": "2017-12-19",
+    "latitude": "20.8973799",
+    "longitude": "81.6016944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555927894/square.jpg",
+    "date": "2017-10-15",
+    "latitude": "21.3479616",
+    "longitude": "81.7075878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/555876380/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.3177315056",
+    "longitude": "153.0628486897",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555846957/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "9.119452",
+    "longitude": "-79.711234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Microparra capensis",
+    "common name": "Lesser Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555855593/square.jpg",
+    "date": "2019-01-20",
+    "latitude": "-27.640664367",
+    "longitude": "32.3705513668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555833732/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "22.5617537",
+    "longitude": "88.2893772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/555818495/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "-34.8481061289",
+    "longitude": "-58.0590529429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/555818175/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-34.6115409256",
+    "longitude": "-58.3568121493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555801682/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-14.87214201",
+    "longitude": "-64.87254889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555797649/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "16.7130243136",
+    "longitude": "-94.9869092156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555785618/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-12.8934216667",
+    "longitude": "132.510605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555764497/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "20.9472840243",
+    "longitude": "-89.578343987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555685655/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "7.779368",
+    "longitude": "100.15514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555645368/square.jpg",
+    "date": "2022-08-07",
+    "latitude": "10.53210275",
+    "longitude": "-83.50720275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555608292/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-0.4649519983",
+    "longitude": "-76.7676631279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555603497/square.jpg",
+    "date": "2017-03-11",
+    "latitude": "22.5053222895",
+    "longitude": "81.7782991079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555603498/square.jpg",
+    "date": "2017-03-11",
+    "latitude": "22.5053222895",
+    "longitude": "81.7782991079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555599875/square.jpg",
+    "date": "2017-10-29",
+    "latitude": "21.3479616",
+    "longitude": "81.7075878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555589245/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "15.7315642437",
+    "longitude": "-96.1591296384",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/555551447/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "10.4565195153",
+    "longitude": "-85.3002641062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555561260/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "7.7819906",
+    "longitude": "100.141996459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555549294/square.jpg",
+    "date": "2015-09-08",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555448754/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-12.5638252752",
+    "longitude": "131.3028103795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555519317/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-3.791819586",
+    "longitude": "-38.5530873388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/555494236/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "13.0636971667",
+    "longitude": "77.768895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555492362/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-16.8328269444",
+    "longitude": "145.7029419444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555487640/square.jpg",
+    "date": "2023-11-11",
+    "latitude": "27.1619125",
+    "longitude": "77.5227969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555425504/square.jpg",
+    "date": "2017-12-31",
+    "latitude": "23.2302302069",
+    "longitude": "-106.4295911733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555415804/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-18.655345412",
+    "longitude": "146.1493078619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555330209/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-34.6018222222",
+    "longitude": "-58.3603361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555330204/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-34.6018222222",
+    "longitude": "-58.3603361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/555412383/square.jpg",
+    "date": "2019-09-21",
+    "latitude": "-34.5183775986",
+    "longitude": "-58.4701639786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555395045/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-17.3636175865",
+    "longitude": "-56.7755611624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555348567/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-14.8718266667",
+    "longitude": "-66.7434016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555334241/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-9.9533593183",
+    "longitude": "-67.8667789459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555334440/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-27.27505",
+    "longitude": "-55.5085516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555320574/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-12.5603285147",
+    "longitude": "131.2995456683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555317473/square.jpg",
+    "date": "2024-06-14",
+    "latitude": "10.3301833333",
+    "longitude": "-61.4523083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555315740/square.jpg",
+    "date": "2024-06-14",
+    "latitude": "10.3304033333",
+    "longitude": "-61.4513133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555298647/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "22.2680878",
+    "longitude": "-97.8294866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555281176/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.3129746",
+    "longitude": "32.43719596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555271487/square.jpg",
+    "date": "2025-01-26",
+    "latitude": "-19.0105111111",
+    "longitude": "15.7127777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555257445/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-34.6022006788",
+    "longitude": "-58.3613058254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/555245071/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-21.9635699763",
+    "longitude": "-47.4517355998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555220763/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-25.1215111596",
+    "longitude": "31.9245383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555202098/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-16.7484218255",
+    "longitude": "-56.8575236946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/556044367/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-25.0970270496",
+    "longitude": "31.1824021208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555160798/square.jpg",
+    "date": "2017-11-18",
+    "latitude": "22.8209477",
+    "longitude": "72.0571863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555072711/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.4986439997",
+    "longitude": "153.0158983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555067949/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-0.3466707",
+    "longitude": "36.1219127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555062654/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-19.5488928738",
+    "longitude": "23.0721834629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555062499/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.5488928738",
+    "longitude": "23.0721834629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555062424/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.5488928738",
+    "longitude": "23.0721834629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555062314/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.5488928738",
+    "longitude": "23.0721834629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555062180/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.5488928738",
+    "longitude": "23.0721834629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555061644/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-19.5488928738",
+    "longitude": "23.0721834629",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555055301/square.jpg",
+    "date": "2019-04-24",
+    "latitude": "21.916221",
+    "longitude": "95.955974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555046300/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-27.4986039383",
+    "longitude": "153.0160010683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555044990/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.31723605",
+    "longitude": "32.43371728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/555038139/square.jpg",
+    "date": "2019-09-08",
+    "latitude": "-34.5151708395",
+    "longitude": "-58.4725226462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555021974/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-15.787388",
+    "longitude": "128.736832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Metopidius indicus",
+    "common name": "Bronze-winged Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555007158/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "13.1334101298",
+    "longitude": "77.7402469546",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554963105/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-17.250607226",
+    "longitude": "-56.6633516337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554943850/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.4600099552",
+    "longitude": "-56.819567099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554943840/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.4600099552",
+    "longitude": "-56.819567099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554944986/square.jpg",
+    "date": "2025-03-30",
+    "latitude": "-33.4912493552",
+    "longitude": "-58.6798976362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554942702/square.jpg",
+    "date": "2025-03-30",
+    "latitude": "-33.4912493552",
+    "longitude": "-58.6798976362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554921144/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-3.9832976597",
+    "longitude": "-38.5383801162",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554917288/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-4.6448805556",
+    "longitude": "-73.7755555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554913687/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "10.5324366667",
+    "longitude": "-83.5079716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Irediparra gallinacea",
+    "common name": "Comb-crested Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/554897349/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-30.17239826",
+    "longitude": "153.1629253437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554892959/square.jpg",
+    "date": "2025-01-04",
+    "latitude": "27.1596085",
+    "longitude": "77.5218127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydrophasianus chirurgus",
+    "common name": "Pheasant-tailed Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554892910/square.jpg",
+    "date": "2025-01-04",
+    "latitude": "27.1596085",
+    "longitude": "77.5218127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actophilornis africanus",
+    "common name": "African Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554887459/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-2.928939093",
+    "longitude": "37.9125016725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana spinosa",
+    "common name": "Northern Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554887201/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "9.7353683665",
+    "longitude": "-82.8263468295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554873039/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-2.1481521111",
+    "longitude": "-79.9604034167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554872266/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-2.1478218889",
+    "longitude": "-79.9601211389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/554824908/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "4.8895833333",
+    "longitude": "-71.35253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/554815711/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-35.5533045732",
+    "longitude": "-58.0611513134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/554815582/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-35.5533045732",
+    "longitude": "-58.0611513134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/554815368/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-35.5533045732",
+    "longitude": "-58.0611513134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jacana jacana",
+    "common name": "Wattled Jacana",
+    "observation photo url": "https://static.inaturalist.org/photos/554815250/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-35.5533045732",
+    "longitude": "-58.0611513134",
+    "quality_grade": "research"
+  }
+]

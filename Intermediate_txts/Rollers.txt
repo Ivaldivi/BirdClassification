@@ -1,0 +1,1496 @@
+[
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/558196229/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.8034233046",
+    "longitude": "3.5434852846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182728/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.171395255",
+    "longitude": "-8.8141455996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558128280/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.5204189432",
+    "longitude": "3.353739694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558087035/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-1.3946383333",
+    "longitude": "35.3470466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis indicus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063198/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.3911197794",
+    "longitude": "81.0598619642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558054978/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "36.7902001875",
+    "longitude": "-6.1631141603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/558027208/square.jpg",
+    "date": "2025-04-30",
+    "latitude": "36.5706168705",
+    "longitude": "44.075984986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558024781/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "23.2598816188",
+    "longitude": "77.4126150459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558008682/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "-22.7343687455",
+    "longitude": "31.0157949104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558008843/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "-22.734279688",
+    "longitude": "31.015494503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557984416/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.9270991942",
+    "longitude": "120.1943412555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557947217/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "45.357314",
+    "longitude": "36.468293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557937617/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.9388166667",
+    "longitude": "31.2397888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus gularis",
+    "common name": "Blue-throated Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557845854/square.jpg",
+    "date": "2025-02-12",
+    "latitude": "5.3535637947",
+    "longitude": "-1.3833247428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557713481/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.0093479616",
+    "longitude": "-8.8254033461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557671777/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.8647582642",
+    "longitude": "10.7083112192",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557652969/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "47.1503911131",
+    "longitude": "19.184718861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557622959/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "48.77137367",
+    "longitude": "44.58828233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557612515/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-25.0991652868",
+    "longitude": "31.595119983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557611816/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-23.9643135071",
+    "longitude": "31.5694885254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557580938/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "26.8491845",
+    "longitude": "88.3603576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557526262/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.2846971606",
+    "longitude": "3.3290890719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557524515/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-3.7387376",
+    "longitude": "35.9700644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557489595/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.3684350108",
+    "longitude": "4.6887064272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557488163/square.jpg",
+    "date": "2024-05-08",
+    "latitude": "-1.824521205",
+    "longitude": "133.4388255826",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557477345/square.jpg",
+    "date": "2024-12-17",
+    "latitude": "-25.2564932309",
+    "longitude": "152.8066248368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis pacificus",
+    "common name": "Australian Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557465720/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "-25.8882235",
+    "longitude": "152.4649877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557469533/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "1.3421327525",
+    "longitude": "103.7663234398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557461747/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.3352325",
+    "longitude": "120.6818561117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/557439522/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "26.2167455739",
+    "longitude": "74.8653148365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias affinis",
+    "common name": "Indochinese Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/557430860/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "13.8110698609",
+    "longitude": "100.5536573008",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557404450/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "10.1298124875",
+    "longitude": "76.68706242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557387642/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "46.0393756177",
+    "longitude": "43.4826391211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557381124/square.jpg",
+    "date": "2024-12-12",
+    "latitude": "14.4526754",
+    "longitude": "79.8836146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias affinis",
+    "common name": "Indochinese Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557214658/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "13.807756",
+    "longitude": "100.552121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557210602/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-24.5626549446",
+    "longitude": "31.3911906919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/557210264/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-2.3333333",
+    "longitude": "34.8333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557169998/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.3957966175",
+    "longitude": "0.8279045006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557184275/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.3683263889",
+    "longitude": "4.6874611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557184276/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.3683266667",
+    "longitude": "4.687445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557167909/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "20.6015066158",
+    "longitude": "79.8665365627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/557139753/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/557139771/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/557128825/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/557128641/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557130333/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.919102126",
+    "longitude": "-7.3767204246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/557126636/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "17.8098388889",
+    "longitude": "83.3960111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557109164/square.jpg",
+    "date": "2024-06-15",
+    "latitude": "48.708048",
+    "longitude": "44.5133034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556997606/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-19.65945088",
+    "longitude": "23.461793915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556949759/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.513965379",
+    "longitude": "77.3970719597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/556911607/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-2.1203404652",
+    "longitude": "34.6633356935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556892182/square.jpg",
+    "date": "2013-05-10",
+    "latitude": "6.4798690301",
+    "longitude": "80.9043898992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556889415/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6790633333",
+    "longitude": "77.92369",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556887338/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.6794016667",
+    "longitude": "77.9232533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556861534/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-24.0748035818",
+    "longitude": "30.5969385803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556830303/square.jpg",
+    "date": "2021-11-26",
+    "latitude": "-23.1054270804",
+    "longitude": "150.6794755206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/556834708/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-18.9416983333",
+    "longitude": "16.6072233333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556669814/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.3196366596",
+    "longitude": "31.88018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556664079/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.3116699996",
+    "longitude": "31.8754216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556670090/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.7526001865",
+    "longitude": "20.4205450416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias naevius",
+    "common name": "Purple Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556658666/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "0.5848981502",
+    "longitude": "36.6050925941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556642944/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "44.4768372524",
+    "longitude": "7.8000772274",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/556626086/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "43.8905782233",
+    "longitude": "0.681774281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556544732/square.jpg",
+    "date": "2019-04-28",
+    "latitude": "-19.2281267193",
+    "longitude": "16.0981947184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/556519300/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.1050806152",
+    "longitude": "5.4012764762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556496382/square.jpg",
+    "date": "2018-01-17",
+    "latitude": "15.2472700812",
+    "longitude": "74.6365474625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556490189/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-25.0675869306",
+    "longitude": "32.0543352695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556488495/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "18.1629853352",
+    "longitude": "83.452864252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556474411/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.9553267627",
+    "longitude": "113.2018525525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556461753/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "45.3565502778",
+    "longitude": "4.6949377778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556461737/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "45.3633216667",
+    "longitude": "4.7182472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556461710/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "45.3565777778",
+    "longitude": "4.690425",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556447052/square.jpg",
+    "date": "2018-08-15",
+    "latitude": "21.3565862",
+    "longitude": "81.4114142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556436318/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "1.3552313319",
+    "longitude": "103.6834405581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556425714/square.jpg",
+    "date": "2018-05-08",
+    "latitude": "21.4511246",
+    "longitude": "82.5185837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556414508/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "50.7458383333",
+    "longitude": "45.6492083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556373389/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "40.0316740416",
+    "longitude": "116.3810459688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556349874/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "12.558265",
+    "longitude": "77.8890666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556343715/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.3771476312",
+    "longitude": "40.2068140844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556343621/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.3746967615",
+    "longitude": "40.2005181225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556343605/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.3756720627",
+    "longitude": "40.2047802438",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556341652/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "47.374687106",
+    "longitude": "40.2022879985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556342531/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-7.9425223137",
+    "longitude": "38.7004250507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556340538/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "47.3707588793",
+    "longitude": "40.2105371017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556340344/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "47.376432732",
+    "longitude": "40.204985063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556338830/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "11.9313541",
+    "longitude": "76.1551866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias naevius",
+    "common name": "Purple Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/556336843/square.jpg",
+    "date": "2024-02-13",
+    "latitude": "13.8111260485",
+    "longitude": "-16.457787734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556333658/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-7.5977883333",
+    "longitude": "34.8603383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556330318/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "30.2540338838",
+    "longitude": "120.1235149428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556238598/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.023559",
+    "longitude": "37.906193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556227392/square.jpg",
+    "date": "2025-01-12",
+    "latitude": "12.0734366",
+    "longitude": "76.1510815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556125648/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-19.3015383333",
+    "longitude": "15.9202166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556087004/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "49.0804055",
+    "longitude": "43.6142383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/556049230/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-24.98862022",
+    "longitude": "31.47863183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/556032062/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "46.2262166934",
+    "longitude": "6.0216091946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556007787/square.jpg",
+    "date": "2017-12-24",
+    "latitude": "21.276677",
+    "longitude": "81.6446049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias naevius",
+    "common name": "Purple Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/555994820/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "5.341246882",
+    "longitude": "37.4781472076",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555976598/square.jpg",
+    "date": "2018-01-26",
+    "latitude": "-3.4266759005",
+    "longitude": "35.8109666991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555979537/square.jpg",
+    "date": "2024-07-08",
+    "latitude": "-23.9684966064",
+    "longitude": "31.5547399968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555952957/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.3258803939",
+    "longitude": "4.6330473344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555952956/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.3258803939",
+    "longitude": "4.6330473344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555952948/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.3551877422",
+    "longitude": "4.6906117197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555951857/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "45.3579993067",
+    "longitude": "4.7086989589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555951816/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "45.3645407522",
+    "longitude": "4.7139842206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555951811/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "45.3560439428",
+    "longitude": "4.6909583967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555949002/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.3263644244",
+    "longitude": "4.6334253783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/555944455/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "44.6742883758",
+    "longitude": "11.2289172035",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555926994/square.jpg",
+    "date": "2017-10-15",
+    "latitude": "21.3479616",
+    "longitude": "81.7075878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555922855/square.jpg",
+    "date": "2017-10-31",
+    "latitude": "21.2573491043",
+    "longitude": "81.7849668886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555921612/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.29052468",
+    "longitude": "32.45669879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/555875990/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "25.6191783333",
+    "longitude": "73.2597716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555871103/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "41.0750693073",
+    "longitude": "16.2998224884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555846043/square.jpg",
+    "date": "2021-05-21",
+    "latitude": "22.6401107282",
+    "longitude": "120.6149157516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555845220/square.jpg",
+    "date": "2021-05-18",
+    "latitude": "22.6401066261",
+    "longitude": "120.6149816087",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555845175/square.jpg",
+    "date": "2015-09-23",
+    "latitude": "22.6627942",
+    "longitude": "120.274795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555844833/square.jpg",
+    "date": "2017-10-07",
+    "latitude": "22.6490644623",
+    "longitude": "120.6065549746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555844788/square.jpg",
+    "date": "2017-06-26",
+    "latitude": "22.6985647",
+    "longitude": "121.0120332",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555844764/square.jpg",
+    "date": "2017-03-05",
+    "latitude": "22.6459448478",
+    "longitude": "120.6244199445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555807272/square.jpg",
+    "date": "2018-07-13",
+    "latitude": "5.9435676328",
+    "longitude": "116.0484089072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555687467/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "43.5814112498",
+    "longitude": "4.2078746331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555650618/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "39.1253866954",
+    "longitude": "-1.7818499137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/555619380/square.jpg",
+    "date": "2019-04-28",
+    "latitude": "42.7844433333",
+    "longitude": "11.0273383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555604176/square.jpg",
+    "date": "2017-03-12",
+    "latitude": "22.5053222895",
+    "longitude": "81.7782991079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555603443/square.jpg",
+    "date": "2017-03-12",
+    "latitude": "22.5053222895",
+    "longitude": "81.7782991079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555599999/square.jpg",
+    "date": "2017-10-29",
+    "latitude": "21.3479616",
+    "longitude": "81.7075878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555563070/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "46.2259",
+    "longitude": "6.0216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555556180/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "37.4222503284",
+    "longitude": "38.1332427918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/555535330/square.jpg",
+    "date": "2020-05-28",
+    "latitude": "44.51704",
+    "longitude": "11.69634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias affinis",
+    "common name": "Indochinese Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555530276/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "26.6375625",
+    "longitude": "93.3669531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555501098/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "44.6606382009",
+    "longitude": "3.7499261182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias affinis",
+    "common name": "Indochinese Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/555498132/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "8.15515",
+    "longitude": "98.296045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555496627/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "35.9224243164",
+    "longitude": "120.1950683592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555487473/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "46.1804800148",
+    "longitude": "47.8264546526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/555487292/square.jpg",
+    "date": "2021-07-18",
+    "latitude": "42.7830783333",
+    "longitude": "11.2206133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555478926/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.29115014",
+    "longitude": "32.45555055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555462973/square.jpg",
+    "date": "2018-10-26",
+    "latitude": "21.0723125",
+    "longitude": "86.5061094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias naevius",
+    "common name": "Purple Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555454005/square.jpg",
+    "date": "2023-06-29",
+    "latitude": "-21.5760402873",
+    "longitude": "22.4085229095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://static.inaturalist.org/photos/555445599/square.jpg",
+    "date": "2011-08-21",
+    "latitude": "1.2838852",
+    "longitude": "103.7912945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias affinis",
+    "common name": "Indochinese Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555441134/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "12.1372177",
+    "longitude": "99.9128416926",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus glaucurus",
+    "common name": "Broad-billed Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555426707/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "0.90834",
+    "longitude": "30.35681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias affinis",
+    "common name": "Indochinese Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/555328706/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "13.8088842363",
+    "longitude": "100.5515624062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555266873/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-3.7693616667",
+    "longitude": "35.968675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555201670/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "42.3739406817",
+    "longitude": "48.0240381137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555174533/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "43.5383633333",
+    "longitude": "4.69277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555154910/square.jpg",
+    "date": "2017-11-19",
+    "latitude": "23.4618205",
+    "longitude": "71.2874209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555149395/square.jpg",
+    "date": "2017-11-20",
+    "latitude": "22.5142254",
+    "longitude": "70.1545165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555136881/square.jpg",
+    "date": "2017-11-22",
+    "latitude": "22.2441975",
+    "longitude": "68.9684562",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555091310/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "27.5909966667",
+    "longitude": "84.4545516111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555091219/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "27.5909683333",
+    "longitude": "84.4548516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555089586/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "27.5888799722",
+    "longitude": "84.463155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555089445/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "27.5888799722",
+    "longitude": "84.463155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555094051/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "11.1683516667",
+    "longitude": "77.0043566667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555072595/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "39.0950050111",
+    "longitude": "-1.8022208023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555000677/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "24.9814718637",
+    "longitude": "56.3724501027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555025603/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "49.0274050453",
+    "longitude": "43.9107541434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias caudatus",
+    "common name": "Lilac-breasted Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554895477/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-2.9880968463",
+    "longitude": "37.9494948047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554891912/square.jpg",
+    "date": "2025-05-06",
+    "latitude": "42.8289687644",
+    "longitude": "47.6888299561",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554885819/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "46.4278747325",
+    "longitude": "141.8557499496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554872248/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "37.4455185516",
+    "longitude": "38.1639909525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554829273/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "47.4555195655",
+    "longitude": "39.6728427683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://static.inaturalist.org/photos/554827298/square.jpg",
+    "date": "2024-12-29",
+    "latitude": "25.3356315603",
+    "longitude": "55.4592436414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554821704/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "43.4266233916",
+    "longitude": "4.7612702212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias garrulus",
+    "common name": "European Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554802997/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.3263644244",
+    "longitude": "4.6334253783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurystomus orientalis",
+    "common name": "Dollarbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554779552/square.jpg",
+    "date": "2024-05-28",
+    "latitude": "42.3521340823",
+    "longitude": "130.6768791245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554776624/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "12.9119821368",
+    "longitude": "79.40962594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracias benghalensis",
+    "common name": "Indian Roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554762280/square.jpg",
+    "date": "2022-12-30",
+    "latitude": "15.3189083333",
+    "longitude": "73.9261916667",
+    "quality_grade": "research"
+  }
+]

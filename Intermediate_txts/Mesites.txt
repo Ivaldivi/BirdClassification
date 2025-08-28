@@ -1,0 +1,1514 @@
+[
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/549829872/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-23.0299337621",
+    "longitude": "43.6440227863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/549827424/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-23.0622828831",
+    "longitude": "43.7660188434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549779197/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-23.0384097544",
+    "longitude": "43.6423045959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525493685/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-23.1173937847",
+    "longitude": "43.7908791707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516122519/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-20.0880665524",
+    "longitude": "44.7453341846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515610382/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-23.0612555186",
+    "longitude": "43.6167243652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/511450017/square.jpg",
+    "date": "2025-04-22",
+    "latitude": "-23.1272990706",
+    "longitude": "43.6543502003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/484632408/square.jpeg",
+    "date": "2024-11-18",
+    "latitude": "-12.825961427",
+    "longitude": "49.0299240582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471234755/square.jpg",
+    "date": "2025-01-09",
+    "latitude": "-20.1996043457",
+    "longitude": "44.621663538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/466195447/square.jpeg",
+    "date": "2015-11-07",
+    "latitude": "-22.6049942194",
+    "longitude": "43.5886004092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463678797/square.jpg",
+    "date": "2024-11-21",
+    "latitude": "-23.0345159031",
+    "longitude": "43.7148468181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463678726/square.jpg",
+    "date": "2024-11-27",
+    "latitude": "-16.3669518769",
+    "longitude": "46.9298461579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457359871/square.jpg",
+    "date": "2024-11-16",
+    "latitude": "-18.801443574",
+    "longitude": "48.5356055026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456815433/square.jpeg",
+    "date": "2024-11-15",
+    "latitude": "-23.0379916766",
+    "longitude": "43.7464352896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456506178/square.jpg",
+    "date": "2017-05-10",
+    "latitude": "-16.2335477427",
+    "longitude": "46.9717448456",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455736777/square.jpeg",
+    "date": "2024-11-30",
+    "latitude": "-23.0159043371",
+    "longitude": "43.7703050753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455736191/square.jpeg",
+    "date": "2024-11-30",
+    "latitude": "-23.1728036657",
+    "longitude": "43.7601868169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455479035/square.jpeg",
+    "date": "2024-11-02",
+    "latitude": "-20.0008307271",
+    "longitude": "44.6443837088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455475361/square.jpeg",
+    "date": "2024-10-30",
+    "latitude": "-20.0182652874",
+    "longitude": "44.6046756902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455475025/square.jpeg",
+    "date": "2024-10-30",
+    "latitude": "-20.1542843858",
+    "longitude": "44.6353599841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455109084/square.jpeg",
+    "date": "2024-10-29",
+    "latitude": "-21.3068442422",
+    "longitude": "47.552956436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455064324/square.jpg",
+    "date": "2024-10-29",
+    "latitude": "-21.3437411589",
+    "longitude": "47.5236462012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454662726/square.jpg",
+    "date": "2024-11-18",
+    "latitude": "-20.0736815888",
+    "longitude": "44.7318646056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453750558/square.jpeg",
+    "date": "2024-10-22",
+    "latitude": "-23.1202979069",
+    "longitude": "43.7684069652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453280355/square.jpg",
+    "date": "2024-10-22",
+    "latitude": "-23.0489190724",
+    "longitude": "43.6732946821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452411283/square.jpeg",
+    "date": "2024-10-19",
+    "latitude": "-16.2142755887",
+    "longitude": "46.8785395075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452232193/square.jpg",
+    "date": "2024-10-19",
+    "latitude": "-16.3664326602",
+    "longitude": "46.906932599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451857710/square.jpeg",
+    "date": "2024-09-30",
+    "latitude": "-23.0774410466",
+    "longitude": "43.6088550917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450838512/square.jpeg",
+    "date": "2024-10-08",
+    "latitude": "-20.1558882599",
+    "longitude": "44.666452069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/446513059/square.jpeg",
+    "date": "2024-10-25",
+    "latitude": "-23.1880539074",
+    "longitude": "43.7714217896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444318313/square.jpeg",
+    "date": "2024-10-22",
+    "latitude": "-16.3080631283",
+    "longitude": "46.8776314443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/444309313/square.jpeg",
+    "date": "2024-10-22",
+    "latitude": "-16.2049396896",
+    "longitude": "46.9590017371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423311887/square.jpeg",
+    "date": "2024-08-25",
+    "latitude": "-23.1455378273",
+    "longitude": "43.6398664912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/423108911/square.jpeg",
+    "date": "2011-11-03",
+    "latitude": "-23.0014344879",
+    "longitude": "43.6539492244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403026215/square.jpg",
+    "date": "2023-11-09",
+    "latitude": "-23.0925309103",
+    "longitude": "43.611579215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396847891/square.jpeg",
+    "date": "2012-02-15",
+    "latitude": "-23.1654150073",
+    "longitude": "43.6004107508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395899592/square.jpeg",
+    "date": "2012-01-30",
+    "latitude": "-16.3489526946",
+    "longitude": "46.9411146212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/391166215/square.jpeg",
+    "date": "2024-06-06",
+    "latitude": "-23.1899108814",
+    "longitude": "43.6063776835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/389653790/square.jpeg",
+    "date": "2023-11-08",
+    "latitude": "-23.0099061395",
+    "longitude": "43.6778501935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369610895/square.jpg",
+    "date": "2024-02-10",
+    "latitude": "-23.0619189516",
+    "longitude": "43.7695949308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/358516084/square.jpeg",
+    "date": "2024-02-12",
+    "latitude": "-23.109082895",
+    "longitude": "43.7278201705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/358515540/square.jpeg",
+    "date": "2024-02-10",
+    "latitude": "-23.0444436579",
+    "longitude": "43.682916803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347355728/square.jpg",
+    "date": "2019-10-22",
+    "latitude": "-23.1803569189",
+    "longitude": "43.6870701753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347355637/square.jpg",
+    "date": "2019-10-18",
+    "latitude": "-21.3027472741",
+    "longitude": "47.4522841165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347353469/square.jpg",
+    "date": "2019-10-08",
+    "latitude": "-12.8985451826",
+    "longitude": "49.1179531106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342924776/square.jpeg",
+    "date": "2023-11-17",
+    "latitude": "-16.2100438077",
+    "longitude": "46.8363296481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/342585310/square.jpeg",
+    "date": "2023-11-07",
+    "latitude": "-23.0952462269",
+    "longitude": "43.6081527012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341625762/square.jpeg",
+    "date": "2023-11-09",
+    "latitude": "-21.3219041824",
+    "longitude": "47.4897168574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341505422/square.jpeg",
+    "date": "2023-11-06",
+    "latitude": "-23.1596104575",
+    "longitude": "43.7238075537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340786129/square.jpeg",
+    "date": "2023-12-07",
+    "latitude": "-16.3688362087",
+    "longitude": "46.817089614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338933636/square.jpeg",
+    "date": "2023-11-08",
+    "latitude": "-23.1575998036",
+    "longitude": "43.776215542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/334053436/square.jpg",
+    "date": "2023-10-06",
+    "latitude": "-23.0279522969",
+    "longitude": "43.7408058604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332866400/square.jpeg",
+    "date": "2023-11-01",
+    "latitude": "-20.0030978842",
+    "longitude": "44.6275602279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331885039/square.jpeg",
+    "date": "2023-10-21",
+    "latitude": "-23.0451494325",
+    "longitude": "43.5552911509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/318541607/square.jpg",
+    "date": "2023-09-04",
+    "latitude": "-20.0252760433",
+    "longitude": "44.6746429451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/318480689/square.jpg",
+    "date": "2023-09-04",
+    "latitude": "-20.0523548292",
+    "longitude": "44.7518434121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/315893266/square.jpg",
+    "date": "2023-08-15",
+    "latitude": "-21.3598379199",
+    "longitude": "47.5293404223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/315580706/square.jpeg",
+    "date": "2015-11-07",
+    "latitude": "-22.6589581969",
+    "longitude": "43.4183962421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/315481509/square.jpg",
+    "date": "2023-06-01",
+    "latitude": "-20.0033700547",
+    "longitude": "44.740793978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/315481499/square.jpg",
+    "date": "2023-06-01",
+    "latitude": "-20.0820989913",
+    "longitude": "44.6313192437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313593814/square.jpg",
+    "date": "2008-11-25",
+    "latitude": "-16.203199669",
+    "longitude": "46.8506503879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288819428/square.jpeg",
+    "date": "2018-11-02",
+    "latitude": "-20.7200583728",
+    "longitude": "44.1501593358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286914301/square.jpg",
+    "date": "2023-06-03",
+    "latitude": "-23.117366973",
+    "longitude": "43.6347470061",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/258382222/square.jpg",
+    "date": "2022-10-10",
+    "latitude": "-20.8731421524",
+    "longitude": "44.310297673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248404323/square.jpeg",
+    "date": "2022-10-16",
+    "latitude": "-21.2588896411",
+    "longitude": "47.4732555345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/247427892/square.jpg",
+    "date": "2022-11-12",
+    "latitude": "-21.3088308946",
+    "longitude": "47.3571958415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246800094/square.jpg",
+    "date": "2022-11-29",
+    "latitude": "-16.284860589",
+    "longitude": "46.8948239536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246500380/square.jpg",
+    "date": "2022-10-17",
+    "latitude": "-16.2007144901",
+    "longitude": "46.8560161775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245042613/square.jpg",
+    "date": "2022-10-13",
+    "latitude": "-21.3658872526",
+    "longitude": "47.3835087739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244538158/square.jpg",
+    "date": "2013-11-11",
+    "latitude": "-23.1801886686",
+    "longitude": "43.680732118",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243980856/square.jpg",
+    "date": "2022-10-10",
+    "latitude": "-23.1483955403",
+    "longitude": "43.6144348534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/241999205/square.jpg",
+    "date": "2013-10-28",
+    "latitude": "-16.2673121055",
+    "longitude": "47.1531449874",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/232756111/square.jpeg",
+    "date": "2019-12-05",
+    "latitude": "-23.3680697612",
+    "longitude": "43.6791108678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/222795899/square.jpg",
+    "date": "2022-07-28",
+    "latitude": "-23.0475204281",
+    "longitude": "43.7637755219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214346750/square.jpeg",
+    "date": "2022-07-14",
+    "latitude": "-20.107101865",
+    "longitude": "44.7612321263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212771291/square.jpeg",
+    "date": "2022-07-06",
+    "latitude": "-20.1903217763",
+    "longitude": "44.7712222232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204983446/square.jpg",
+    "date": "2019-10-22",
+    "latitude": "-23.1121679111",
+    "longitude": "43.762360823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204982800/square.jpg",
+    "date": "2019-10-22",
+    "latitude": "-23.1464762421",
+    "longitude": "43.7970939793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204982767/square.jpg",
+    "date": "2019-10-22",
+    "latitude": "-23.1157018176",
+    "longitude": "43.7121307458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182292003/square.jpg",
+    "date": "2013-11-13",
+    "latitude": "-23.1091627594",
+    "longitude": "43.6094765605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178264728/square.jpg",
+    "date": "2019-11-09",
+    "latitude": "-23.0899840921",
+    "longitude": "43.6056467469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174562241/square.jpg",
+    "date": "2005-10-13",
+    "latitude": "-23.0277551171",
+    "longitude": "43.7165558182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172638794/square.jpeg",
+    "date": "2012-10-15",
+    "latitude": "-23.1222172316",
+    "longitude": "43.6188081234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172636492/square.jpeg",
+    "date": "2012-07-22",
+    "latitude": "-23.1330531932",
+    "longitude": "43.7520010659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172568938/square.jpeg",
+    "date": "2012-11-16",
+    "latitude": "-16.2990833186",
+    "longitude": "46.8012812658",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172553180/square.jpeg",
+    "date": "2011-10-24",
+    "latitude": "-23.088680671",
+    "longitude": "43.7032092815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172482045/square.jpeg",
+    "date": "2011-10-09",
+    "latitude": "-23.1590947944",
+    "longitude": "43.6342658704",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160640508/square.jpeg",
+    "date": "2014-10-08",
+    "latitude": "-23.165964405",
+    "longitude": "43.6431477391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148513403/square.jpeg",
+    "date": "2009-11-15",
+    "latitude": "-20.1542470597",
+    "longitude": "44.7527696137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141633482/square.jpeg",
+    "date": "2017-12-09",
+    "latitude": "-23.1168349269",
+    "longitude": "43.692304257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129783410/square.jpeg",
+    "date": "2013-11-11",
+    "latitude": "-23.1791266941",
+    "longitude": "43.7382252564",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129438926/square.jpeg",
+    "date": "2006-07-16",
+    "latitude": "-23.0794030622",
+    "longitude": "43.7367761282",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114559473/square.jpg",
+    "date": "2019-10-10",
+    "latitude": "-23.012680253",
+    "longitude": "43.7743071007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114317342/square.jpeg",
+    "date": "2020-02-18",
+    "latitude": "-20.0399107867",
+    "longitude": "44.6198880725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/114177319/square.jpg",
+    "date": "2009-11-09",
+    "latitude": "-23.1111164758",
+    "longitude": "43.6005008546",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/107677751/square.jpeg",
+    "date": "2012-04-13",
+    "latitude": "-23.0550583672",
+    "longitude": "43.6033435836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104495884/square.jpeg",
+    "date": "2018-10-21",
+    "latitude": "-23.1500072553",
+    "longitude": "43.6555310215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98278652/square.jpeg",
+    "date": "2020-01-09",
+    "latitude": "-23.0821122288",
+    "longitude": "43.7833874476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/94083271/square.jpg",
+    "date": "2013-07-10",
+    "latitude": "-21.8942202687",
+    "longitude": "46.5546722216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93329442/square.jpg",
+    "date": "2019-07-16",
+    "latitude": "-23.1206516776",
+    "longitude": "43.7013868666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93323966/square.jpg",
+    "date": "2019-07-14",
+    "latitude": "-16.379730329",
+    "longitude": "46.683662783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/92078057/square.jpg",
+    "date": "2010-11-09",
+    "latitude": "-23.027356549",
+    "longitude": "43.7269083063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/85514507/square.jpg",
+    "date": "2017-10-23",
+    "latitude": "-23.0828059058",
+    "longitude": "43.6469353916",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78285715/square.jpg",
+    "date": "2018-10-26",
+    "latitude": "-16.3551306387",
+    "longitude": "46.8420442807",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77975129/square.jpg",
+    "date": "2018-09-01",
+    "latitude": "-16.3169717202",
+    "longitude": "46.8619881614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75551448/square.jpg",
+    "date": "2018-10-06",
+    "latitude": "-23.1918092254",
+    "longitude": "43.6719663306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75391178/square.jpg",
+    "date": "2018-10-11",
+    "latitude": "-23.1602558301",
+    "longitude": "43.6593714955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70397429/square.jpg",
+    "date": "2018-10-15",
+    "latitude": "-20.1711323345",
+    "longitude": "44.6560763105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65079189/square.jpg",
+    "date": "2020-02-05",
+    "latitude": "-23.1905463471",
+    "longitude": "43.7817505935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64632989/square.jpg",
+    "date": "2011-10-30",
+    "latitude": "-20.6694008646",
+    "longitude": "44.1544582669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64092308/square.jpg",
+    "date": "2017-08-25",
+    "latitude": "-20.0557481725",
+    "longitude": "44.7930876772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64092296/square.jpg",
+    "date": "2017-08-25",
+    "latitude": "-20.1607620306",
+    "longitude": "44.7806503394",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64037934/square.jpg",
+    "date": "2017-09-01",
+    "latitude": "-23.1530191183",
+    "longitude": "43.7631845633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63433209/square.jpg",
+    "date": "2019-10-22",
+    "latitude": "-23.034008492",
+    "longitude": "43.7595288808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63391361/square.jpeg",
+    "date": "2020-03-03",
+    "latitude": "-20.0726512234",
+    "longitude": "44.7677759672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61829843/square.jpg",
+    "date": "2008-11-06",
+    "latitude": "-16.311232406",
+    "longitude": "46.9611021086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61223597/square.jpeg",
+    "date": "2019-12-26",
+    "latitude": "-20.1408465155",
+    "longitude": "44.7671028896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60940089/square.jpeg",
+    "date": "2013-11-08",
+    "latitude": "-23.1239920027",
+    "longitude": "43.6664302889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59380801/square.jpeg",
+    "date": "2014-10-15",
+    "latitude": "-20.1025801378",
+    "longitude": "44.7596892168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57283089/square.jpg",
+    "date": "2019-11-12",
+    "latitude": "-20.0307492952",
+    "longitude": "44.6396432397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57282746/square.jpg",
+    "date": "2019-11-11",
+    "latitude": "-20.0727696671",
+    "longitude": "44.6142138021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55447463/square.jpg",
+    "date": "2019-10-01",
+    "latitude": "-23.1710271995",
+    "longitude": "43.7969851208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55312696/square.jpg",
+    "date": "2019-10-10",
+    "latitude": "-16.2397962053",
+    "longitude": "46.8340113565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55285781/square.jpeg",
+    "date": "2019-10-12",
+    "latitude": "-16.3219326793",
+    "longitude": "46.8897434599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/54909983/square.jpg",
+    "date": "2017-10-03",
+    "latitude": "-20.1448123561",
+    "longitude": "44.6061163544",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/54773132/square.jpg",
+    "date": "2019-10-13",
+    "latitude": "-21.3294514867",
+    "longitude": "47.3191369617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54116986/square.jpg",
+    "date": "2015-11-06",
+    "latitude": "-22.7003927109",
+    "longitude": "43.5269782844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50539597/square.jpeg",
+    "date": "2019-05-30",
+    "latitude": "-23.0918256224",
+    "longitude": "43.7088819904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48767577/square.jpeg",
+    "date": "2019-08-14",
+    "latitude": "-23.1086528671",
+    "longitude": "43.706983432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48178449/square.jpg",
+    "date": "2019-08-14",
+    "latitude": "-23.177515322",
+    "longitude": "43.7920723833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47312379/square.jpeg",
+    "date": "2016-11-20",
+    "latitude": "-16.0972227957",
+    "longitude": "47.1111421386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41482820/square.jpeg",
+    "date": "2019-04-13",
+    "latitude": "-22.9839741158",
+    "longitude": "43.6231982707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/35577192/square.jpg",
+    "date": "2017-11-16",
+    "latitude": "-23.2094193106",
+    "longitude": "43.7769309387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/35572361/square.jpg",
+    "date": "2017-11-23",
+    "latitude": "-21.2374355429",
+    "longitude": "47.2958038757",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/34296384/square.jpg",
+    "date": "2017-11-27",
+    "latitude": "-16.0051657402",
+    "longitude": "46.8836131003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31945194/square.jpeg",
+    "date": "2017-05-24",
+    "latitude": "-23.3182201665",
+    "longitude": "43.7620007078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31009639/square.jpg",
+    "date": "2018-11-02",
+    "latitude": "-20.072809187",
+    "longitude": "44.7206879383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30155556/square.jpeg",
+    "date": "2018-10-17",
+    "latitude": "-23.0288496396",
+    "longitude": "43.7479577015",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29091149/square.jpg",
+    "date": "2018-11-29",
+    "latitude": "-23.1428924774",
+    "longitude": "43.6570615341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/28799337/square.jpg",
+    "date": "2018-10-26",
+    "latitude": "-16.3742299411",
+    "longitude": "46.8682719327",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28654985/square.jpg",
+    "date": "2018-10-31",
+    "latitude": "-20.1377713635",
+    "longitude": "44.7555196736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/28513846/square.jpg",
+    "date": "2018-10-17",
+    "latitude": "-23.1657902731",
+    "longitude": "43.6149647922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28354338/square.jpg",
+    "date": "2018-10-17",
+    "latitude": "-23.1661831659",
+    "longitude": "43.793088102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27403690/square.jpeg",
+    "date": "2018-10-17",
+    "latitude": "-23.0937274021",
+    "longitude": "43.6254373239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27403235/square.jpeg",
+    "date": "2017-04-20",
+    "latitude": "-23.1677306031",
+    "longitude": "43.6948850459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23626329/square.jpeg",
+    "date": "2017-07-19",
+    "latitude": "-23.1217962248",
+    "longitude": "43.7575817897",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21326227/square.jpeg",
+    "date": "2017-04-14",
+    "latitude": "-23.0644244418",
+    "longitude": "43.6968789859",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17707126/square.jpeg",
+    "date": "2018-03-29",
+    "latitude": "-23.0778906956",
+    "longitude": "43.797673904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16527958/square.jpg",
+    "date": "2017-11-20",
+    "latitude": "-16.2776461254",
+    "longitude": "46.9401355693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15177703/square.jpeg",
+    "date": "2016-11-23",
+    "latitude": "-23.0533634061",
+    "longitude": "43.6247250931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13412041/square.jpg",
+    "date": "2017-11-01",
+    "latitude": "-23.0177272141",
+    "longitude": "43.7240800369",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13190547/square.jpeg",
+    "date": "2013-11-08",
+    "latitude": "-23.0118770591",
+    "longitude": "43.6583204154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/12541269/square.jpeg",
+    "date": "2017-10-20",
+    "latitude": "-23.0311887328",
+    "longitude": "43.691041383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12418849/square.jpeg",
+    "date": "2017-11-11",
+    "latitude": "-23.0604887127",
+    "longitude": "43.7873620643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12401333/square.jpg",
+    "date": "2017-12-03",
+    "latitude": "-23.1025485321",
+    "longitude": "43.792781932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12300144/square.jpeg",
+    "date": "2017-10-10",
+    "latitude": "-16.3559589734",
+    "longitude": "46.7854007312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9090769/square.jpeg",
+    "date": "2011-11-02",
+    "latitude": "-21.3743015196",
+    "longitude": "47.2198938825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9090461/square.jpeg",
+    "date": "2011-10-06",
+    "latitude": "-16.2434449161",
+    "longitude": "46.9020865161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8224237/square.jpg",
+    "date": "2012-11-05",
+    "latitude": "-23.0310406278",
+    "longitude": "43.7777915221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/6272570/square.jpg",
+    "date": "2016-11-25",
+    "latitude": "-16.2157609036",
+    "longitude": "46.830904829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://static.inaturalist.org/photos/6150037/square.jpg",
+    "date": "2016-11-12",
+    "latitude": "-23.172159373",
+    "longitude": "43.6815672182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4214209/square.jpg",
+    "date": "2003-11-02",
+    "latitude": "-20.6329720712",
+    "longitude": "44.1745987217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4214208/square.JPG",
+    "date": "2003-11-02",
+    "latitude": "-20.6174573717",
+    "longitude": "44.0943537173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4214205/square.JPG",
+    "date": "2003-11-02",
+    "latitude": "-20.6652105345",
+    "longitude": "44.0839834338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis unicolor",
+    "common name": "Brown Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3873446/square.jpg",
+    "date": "2015-11-09",
+    "latitude": "-21.267894308",
+    "longitude": "47.5477162109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monias benschi",
+    "common name": "Subdesert Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3717210/square.jpg",
+    "date": "2015-11-06",
+    "latitude": "-23.1586853",
+    "longitude": "43.6461995475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3414762/square.jpg",
+    "date": "2015-10-24",
+    "latitude": "-16.249782241",
+    "longitude": "46.8050300021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mesitornis variegatus",
+    "common name": "White-breasted Mesite",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3013987/square.jpg",
+    "date": "2007-11-11",
+    "latitude": "-16.2693134223",
+    "longitude": "46.8655487232",
+    "quality_grade": "research"
+  }
+]

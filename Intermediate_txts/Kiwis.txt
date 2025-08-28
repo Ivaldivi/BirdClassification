@@ -1,0 +1,1235 @@
+[
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/557974898/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-36.6162493382",
+    "longitude": "175.5339425753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554147695/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-41.2917069933",
+    "longitude": "174.7527479008",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/552630473/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-39.4801829722",
+    "longitude": "175.4180979722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552190122/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-41.2975113732",
+    "longitude": "174.7462392075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis",
+    "common name": "Southern Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552161681/square.jpg",
+    "date": "2023-06-04",
+    "latitude": "-46.8968116667",
+    "longitude": "168.1250445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552161681/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-41.3233834997",
+    "longitude": "173.2901021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis",
+    "common name": "Southern Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550019990/square.jpg",
+    "date": "2024-12-30",
+    "latitude": "-46.897122965",
+    "longitude": "168.1063676628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550019990/square.jpg",
+    "date": "2025-01-04",
+    "latitude": "-41.2952499",
+    "longitude": "174.7525634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546664986/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-35.9477487785",
+    "longitude": "174.3033575267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545758507/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-36.369785734",
+    "longitude": "174.8445467644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545424607/square.jpg",
+    "date": "2023-01-02",
+    "latitude": "-47.0103212",
+    "longitude": "167.8272285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545073654/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-46.8746138332",
+    "longitude": "168.0056736541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545071009/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-46.818425782",
+    "longitude": "168.0501613158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543748574/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-39.2029420957",
+    "longitude": "174.5358718559",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542940886/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-36.3686611111",
+    "longitude": "174.8565222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541973827/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-47.0525947472",
+    "longitude": "167.8521407702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539546457/square.jpg",
+    "date": "2024-04-24",
+    "latitude": "-38.1799716667",
+    "longitude": "175.2131833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539502745/square.jpg",
+    "date": "2017-12-02",
+    "latitude": "-46.9275510213",
+    "longitude": "168.1165341367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539444862/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-41.2982866667",
+    "longitude": "174.7458366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539087605/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-35.1772805266",
+    "longitude": "174.1461399891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537285034/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-41.29234433",
+    "longitude": "174.7526178136",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536391050/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-41.2776861111",
+    "longitude": "174.9744055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534304980/square.jpg",
+    "date": "2025-01-22",
+    "latitude": "-36.3715970567",
+    "longitude": "174.8211739132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534251956/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-46.8829778351",
+    "longitude": "168.0184026808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533325165/square.jpg",
+    "date": "2025-02-27",
+    "latitude": "-36.36803",
+    "longitude": "174.829575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533316421/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-39.1705861111",
+    "longitude": "174.0619194444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/526471664/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-36.3726428709",
+    "longitude": "174.8192413795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/526471664/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-41.312802299",
+    "longitude": "173.291516304",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx rowi",
+    "common name": "Okarito Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522821301/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-43.2269469952",
+    "longitude": "170.1065816585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522748313/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "-36.395613764",
+    "longitude": "174.8271846813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518129668/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515344339/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-36.3716953195",
+    "longitude": "174.8197238966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512770121/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-36.6513042896",
+    "longitude": "175.4663399479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511369897/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-38.0840984",
+    "longitude": "176.2878015997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511100428/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-38.0057",
+    "longitude": "175.5756533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx maxima",
+    "common name": "Great Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509502251/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-42.8454380824",
+    "longitude": "171.745929295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509502251/square.jpg",
+    "date": "2024-09-04",
+    "latitude": "-39.4538049635",
+    "longitude": "174.4115062058",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/507686335/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "-46.9854062818",
+    "longitude": "168.1350732664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/507686335/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "-39.2082002107",
+    "longitude": "174.9692196865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506536946/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-41.2909850826",
+    "longitude": "174.7501904387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506508295/square.jpg",
+    "date": "2025-03-19",
+    "latitude": "-41.2908984",
+    "longitude": "174.7535089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503736393/square.jpg",
+    "date": "2025-05-11",
+    "latitude": "-35.2463923198",
+    "longitude": "173.9943344432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502172083/square.jpg",
+    "date": "2024-11-27",
+    "latitude": "-36.6012403",
+    "longitude": "174.8893617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501786209/square.jpg",
+    "date": "2025-01-01",
+    "latitude": "-39.6645121751",
+    "longitude": "177.033367795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500867144/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "-46.8994366667",
+    "longitude": "168.1252583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500367000/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "-36.6316821921",
+    "longitude": "175.4624628171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx rowi",
+    "common name": "Okarito Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500367000/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "-43.375506763",
+    "longitude": "170.3784939139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499118999/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "-36.6504906025",
+    "longitude": "175.4708665432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498906577/square.jpeg",
+    "date": "2025-04-28",
+    "latitude": "-46.8425143479",
+    "longitude": "168.0788677186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498906577/square.jpeg",
+    "date": "2025-05-01",
+    "latitude": "-36.6064638889",
+    "longitude": "174.8966527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498906577/square.jpeg",
+    "date": "2025-03-21",
+    "latitude": "-46.9014075835",
+    "longitude": "168.1230695749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/498392192/square.jpg",
+    "date": "2025-04-13",
+    "latitude": "-46.9016966431",
+    "longitude": "168.1230128323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497283325/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "-38.9025279436",
+    "longitude": "176.8620249473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497278948/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "-38.8612898124",
+    "longitude": "176.8963403128",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497268921/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "-38.9049111765",
+    "longitude": "176.8420470275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496899477/square.jpeg",
+    "date": "2025-04-28",
+    "latitude": "-41.0370615901",
+    "longitude": "174.6202308059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496899477/square.jpeg",
+    "date": "2025-04-28",
+    "latitude": "-36.6056111111",
+    "longitude": "174.8897833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495975323/square.jpeg",
+    "date": "2025-04-27",
+    "latitude": "-36.6055666667",
+    "longitude": "174.8953888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495975323/square.jpeg",
+    "date": "2025-04-28",
+    "latitude": "-41.2962853669",
+    "longitude": "174.7515528822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494817358/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "-41.2946083242",
+    "longitude": "174.7507262308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493387277/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "-41.2982366667",
+    "longitude": "174.7457116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493174152/square.jpeg",
+    "date": "2025-04-27",
+    "latitude": "-41.2982054",
+    "longitude": "174.7457607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491715860/square.jpg",
+    "date": "2025-04-24",
+    "latitude": "-36.505223064",
+    "longitude": "174.7922839373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491330771/square.jpeg",
+    "date": "2023-09-09",
+    "latitude": "-41.2906332199",
+    "longitude": "174.75244178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491017918/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-41.2953480938",
+    "longitude": "174.7494319423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491017141/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-41.2953480938",
+    "longitude": "174.7494319423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491017141/square.jpg",
+    "date": "2025-02-19",
+    "latitude": "-41.3284354883",
+    "longitude": "174.9971808918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489630073/square.jpg",
+    "date": "2022-06-19",
+    "latitude": "-46.8946298959",
+    "longitude": "168.1298188078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489625495/square.jpeg",
+    "date": "2025-04-22",
+    "latitude": "-36.5054714941",
+    "longitude": "174.7929042578",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/489600108/square.jpeg",
+    "date": "2025-04-22",
+    "latitude": "-46.8768621734",
+    "longitude": "168.1256477907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/489221581/square.jpeg",
+    "date": "2025-04-20",
+    "latitude": "-46.8980636594",
+    "longitude": "168.1272888183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/489221106/square.jpeg",
+    "date": "2025-04-20",
+    "latitude": "-46.9012184142",
+    "longitude": "168.1231536864",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489192632/square.jpg",
+    "date": "2025-02-07",
+    "latitude": "-35.2805466667",
+    "longitude": "174.1494611667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489131981/square.jpg",
+    "date": "2023-12-29",
+    "latitude": "-46.8677355888",
+    "longitude": "167.9039891453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485661838/square.jpeg",
+    "date": "2025-03-31",
+    "latitude": "-35.816875",
+    "longitude": "174.5184027778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis",
+    "common name": "Southern Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485543922/square.jpeg",
+    "date": "2025-04-11",
+    "latitude": "-46.8821414015",
+    "longitude": "168.0184026808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483343564/square.jpeg",
+    "date": "2025-02-11",
+    "latitude": "-36.3694219171",
+    "longitude": "174.8195335642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483003745/square.jpeg",
+    "date": "2025-04-05",
+    "latitude": "-36.6057805556",
+    "longitude": "174.895325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482289646/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "-38.0539902019",
+    "longitude": "175.5620556575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482247216/square.jpg",
+    "date": "2025-02-15",
+    "latitude": "-46.8221583333",
+    "longitude": "167.7469466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482238173/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "-46.703555",
+    "longitude": "167.8228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482235672/square.jpg",
+    "date": "2025-02-12",
+    "latitude": "-46.80882",
+    "longitude": "168.0331888333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482010533/square.jpeg",
+    "date": "2025-04-01",
+    "latitude": "-40.8260259722",
+    "longitude": "174.945436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/480687730/square.jpg",
+    "date": "2025-03-29",
+    "latitude": "-36.3726083333",
+    "longitude": "174.8395216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480552334/square.jpg",
+    "date": "2020-06-09",
+    "latitude": "-46.696225",
+    "longitude": "167.7908783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx maxima",
+    "common name": "Great Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480058647/square.jpg",
+    "date": "2025-02-24",
+    "latitude": "-42.2404541553",
+    "longitude": "171.4934223671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479720344/square.jpg",
+    "date": "2025-03-24",
+    "latitude": "-46.9303900055",
+    "longitude": "168.1295792911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479713837/square.jpg",
+    "date": "2025-03-24",
+    "latitude": "-46.928045",
+    "longitude": "168.1275945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/479142405/square.jpeg",
+    "date": "2024-10-22",
+    "latitude": "-46.8998991792",
+    "longitude": "168.1003066152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479065443/square.jpeg",
+    "date": "2022-06-10",
+    "latitude": "-36.3668246567",
+    "longitude": "174.8613294494",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/479047741/square.jpg",
+    "date": "2024-10-22",
+    "latitude": "-46.8984671691",
+    "longitude": "168.1064705107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478262838/square.jpeg",
+    "date": "2025-03-19",
+    "latitude": "-36.5073631947",
+    "longitude": "174.7911820416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478262819/square.jpeg",
+    "date": "2025-03-19",
+    "latitude": "-36.5069035818",
+    "longitude": "174.791552618",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478262793/square.jpeg",
+    "date": "2025-03-19",
+    "latitude": "-36.5032351615",
+    "longitude": "174.7929639468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478262680/square.jpeg",
+    "date": "2025-03-18",
+    "latitude": "-36.50398683",
+    "longitude": "174.7909007044",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478262680/square.jpeg",
+    "date": "2025-03-19",
+    "latitude": "-35.3035537658",
+    "longitude": "174.1116543595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476964044/square.jpeg",
+    "date": "1970-01-01",
+    "latitude": "-46.8692359924",
+    "longitude": "168.126739502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/476923480/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "-36.3732040743",
+    "longitude": "174.8209477589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476616690/square.jpg",
+    "date": "2022-11-11",
+    "latitude": "-46.8990732738",
+    "longitude": "168.1032316312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476562272/square.jpeg",
+    "date": "2025-03-14",
+    "latitude": "-41.2839972222",
+    "longitude": "174.7552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis",
+    "common name": "Southern Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475658315/square.jpeg",
+    "date": "2025-03-11",
+    "latitude": "-46.9007225037",
+    "longitude": "168.0976867676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475642077/square.jpeg",
+    "date": "2025-02-19",
+    "latitude": "-36.6058688985",
+    "longitude": "174.8954031004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx maxima",
+    "common name": "Great Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473989845/square.jpeg",
+    "date": "2000-01-04",
+    "latitude": "-40.738172922",
+    "longitude": "172.5212630076",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473852581/square.jpg",
+    "date": "2024-12-25",
+    "latitude": "-46.8852966614",
+    "longitude": "168.1337911175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473849803/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-46.9262243963",
+    "longitude": "167.7964348394",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473849553/square.jpg",
+    "date": "2025-03-01",
+    "latitude": "-46.9352393701",
+    "longitude": "167.7609945439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx maxima",
+    "common name": "Great Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473297716/square.jpg",
+    "date": "2025-03-01",
+    "latitude": "-42.9525758855",
+    "longitude": "171.4359290584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473266103/square.jpg",
+    "date": "2025-02-23",
+    "latitude": "-46.8365527778",
+    "longitude": "168.0832361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473266103/square.jpg",
+    "date": "2025-01-24",
+    "latitude": "-46.868033728",
+    "longitude": "168.1176941552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis",
+    "common name": "Southern Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/472875077/square.jpeg",
+    "date": "2025-01-18",
+    "latitude": "-46.8724277778",
+    "longitude": "168.1283083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472778875/square.jpeg",
+    "date": "2025-02-05",
+    "latitude": "-46.9718264",
+    "longitude": "168.1733714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472569261/square.jpeg",
+    "date": "2025-02-23",
+    "latitude": "-36.1519166667",
+    "longitude": "174.6411138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx owenii",
+    "common name": "Little Spotted Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472563074/square.jpeg",
+    "date": "2025-02-17",
+    "latitude": "-41.2930733549",
+    "longitude": "174.7522292286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472435370/square.jpeg",
+    "date": "2025-02-22",
+    "latitude": "-36.1523444444",
+    "longitude": "174.6415861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis",
+    "common name": "Southern Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471825401/square.jpeg",
+    "date": "2025-02-21",
+    "latitude": "-46.8847183333",
+    "longitude": "167.8761733333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471503124/square.jpeg",
+    "date": "2025-02-06",
+    "latitude": "-47.1957746606",
+    "longitude": "167.6670317351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471334671/square.jpeg",
+    "date": "2025-01-24",
+    "latitude": "-46.697426772",
+    "longitude": "167.8000135347",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470716708/square.jpeg",
+    "date": "2025-02-17",
+    "latitude": "-46.8907880063",
+    "longitude": "168.075322657",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx rowi",
+    "common name": "Okarito Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470443332/square.jpg",
+    "date": "2025-02-15",
+    "latitude": "-41.1080938012",
+    "longitude": "174.6802273386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470413175/square.jpeg",
+    "date": "2025-02-16",
+    "latitude": "-39.3317305556",
+    "longitude": "175.5019138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis",
+    "common name": "Southern Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470022036/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "-45.7750966667",
+    "longitude": "170.5999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/469219169/square.jpg",
+    "date": "2024-01-20",
+    "latitude": "-46.9673172093",
+    "longitude": "168.1745816473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/469219165/square.jpg",
+    "date": "2024-01-20",
+    "latitude": "-46.9673172093",
+    "longitude": "168.1745816473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469015679/square.jpeg",
+    "date": "2025-02-08",
+    "latitude": "-36.2917791195",
+    "longitude": "174.9402063971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468776658/square.jpeg",
+    "date": "2025-01-28",
+    "latitude": "-46.9473845212",
+    "longitude": "167.9414964125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468412289/square.jpeg",
+    "date": "2025-01-27",
+    "latitude": "-46.9825992586",
+    "longitude": "167.8818453964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466449354/square.jpeg",
+    "date": "2025-01-27",
+    "latitude": "-46.9034613453",
+    "longitude": "168.120271638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466449354/square.jpeg",
+    "date": "2025-01-22",
+    "latitude": "-36.3697869127",
+    "longitude": "174.8193917423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465809265/square.jpg",
+    "date": "2025-01-04",
+    "latitude": "-46.9015818763",
+    "longitude": "168.1202064145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/465388695/square.jpg",
+    "date": "2009-02-23",
+    "latitude": "-46.928677",
+    "longitude": "167.794659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx australis lawryi",
+    "common name": "Rakiura Brown Kiwi",
+    "observation photo url": "https://static.inaturalist.org/photos/465376864/square.jpeg",
+    "date": "2025-01-07",
+    "latitude": "-46.8634118",
+    "longitude": "168.1221989997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465271645/square.jpeg",
+    "date": "2024-12-27",
+    "latitude": "-37.8561581628",
+    "longitude": "176.9672041386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx rowi",
+    "common name": "Okarito Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464651185/square.jpg",
+    "date": "2011-08-11",
+    "latitude": "-43.3107935424",
+    "longitude": "170.1417096774",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx rowi",
+    "common name": "Okarito Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464643256/square.jpg",
+    "date": "2011-09-01",
+    "latitude": "-43.3542602755",
+    "longitude": "170.0157091971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464432813/square.jpg",
+    "date": "2025-01-13",
+    "latitude": "-39.4529791032",
+    "longitude": "174.4102897355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463507931/square.jpg",
+    "date": "2025-01-02",
+    "latitude": "-36.372545",
+    "longitude": "174.8388966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Apteryx mantelli",
+    "common name": "North Island Brown Kiwi",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463192728/square.jpg",
+    "date": "2006-11-18",
+    "latitude": "-36.369367602",
+    "longitude": "174.8483966848",
+    "quality_grade": "research"
+  }
+]

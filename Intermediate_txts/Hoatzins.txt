@@ -1,0 +1,1748 @@
+[
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/557813068/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-12.5711658",
+    "longitude": "-70.0777775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557425664/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "2.5676999092",
+    "longitude": "-72.7021255493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557343054/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-1.0388501342",
+    "longitude": "-77.6650444418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556974344/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "5.4166899748",
+    "longitude": "-71.6999500617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556911784/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-0.5417037518",
+    "longitude": "-76.5639500413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556866030/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-1.0553766667",
+    "longitude": "-77.5280766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/556638865/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "5.9874509081",
+    "longitude": "-71.2779184123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556630968/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "5.41621651",
+    "longitude": "-71.69401652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556466632/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "4.2230722222",
+    "longitude": "-73.4928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/556185526/square.jpg",
+    "date": "2013-12-25",
+    "latitude": "-0.439963807",
+    "longitude": "-76.2494087511",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556038045/square.jpg",
+    "date": "2019-08-19",
+    "latitude": "-12.6057833333",
+    "longitude": "-69.0326222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/555486385/square.jpg",
+    "date": "2017-10-04",
+    "latitude": "-12.0484899425",
+    "longitude": "-69.671341576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555317703/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-0.4385492208",
+    "longitude": "-76.2794361393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555296413/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-0.438411344",
+    "longitude": "-76.2792599842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555296292/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-0.4384294049",
+    "longitude": "-76.27925574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/554996813/square.jpg",
+    "date": "2016-11-01",
+    "latitude": "-12.4047637861",
+    "longitude": "-70.715462491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554990893/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/554594587/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-6.5328083333",
+    "longitude": "-76.3951183333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554523982/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-0.503363",
+    "longitude": "-76.364715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554517061/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-0.4936111117",
+    "longitude": "-76.374444445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554516574/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-0.4983333333",
+    "longitude": "-76.3708333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554382720/square.jpg",
+    "date": "2000-08-18",
+    "latitude": "-12.4361641346",
+    "longitude": "-69.1581883652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554168030/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-4.368359208",
+    "longitude": "-73.3426394929",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/553457696/square.jpg",
+    "date": "2013-11-10",
+    "latitude": "-12.6347175226",
+    "longitude": "-71.2332733387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553460687/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "3.9305057973",
+    "longitude": "-73.4038493965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553234190/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "6.534675",
+    "longitude": "-57.9128472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553227401/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "6.5285222222",
+    "longitude": "-57.88455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553078072/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-2.6796869507",
+    "longitude": "-60.7818600163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552965404/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.8322353938",
+    "longitude": "-71.3773779004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552965277/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.8318986966",
+    "longitude": "-71.3775250477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552962926/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.8323229432",
+    "longitude": "-71.3779578801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552944566/square.jpg",
+    "date": "2017-01-19",
+    "latitude": "-5.0212884983",
+    "longitude": "-74.0878361475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552941228/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-5.306",
+    "longitude": "-74.50135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552622848/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "-3.017384445",
+    "longitude": "-64.854861945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552622801/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "-3.024289445",
+    "longitude": "-64.8558316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/552567290/square.jpg",
+    "date": "2025-01-31",
+    "latitude": "-0.154380576",
+    "longitude": "-75.9610722804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/552170731/square.jpg",
+    "date": "2014-10-13",
+    "latitude": "-9.6151364796",
+    "longitude": "-74.9344933034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551917937/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-0.4619950997",
+    "longitude": "-76.8447885",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551893177/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-3.3789775081",
+    "longitude": "-60.2820169553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551893105/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-3.3805763364",
+    "longitude": "-60.2795513347",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551832056/square.jpg",
+    "date": "2024-06-26",
+    "latitude": "-11.8827068435",
+    "longitude": "-71.4097964353",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551588869/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-5.7841048352",
+    "longitude": "-74.0819863853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/551313507/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-0.0454806",
+    "longitude": "-76.1616056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551303040/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-2.3455608175",
+    "longitude": "-54.877914709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550538787/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-0.462375",
+    "longitude": "-76.7597416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550163667/square.jpg",
+    "date": "2011-10-31",
+    "latitude": "7.3812131564",
+    "longitude": "-69.3486649543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549978737/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-1.0467767604",
+    "longitude": "-77.753537558",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549631357/square.jpg",
+    "date": "2025-02-02",
+    "latitude": "-0.4724056671",
+    "longitude": "-76.4592862129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549595009/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-1.0968757166",
+    "longitude": "-77.6398353988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549369127/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-12.6535631368",
+    "longitude": "-69.1570499754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548646561/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-5.6393097",
+    "longitude": "-74.0217590997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548136142/square.jpg",
+    "date": "2018-12-01",
+    "latitude": "-12.8029263648",
+    "longitude": "-69.2973742986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548103824/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-11.0280484531",
+    "longitude": "-66.1000220392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/547779388/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-6.7311783333",
+    "longitude": "-76.2223416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547150252/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-12.5260866667",
+    "longitude": "-68.9756166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/547029044/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-3.2949501456",
+    "longitude": "-60.1713536045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546946690/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-10.8700157904",
+    "longitude": "-65.9148064121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546424402/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-12.7879303738",
+    "longitude": "-69.3399871818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546087186/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-12.93468026",
+    "longitude": "-69.48849779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546041379/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-0.422421912",
+    "longitude": "-76.6409538063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545531928/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-0.47487",
+    "longitude": "-76.4617833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545386532/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-0.5244821",
+    "longitude": "-76.4402203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545187898/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-0.4714580434",
+    "longitude": "-76.4584191362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/544961232/square.jpg",
+    "date": "2022-04-20",
+    "latitude": "-0.7551833136",
+    "longitude": "-76.1008519026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/544960979/square.jpg",
+    "date": "2022-04-20",
+    "latitude": "-0.6936136785",
+    "longitude": "-76.0687525514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544932736/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-0.5244821",
+    "longitude": "-76.4402203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544527042/square.jpg",
+    "date": "2019-04-09",
+    "latitude": "-3.265060209",
+    "longitude": "-59.9678793732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544451370/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-2.4343059832",
+    "longitude": "-54.6461391438",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544237351/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-12.6042285",
+    "longitude": "-69.1992831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544198140/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-11.9966099168",
+    "longitude": "-71.2231818206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544140854/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-0.4063094",
+    "longitude": "-76.6239269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544137656/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-0.4063094",
+    "longitude": "-76.6239269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544009330/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-14.7245346167",
+    "longitude": "-64.9477284959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542932089/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.3787072592",
+    "longitude": "-76.556654083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541825405/square.jpg",
+    "date": "2008-09-17",
+    "latitude": "-12.8949809",
+    "longitude": "-71.4037127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541629746/square.jpg",
+    "date": "2024-06-11",
+    "latitude": "-6.4507737871",
+    "longitude": "-76.362977463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541610745/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-12.6065286915",
+    "longitude": "-69.0438454734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541505261/square.jpg",
+    "date": "2022-09-24",
+    "latitude": "-1.9522",
+    "longitude": "-76.27086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/541418739/square.jpg",
+    "date": "2023-03-18",
+    "latitude": "-8.8806624258",
+    "longitude": "-63.9160021702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/541035211/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-14.0741933706",
+    "longitude": "-66.6944208789",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541213270/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-13.984256885",
+    "longitude": "-64.6827291831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541091530/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-1.0384961133",
+    "longitude": "-77.6649834601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541088968/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-1.0475936305",
+    "longitude": "-77.6674461422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540873620/square.jpg",
+    "date": "2018-05-24",
+    "latitude": "-12.8698607554",
+    "longitude": "-71.3758762037",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/540841814/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-4.3378595285",
+    "longitude": "-73.2614801824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/540821368/square.jpg",
+    "date": "2023-03-09",
+    "latitude": "2.7368350428",
+    "longitude": "-72.2359048379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540612096/square.jpg",
+    "date": "2005-03-31",
+    "latitude": "7.750588",
+    "longitude": "-68.853765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540507365/square.jpg",
+    "date": "2005-03-31",
+    "latitude": "7.8102437876",
+    "longitude": "-68.8995554243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540506848/square.jpg",
+    "date": "2005-03-31",
+    "latitude": "7.8102437876",
+    "longitude": "-68.8995554243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540438485/square.jpg",
+    "date": "2005-03-30",
+    "latitude": "7.8102437876",
+    "longitude": "-68.8995554243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540355410/square.jpg",
+    "date": "2018-05-23",
+    "latitude": "-12.8625707508",
+    "longitude": "-71.373010936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540355332/square.jpg",
+    "date": "2018-05-23",
+    "latitude": "-12.8624033969",
+    "longitude": "-71.372753444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540355312/square.jpg",
+    "date": "2018-05-23",
+    "latitude": "-12.8624033969",
+    "longitude": "-71.3726676133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540368540/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "3.94810958",
+    "longitude": "-73.27252396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/540271550/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-10.9044269924",
+    "longitude": "-65.9881614031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/539752477/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-0.7140935835",
+    "longitude": "-76.1654663086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/539697933/square.jpg",
+    "date": "2018-06-18",
+    "latitude": "-9.5793581156",
+    "longitude": "-55.9227112481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538705083/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-7.4486957902",
+    "longitude": "-73.9408041072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538698296/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-14.1726950498",
+    "longitude": "-66.8228699147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538631898/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "3.96661365",
+    "longitude": "-73.40142137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538115908/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-12.6107333333",
+    "longitude": "-69.0405138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537746855/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-12.6055474616",
+    "longitude": "-69.0418852866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537178832/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-2.3455608175",
+    "longitude": "-54.877914709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537167299/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-14.1244722222",
+    "longitude": "-66.7981777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536325934/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "-8.732384486",
+    "longitude": "-63.9294286072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536260188/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4385140574",
+    "longitude": "-76.2789787792",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536110603/square.jpg",
+    "date": "2025-01-15",
+    "latitude": "-10.9460419162",
+    "longitude": "-69.5781497285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535626949/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-0.5185022217",
+    "longitude": "-76.395183055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535601027/square.jpg",
+    "date": "2024-02-22",
+    "latitude": "-12.8677616119",
+    "longitude": "-69.3974227905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535528998/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-0.4385933333",
+    "longitude": "-76.2818033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535528860/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-0.4386833333",
+    "longitude": "-76.28094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535413718/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-0.524417",
+    "longitude": "-76.439733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535110930/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-0.2053092497",
+    "longitude": "-75.9254226834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535101309/square.jpg",
+    "date": "2017-10-07",
+    "latitude": "-0.437658062",
+    "longitude": "-76.2809984263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535082759/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4397472222",
+    "longitude": "-76.2790611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534643549/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-0.0315428492",
+    "longitude": "-76.1663047751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534587574/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-0.4387916667",
+    "longitude": "-76.2794883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534233214/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-0.6204166667",
+    "longitude": "-76.619055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/534054754/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "2.2060042158",
+    "longitude": "-73.856282912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533934921/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "6.5353172176",
+    "longitude": "-57.9234422943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/533868018/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-12.8948216667",
+    "longitude": "-71.4029",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533505057/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "-14.7229709722",
+    "longitude": "-64.947388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/533474777/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-12.5954364",
+    "longitude": "-69.1571397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533082585/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "6.52675",
+    "longitude": "-57.9020233333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533082517/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "6.5289666667",
+    "longitude": "-57.89748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533082240/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "6.52884",
+    "longitude": "-57.8841766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533063506/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-14.1340802029",
+    "longitude": "-66.7948170358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/532704393/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "4.128972",
+    "longitude": "-73.613634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532660137/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-12.8408999028",
+    "longitude": "-69.5030628532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532585260/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-0.4386383333",
+    "longitude": "-76.2792883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/532507119/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-0.4362236959",
+    "longitude": "-76.2882690733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531973953/square.jpg",
+    "date": "2024-03-31",
+    "latitude": "-12.8296533333",
+    "longitude": "-71.3803033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531967593/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-12.6104984563",
+    "longitude": "-69.0401859722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531859528/square.jpg",
+    "date": "2023-05-18",
+    "latitude": "-0.524076",
+    "longitude": "-76.439658",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531859471/square.jpg",
+    "date": "2023-05-18",
+    "latitude": "-0.524078",
+    "longitude": "-76.439668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531859270/square.jpg",
+    "date": "2023-05-18",
+    "latitude": "-0.524785",
+    "longitude": "-76.439973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/531855328/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-0.4353455002",
+    "longitude": "-76.2874738448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/531508800/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-0.0418028333",
+    "longitude": "-76.1594695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530794447/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "3.95726174",
+    "longitude": "-73.40416444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530695943/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-2.3455608175",
+    "longitude": "-54.877914709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530116170/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "-12.2004348286",
+    "longitude": "-72.8114987898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529842783/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "3.94678371",
+    "longitude": "-73.41944589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529517540/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-12.7907466667",
+    "longitude": "-69.3393783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529458588/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-8.7635475",
+    "longitude": "-63.8971723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529380306/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-0.4387416667",
+    "longitude": "-76.2795866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529353932/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4388033333",
+    "longitude": "-76.279495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528960455/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.438446369",
+    "longitude": "-76.2790211706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528951953/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-0.4385466811",
+    "longitude": "-76.2793133556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528410008/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "6.2304607225",
+    "longitude": "-57.8337835064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528397137/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "3.887953",
+    "longitude": "-73.1243759722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528396173/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "3.8880219722",
+    "longitude": "-73.1238599722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528335978/square.jpg",
+    "date": "2024-11-15",
+    "latitude": "-12.3577066656",
+    "longitude": "-71.0533422798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528308495/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-5.1408604",
+    "longitude": "-49.3257254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/528257477/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4388976",
+    "longitude": "-76.2795234291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528231244/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-14.7214819167",
+    "longitude": "-64.9491769444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528231006/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-14.7214989722",
+    "longitude": "-64.949195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528199877/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.438555",
+    "longitude": "-76.279205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528034558/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-11.95752",
+    "longitude": "-70.5501166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527982036/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4384634011",
+    "longitude": "-76.2792524494",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527869470/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4385638873",
+    "longitude": "-76.2793435469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527867546/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.43875",
+    "longitude": "-76.2794883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527809012/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4378653344",
+    "longitude": "-76.2791398344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527808105/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4384831138",
+    "longitude": "-76.2793799116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/527702245/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4394665619",
+    "longitude": "-76.282119641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/527182564/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-0.6374673449",
+    "longitude": "-76.1513360951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527124197/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-10.971175",
+    "longitude": "-69.7295466389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526925807/square.jpg",
+    "date": "2025-04-08",
+    "latitude": "-9.030328233",
+    "longitude": "-56.6733917221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/526569678/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "6.7257108384",
+    "longitude": "-58.0538609996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/526405355/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-12.8949809",
+    "longitude": "-71.4037127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/526277840/square.jpg",
+    "date": "1989-04-25",
+    "latitude": "-0.4986689643",
+    "longitude": "-76.3682416653",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/526133534/square.jpg",
+    "date": "2024-07-04",
+    "latitude": "-12.8135569192",
+    "longitude": "-69.2560254782",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526068885/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "3.93614083",
+    "longitude": "-73.39034077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525762765/square.jpg",
+    "date": "2017-05-05",
+    "latitude": "6.5290481322",
+    "longitude": "-57.897128736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525658109/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-12.6097078323",
+    "longitude": "-69.037651062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525045550/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "6.775008056",
+    "longitude": "-58.5157923962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524677561/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-9.842830855",
+    "longitude": "-63.0545301945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/524654407/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "6.52827",
+    "longitude": "-57.899105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524584657/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "-12.609105",
+    "longitude": "-69.0366221667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524548053/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "0.9583027778",
+    "longitude": "-76.4188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524245833/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-3.4042789253",
+    "longitude": "-72.8193823181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523612329/square.jpg",
+    "date": "2024-11-20",
+    "latitude": "-12.788095",
+    "longitude": "-69.3386133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522897828/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "3.9532107",
+    "longitude": "-73.4244667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522730519/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "6.5665355634",
+    "longitude": "-57.9503769609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://static.inaturalist.org/photos/522673677/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "6.6013866667",
+    "longitude": "-57.8915533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522364376/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "3.960293087",
+    "longitude": "-73.4031769261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522261783/square.jpg",
+    "date": "2024-11-14",
+    "latitude": "-12.8296588527",
+    "longitude": "-71.3783672825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522184268/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-12.6499592806",
+    "longitude": "-69.1583836824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522181720/square.jpg",
+    "date": "2025-06-12",
+    "latitude": "-12.6362616579",
+    "longitude": "-69.1716683283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521224303/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "6.2304607225",
+    "longitude": "-57.8337835064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521002194/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-10.0547861111",
+    "longitude": "-67.8478055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520712956/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "3.9288617966",
+    "longitude": "-73.3904009851",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520491251/square.jpg",
+    "date": "2025-04-18",
+    "latitude": "-3.0346905736",
+    "longitude": "-60.1501352147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520712507/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "3.9486394467",
+    "longitude": "-73.4159137657",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Opisthocomus hoazin",
+    "common name": "Hoatzin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519940313/square.jpg",
+    "date": "2013-11-18",
+    "latitude": "-0.3984234879",
+    "longitude": "-76.6165379441",
+    "quality_grade": "research"
+  }
+]

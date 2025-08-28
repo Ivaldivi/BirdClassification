@@ -1,0 +1,1622 @@
+[
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556889969/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-34.35896",
+    "longitude": "141.98277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555956573/square.jpg",
+    "date": "2022-05-03",
+    "latitude": "-30.565478759",
+    "longitude": "149.2491522406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555448756/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-17.0473119699",
+    "longitude": "145.3514790104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/554249614/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-29.6102649836",
+    "longitude": "117.4221768902",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles albertisi",
+    "common name": "Mountain Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554111519/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-1.0138778968",
+    "longitude": "133.1975189329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles insignis",
+    "common name": "Feline Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554109662/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-1.1725055534",
+    "longitude": "133.0890850616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles wallacii",
+    "common name": "Wallace's Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554107184/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-0.9706075978",
+    "longitude": "132.9442003456",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles insignis",
+    "common name": "Feline Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553207002/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-1.097358033",
+    "longitude": "133.8990045088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/552815831/square.jpg",
+    "date": "2024-08-20",
+    "latitude": "-17.6603730124",
+    "longitude": "141.1386834542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552708344/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-14.18679",
+    "longitude": "132.08223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552205710/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "-31.5241102036",
+    "longitude": "138.6022109977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/551719389/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-26.6789056173",
+    "longitude": "153.0481110513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551236908/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-32.698588",
+    "longitude": "151.587285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/551194619/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-27.6217881222",
+    "longitude": "152.0376949852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545739754/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-37.7102539838",
+    "longitude": "144.4884669408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544677330/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-36.8209285218",
+    "longitude": "140.072720994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544256098/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-23.4843207156",
+    "longitude": "119.8234219969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544121276/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-28.832069403",
+    "longitude": "152.6517489552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542218069/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-33.0414916667",
+    "longitude": "136.5956883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541711101/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-37.6889055997",
+    "longitude": "144.3061838",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles bennettii",
+    "common name": "Barred Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540081584/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-9.4520717609",
+    "longitude": "147.360830158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538381438/square.jpg",
+    "date": "2025-04-15",
+    "latitude": "-35.1763194444",
+    "longitude": "149.1569972222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536401240/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-33.5686069848",
+    "longitude": "150.3407524824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535796170/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-32.9039898155",
+    "longitude": "142.38020426",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus cristatus",
+    "common name": "Mainland Australian Owlet-Nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/535315968/square.jpg",
+    "date": "2025-02-07",
+    "latitude": "-33.635556922",
+    "longitude": "151.1556012628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535225194/square.jpg",
+    "date": "2024-08-23",
+    "latitude": "-36.7426466192",
+    "longitude": "147.0162138707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles bennettii",
+    "common name": "Barred Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535001581/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "-9.4360433333",
+    "longitude": "147.349905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533778164/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-36.0397918553",
+    "longitude": "142.4597921084",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532893053/square.jpg",
+    "date": "2024-10-19",
+    "latitude": "-35.0894179893",
+    "longitude": "139.0961886047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531518244/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-26.8767991988",
+    "longitude": "151.6125797671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530907477/square.jpg",
+    "date": "2025-04-10",
+    "latitude": "-34.3160972",
+    "longitude": "118.1901168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530907477/square.jpg",
+    "date": "2025-02-03",
+    "latitude": "-36.6000105579",
+    "longitude": "140.9195199487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles insignis",
+    "common name": "Feline Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530538108/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "-1.1554562",
+    "longitude": "133.7142484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530201124/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-37.3596083333",
+    "longitude": "145.86815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528513855/square.jpg",
+    "date": "2020-05-05",
+    "latitude": "-28.8282",
+    "longitude": "151.96104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527776619/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-25.2477901574",
+    "longitude": "152.3741994351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/526983166/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-27.4027043395",
+    "longitude": "152.8005723283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles albertisi",
+    "common name": "Mountain Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/526820295/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-5.7926153",
+    "longitude": "143.973856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles crinifrons",
+    "common name": "Moluccan Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526365190/square.jpg",
+    "date": "2025-01-22",
+    "latitude": "0.9980966667",
+    "longitude": "127.96428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524163798/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-35.3642539",
+    "longitude": "149.0381819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524162741/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-35.3642539",
+    "longitude": "149.0381819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles crinifrons",
+    "common name": "Moluccan Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523209149/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "1.3120233119",
+    "longitude": "128.4849920869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/522650917/square.jpg",
+    "date": "2014-10-16",
+    "latitude": "-23.663576",
+    "longitude": "144.192277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus cristatus",
+    "common name": "Mainland Australian Owlet-Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522211961/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-34.882211",
+    "longitude": "138.722419",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521839007/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-34.074985",
+    "longitude": "150.7564633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521827259/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-27.5358716667",
+    "longitude": "153.234085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520587550/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-12.5165128752",
+    "longitude": "134.896277301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520061630/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-37.7165784688",
+    "longitude": "145.1703318602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519618989/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-31.7066783333",
+    "longitude": "152.187195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518699501/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "-27.1143",
+    "longitude": "152.70243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518699111/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "-27.1143",
+    "longitude": "152.70243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518119681/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "-27.6664366702",
+    "longitude": "153.0838474412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles wallacii",
+    "common name": "Wallace's Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/515441965/square.jpg",
+    "date": "2019-08-30",
+    "latitude": "-0.8027515106",
+    "longitude": "131.6392974158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512620530/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-43.0037916667",
+    "longitude": "147.938415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/511896947/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-37.0304445",
+    "longitude": "145.658675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509570071/square.jpg",
+    "date": "2018-06-02",
+    "latitude": "-26.634719036",
+    "longitude": "152.4287381566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509018234/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-27.5441883333",
+    "longitude": "153.1304471667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508109121/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-33.48620487",
+    "longitude": "151.0177393379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507735703/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "-35.0999991252",
+    "longitude": "139.1999996826",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506042895/square.jpg",
+    "date": "2023-03-16",
+    "latitude": "-27.4272403",
+    "longitude": "153.1693723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505595505/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-31.6952666667",
+    "longitude": "152.21408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502627553/square.jpeg",
+    "date": "2021-03-28",
+    "latitude": "-35.2744565696",
+    "longitude": "149.1100321432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502173128/square.jpeg",
+    "date": "2025-05-01",
+    "latitude": "-22.3794006",
+    "longitude": "146.700846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles insignis",
+    "common name": "Feline Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500610188/square.jpg",
+    "date": "2024-07-12",
+    "latitude": "-1.002959695",
+    "longitude": "133.5110665231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/500230387/square.jpeg",
+    "date": "2025-05-03",
+    "latitude": "-24.5654026997",
+    "longitude": "151.8953069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499746492/square.jpeg",
+    "date": "2025-05-04",
+    "latitude": "-35.3681211074",
+    "longitude": "149.0408176929",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499515806/square.jpeg",
+    "date": "2025-05-02",
+    "latitude": "-35.3642539",
+    "longitude": "149.0381819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/498601387/square.jpeg",
+    "date": "2025-05-02",
+    "latitude": "-36.6930849",
+    "longitude": "144.9473654997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/498601327/square.jpeg",
+    "date": "2025-05-02",
+    "latitude": "-36.7015107",
+    "longitude": "144.9363758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498540368/square.jpg",
+    "date": "2023-03-16",
+    "latitude": "-27.4307597083",
+    "longitude": "153.1750906367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498518958/square.jpg",
+    "date": "2025-04-30",
+    "latitude": "-36.3589083",
+    "longitude": "146.6441849997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497367737/square.jpeg",
+    "date": "2025-03-23",
+    "latitude": "-36.5496468931",
+    "longitude": "144.3410420045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495085167/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "-37.7391616805",
+    "longitude": "145.1420619817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493264647/square.jpeg",
+    "date": "2025-04-27",
+    "latitude": "-35.2826555114",
+    "longitude": "138.9604412778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491927431/square.jpeg",
+    "date": "2023-09-26",
+    "latitude": "-27.449261",
+    "longitude": "152.176354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491921954/square.jpg",
+    "date": "2023-09-19",
+    "latitude": "-27.449261",
+    "longitude": "152.176354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490506783/square.jpeg",
+    "date": "2025-04-22",
+    "latitude": "-33.0209973412",
+    "longitude": "150.0336990505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490365309/square.jpeg",
+    "date": "2025-04-13",
+    "latitude": "-37.1078979606",
+    "longitude": "144.2958226427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490363329/square.jpeg",
+    "date": "2025-04-23",
+    "latitude": "-26.6188",
+    "longitude": "153.097434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490330638/square.jpeg",
+    "date": "2024-04-11",
+    "latitude": "-35.3642539",
+    "longitude": "149.0381819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/489960213/square.jpg",
+    "date": "2024-04-14",
+    "latitude": "-26.495350429",
+    "longitude": "150.218711267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488679850/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "-36.5624042409",
+    "longitude": "148.5327387045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488188828/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-31.6955366212",
+    "longitude": "152.213600129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487624969/square.jpeg",
+    "date": "2024-08-02",
+    "latitude": "-35.3642539",
+    "longitude": "149.0381819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles wallacii",
+    "common name": "Wallace's Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/487360557/square.jpeg",
+    "date": "2021-10-03",
+    "latitude": "-1.9319536517",
+    "longitude": "132.3664543275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487041902/square.jpg",
+    "date": "2025-04-16",
+    "latitude": "-37.669105",
+    "longitude": "145.2671366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485759938/square.jpg",
+    "date": "2022-07-12",
+    "latitude": "-34.2230365936",
+    "longitude": "142.2259172599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485341122/square.jpeg",
+    "date": "2024-04-05",
+    "latitude": "-41.2593474356",
+    "longitude": "147.2309294343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485252940/square.jpeg",
+    "date": "2025-03-26",
+    "latitude": "-35.3642539",
+    "longitude": "149.0381819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484684615/square.jpeg",
+    "date": "2025-04-10",
+    "latitude": "-35.2825153819",
+    "longitude": "138.9604412778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484359062/square.jpeg",
+    "date": "2025-04-09",
+    "latitude": "-34.1671087847",
+    "longitude": "150.8231995627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484008111/square.jpeg",
+    "date": "2025-04-02",
+    "latitude": "-34.7539391389",
+    "longitude": "142.3302744444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/483403588/square.jpeg",
+    "date": "2025-04-05",
+    "latitude": "-25.1344724411",
+    "longitude": "152.1496447921",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482940326/square.jpg",
+    "date": "2025-02-23",
+    "latitude": "-27.4741737214",
+    "longitude": "151.9546274679",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482940296/square.jpg",
+    "date": "2025-03-30",
+    "latitude": "-27.5644619283",
+    "longitude": "151.9971539373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482616872/square.jpeg",
+    "date": "2025-04-04",
+    "latitude": "-35.2827956406",
+    "longitude": "138.9606129392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481671109/square.jpg",
+    "date": "2024-10-28",
+    "latitude": "-28.233605",
+    "longitude": "153.1368555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481068356/square.jpg",
+    "date": "2017-04-08",
+    "latitude": "-31.4631273",
+    "longitude": "152.6888133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480973563/square.jpeg",
+    "date": "2024-06-11",
+    "latitude": "-25.5134839984",
+    "longitude": "152.6981716231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480691524/square.jpg",
+    "date": "2024-04-16",
+    "latitude": "-35.0783583333",
+    "longitude": "139.0988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480370517/square.jpeg",
+    "date": "2025-03-26",
+    "latitude": "-17.1554916667",
+    "longitude": "145.7244416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479842154/square.jpeg",
+    "date": "2025-03-26",
+    "latitude": "-35.3273221217",
+    "longitude": "148.8396999612",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479842154/square.jpeg",
+    "date": "2025-03-25",
+    "latitude": "-34.7458135918",
+    "longitude": "116.4918572456",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479842154/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "-37.9041975801",
+    "longitude": "146.006575599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479842154/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "-37.9041975801",
+    "longitude": "146.006575599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479842154/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "-37.9041975801",
+    "longitude": "146.006575599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479195829/square.jpeg",
+    "date": "2025-03-19",
+    "latitude": "-41.2593460769",
+    "longitude": "147.230925715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/478872743/square.jpeg",
+    "date": "2025-03-23",
+    "latitude": "-27.3622678184",
+    "longitude": "152.628871724",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478776161/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "-33.0943721667",
+    "longitude": "118.4809883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478530374/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "-34.6920152563",
+    "longitude": "138.8269329071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478530374/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "-37.904586517",
+    "longitude": "146.0055795521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/477505153/square.jpg",
+    "date": "2025-03-10",
+    "latitude": "-42.8994524923",
+    "longitude": "147.224428811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476248713/square.jpg",
+    "date": "2025-03-13",
+    "latitude": "-32.3832562711",
+    "longitude": "152.4477118301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476245658/square.jpg",
+    "date": "2024-07-19",
+    "latitude": "-17.4562045217",
+    "longitude": "145.4509373967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475684843/square.jpg",
+    "date": "2025-02-11",
+    "latitude": "-35.3318502008",
+    "longitude": "144.8474244321",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474709922/square.jpg",
+    "date": "2025-03-07",
+    "latitude": "-36.7674664948",
+    "longitude": "141.8454002506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474401125/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "-34.6199555537",
+    "longitude": "139.5728958026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474040378/square.jpg",
+    "date": "2012-07-20",
+    "latitude": "-34.0657315007",
+    "longitude": "139.8537403362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474040147/square.jpeg",
+    "date": "2009-12-29",
+    "latitude": "-33.5482118831",
+    "longitude": "137.9689127287",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474039981/square.jpg",
+    "date": "2017-07-28",
+    "latitude": "-33.3329763108",
+    "longitude": "138.2287817305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474039789/square.jpg",
+    "date": "2017-07-28",
+    "latitude": "-33.202411432",
+    "longitude": "138.6079848604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474039699/square.jpg",
+    "date": "2014-03-24",
+    "latitude": "-35.2345982964",
+    "longitude": "139.1031448516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474034320/square.jpg",
+    "date": "2019-11-03",
+    "latitude": "-33.7612341146",
+    "longitude": "140.1579571149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/473479340/square.jpeg",
+    "date": "2025-01-17",
+    "latitude": "-35.1009555556",
+    "longitude": "139.1707083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/473146478/square.jpeg",
+    "date": "2017-04-19",
+    "latitude": "-21.929025",
+    "longitude": "146.2639472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473080979/square.jpeg",
+    "date": "2025-02-28",
+    "latitude": "-42.931707857",
+    "longitude": "147.3499078676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472852038/square.jpg",
+    "date": "2025-02-23",
+    "latitude": "-37.7112547704",
+    "longitude": "144.0926676097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472683601/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "-35.407385",
+    "longitude": "142.211355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472218215/square.jpg",
+    "date": "2024-12-11",
+    "latitude": "-33.3284792176",
+    "longitude": "141.1073887283",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/471152936/square.jpeg",
+    "date": "2025-02-13",
+    "latitude": "-34.0067419914",
+    "longitude": "150.9206138728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470874301/square.jpg",
+    "date": "2025-02-17",
+    "latitude": "-33.6562423002",
+    "longitude": "151.2570634614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470735439/square.jpeg",
+    "date": "2025-02-16",
+    "latitude": "-27.9230746144",
+    "longitude": "152.7557295502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus cristatus",
+    "common name": "Mainland Australian Owlet-Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470522976/square.jpg",
+    "date": "2018-01-13",
+    "latitude": "-34.5037015925",
+    "longitude": "138.7053544625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470218896/square.jpeg",
+    "date": "2025-01-07",
+    "latitude": "-42.930521408",
+    "longitude": "147.3564322729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470199538/square.jpg",
+    "date": "2025-02-15",
+    "latitude": "-31.5918889965",
+    "longitude": "152.6097704541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469864712/square.jpg",
+    "date": "2025-02-11",
+    "latitude": "-30.565424635",
+    "longitude": "151.6837221622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469884319/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "-34.3058197959",
+    "longitude": "140.5887147728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469845591/square.jpeg",
+    "date": "2025-01-19",
+    "latitude": "-34.3614997707",
+    "longitude": "141.9664707931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469258206/square.jpg",
+    "date": "2025-02-10",
+    "latitude": "-30.5062248884",
+    "longitude": "151.6336022099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/469013684/square.jpg",
+    "date": "2025-02-09",
+    "latitude": "-37.0739861667",
+    "longitude": "144.1782966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468842095/square.jpeg",
+    "date": "2025-02-09",
+    "latitude": "-27.2385510719",
+    "longitude": "152.8103580421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468788003/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "-36.8024466667",
+    "longitude": "145.79065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468770831/square.jpg",
+    "date": "2025-02-06",
+    "latitude": "-33.7202011364",
+    "longitude": "151.2449638572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468764955/square.jpeg",
+    "date": "2020-10-16",
+    "latitude": "-25.3639902976",
+    "longitude": "142.7471823109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468579985/square.jpeg",
+    "date": "2025-01-25",
+    "latitude": "-33.6721763",
+    "longitude": "150.6094298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468509302/square.jpg",
+    "date": "2025-02-06",
+    "latitude": "-30.5404508702",
+    "longitude": "151.7676789429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467987768/square.jpg",
+    "date": "2021-01-27",
+    "latitude": "-36.1292011606",
+    "longitude": "144.2413252685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467823579/square.jpeg",
+    "date": "2025-02-04",
+    "latitude": "-37.7010833333",
+    "longitude": "145.2644083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467485287/square.jpeg",
+    "date": "2025-02-02",
+    "latitude": "-35.2825153819",
+    "longitude": "138.9631878599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/467453010/square.jpeg",
+    "date": "2025-02-02",
+    "latitude": "-27.5608049475",
+    "longitude": "152.8115660325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467438142/square.jpg",
+    "date": "2022-10-26",
+    "latitude": "-22.1810423157",
+    "longitude": "148.3376883161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467349584/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-35.0799912029",
+    "longitude": "139.1001881086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467349381/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-35.0786480174",
+    "longitude": "139.0997151973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/467077826/square.jpg",
+    "date": "2010-07-07",
+    "latitude": "-27.3519144562",
+    "longitude": "152.8318401251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/467077826/square.jpg",
+    "date": "2024-03-13",
+    "latitude": "-30.452818066",
+    "longitude": "148.7299426975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466891713/square.jpeg",
+    "date": "2025-01-18",
+    "latitude": "-23.8119050817",
+    "longitude": "133.2566004013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466545863/square.jpg",
+    "date": "2025-01-28",
+    "latitude": "-30.5073257692",
+    "longitude": "151.7548313078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466344084/square.jpg",
+    "date": "2025-01-27",
+    "latitude": "-28.9267102454",
+    "longitude": "151.5664946036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465319053/square.jpeg",
+    "date": "2024-08-04",
+    "latitude": "-32.2992501944",
+    "longitude": "116.5411891244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465277412/square.jpg",
+    "date": "2025-01-22",
+    "latitude": "-17.0524888333",
+    "longitude": "145.540725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464702758/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "-34.583528174",
+    "longitude": "118.5418243456",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464438069/square.jpeg",
+    "date": "2025-01-11",
+    "latitude": "-38.3221314471",
+    "longitude": "144.2891543222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles crinifrons",
+    "common name": "Moluccan Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464141587/square.jpg",
+    "date": "2024-05-15",
+    "latitude": "0.921277207",
+    "longitude": "127.5525731654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463890648/square.jpg",
+    "date": "2024-08-23",
+    "latitude": "-29.0922306913",
+    "longitude": "141.2155305976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463840953/square.png",
+    "date": "2024-11-13",
+    "latitude": "-26.7965",
+    "longitude": "153.1211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463727246/square.jpeg",
+    "date": "2025-01-14",
+    "latitude": "-36.3654273829",
+    "longitude": "140.2665231967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/463664065/square.jpeg",
+    "date": "2025-01-14",
+    "latitude": "-33.0223780556",
+    "longitude": "151.5456002778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463408616/square.jpg",
+    "date": "2025-01-12",
+    "latitude": "-27.3436166667",
+    "longitude": "121.0210805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463273232/square.jpeg",
+    "date": "2025-01-12",
+    "latitude": "-27.6662354844",
+    "longitude": "153.0842685703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463261848/square.jpeg",
+    "date": "2025-01-12",
+    "latitude": "-35.281534469",
+    "longitude": "138.9604412778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463261522/square.jpeg",
+    "date": "2025-01-12",
+    "latitude": "-35.281534469",
+    "longitude": "138.9594113096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463261397/square.jpeg",
+    "date": "2025-01-12",
+    "latitude": "-35.2825153819",
+    "longitude": "138.9597546323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463252282/square.jpeg",
+    "date": "2024-12-13",
+    "latitude": "-38.1382263",
+    "longitude": "146.4953017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463233650/square.jpeg",
+    "date": "2014-10-29",
+    "latitude": "-27.9129962756",
+    "longitude": "153.2636063895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462855413/square.jpg",
+    "date": "2025-01-10",
+    "latitude": "-42.9049033333",
+    "longitude": "147.3008116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462579520/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-29.47568",
+    "longitude": "153.3482666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462579520/square.jpg",
+    "date": "2025-01-05",
+    "latitude": "-36.8983009728",
+    "longitude": "142.4648016174",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462579520/square.jpg",
+    "date": "2025-01-04",
+    "latitude": "-36.8981818218",
+    "longitude": "142.4645353549",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462579520/square.jpg",
+    "date": "2025-01-03",
+    "latitude": "-38.2870676998",
+    "longitude": "146.6082040476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegotheles cristatus",
+    "common name": "Australian Owlet-nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/461043947/square.jpeg",
+    "date": "2022-06-02",
+    "latitude": "-38.03545",
+    "longitude": "146.4275933333",
+    "quality_grade": "research"
+  }
+]

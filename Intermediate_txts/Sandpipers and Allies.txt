@@ -1,0 +1,821 @@
+[
+  {
+    "species": "Gallinago delicata",
+    "common name": "Wilson's Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/558176756/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.3950273659",
+    "longitude": "-105.4568173881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago delicata",
+    "common name": "Wilson's Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/558176780/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.3916829425",
+    "longitude": "-105.4035267711",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria interpres",
+    "common name": "Ruddy Turnstone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193465/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.58947",
+    "longitude": "-117.1116721667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558190607/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.9565736748",
+    "longitude": "1.0567445937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actitis macularius",
+    "common name": "Spotted Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558192426/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.3895083333",
+    "longitude": "-68.0938416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558181114/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.7473983623",
+    "longitude": "-1.4105495682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris mauri",
+    "common name": "Western Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558177700/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.293525",
+    "longitude": "-98.4979766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa flavipes",
+    "common name": "Lesser Yellowlegs",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558175250/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.2936533333",
+    "longitude": "-98.498045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris pugnax",
+    "common name": "Ruff",
+    "observation photo url": "https://static.inaturalist.org/photos/558178752/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.131738173",
+    "longitude": "1.768659063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/558177906/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1313939224",
+    "longitude": "1.7691711095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/558177772/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1313939224",
+    "longitude": "1.7691711095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/558177730/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1313939224",
+    "longitude": "1.7691711095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris pugnax",
+    "common name": "Ruff",
+    "observation photo url": "https://static.inaturalist.org/photos/558177605/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1313939224",
+    "longitude": "1.7691711095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa ochropus",
+    "common name": "Green Sandpiper",
+    "observation photo url": "https://static.inaturalist.org/photos/558177307/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1313939224",
+    "longitude": "1.7691711095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actitis hypoleucos",
+    "common name": "Common Sandpiper",
+    "observation photo url": "https://static.inaturalist.org/photos/558177001/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1313939224",
+    "longitude": "1.7691711095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/558176916/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.1313939224",
+    "longitude": "1.7691711095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris pugnax",
+    "common name": "Ruff",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558177733/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.6320318392",
+    "longitude": "0.1301684057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris alpina",
+    "common name": "Dunlin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173894/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.6314404483",
+    "longitude": "0.1307808489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa semipalmata",
+    "common name": "Willet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173510/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "44.6151790766",
+    "longitude": "-63.4381025798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius arquata",
+    "common name": "Eurasian Curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558168778/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.6977611077",
+    "longitude": "-0.4431579534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa totanus",
+    "common name": "Common Redshank",
+    "observation photo url": "https://static.inaturalist.org/photos/558166872/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3310343417",
+    "longitude": "-1.9987751588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius arquata arquata",
+    "common name": "Western Eurasian Curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/558166778/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3327730128",
+    "longitude": "-1.997760499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actitis hypoleucos",
+    "common name": "Common Sandpiper",
+    "observation photo url": "https://static.inaturalist.org/photos/558166310/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.3497649826",
+    "longitude": "8.6797846109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris pugnax",
+    "common name": "Ruff",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558165272/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.2937665816",
+    "longitude": "7.0741096497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa erythropus",
+    "common name": "Spotted Redshank",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558165257/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.2961952112",
+    "longitude": "7.0737525374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Limnodromus griseus",
+    "common name": "Short-billed Dowitcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558165300/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "29.8758289044",
+    "longitude": "-81.2695988008",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria melanocephala",
+    "common name": "Black Turnstone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558162890/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "34.26683",
+    "longitude": "-119.2785333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris fuscicollis",
+    "common name": "White-rumped Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558161611/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.635290674",
+    "longitude": "0.1281289529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558161589/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "52.9679033333",
+    "longitude": "0.6044883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phalaropus lobatus",
+    "common name": "Red-necked Phalarope",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160594/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.6158101631",
+    "longitude": "-73.8209998372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa semipalmata",
+    "common name": "Willet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160629/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "40.4227722222",
+    "longitude": "-74.2281777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris pusilla",
+    "common name": "Semipalmated Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160536/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.642522849",
+    "longitude": "-63.3683651832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Scolopax minor",
+    "common name": "American Woodcock",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159083/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.0188205617",
+    "longitude": "-74.2008833507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa totanus",
+    "common name": "Common Redshank",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153150/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "51.5745131225",
+    "longitude": "-2.6532894217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria interpres",
+    "common name": "Ruddy Turnstone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558156823/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.5854911799",
+    "longitude": "-1.6554754972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria interpres",
+    "common name": "Ruddy Turnstone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558156237/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "13.5340429069",
+    "longitude": "-89.8196923754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Limosa limosa",
+    "common name": "Black-tailed Godwit",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558156125/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.6979",
+    "longitude": "-0.436461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius phaeopus",
+    "common name": "Whimbrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153104/square.jpg",
+    "date": "2025-04-11",
+    "latitude": "13.5321825564",
+    "longitude": "-89.8171085793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris fuscicollis",
+    "common name": "White-rumped Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152706/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.6320055497",
+    "longitude": "0.1307911204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris canutus",
+    "common name": "Red Knot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152425/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.8667034507",
+    "longitude": "0.4378936697",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa melanoleuca",
+    "common name": "Greater Yellowlegs",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151519/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.1742383333",
+    "longitude": "-81.67453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius americanus",
+    "common name": "Long-billed Curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558150797/square.jpg",
+    "date": "2009-07-25",
+    "latitude": "26.4759129",
+    "longitude": "-81.9673121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa solitaria",
+    "common name": "Solitary Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558149496/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.6464558857",
+    "longitude": "-79.4698328188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558149922/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.7973714063",
+    "longitude": "27.9641325027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria interpres",
+    "common name": "Ruddy Turnstone",
+    "observation photo url": "https://static.inaturalist.org/photos/558149730/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "50.6087388889",
+    "longitude": "-2.4427388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria interpres",
+    "common name": "Ruddy Turnstone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558149537/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.2884116667",
+    "longitude": "-74.5708916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris alba",
+    "common name": "Sanderling",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558144965/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "41.7259686364",
+    "longitude": "-82.6723035772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius phaeopus",
+    "common name": "Whimbrel",
+    "observation photo url": "https://static.inaturalist.org/photos/558142695/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.8473553094",
+    "longitude": "-117.2789285552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actitis hypoleucos",
+    "common name": "Common Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558142671/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.6438469965",
+    "longitude": "-1.0277058571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139965/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.6467171003",
+    "longitude": "-1.0313962577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris alpina",
+    "common name": "Dunlin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140209/square.jpg",
+    "date": "2010-11-15",
+    "latitude": "26.4049861388",
+    "longitude": "-81.8959599414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa glareola",
+    "common name": "Wood Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140575/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.7983957947",
+    "longitude": "27.9607904702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa erythropus",
+    "common name": "Spotted Redshank",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141100/square.jpg",
+    "date": "2018-05-07",
+    "latitude": "43.4875747273",
+    "longitude": "4.4064456132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Limosa limosa",
+    "common name": "Black-tailed Godwit",
+    "observation photo url": "https://static.inaturalist.org/photos/558139770/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.7747877853",
+    "longitude": "-2.2302470729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius madagascariensis",
+    "common name": "Far Eastern Curlew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558137678/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.9093865847",
+    "longitude": "153.0116523744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris mauri",
+    "common name": "Western Sandpiper",
+    "observation photo url": "https://static.inaturalist.org/photos/558137018/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.0317295408",
+    "longitude": "-111.487877816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris himantopus",
+    "common name": "Stilt Sandpiper",
+    "observation photo url": "https://static.inaturalist.org/photos/558136673/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.0317295408",
+    "longitude": "-111.487877816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa solitaria",
+    "common name": "Solitary Sandpiper",
+    "observation photo url": "https://static.inaturalist.org/photos/558136303/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-16.37927707",
+    "longitude": "-56.62094173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius arquata arquata",
+    "common name": "Western Eurasian Curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/558130004/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3035549754",
+    "longitude": "-1.9900263208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa solitaria",
+    "common name": "Solitary Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558135595/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "43.5402556211",
+    "longitude": "-80.5663274462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa semipalmata",
+    "common name": "Willet",
+    "observation photo url": "https://static.inaturalist.org/photos/558135925/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "32.6022054782",
+    "longitude": "-117.1218217222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris alba",
+    "common name": "Sanderling",
+    "observation photo url": "https://static.inaturalist.org/photos/558134762/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "28.352225",
+    "longitude": "-80.6042333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius americanus",
+    "common name": "Long-billed Curlew",
+    "observation photo url": "https://static.inaturalist.org/photos/558132064/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "32.579740286",
+    "longitude": "-117.1328899515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria interpres",
+    "common name": "Ruddy Turnstone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558131934/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.760948",
+    "longitude": "-74.101116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa semipalmata",
+    "common name": "Willet",
+    "observation photo url": "https://static.inaturalist.org/photos/558128601/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.8108305515",
+    "longitude": "-79.721540985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa semipalmata",
+    "common name": "Willet",
+    "observation photo url": "https://static.inaturalist.org/photos/558127995/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.8108480664",
+    "longitude": "-79.7215510014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria interpres",
+    "common name": "Ruddy Turnstone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558127725/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.8614020767",
+    "longitude": "-4.0929167625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Numenius phaeopus",
+    "common name": "Whimbrel",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558126372/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.4487614299",
+    "longitude": "-70.3623614341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris minutilla",
+    "common name": "Least Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558123285/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.5661923927",
+    "longitude": "-70.3624243404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bartramia longicauda",
+    "common name": "Upland Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558120218/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "50.66256",
+    "longitude": "-109.330078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actitis hypoleucos",
+    "common name": "Common Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558106723/square.jpg",
+    "date": "2008-03-31",
+    "latitude": "8.2274658817",
+    "longitude": "34.6199648242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Limosa limosa",
+    "common name": "Black-tailed Godwit",
+    "observation photo url": "https://static.inaturalist.org/photos/558119567/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.1734708683",
+    "longitude": "-1.1378635603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris alba",
+    "common name": "Sanderling",
+    "observation photo url": "https://static.inaturalist.org/photos/558119097/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.8109229597",
+    "longitude": "-79.7215343354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa nebularia",
+    "common name": "Common Greenshank",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558117552/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "60.4695875013",
+    "longitude": "22.123243088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/557997076/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "47.1108537781",
+    "longitude": "-1.7174922072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa totanus",
+    "common name": "Common Redshank",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558110992/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "55.9723333137",
+    "longitude": "-2.4131727563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Arenaria interpres",
+    "common name": "Ruddy Turnstone",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558110998/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "55.9723333137",
+    "longitude": "-2.4131727563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa solitaria",
+    "common name": "Solitary Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558112078/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.9113116667",
+    "longitude": "-84.325905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris mauri",
+    "common name": "Western Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558101949/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.2937182778",
+    "longitude": "-98.4980583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris minutilla",
+    "common name": "Least Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558101549/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.2937182778",
+    "longitude": "-98.4980583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phalaropus tricolor",
+    "common name": "Wilson's Phalarope",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558100188/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "29.2954449444",
+    "longitude": "-98.4924216111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actitis macularius",
+    "common name": "Spotted Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558107921/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.837745",
+    "longitude": "-106.3687533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Actitis macularius",
+    "common name": "Spotted Sandpiper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558104902/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "33.9110910704",
+    "longitude": "-84.3230867266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris alpina",
+    "common name": "Dunlin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558103377/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.8876581613",
+    "longitude": "27.4095284566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa nebularia",
+    "common name": "Common Greenshank",
+    "observation photo url": "https://static.inaturalist.org/photos/558098459/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2396756612",
+    "longitude": "44.18151199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calidris pugnax",
+    "common name": "Ruff",
+    "observation photo url": "https://static.inaturalist.org/photos/558098361/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2594158953",
+    "longitude": "44.1573009716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa glareola",
+    "common name": "Wood Sandpiper",
+    "observation photo url": "https://static.inaturalist.org/photos/558098349/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2594105144",
+    "longitude": "44.1573982678",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa nebularia",
+    "common name": "Common Greenshank",
+    "observation photo url": "https://static.inaturalist.org/photos/558098319/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2605668869",
+    "longitude": "44.1514657738",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/558098318/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2618169141",
+    "longitude": "44.1498137191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tringa ochropus",
+    "common name": "Green Sandpiper",
+    "observation photo url": "https://static.inaturalist.org/photos/558098293/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2646273129",
+    "longitude": "44.1446074503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallinago gallinago",
+    "common name": "Common Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/558098267/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2654741572",
+    "longitude": "44.1433177968",
+    "quality_grade": "research"
+  }
+]

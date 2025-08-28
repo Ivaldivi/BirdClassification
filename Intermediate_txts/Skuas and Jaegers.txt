@@ -1,0 +1,1424 @@
+[
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558117527/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.4724850401",
+    "longitude": "-8.458077932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/558114706/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.5953549283",
+    "longitude": "-117.394906099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/558086526/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.742693165",
+    "longitude": "-117.7703192031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032435/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.4462292658",
+    "longitude": "-80.9162648221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557992353/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.0431052442",
+    "longitude": "-71.8066151339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557992011/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.0381769117",
+    "longitude": "-71.8374281508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/557959874/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.6364033008",
+    "longitude": "7.2215456888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557920861/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "24.489102",
+    "longitude": "122.007677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius antarcticus",
+    "common name": "Brown Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557901759/square.jpg",
+    "date": "2025-01-27",
+    "latitude": "-46.67446524",
+    "longitude": "38.31083526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557900108/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "38.15889",
+    "longitude": "-123.5779116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557833990/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.44058",
+    "longitude": "-80.9503316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557821540/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.6802242614",
+    "longitude": "-117.7325884639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/557806636/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "47.4231490914",
+    "longitude": "-122.4296600765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557804239/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4363511455",
+    "longitude": "-20.2281515186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803913/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "63.4612110913",
+    "longitude": "-20.2033251269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius antarcticus",
+    "common name": "Brown Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557747429/square.jpg",
+    "date": "2025-01-27",
+    "latitude": "-46.6926067999",
+    "longitude": "37.36952528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557736039/square.jpg",
+    "date": "2014-08-21",
+    "latitude": "64.0921796841",
+    "longitude": "-16.1671197787",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius antarcticus",
+    "common name": "Brown Skua",
+    "observation photo url": "https://static.inaturalist.org/photos/557735345/square.jpg",
+    "date": "2005-07-30",
+    "latitude": "-34.3742694201",
+    "longitude": "18.4541290643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557690331/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.533620581",
+    "longitude": "-122.2079190196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557690351/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.533620581",
+    "longitude": "-122.2079190196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557682766/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "56.411719801",
+    "longitude": "-2.8061659634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557602420/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.346067",
+    "longitude": "61.681797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557583703/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "57.9833738502",
+    "longitude": "-3.9276799464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557542484/square.jpg",
+    "date": "2020-05-30",
+    "latitude": "50.8699479035",
+    "longitude": "-57.0207793755",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557485507/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "69.9285604495",
+    "longitude": "32.0207394555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433534/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "66.103942314",
+    "longitude": "-22.8996025734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557428788/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.347958",
+    "longitude": "61.675513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557360146/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "35.4411897168",
+    "longitude": "-80.9505094489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557327923/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "58.5582141649",
+    "longitude": "-134.9685923143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557283203/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.3591181715",
+    "longitude": "-123.188489859",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/557220486/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.7693482443",
+    "longitude": "-117.3259202569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/557218058/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.58527",
+    "longitude": "-117.35907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557197729/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "26.5519633333",
+    "longitude": "-82.7246383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557165379/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "48.229975",
+    "longitude": "-123.759948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/557128606/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "40.6992829602",
+    "longitude": "-124.4204844089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557073469/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "34.2402444754",
+    "longitude": "-119.8075336727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557073460/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "34.2402444754",
+    "longitude": "-119.8075336727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557073449/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "34.2402444754",
+    "longitude": "-119.8075336727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557073433/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "34.2402444754",
+    "longitude": "-119.8075336727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/557607021/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "70.0715993741",
+    "longitude": "30.119186528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/557054984/square.jpg",
+    "date": "2024-08-01",
+    "latitude": "67.8794870441",
+    "longitude": "12.9697974685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557040348/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "63.8178355985",
+    "longitude": "20.9566330607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557038460/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "69.1861492032",
+    "longitude": "35.132263126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/557013537/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.6497907018",
+    "longitude": "-117.3857644717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556995442/square.jpg",
+    "date": "2017-02-25",
+    "latitude": "38.6419485153",
+    "longitude": "-9.233455252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/556987837/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "32.6263276227",
+    "longitude": "-117.3721633901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556977630/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "69.2055291202",
+    "longitude": "35.0676584178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556977281/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "69.2052189201",
+    "longitude": "35.0713438535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556911943/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "64.042219",
+    "longitude": "-16.176593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556902768/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "63.59422",
+    "longitude": "-18.464957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556691645/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "74.2159231744",
+    "longitude": "-90.067092441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556663331/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "-39.8629278557",
+    "longitude": "-73.4178167098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556531198/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "44.4825797013",
+    "longitude": "-66.7953532674",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556465304/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "78.9224866667",
+    "longitude": "11.9427033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius antarcticus",
+    "common name": "Brown Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556434265/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-34.5805391185",
+    "longitude": "19.3517528102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://static.inaturalist.org/photos/556418919/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "56.4980794638",
+    "longitude": "-6.4038632612",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://static.inaturalist.org/photos/556385480/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "57.7345550709",
+    "longitude": "-6.0122551597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556268317/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "36.9625038937",
+    "longitude": "-121.9190783773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556267120/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "72.1151111667",
+    "longitude": "-25.491505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556207656/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "43.7876890583",
+    "longitude": "-7.6738602416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556153289/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "57.138375",
+    "longitude": "-2.0477533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556115437/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "60.841566",
+    "longitude": "-0.88751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556060024/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "79.7537083333",
+    "longitude": "11.5029833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556025396/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "45.4757173974",
+    "longitude": "10.6362878599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556001780/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "64.1637493326",
+    "longitude": "-21.8775838133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556001080/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "64.1637493326",
+    "longitude": "-21.8775838133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555984157/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "78.2194980277",
+    "longitude": "15.3265409544",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555966671/square.jpg",
+    "date": "2022-06-13",
+    "latitude": "56.4896582",
+    "longitude": "-6.4243155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/555851828/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "65.7479042638",
+    "longitude": "-18.1302956119",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555779731/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "71.1666760381",
+    "longitude": "-59.5160525769",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555643432/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "79.3883922593",
+    "longitude": "13.1221017989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555637692/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "66.8680770023",
+    "longitude": "-162.6136442274",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555535349/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "64.04221067",
+    "longitude": "-16.17646709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555501869/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "79.5154832652",
+    "longitude": "12.4668396979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/555401847/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "63.8182502931",
+    "longitude": "-22.6995989845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/555385703/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "32.5862216667",
+    "longitude": "-117.3739516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/555378549/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "32.6768216667",
+    "longitude": "-117.4037866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius maccormicki",
+    "common name": "South Polar Skua",
+    "observation photo url": "https://static.inaturalist.org/photos/555375560/square.jpg",
+    "date": "2023-02-21",
+    "latitude": "-62.0948735997",
+    "longitude": "-58.4660543997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius chilensis",
+    "common name": "Chilean Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555295964/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "-39.869599",
+    "longitude": "-73.514843",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/555282756/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "36.7416133333",
+    "longitude": "-121.8054377783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/555199396/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "47.576135",
+    "longitude": "-122.421956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555011326/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "77.5550466667",
+    "longitude": "15.0568361667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius maccormicki",
+    "common name": "South Polar Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554994342/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "39.5400383333",
+    "longitude": "-123.951405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554991804/square.jpg",
+    "date": "2022-10-11",
+    "latitude": "38.6436784001",
+    "longitude": "-9.2403092381",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554880364/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "64.9717411868",
+    "longitude": "35.659224056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554880336/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "64.9715389218",
+    "longitude": "35.6596834463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/554803151/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "64.7278671355",
+    "longitude": "177.6603150775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554793783/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.1738422275",
+    "longitude": "36.3904026206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/554766021/square.jpg",
+    "date": "2008-09-06",
+    "latitude": "49.2099718825",
+    "longitude": "-123.2417107211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/554766775/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "71.46498",
+    "longitude": "-63.6706283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/554740322/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "68.9953325917",
+    "longitude": "-133.355161095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/554740325/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "68.9953325917",
+    "longitude": "-133.355161095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/554650707/square.jpg",
+    "date": "2024-09-01",
+    "latitude": "43.2116812446",
+    "longitude": "-82.0173788443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius antarcticus",
+    "common name": "Brown Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554615709/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-34.3748864686",
+    "longitude": "115.168792973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554385611/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "61.771775",
+    "longitude": "-6.8027416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554381517/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "58.3811412183",
+    "longitude": "-5.188774243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554371084/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "63.450625",
+    "longitude": "-20.2501716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554360100/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "62.2840184061",
+    "longitude": "-6.9632891474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/554322967/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "37.8207718903",
+    "longitude": "-122.5100784749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554237300/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "64.0409164167",
+    "longitude": "-16.1821326944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius maccormicki",
+    "common name": "South Polar Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554216562/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "44.5840587517",
+    "longitude": "-66.6035974817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554206383/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "56.0044261691",
+    "longitude": "-3.3441005339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius antarcticus",
+    "common name": "Brown Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554163299/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-34.6254894969",
+    "longitude": "19.3819366226",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius maccormicki",
+    "common name": "South Polar Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554100906/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "38.2583966667",
+    "longitude": "-123.3880466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554083387/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "68.537910063",
+    "longitude": "-113.454090563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554083336/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "68.5594457239",
+    "longitude": "-113.4888461508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554083220/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "68.614308261",
+    "longitude": "-113.5624337571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554083157/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "68.6407418026",
+    "longitude": "-113.603734088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius chilensis",
+    "common name": "Chilean Skua",
+    "observation photo url": "https://static.inaturalist.org/photos/554064667/square.jpg",
+    "date": "2024-08-31",
+    "latitude": "-39.3969396362",
+    "longitude": "-73.3975733917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553916377/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "32.7157160617",
+    "longitude": "-117.3622395473",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553909667/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "69.7137087538",
+    "longitude": "33.1328075603",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553903692/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "45.0189162017",
+    "longitude": "-66.810621445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553872084/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "39.5858",
+    "longitude": "-123.9990166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius maccormicki",
+    "common name": "South Polar Skua",
+    "observation photo url": "https://static.inaturalist.org/photos/553855870/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "39.5265694529",
+    "longitude": "-124.0152614173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/553855811/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "39.5265694529",
+    "longitude": "-124.0152614173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/553855779/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "39.5265694529",
+    "longitude": "-124.0152614173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/553855717/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "39.5265694529",
+    "longitude": "-124.0152614173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553829842/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "66.0451101497",
+    "longitude": "-17.4263035798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553818137/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "68.4999999865",
+    "longitude": "-113.4999999404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553786199/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "39.4688133333",
+    "longitude": "-123.92987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553772438/square.jpg",
+    "date": "2021-12-01",
+    "latitude": "38.6049092428",
+    "longitude": "-9.4983128559",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553741741/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "35.180104",
+    "longitude": "-75.624914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553726287/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "59.9377239104",
+    "longitude": "-141.5984864626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553662615/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "78.550186075",
+    "longitude": "18.9590185844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553594402/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "69.2192483333",
+    "longitude": "35.0467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553578531/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "36.8005856183",
+    "longitude": "-121.9473111257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553527335/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "70.77359",
+    "longitude": "-119.53694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553521365/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "70.5136030506",
+    "longitude": "-118.1840989064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553503780/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "69.095547452",
+    "longitude": "36.1547793827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553408077/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "64.1718309722",
+    "longitude": "-21.965879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553397292/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "78.2847170016",
+    "longitude": "17.1358352301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553395865/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "78.3357270196",
+    "longitude": "17.5035051947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553392012/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "78.5470491852",
+    "longitude": "16.5367083197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553350809/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "60.0311941611",
+    "longitude": "29.6712089695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/553249858/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "69.2111039949",
+    "longitude": "35.1463859977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553231150/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "66.4913783333",
+    "longitude": "-53.81482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553169900/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "45.6507587525",
+    "longitude": "29.8495621607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius chilensis",
+    "common name": "Chilean Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552989496/square.jpg",
+    "date": "2015-08-08",
+    "latitude": "-32.9739287197",
+    "longitude": "-71.459892904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552979759/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "37.6475820784",
+    "longitude": "-118.7424946947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552932788/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "40.8311352369",
+    "longitude": "-96.7174056023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552883581/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "69.8907540068",
+    "longitude": "32.1686600894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552881511/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "69.8981436958",
+    "longitude": "32.1328931674",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius longicaudus",
+    "common name": "Long-tailed Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552853941/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "64.4751289212",
+    "longitude": "-164.762096191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552766327/square.jpg",
+    "date": "2024-09-08",
+    "latitude": "58.9558012237",
+    "longitude": "-2.709809553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://static.inaturalist.org/photos/552691872/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "13.2867692727",
+    "longitude": "100.0690248903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552692699/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "63.8010109978",
+    "longitude": "-16.6382205624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552669821/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "45.6445952353",
+    "longitude": "29.8393288627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius skua",
+    "common name": "Great Skua",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552666982/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "63.8031565759",
+    "longitude": "-16.6361297028",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552663993/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "63.0108479341",
+    "longitude": "7.3176908121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552583487/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "69.9159189652",
+    "longitude": "32.1602641046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552579480/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "69.9433315479",
+    "longitude": "32.05537498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552561709/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "70.9677129929",
+    "longitude": "-129.8642444469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552544867/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "70.986342257",
+    "longitude": "-131.8679669162",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552543557/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "70.6688473321",
+    "longitude": "-131.4297059755",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552507043/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "42.2223785008",
+    "longitude": "-69.8898034114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius pomarinus",
+    "common name": "Pomarine Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552500219/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "70.7534733145",
+    "longitude": "-129.5481014847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552479231/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "41.73767",
+    "longitude": "-69.84075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Stercorarius parasiticus",
+    "common name": "Parasitic Jaeger",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552305738/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "77.069723925",
+    "longitude": "15.9921639785",
+    "quality_grade": "research"
+  }
+]

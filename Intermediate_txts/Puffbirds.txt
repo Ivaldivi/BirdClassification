@@ -1,0 +1,1640 @@
+[
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558161084/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "9.1821666667",
+    "longitude": "-79.4100833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558043646/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "8.995158837",
+    "longitude": "-79.5472057085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558028864/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "8.5598583333",
+    "longitude": "-83.3223416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila semicincta",
+    "common name": "Semicollared Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557835506/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-12.5623627",
+    "longitude": "-70.1004171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557830272/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-12.5487418",
+    "longitude": "-70.0995544",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557776743/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-12.5688794",
+    "longitude": "-70.099075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus radiatus",
+    "common name": "Barred Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557663583/square.jpg",
+    "date": "2020-12-14",
+    "latitude": "0.1597052",
+    "longitude": "-78.8530944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557511554/square.jpg",
+    "date": "2023-06-15",
+    "latitude": "-15.5925130471",
+    "longitude": "-56.1426024408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila mystacalis",
+    "common name": "Moustached Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557479638/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "4.9516071",
+    "longitude": "-75.0000673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus",
+    "common name": "Spot-backed Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557377371/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-16.71872",
+    "longitude": "-43.9396896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557253386/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-4.511002907",
+    "longitude": "-56.296659708",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557243948/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-14.6369659257",
+    "longitude": "-65.0286179781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556902469/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "8.5408354",
+    "longitude": "-83.570964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus radiatus",
+    "common name": "Barred Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556855824/square.jpg",
+    "date": "2022-01-07",
+    "latitude": "8.9542666667",
+    "longitude": "-78.4662333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556745511/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-13.7480204004",
+    "longitude": "-56.6821246594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus",
+    "common name": "Spot-backed Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556705635/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-15.7970822593",
+    "longitude": "-47.8078130095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556579754/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-9.9565564",
+    "longitude": "-67.8649033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556556348/square.jpg",
+    "date": "2017-01-16",
+    "latitude": "-4.6500316667",
+    "longitude": "-73.8378311905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556443146/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-12.7288674717",
+    "longitude": "-60.1432730461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus",
+    "common name": "Spot-backed Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556434040/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.1489264848",
+    "longitude": "-61.8123198596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus",
+    "common name": "Spot-backed Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556426304/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-5.0467480081",
+    "longitude": "-39.6887012985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556194828/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-15.8730064111",
+    "longitude": "-52.2536850917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556187508/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-15.8722612865",
+    "longitude": "-52.2535580104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus chacuru",
+    "common name": "White-eared Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556117882/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.8636010711",
+    "longitude": "-44.2464926036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556077507/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.0557027543",
+    "longitude": "-40.1470360332",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556058277/square.jpg",
+    "date": "2024-11-21",
+    "latitude": "8.4782383333",
+    "longitude": "-83.5896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila fusca",
+    "common name": "White-chested Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556044621/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-2.9929716667",
+    "longitude": "-78.4310766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556026842/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-15.7465028611",
+    "longitude": "-47.8882865833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555978844/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-16.5120833064",
+    "longitude": "-56.7115592211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555912866/square.jpg",
+    "date": "2019-08-19",
+    "latitude": "-12.6057833333",
+    "longitude": "-69.0326222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus",
+    "common name": "Spot-backed Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555874735/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-32.1617933333",
+    "longitude": "-64.50435",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/555830817/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-6.4752991216",
+    "longitude": "-76.3603572251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555765810/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "10.4510871987",
+    "longitude": "-84.0676827183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555749308/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-23.8127916667",
+    "longitude": "-46.726555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555736559/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "1.0507174228",
+    "longitude": "-76.3127776064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus tectus",
+    "common name": "Pied Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555695645/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "7.20248",
+    "longitude": "-75.3226483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus swainsoni",
+    "common name": "Buff-bellied Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/555682818/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.7483480763",
+    "longitude": "-54.430445127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/555581799/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-9.9578899079",
+    "longitude": "-67.8662319405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus radiatus",
+    "common name": "Barred Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555581044/square.jpg",
+    "date": "2019-10-04",
+    "latitude": "0.1448972222",
+    "longitude": "-79.14125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555413086/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "10.4512435",
+    "longitude": "-84.0696831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus radiatus",
+    "common name": "Barred Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555406237/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "4.2816510012",
+    "longitude": "-74.9040050214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555398709/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa flavirostris",
+    "common name": "Yellow-billed Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555398560/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa flavirostris",
+    "common name": "Yellow-billed Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555397860/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/555303248/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "10.4945366667",
+    "longitude": "-84.7525633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/555210728/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-15.7380824697",
+    "longitude": "-47.9274567094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555080882/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.055405",
+    "longitude": "-40.1455766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554981837/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554942796/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "9.1221207269",
+    "longitude": "-79.7157816398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila fulvogularis",
+    "common name": "Black-streaked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554933217/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.6755716667",
+    "longitude": "-77.6012733333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554902931/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-0.6906303037",
+    "longitude": "-77.3039600814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554884908/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-0.6904460122",
+    "longitude": "-77.3039793891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554884817/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-0.6904460122",
+    "longitude": "-77.3039793891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypnelus ruficollis",
+    "common name": "Russet-throated Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554854285/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "5.3365835292",
+    "longitude": "-74.7326620001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554663972/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-12.5695663023",
+    "longitude": "-70.1003885642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata striata",
+    "common name": "Crescent-chested Puffbird (Greater)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554638710/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.9320350023",
+    "longitude": "-40.5999112129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/554585688/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "-0.000795",
+    "longitude": "-76.170615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554516761/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-0.5052777783",
+    "longitude": "-76.3613888883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554516396/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-0.4986111117",
+    "longitude": "-76.3711111117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554508401/square.jpg",
+    "date": "2019-05-14",
+    "latitude": "16.5547565968",
+    "longitude": "-88.7056332298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554435854/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-20.4843816458",
+    "longitude": "-41.0484885508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila mystacalis",
+    "common name": "Moustached Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/554402130/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "7.0336784572",
+    "longitude": "-75.8944488689",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus chacuru",
+    "common name": "White-eared Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554289380/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-22.6437421",
+    "longitude": "-44.5788092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus",
+    "common name": "Spot-backed Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554265531/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "-4.010056862",
+    "longitude": "-38.5189421475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypnelus ruficollis",
+    "common name": "Russet-throated Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554076937/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "11.0307055",
+    "longitude": "-74.8490533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554031553/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-22.5451514603",
+    "longitude": "-43.0651781941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553985704/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553987566/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "9.1315613458",
+    "longitude": "-79.7251489386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus pectoralis",
+    "common name": "Black-breasted Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553987494/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "9.1302971514",
+    "longitude": "-79.7246939689",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypnelus ruficollis",
+    "common name": "Russet-throated Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553939252/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "11.0266713",
+    "longitude": "-74.8861643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553852173/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "10.5863616667",
+    "longitude": "-83.5258466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus macrorhynchos",
+    "common name": "Guianan Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/553831941/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "5.0638947098",
+    "longitude": "-53.0501209572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypnelus ruficollis",
+    "common name": "Russet-throated Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/553753120/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "11.0106482395",
+    "longitude": "-74.9419960012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus tectus",
+    "common name": "Pied Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553362835/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "9.1310773665",
+    "longitude": "-79.7256236947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypnelus ruficollis",
+    "common name": "Russet-throated Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/553220198/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.0162705477",
+    "longitude": "-74.9401876966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila fulvogularis",
+    "common name": "Black-streaked Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552967901/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-3.8531183333",
+    "longitude": "-78.54142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552956160/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "9.7948529301",
+    "longitude": "-84.5933961764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552868951/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-24.19350795",
+    "longitude": "-47.3590901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552862476/square.jpg",
+    "date": "2024-12-18",
+    "latitude": "8.6896337786",
+    "longitude": "-83.4786208113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552820624/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-6.5315616667",
+    "longitude": "-76.3910133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552804656/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-12.173031664",
+    "longitude": "-69.3912165239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552780750/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-2.6796869507",
+    "longitude": "-60.7818600163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552741350/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "9.1284874",
+    "longitude": "-79.7153282",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hapaloptila castanea",
+    "common name": "White-faced Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552643953/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "-0.0125633814",
+    "longitude": "-78.6850505391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hapaloptila castanea",
+    "common name": "White-faced Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552643908/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "-0.0125633814",
+    "longitude": "-78.6850505391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucco tamatia",
+    "common name": "Spotted Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552633587/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-3.4017200817",
+    "longitude": "-57.786822085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552633569/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-3.4053159",
+    "longitude": "-57.7903605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa atra",
+    "common name": "Black Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552628123/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-3.0031972217",
+    "longitude": "-59.93965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus macrorhynchos",
+    "common name": "Guianan Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552628081/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-3.0031972217",
+    "longitude": "-59.93965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucco tamatia",
+    "common name": "Spotted Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552625902/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "-3.0496172217",
+    "longitude": "-64.8411202783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus radiatus",
+    "common name": "Barred Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552598892/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "0.146483",
+    "longitude": "-79.141519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus radiatus",
+    "common name": "Barred Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552574561/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "0.14608228",
+    "longitude": "-79.140692495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552570193/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-9.597336661",
+    "longitude": "-55.9314336324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552545856/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "1.0236727846",
+    "longitude": "-76.4681221461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552537906/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.9225066667",
+    "longitude": "-71.318365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552534056/square.jpg",
+    "date": "2025-01-29",
+    "latitude": "-0.1603699454",
+    "longitude": "-75.9322806606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552534004/square.jpg",
+    "date": "2025-01-29",
+    "latitude": "-0.1603699454",
+    "longitude": "-75.9322806606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552518656/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-9.5580807127",
+    "longitude": "-55.9086189408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucco macrodactylus",
+    "common name": "Chestnut-capped Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552515478/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-12.892275",
+    "longitude": "-71.4025116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus pectoralis",
+    "common name": "Black-breasted Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552512201/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "9.0777445",
+    "longitude": "-79.6492676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552502800/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "5.1255575214",
+    "longitude": "-52.6125996932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552480254/square.jpg",
+    "date": "2017-01-19",
+    "latitude": "-4.8876874475",
+    "longitude": "-73.7898879736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Micromonacha lanceolata",
+    "common name": "Lanceolated Monklet",
+    "observation photo url": "https://static.inaturalist.org/photos/552477059/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-4.27128",
+    "longitude": "-78.64193",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552455543/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "11.8624650183",
+    "longitude": "-86.5127798458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552409334/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-12.2267621878",
+    "longitude": "-69.1164306146",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552289333/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-9.8452158333",
+    "longitude": "-56.1211775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552289218/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-9.8446622217",
+    "longitude": "-56.1240702783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552288526/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "8.9518",
+    "longitude": "-78.467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus radiatus",
+    "common name": "Barred Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552270898/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "8.3706406014",
+    "longitude": "-77.8351319484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus tectus",
+    "common name": "Pied Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552266186/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "8.31026",
+    "longitude": "-77.79833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nonnula ruficapilla",
+    "common name": "Rufous-capped Nunlet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552219563/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-5.9646628138",
+    "longitude": "-50.3781115713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552142480/square.jpg",
+    "date": "2024-06-28",
+    "latitude": "-11.8873712399",
+    "longitude": "-71.4071889748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552105020/square.jpg",
+    "date": "2008-12-27",
+    "latitude": "6.0488326136",
+    "longitude": "-74.2619564812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila mystacalis",
+    "common name": "Moustached Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/552094586/square.jpg",
+    "date": "2022-08-11",
+    "latitude": "5.2390159422",
+    "longitude": "-76.0892619961",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552027477/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-9.587761498",
+    "longitude": "-55.9249262268",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus tectus",
+    "common name": "Pied Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552027033/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-9.5841117331",
+    "longitude": "-55.9189717228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551992936/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-9.6720739323",
+    "longitude": "-48.3852998088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551960217/square.jpg",
+    "date": "2019-07-19",
+    "latitude": "-17.29247942",
+    "longitude": "-56.7097166327",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucco macrodactylus",
+    "common name": "Chestnut-capped Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551943618/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-12.8925235596",
+    "longitude": "-71.4023740994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551948696/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "9.1639833333",
+    "longitude": "-79.8376166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nonnula frontalis",
+    "common name": "Gray-cheeked Nunlet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551927438/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "8.392871407",
+    "longitude": "-77.8704272386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551845153/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "9.1748295849",
+    "longitude": "-78.794282509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551825720/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551818767/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-12.8974116667",
+    "longitude": "-71.39724",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551822948/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus tectus",
+    "common name": "Pied Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/551812963/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "6.7631571",
+    "longitude": "-74.2085518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypnelus ruficollis",
+    "common name": "Russet-throated Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/551812885/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "6.7631571",
+    "longitude": "-74.2085518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus chacuru",
+    "common name": "White-eared Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551739521/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-22.7922121846",
+    "longitude": "-44.1545928642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551690376/square.jpg",
+    "date": "2024-06-25",
+    "latitude": "-11.8878978706",
+    "longitude": "-71.4076400887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551666841/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bucco macrodactylus",
+    "common name": "Chestnut-capped Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551645497/square.jpg",
+    "date": "2022-05-21",
+    "latitude": "0.7955930023",
+    "longitude": "-76.584502832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551645467/square.jpg",
+    "date": "2022-05-19",
+    "latitude": "0.7940267428",
+    "longitude": "-76.5844384591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551537034/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-10.9686567782",
+    "longitude": "-66.7946705595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551536726/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-10.9686567782",
+    "longitude": "-66.7946705595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551536361/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-10.9686567782",
+    "longitude": "-66.7946705595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nonnula frontalis",
+    "common name": "Gray-cheeked Nunlet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551231830/square.jpg",
+    "date": "2022-01-06",
+    "latitude": "8.55525",
+    "longitude": "-77.8527666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551194467/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-10.9686567782",
+    "longitude": "-66.7946705595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nonnula rubecula",
+    "common name": "Rusty-breasted Nunlet",
+    "observation photo url": "https://static.inaturalist.org/photos/551154894/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-15.5650509046",
+    "longitude": "-47.7703834138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551152100/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-15.7433396097",
+    "longitude": "-47.8850718588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/551088597/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "8.9012159096",
+    "longitude": "-79.5910250768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551000081/square.jpg",
+    "date": "2019-01-12",
+    "latitude": "9.7980416667",
+    "longitude": "-84.5996783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus tectus",
+    "common name": "Pied Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/550919799/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-13.5402508",
+    "longitude": "-56.630017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus striolatus",
+    "common name": "Eastern Striolated-Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/550918054/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-13.5402508",
+    "longitude": "-56.630017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550707563/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-13.1729517568",
+    "longitude": "-69.5310435248",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550691878/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.3641091599",
+    "longitude": "-56.7729846155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550691865/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.3648464309",
+    "longitude": "-56.7724052584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550657703/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-23.4437665235",
+    "longitude": "-46.6240523209",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550623554/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-23.4430976238",
+    "longitude": "-46.6231239441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550623482/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-23.4430976238",
+    "longitude": "-46.6231239441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata striata",
+    "common name": "Crescent-chested Puffbird (Greater)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550564072/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-24.0033176362",
+    "longitude": "-47.5609313221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata striata",
+    "common name": "Crescent-chested Puffbird (Greater)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550544756/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-24.0043110671",
+    "longitude": "-47.5628893758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/550447441/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-13.7481285",
+    "longitude": "-56.6819067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://static.inaturalist.org/photos/550446643/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-13.7481285",
+    "longitude": "-56.6819067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/550438810/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-13.7481285",
+    "longitude": "-56.6819067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550392842/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "9.7812298352",
+    "longitude": "-84.6063693597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550371040/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "10.4313192823",
+    "longitude": "-84.0050142899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550370438/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "10.4313192823",
+    "longitude": "-84.0050142899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypnelus ruficollis",
+    "common name": "Russet-throated Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/550305429/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "11.0107323063",
+    "longitude": "-74.9419999989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus ordii",
+    "common name": "Brown-banded Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550053820/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-8.612825",
+    "longitude": "-63.8637083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus chacuru",
+    "common name": "White-eared Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550053449/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-8.5952944444",
+    "longitude": "-63.893175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus chacuru",
+    "common name": "White-eared Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550053434/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-8.5952194444",
+    "longitude": "-63.8930361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus hyperrhynchus",
+    "common name": "White-necked Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550050194/square.jpg",
+    "date": "2025-03-26",
+    "latitude": "9.3056729173",
+    "longitude": "-84.0665576322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus",
+    "common name": "Spot-backed Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/549990914/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-3.225160969",
+    "longitude": "-40.1886584173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus chacuru",
+    "common name": "White-eared Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549947235/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-24.08385",
+    "longitude": "-55.564267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus chacuru",
+    "common name": "White-eared Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549944731/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-24.0872",
+    "longitude": "-55.556033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549820864/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-12.5369688",
+    "longitude": "-68.9542415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549795411/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-20.4899866667",
+    "longitude": "-48.9303666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/549609212/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "9.2074809044",
+    "longitude": "-79.5986847952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Notharchus swainsoni",
+    "common name": "Buff-bellied Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/549607101/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-24.1729388889",
+    "longitude": "-46.9296555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus",
+    "common name": "Spot-backed Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549555213/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-9.6675459643",
+    "longitude": "-35.8054845105",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nystalus maculatus maculatus",
+    "common name": "Spot-backed Puffbird (Spot-backed)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549492668/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-9.6684165124",
+    "longitude": "-35.8066367746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549353204/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-27.0397991955",
+    "longitude": "-49.4718660225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa nigrifrons",
+    "common name": "Black-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549344902/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-3.7768610722",
+    "longitude": "-70.3514788672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila fusca",
+    "common name": "White-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549321031/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "4.3190064867",
+    "longitude": "-52.3356352135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549310045/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-0.2160282997",
+    "longitude": "-66.8455615997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/549146802/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-1.6557982",
+    "longitude": "-77.9175669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/549146800/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-1.6557982",
+    "longitude": "-77.9175669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://static.inaturalist.org/photos/549146783/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-1.6557982",
+    "longitude": "-77.9175669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila panamensis",
+    "common name": "White-whiskered Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549054480/square.jpg",
+    "date": "2022-04-15",
+    "latitude": "9.7808812",
+    "longitude": "-84.6061045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Monasa morphoeus",
+    "common name": "White-fronted Nunbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549040877/square.jpg",
+    "date": "2022-04-13",
+    "latitude": "10.4656949",
+    "longitude": "-84.7550561",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chelidoptera tenebrosa",
+    "common name": "Swallow-winged Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548926932/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-10.9686567782",
+    "longitude": "-66.7946705595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Malacoptila striata",
+    "common name": "Crescent-chested Puffbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548842895/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-18.9882166667",
+    "longitude": "-40.037155",
+    "quality_grade": "research"
+  }
+]

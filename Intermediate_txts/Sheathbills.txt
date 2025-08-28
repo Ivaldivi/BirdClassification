@@ -1,0 +1,1739 @@
+[
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557173951/square.jpg",
+    "date": "2021-07-04",
+    "latitude": "-38.5791668884",
+    "longitude": "-58.7035142637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556762090/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-44.80318428",
+    "longitude": "-65.7089710489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556715661/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-42.5742056867",
+    "longitude": "-64.2854686647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556159750/square.jpg",
+    "date": "2021-06-25",
+    "latitude": "-32.1650037197",
+    "longitude": "-52.1168134862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555555956/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-38.0449124",
+    "longitude": "-57.5284481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/553936565/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-42.8138612",
+    "longitude": "-64.8899547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/553288650/square.jpg",
+    "date": "2024-07-27",
+    "latitude": "-54.8548616667",
+    "longitude": "-68.2188033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547466842/square.jpg",
+    "date": "2024-04-01",
+    "latitude": "-42.9148012521",
+    "longitude": "-64.054589462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546285362/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-54.8595749775",
+    "longitude": "-68.1739914387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544496773/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-54.8612513278",
+    "longitude": "-68.0421270091",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544496575/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-54.8611889675",
+    "longitude": "-68.0431167011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544496516/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-54.857515525",
+    "longitude": "-68.1691388129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544488919/square.jpg",
+    "date": "1990-02-23",
+    "latitude": "-62.5876109488",
+    "longitude": "-59.9124524528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543612306/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-38.0510241226",
+    "longitude": "-57.5334755269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543530375/square.jpg",
+    "date": "2015-07-27",
+    "latitude": "-45.8824949722",
+    "longitude": "-67.5050499444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541952275/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-38.5797042",
+    "longitude": "-58.7031871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/540560120/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-38.0391637418",
+    "longitude": "-57.5188672543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/540467118/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-38.0439763419",
+    "longitude": "-57.5272444636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/540466394/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-38.0431377375",
+    "longitude": "-57.5267207623",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/540466009/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-38.0431197824",
+    "longitude": "-57.5267210975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539355935/square.jpg",
+    "date": "2024-12-11",
+    "latitude": "-64.7321559086",
+    "longitude": "-62.5967143854",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539353331/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-64.8518748905",
+    "longitude": "-62.6017775799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539232330/square.jpg",
+    "date": "2018-09-03",
+    "latitude": "-52.2259959",
+    "longitude": "-58.9009831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536978581/square.jpg",
+    "date": "2024-11-14",
+    "latitude": "-64.817655",
+    "longitude": "-63.5039033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535746411/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "-64.8250810983",
+    "longitude": "-63.4942150488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535047165/square.jpg",
+    "date": "2018-05-16",
+    "latitude": "-42.585577104",
+    "longitude": "-64.3093456088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/533998564/square.jpg",
+    "date": "2023-02-24",
+    "latitude": "-54.8593013834",
+    "longitude": "-68.1698703021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531769917/square.jpg",
+    "date": "2024-12-04",
+    "latitude": "-63.865033",
+    "longitude": "-60.997169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531752887/square.jpg",
+    "date": "2024-12-04",
+    "latitude": "-63.9026232804",
+    "longitude": "-60.7914108307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529662537/square.jpg",
+    "date": "2024-12-03",
+    "latitude": "-64.6257611015",
+    "longitude": "-62.5592369511",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527520351/square.jpg",
+    "date": "2024-12-28",
+    "latitude": "-54.8732378075",
+    "longitude": "-68.0851892077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526796385/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-36.313921461",
+    "longitude": "-56.7476081904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526067683/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-34.9037581781",
+    "longitude": "-55.238517699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis minor marionensis",
+    "common name": "Prince Edward Islands Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526016333/square.jpg",
+    "date": "2012-04-18",
+    "latitude": "-46.8848655556",
+    "longitude": "37.8683633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522896180/square.jpg",
+    "date": "2024-12-01",
+    "latitude": "-65.17473",
+    "longitude": "-64.133553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522893309/square.jpg",
+    "date": "2024-12-01",
+    "latitude": "-65.174705",
+    "longitude": "-64.133569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/522108691/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-38.0422280944",
+    "longitude": "-57.5251687691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520662617/square.jpg",
+    "date": "2025-01-10",
+    "latitude": "-62.5901893179",
+    "longitude": "-59.9110800134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519528324/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "-50.3328267152",
+    "longitude": "-68.8768149514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis minor marionensis",
+    "common name": "Prince Edward Islands Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519197629/square.jpg",
+    "date": "2024-12-21",
+    "latitude": "-46.8410995963",
+    "longitude": "37.791743342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/518714722/square.jpg",
+    "date": "2024-11-25",
+    "latitude": "-42.4864289235",
+    "longitude": "-63.6066451892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis minor marionensis",
+    "common name": "Prince Edward Islands Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/516063808/square.jpg",
+    "date": "2023-04-30",
+    "latitude": "-46.8711166667",
+    "longitude": "37.6399533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/516050082/square.jpg",
+    "date": "2024-11-27",
+    "latitude": "-42.5863261167",
+    "longitude": "-64.3091595895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512331695/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-34.891622433",
+    "longitude": "-55.2851095285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512271382/square.jpg",
+    "date": "2022-11-04",
+    "latitude": "-42.5865007108",
+    "longitude": "-64.3016128792",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508544372/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "-34.6671447187",
+    "longitude": "-58.3008072809",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis minor",
+    "common name": "Black-faced Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504948207/square.jpg",
+    "date": "2024-03-09",
+    "latitude": "-49.4750716667",
+    "longitude": "69.92228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/503006236/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-42.5865965276",
+    "longitude": "-64.3089425884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502564720/square.jpeg",
+    "date": "2024-11-09",
+    "latitude": "-54.8718496997",
+    "longitude": "-68.0831833997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis minor",
+    "common name": "Black-faced Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/500467507/square.jpg",
+    "date": "2023-08-13",
+    "latitude": "-46.4257348417",
+    "longitude": "51.8597191673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis minor",
+    "common name": "Black-faced Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/500409060/square.jpg",
+    "date": "2024-01-17",
+    "latitude": "-49.0354055",
+    "longitude": "69.600975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis minor",
+    "common name": "Black-faced Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/500395303/square.jpg",
+    "date": "2024-03-03",
+    "latitude": "-49.3858333333",
+    "longitude": "69.9380033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499908125/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "-64.8954932",
+    "longitude": "-62.8707184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497576519/square.jpeg",
+    "date": "2022-10-17",
+    "latitude": "-54.8463459136",
+    "longitude": "-68.2316992275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490632562/square.jpg",
+    "date": "2025-03-21",
+    "latitude": "-42.0830583",
+    "longitude": "-63.7524317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490587573/square.jpeg",
+    "date": "2025-03-22",
+    "latitude": "-64.8953868",
+    "longitude": "-62.8705931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489962262/square.jpg",
+    "date": "2025-01-12",
+    "latitude": "-62.653867",
+    "longitude": "-60.612503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487684510/square.jpg",
+    "date": "2024-11-29",
+    "latitude": "-64.668075",
+    "longitude": "-62.5935783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486960505/square.jpg",
+    "date": "2025-01-08",
+    "latitude": "-54.622976",
+    "longitude": "-35.938503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486695629/square.jpg",
+    "date": "2025-01-08",
+    "latitude": "-54.623706",
+    "longitude": "-35.937231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/486565265/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "-42.0804505882",
+    "longitude": "-63.7534713052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485774378/square.jpg",
+    "date": "2024-12-29",
+    "latitude": "-51.159062956",
+    "longitude": "-59.7730925724",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/485522220/square.jpg",
+    "date": "2024-12-02",
+    "latitude": "-62.954915",
+    "longitude": "-60.5025566667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482180491/square.jpeg",
+    "date": "2025-03-30",
+    "latitude": "-51.28",
+    "longitude": "-60.827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481815689/square.jpg",
+    "date": "2018-01-17",
+    "latitude": "-47.9144144865",
+    "longitude": "-65.7170831938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/481815413/square.jpg",
+    "date": "2024-11-22",
+    "latitude": "-42.4850808483",
+    "longitude": "-63.6071707411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481607691/square.jpeg",
+    "date": "2025-01-21",
+    "latitude": "-54.1109590594",
+    "longitude": "-36.7857560143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481406068/square.jpeg",
+    "date": "2025-03-12",
+    "latitude": "-54.8713783333",
+    "longitude": "-68.084615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481315435/square.jpeg",
+    "date": "2024-10-17",
+    "latitude": "-42.4639969686",
+    "longitude": "-64.4834213271",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480620831/square.jpg",
+    "date": "2023-12-14",
+    "latitude": "-54.064934",
+    "longitude": "-64.154376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479703042/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "-50.358805",
+    "longitude": "-68.8816016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479314068/square.jpeg",
+    "date": "2025-02-21",
+    "latitude": "-54.8600305052",
+    "longitude": "-68.1006684448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479094409/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-54.871592695",
+    "longitude": "-68.0827971076",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478799473/square.jpeg",
+    "date": "2025-03-22",
+    "latitude": "-64.8952931872",
+    "longitude": "-62.87033692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/479731140/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "-64.8952783333",
+    "longitude": "-62.8707866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478484423/square.jpg",
+    "date": "2022-09-24",
+    "latitude": "-42.7636217",
+    "longitude": "-65.0348311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477422060/square.jpeg",
+    "date": "2025-01-13",
+    "latitude": "-64.7338534486",
+    "longitude": "-62.5916057825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477322493/square.jpeg",
+    "date": "2025-03-17",
+    "latitude": "-64.6056859948",
+    "longitude": "-62.5321532786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/477063670/square.jpg",
+    "date": "2025-03-16",
+    "latitude": "-54.1263739371",
+    "longitude": "-36.6698560439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477051812/square.jpeg",
+    "date": "2025-03-14",
+    "latitude": "-64.6257711312",
+    "longitude": "-62.5536980883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/476955158/square.jpg",
+    "date": "2024-11-21",
+    "latitude": "-42.5858435397",
+    "longitude": "-64.3091581013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476787221/square.jpg",
+    "date": "2025-03-01",
+    "latitude": "-45.8656149",
+    "longitude": "-67.4822429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/475660263/square.jpg",
+    "date": "2025-03-10",
+    "latitude": "-63.5217741606",
+    "longitude": "-56.8804380773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/475420504/square.jpg",
+    "date": "2025-03-09",
+    "latitude": "-62.5437316667",
+    "longitude": "-59.580695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474724406/square.jpg",
+    "date": "2025-03-06",
+    "latitude": "-64.62493",
+    "longitude": "-62.5536166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/474601466/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-63.5754960727",
+    "longitude": "-55.7983036417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/474601464/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-63.5761072057",
+    "longitude": "-55.7962437051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/474601472/square.jpg",
+    "date": "2025-01-30",
+    "latitude": "-63.5775066399",
+    "longitude": "-55.7924698371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474341797/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "-54.8461353959",
+    "longitude": "-68.2144550078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/474228412/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "-62.5945283333",
+    "longitude": "-59.8983316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/473152327/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "-62.1603677683",
+    "longitude": "-59.8390543442",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473073958/square.jpeg",
+    "date": "2025-02-22",
+    "latitude": "-61.1125817",
+    "longitude": "-55.1402232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/473027722/square.jpeg",
+    "date": "2025-02-24",
+    "latitude": "-54.8716178228",
+    "longitude": "-68.0840372667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472718617/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "-63.865555",
+    "longitude": "-60.998525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472617679/square.jpg",
+    "date": "2025-02-25",
+    "latitude": "-64.6249616667",
+    "longitude": "-62.5533833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/472591608/square.jpg",
+    "date": "2025-02-25",
+    "latitude": "-64.631024987",
+    "longitude": "-62.5603812046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472583392/square.jpg",
+    "date": "2016-02-18",
+    "latitude": "-42.5843263442",
+    "longitude": "-64.3075198858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472456355/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-64.8249849367",
+    "longitude": "-63.494150527",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472456388/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-64.8249849367",
+    "longitude": "-63.494150527",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472139747/square.jpg",
+    "date": "2025-02-10",
+    "latitude": "-63.8627351405",
+    "longitude": "-60.9813401682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472125258/square.jpg",
+    "date": "2025-02-05",
+    "latitude": "-62.5874015528",
+    "longitude": "-59.9192374141",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471945674/square.jpg",
+    "date": "2024-12-22",
+    "latitude": "-64.8222082954",
+    "longitude": "-62.8561339508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/471796397/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "-63.3992916667",
+    "longitude": "-57.01224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471604605/square.jpg",
+    "date": "2024-12-14",
+    "latitude": "-38.1768802646",
+    "longitude": "-56.9650713662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471578099/square.jpeg",
+    "date": "2025-02-20",
+    "latitude": "-54.9196009235",
+    "longitude": "-67.3682333378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471463540/square.jpg",
+    "date": "2013-10-15",
+    "latitude": "-42.5649772382",
+    "longitude": "-63.5973019026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471412042/square.jpeg",
+    "date": "2025-02-06",
+    "latitude": "-42.5856928334",
+    "longitude": "-64.3089623474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/471207453/square.jpg",
+    "date": "2025-02-19",
+    "latitude": "-65.1748883333",
+    "longitude": "-64.1359471667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471181318/square.jpg",
+    "date": "2025-02-18",
+    "latitude": "-64.9212412546",
+    "longitude": "-62.9024075354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/471094702/square.jpeg",
+    "date": "2023-05-27",
+    "latitude": "-38.5807947222",
+    "longitude": "-58.7019480556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471060603/square.jpeg",
+    "date": "2025-02-07",
+    "latitude": "-47.0720517535",
+    "longitude": "-66.2928302168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470782803/square.jpeg",
+    "date": "2025-02-13",
+    "latitude": "-62.9934960834",
+    "longitude": "-60.5545101746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470392966/square.jpeg",
+    "date": "2025-02-15",
+    "latitude": "-63.3091340023",
+    "longitude": "-58.6915736273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/470354593/square.jpeg",
+    "date": "2024-12-30",
+    "latitude": "-54.1176060614",
+    "longitude": "-36.6676228121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469948099/square.jpeg",
+    "date": "2025-02-12",
+    "latitude": "-64.6237556927",
+    "longitude": "-62.5577519951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469894120/square.jpeg",
+    "date": "2025-01-28",
+    "latitude": "-45.1754522229",
+    "longitude": "-66.5233932215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/469802967/square.jpeg",
+    "date": "2025-02-12",
+    "latitude": "-45.8640111111",
+    "longitude": "-67.4762305556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/469736992/square.jpeg",
+    "date": "2025-02-11",
+    "latitude": "-64.8328917356",
+    "longitude": "-62.6664300263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469313402/square.jpg",
+    "date": "2025-02-10",
+    "latitude": "-64.8251883333",
+    "longitude": "-63.4944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469297018/square.jpeg",
+    "date": "2025-02-10",
+    "latitude": "-54.1238814315",
+    "longitude": "-36.6670273617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/469145335/square.jpeg",
+    "date": "2025-02-09",
+    "latitude": "-54.6302773549",
+    "longitude": "-35.9556854144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469060673/square.jpeg",
+    "date": "2025-02-09",
+    "latitude": "-54.6255911513",
+    "longitude": "-35.9558724985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468628979/square.jpg",
+    "date": "2025-02-07",
+    "latitude": "-65.0065765039",
+    "longitude": "-64.367331968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/468570406/square.jpg",
+    "date": "2024-10-28",
+    "latitude": "-42.6339431591",
+    "longitude": "-64.9518082482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468505474/square.jpeg",
+    "date": "2025-02-06",
+    "latitude": "-65.1742064348",
+    "longitude": "-64.1337317973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468121287/square.jpg",
+    "date": "2014-05-04",
+    "latitude": "-38.0345502415",
+    "longitude": "-57.5373627261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467925503/square.jpeg",
+    "date": "2025-01-31",
+    "latitude": "-64.6620974613",
+    "longitude": "-62.6694581993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467829439/square.jpeg",
+    "date": "2025-02-02",
+    "latitude": "-64.6252717197",
+    "longitude": "-62.5536875644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467408316/square.jpg",
+    "date": "2024-03-21",
+    "latitude": "-64.1452197922",
+    "longitude": "-61.6277052803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467408115/square.jpg",
+    "date": "2024-03-21",
+    "latitude": "-64.1448755456",
+    "longitude": "-61.6284514616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467408095/square.jpg",
+    "date": "2024-03-21",
+    "latitude": "-64.1449402907",
+    "longitude": "-61.6283919813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467408077/square.jpg",
+    "date": "2024-03-21",
+    "latitude": "-64.1449518132",
+    "longitude": "-61.6283869744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466891577/square.jpg",
+    "date": "2024-12-13",
+    "latitude": "-54.173720554",
+    "longitude": "-36.4822644551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466891393/square.jpg",
+    "date": "2024-12-13",
+    "latitude": "-54.180278",
+    "longitude": "-36.691667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466890775/square.jpg",
+    "date": "2024-12-12",
+    "latitude": "-54.057574",
+    "longitude": "-37.331951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466420026/square.jpeg",
+    "date": "2025-01-26",
+    "latitude": "-64.735933525",
+    "longitude": "-62.5954852626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465947164/square.jpeg",
+    "date": "2025-01-24",
+    "latitude": "-62.5956916667",
+    "longitude": "-59.9003183333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465801037/square.jpeg",
+    "date": "2025-01-24",
+    "latitude": "-62.5964288",
+    "longitude": "-59.9013504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465731181/square.jpeg",
+    "date": "2025-01-20",
+    "latitude": "-65.2460566667",
+    "longitude": "-64.2568683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465710219/square.jpg",
+    "date": "2024-10-03",
+    "latitude": "-42.5119719247",
+    "longitude": "-63.5986905935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465600113/square.jpg",
+    "date": "2025-01-23",
+    "latitude": "-63.9036833333",
+    "longitude": "-60.7881366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/465400487/square.jpg",
+    "date": "2024-11-07",
+    "latitude": "-38.5803996177",
+    "longitude": "-58.7023115184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/465386012/square.jpg",
+    "date": "2024-10-17",
+    "latitude": "-54.8520252916",
+    "longitude": "-68.2167289345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465316023/square.jpeg",
+    "date": "2025-01-21",
+    "latitude": "-54.1238814315",
+    "longitude": "-36.6670273617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465081284/square.jpg",
+    "date": "2025-01-11",
+    "latitude": "-54.2823793404",
+    "longitude": "-36.5022185108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465073294/square.jpg",
+    "date": "2025-01-20",
+    "latitude": "-65.177605",
+    "longitude": "-64.1373138333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464991085/square.jpg",
+    "date": "2025-01-20",
+    "latitude": "-54.1239055",
+    "longitude": "-36.6602283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464913126/square.jpeg",
+    "date": "2024-12-29",
+    "latitude": "-54.8695843645",
+    "longitude": "-68.0706177535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464912992/square.jpeg",
+    "date": "2024-12-29",
+    "latitude": "-54.8711163361",
+    "longitude": "-68.0836928335",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464143457/square.jpg",
+    "date": "2024-12-12",
+    "latitude": "-64.888250565",
+    "longitude": "-62.8859001317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/463918978/square.jpg",
+    "date": "1997-07-24",
+    "latitude": "-42.560964",
+    "longitude": "-63.598863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463764679/square.jpg",
+    "date": "2025-01-13",
+    "latitude": "-65.069175",
+    "longitude": "-63.9500083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463644171/square.jpg",
+    "date": "2024-12-29",
+    "latitude": "-42.585655",
+    "longitude": "-64.308311",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463645380/square.jpeg",
+    "date": "2025-01-13",
+    "latitude": "-65.0692159997",
+    "longitude": "-63.9501696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463560317/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-49.676765",
+    "longitude": "-59.11298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463560192/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-50.133797",
+    "longitude": "-58.745213",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463342275/square.jpeg",
+    "date": "2024-11-23",
+    "latitude": "-42.8138612",
+    "longitude": "-64.8899547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463306146/square.jpg",
+    "date": "2025-01-12",
+    "latitude": "-64.817505",
+    "longitude": "-63.50362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462913020/square.jpg",
+    "date": "2025-01-10",
+    "latitude": "-63.8647533333",
+    "longitude": "-60.99152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462560889/square.jpg",
+    "date": "2024-03-20",
+    "latitude": "-62.6545065245",
+    "longitude": "-60.6100534806",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462560856/square.jpg",
+    "date": "2024-03-20",
+    "latitude": "-62.6541122543",
+    "longitude": "-60.610225142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462560774/square.jpg",
+    "date": "2024-03-20",
+    "latitude": "-62.6539545389",
+    "longitude": "-60.6100535122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462383139/square.jpg",
+    "date": "2025-01-07",
+    "latitude": "-55.2949333333",
+    "longitude": "-57.96495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462366438/square.jpg",
+    "date": "2023-01-07",
+    "latitude": "-64.9383438598",
+    "longitude": "-62.8702200323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462362917/square.jpg",
+    "date": "2023-01-07",
+    "latitude": "-64.963355233",
+    "longitude": "-62.9918477354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/462330922/square.jpg",
+    "date": "2025-01-07",
+    "latitude": "-55.2956166613",
+    "longitude": "-57.9652283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462330569/square.jpeg",
+    "date": "2025-01-07",
+    "latitude": "-55.2952629997",
+    "longitude": "-57.9650029",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462161801/square.jpg",
+    "date": "2024-12-29",
+    "latitude": "-41.8755230873",
+    "longitude": "-74.0246148988",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461552097/square.jpg",
+    "date": "2025-01-03",
+    "latitude": "-64.3269788224",
+    "longitude": "-62.976639464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/461544923/square.jpg",
+    "date": "2025-01-02",
+    "latitude": "-64.7866366379",
+    "longitude": "-63.3453497039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461343221/square.jpg",
+    "date": "2012-02-08",
+    "latitude": "-64.8250816",
+    "longitude": "-63.4942149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/461008767/square.jpg",
+    "date": "2024-10-08",
+    "latitude": "-50.3465455881",
+    "longitude": "-68.8824186538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/461010430/square.jpeg",
+    "date": "2025-01-01",
+    "latitude": "-54.8086527997",
+    "longitude": "-35.837536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460985028/square.jpeg",
+    "date": "2024-02-02",
+    "latitude": "-63.3221186079",
+    "longitude": "-56.4620399189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460952396/square.jpg",
+    "date": "2024-02-12",
+    "latitude": "-62.5883795",
+    "longitude": "-59.9214519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/460919756/square.jpg",
+    "date": "2025-01-01",
+    "latitude": "-64.865563532",
+    "longitude": "-62.9181858732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465436137/square.jpeg",
+    "date": "2024-12-31",
+    "latitude": "-62.260945",
+    "longitude": "-58.6201366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460836477/square.jpeg",
+    "date": "2024-12-23",
+    "latitude": "-64.8574247474",
+    "longitude": "-62.9201435298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460801348/square.jpg",
+    "date": "2024-12-31",
+    "latitude": "-64.824945",
+    "longitude": "-63.4960833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460700592/square.jpg",
+    "date": "2024-12-28",
+    "latitude": "-64.7311383333",
+    "longitude": "-62.60187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460110009/square.jpg",
+    "date": "2024-12-27",
+    "latitude": "-64.7803999959",
+    "longitude": "-64.7804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459950457/square.jpg",
+    "date": "2024-12-25",
+    "latitude": "-54.8711916667",
+    "longitude": "-68.0823888333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459537323/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-64.895255",
+    "longitude": "-62.8709033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459337878/square.jpg",
+    "date": "2024-12-24",
+    "latitude": "-61.9086433306",
+    "longitude": "-54.9325466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459215733/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-64.8950583333",
+    "longitude": "-62.870895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459034296/square.jpeg",
+    "date": "2024-12-23",
+    "latitude": "-64.8928875086",
+    "longitude": "-62.8810392693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458917748/square.jpeg",
+    "date": "2024-12-21",
+    "latitude": "-64.8283999655",
+    "longitude": "-62.8639998659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459423540/square.jpeg",
+    "date": "2024-12-23",
+    "latitude": "-64.8638058989",
+    "longitude": "-62.8260669389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/458945132/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "-64.8952466667",
+    "longitude": "-62.8709533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458857798/square.jpg",
+    "date": "2024-12-21",
+    "latitude": "-54.87098",
+    "longitude": "-68.0831083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458837138/square.jpeg",
+    "date": "2024-12-21",
+    "latitude": "-65.15696",
+    "longitude": "-64.0882866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458665225/square.jpg",
+    "date": "2024-12-21",
+    "latitude": "-65.1091528333",
+    "longitude": "-64.0720528333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chionis albus",
+    "common name": "Snowy Sheathbill",
+    "observation photo url": "https://static.inaturalist.org/photos/458504681/square.jpg",
+    "date": "2024-12-20",
+    "latitude": "-64.7759419271",
+    "longitude": "-62.8845693522",
+    "quality_grade": "research"
+  }
+]

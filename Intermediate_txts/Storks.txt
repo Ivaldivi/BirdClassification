@@ -1,0 +1,1649 @@
+[
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193194/square.jpg",
+    "date": "2023-05-20",
+    "latitude": "56.1588597221",
+    "longitude": "36.102123486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558189195/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "42.6381831462",
+    "longitude": "-7.7676323801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558188469/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "42.8733869027",
+    "longitude": "-7.8693813086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558163483/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "48.6561084062",
+    "longitude": "6.2334827635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558163405/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "48.7862141499",
+    "longitude": "6.7566435569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558163407/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "48.6976131969",
+    "longitude": "6.1848225178",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://static.inaturalist.org/photos/558177522/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "8.0564287423",
+    "longitude": "80.8490465125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://static.inaturalist.org/photos/558177484/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "8.0182590905",
+    "longitude": "80.9977224888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://static.inaturalist.org/photos/558177470/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "8.1330448618",
+    "longitude": "80.8785560198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558174467/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.575209083",
+    "longitude": "8.8787666415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169817/square.jpg",
+    "date": "2024-04-12",
+    "latitude": "36.203945",
+    "longitude": "-5.416495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169789/square.jpg",
+    "date": "2024-04-12",
+    "latitude": "36.203945",
+    "longitude": "-5.416495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://static.inaturalist.org/photos/558167739/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "8.1606592767",
+    "longitude": "80.8968499026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://static.inaturalist.org/photos/558167725/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "8.0823825968",
+    "longitude": "80.8774865925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://static.inaturalist.org/photos/558167707/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "8.1001889921",
+    "longitude": "80.8022324445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://static.inaturalist.org/photos/558167677/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "8.1039332433",
+    "longitude": "80.8229376424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157987/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "40.5575612127",
+    "longitude": "-1.622882708",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558162705/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "53.7045434934",
+    "longitude": "27.2982190461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159639/square.gif",
+    "date": "2025-08-02",
+    "latitude": "40.0837646451",
+    "longitude": "31.6697734411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus senegalensis",
+    "common name": "Saddle-billed Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558148662/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-1.905983257",
+    "longitude": "30.7446022502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151604/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "39.933555",
+    "longitude": "-105.0171805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558150874/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "50.3710207657",
+    "longitude": "8.8661558532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia maguari",
+    "common name": "Maguari Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140490/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.538547",
+    "longitude": "-58.443664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558134869/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.8431561487",
+    "longitude": "-77.463912194",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos crumenifer",
+    "common name": "Marabou Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558108290/square.jpg",
+    "date": "2008-04-05",
+    "latitude": "7.8750573218",
+    "longitude": "34.5073633022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia abdimii",
+    "common name": "Abdim's Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558101517/square.jpg",
+    "date": "2008-03-21",
+    "latitude": "8.0452814205",
+    "longitude": "34.58238189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia microscelis",
+    "common name": "African Woolly-necked Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558100009/square.jpg",
+    "date": "2008-03-21",
+    "latitude": "8.2293576844",
+    "longitude": "34.6122044757",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558106490/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "55.2100622633",
+    "longitude": "36.0005644709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558101428/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "56.0977617651",
+    "longitude": "21.7035388913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558097159/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.4230067",
+    "longitude": "25.3455958997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558085017/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.2067446763",
+    "longitude": "8.8238405223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558081068/square.jpg",
+    "date": "2025-05-01",
+    "latitude": "46.2560132672",
+    "longitude": "14.3628299609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558080653/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.6864196886",
+    "longitude": "2.8407084569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558064136/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "7.9555768687",
+    "longitude": "80.7592867957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia episcopus",
+    "common name": "Asian Woolly-necked Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063875/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "7.3698446835",
+    "longitude": "80.9907879348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063579/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.3743635893",
+    "longitude": "81.0254490761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia episcopus episcopus",
+    "common name": "Asian Woolly-necked Stork (Northern)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063058/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.2667437517",
+    "longitude": "80.8885566518",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558060881/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "12.9440324498",
+    "longitude": "77.5827149609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558060661/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "40.69347",
+    "longitude": "23.3323533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558053694/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "30.0225786092",
+    "longitude": "-81.3277898636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/558050920/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "36.0332070787",
+    "longitude": "-5.5768660989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558048130/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "7.1691623907",
+    "longitude": "-73.8728978281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558044495/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-16.5134393855",
+    "longitude": "-56.749232679",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558045735/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "40.7033388358",
+    "longitude": "-3.9261451236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558042153/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "40.7904646223",
+    "longitude": "-3.894605043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558041592/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "40.6879169614",
+    "longitude": "-3.8542455516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558039727/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "40.6497932333",
+    "longitude": "-3.8113011078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia maguari",
+    "common name": "Maguari Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032425/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.2950667086",
+    "longitude": "-56.8417154967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032433/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.2955329532",
+    "longitude": "-56.8437817731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia maguari",
+    "common name": "Maguari Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032403/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.2850915962",
+    "longitude": "-56.8575024463",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jabiru mycteria",
+    "common name": "Jabiru",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032188/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.2627969147",
+    "longitude": "-56.9028210499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558023103/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-17.2797434459",
+    "longitude": "-56.7109196732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558015939/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "48.0763966667",
+    "longitude": "16.95063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558003810/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "58.94219932",
+    "longitude": "30.70147516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558003642/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "58.93813284",
+    "longitude": "30.70753637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558003223/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.0515144204",
+    "longitude": "22.3795427943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557999951/square.jpg",
+    "date": "2022-11-26",
+    "latitude": "12.4245305531",
+    "longitude": "76.6560821858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557993915/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "48.076265",
+    "longitude": "16.9503066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557990827/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "43.5544784109",
+    "longitude": "3.9064760832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557994023/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "39.3439612599",
+    "longitude": "-4.6308219931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557989689/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.1541416174",
+    "longitude": "35.3771525208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus asiaticus",
+    "common name": "Black-necked Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557991235/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-12.5634981997",
+    "longitude": "131.3035859997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557991271/square.jpg",
+    "date": "2023-10-07",
+    "latitude": "35.1952318574",
+    "longitude": "-5.3079166263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987525/square.jpg",
+    "date": "2024-11-10",
+    "latitude": "17.6697352471",
+    "longitude": "75.3432620131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987522/square.jpg",
+    "date": "2024-11-10",
+    "latitude": "17.6716005782",
+    "longitude": "75.3416566012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987519/square.jpg",
+    "date": "2024-11-10",
+    "latitude": "17.6715244893",
+    "longitude": "75.3414809164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557983093/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "54.6602584084",
+    "longitude": "32.2113655508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557979916/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "35.3058124608",
+    "longitude": "-0.093991825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557979617/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "35.3058124608",
+    "longitude": "-0.093991825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557979438/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "35.3058124608",
+    "longitude": "-0.093991825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557973147/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "38.844098952",
+    "longitude": "-77.4646912516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557960685/square.jpg",
+    "date": "2022-09-27",
+    "latitude": "20.9458907",
+    "longitude": "72.9128139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus asiaticus australis",
+    "common name": "Torresian Black-necked Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557953107/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.2975886688",
+    "longitude": "151.4267287824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus lamelligerus lamelligerus",
+    "common name": "Mainland African Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557950934/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.7826361111",
+    "longitude": "32.7333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria ibis",
+    "common name": "Yellow-billed Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557944088/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.4735944444",
+    "longitude": "31.9730277778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus asiaticus asiaticus",
+    "common name": "Asian Black-necked Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557943678/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "6.2966660322",
+    "longitude": "81.5531822155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus senegalensis",
+    "common name": "Saddle-billed Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557939746/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.8124027778",
+    "longitude": "31.5823805556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557934341/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.8393563111",
+    "longitude": "8.4673792485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria cinerea",
+    "common name": "Milky Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557932814/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "4.8316607994",
+    "longitude": "100.6346747943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557932372/square.jpg",
+    "date": "2024-03-31",
+    "latitude": "53.0526916667",
+    "longitude": "20.7705883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557931978/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "47.9794865851",
+    "longitude": "2.2101829044",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus asiaticus australis",
+    "common name": "Torresian Black-necked Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557926495/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-12.8904069467",
+    "longitude": "132.5170838783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos crumenifer",
+    "common name": "Marabou Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557927164/square.jpg",
+    "date": "2015-07-28",
+    "latitude": "-1.6767082",
+    "longitude": "34.9033276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557921137/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.1255771057",
+    "longitude": "37.1562168858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557921541/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "54.7428686404",
+    "longitude": "11.4341771822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557912972/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "12.4253451894",
+    "longitude": "76.6561346188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557912763/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "12.4253451894",
+    "longitude": "76.6561346188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557907454/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "49.9374142015",
+    "longitude": "22.8217919499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557907430/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "49.9744695898",
+    "longitude": "23.114110339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557901237/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "49.8754071456",
+    "longitude": "22.6840120307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557899472/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.3361129722",
+    "longitude": "-3.655937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557899617/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.6702022848",
+    "longitude": "13.2007685414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557893813/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "50.0202409239",
+    "longitude": "88.5352807894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557886882/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "26.7082963869",
+    "longitude": "77.8450198065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557879924/square.jpg",
+    "date": "2023-12-21",
+    "latitude": "26.4791675822",
+    "longitude": "-80.1436019737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557873861/square.jpg",
+    "date": "2025-04-11",
+    "latitude": "30.7194938775",
+    "longitude": "-81.5491539985",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557850113/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "3.1187812007",
+    "longitude": "101.6269276495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus senegalensis",
+    "common name": "Saddle-billed Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557842274/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-24.8028139407",
+    "longitude": "31.3528702483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557839634/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "32.3842786201",
+    "longitude": "-84.9689547107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830286/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.8101999817",
+    "longitude": "-99.7593062997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557829602/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.8101999817",
+    "longitude": "-99.7593062997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557829247/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.8101999817",
+    "longitude": "-99.7593062997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557829129/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "16.8101999817",
+    "longitude": "-99.7593062997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557821366/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "32.610367315",
+    "longitude": "-80.0205214026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557773849/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-12.6848579",
+    "longitude": "-69.80753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557777204/square.jpg",
+    "date": "2018-02-18",
+    "latitude": "24.1268192039",
+    "longitude": "-106.7333168353",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557777860/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "29.1729229197",
+    "longitude": "-82.0961735328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557769387/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "13.7336663619",
+    "longitude": "100.5579703029",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus asiaticus australis",
+    "common name": "Torresian Black-necked Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557761020/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-12.7225304315",
+    "longitude": "131.642834969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557759024/square.jpg",
+    "date": "2014-06-15",
+    "latitude": "48.3021739592",
+    "longitude": "6.1338629946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557750674/square.jpg",
+    "date": "2023-10-21",
+    "latitude": "9.8011465574",
+    "longitude": "-84.6091417584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos crumenifer",
+    "common name": "Marabou Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557738505/square.jpg",
+    "date": "2005-07-17",
+    "latitude": "-23.1068415711",
+    "longitude": "31.4327430368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557733046/square.jpg",
+    "date": "2018-06-24",
+    "latitude": "41.5858950107",
+    "longitude": "-3.1400953212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus senegalensis",
+    "common name": "Saddle-billed Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557732750/square.jpg",
+    "date": "2005-07-15",
+    "latitude": "-22.737292",
+    "longitude": "31.0104534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557726473/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "26.7088823049",
+    "longitude": "77.8471105383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557690976/square.jpg",
+    "date": "2024-06-30",
+    "latitude": "53.49212",
+    "longitude": "22.7325333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557686520/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.0357359819",
+    "longitude": "15.574568673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557685280/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.8931451894",
+    "longitude": "21.5531182519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557681235/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.1407728082",
+    "longitude": "6.8879489754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria americana",
+    "common name": "Wood Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557675841/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "9.8035589741",
+    "longitude": "-84.6043750352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557668840/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "55.8052047834",
+    "longitude": "36.0712179323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557672672/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "48.3360912102",
+    "longitude": "6.3949052979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557665498/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "51.443795",
+    "longitude": "12.61206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia stormi",
+    "common name": "Storm's Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557663010/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "5.5037715802",
+    "longitude": "117.6846406706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557662574/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.7349638867",
+    "longitude": "15.4770851444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557655656/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.7230682493",
+    "longitude": "32.2102519833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557651679/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "49.3288949386",
+    "longitude": "19.7298395978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557648085/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "48.4819612",
+    "longitude": "10.23183895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus senegalensis",
+    "common name": "Saddle-billed Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557648353/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.9684966064",
+    "longitude": "31.5547399968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557647269/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.4269283",
+    "longitude": "25.9708815997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557646474/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "46.8521961585",
+    "longitude": "7.5019201543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557622457/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.4350509",
+    "longitude": "25.9700863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557613505/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "26.827652902",
+    "longitude": "33.9568298046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos crumenifer",
+    "common name": "Marabou Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557611323/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "10.7159",
+    "longitude": "42.5126583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia microscelis",
+    "common name": "African Woolly-necked Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557610629/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-24.0693302155",
+    "longitude": "31.529460907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557606001/square.jpg",
+    "date": "2020-06-10",
+    "latitude": "51.9955516165",
+    "longitude": "10.7525637378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557604218/square.jpg",
+    "date": "2019-02-18",
+    "latitude": "20.6821703",
+    "longitude": "81.1692374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557596655/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.1329590269",
+    "longitude": "82.7632822794",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557602107/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "3.0944963",
+    "longitude": "101.5104943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557597129/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.0612333333",
+    "longitude": "4.42478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia maguari",
+    "common name": "Maguari Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557593550/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-36.8506693793",
+    "longitude": "-57.6934187866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557590727/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.419860809",
+    "longitude": "25.3557449207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557587186/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "49.9288483823",
+    "longitude": "8.8906676041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557585097/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "52.211226132",
+    "longitude": "35.5112460027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557583483/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "48.9081722014",
+    "longitude": "9.2528915751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557583188/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "48.9081722014",
+    "longitude": "9.2528915751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos crumenifer",
+    "common name": "Marabou Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557581610/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-0.7664588097",
+    "longitude": "36.4298404771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia microscelis",
+    "common name": "African Woolly-necked Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557577513/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-23.108904",
+    "longitude": "31.435554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ephippiorhynchus senegalensis",
+    "common name": "Saddle-billed Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557577262/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-23.108904",
+    "longitude": "31.435554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia maguari",
+    "common name": "Maguari Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557575903/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-34.7505976571",
+    "longitude": "-55.7098540664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557575672/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.2531525278",
+    "longitude": "5.254110675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557568356/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "0.2481038044",
+    "longitude": "102.7611987616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557566681/square.jpg",
+    "date": "2013-10-17",
+    "latitude": "51.7718584924",
+    "longitude": "30.0097014019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557563517/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "56.122311152",
+    "longitude": "35.8992990227",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557561129/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "1.5011863235",
+    "longitude": "103.7852288743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557561136/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "1.4464304",
+    "longitude": "103.723404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557557417/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "19.0179307025",
+    "longitude": "73.0071668699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://static.inaturalist.org/photos/557557016/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "42.2245042969",
+    "longitude": "3.0938070578",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557550226/square.jpg",
+    "date": "2014-01-01",
+    "latitude": "12.1223573",
+    "longitude": "79.8792308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557549545/square.jpg",
+    "date": "2023-02-03",
+    "latitude": "12.166667",
+    "longitude": "79.916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557545518/square.jpg",
+    "date": "2023-04-01",
+    "latitude": "27.1596085",
+    "longitude": "77.5218127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557545946/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "52.7526456334",
+    "longitude": "12.2022306931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557541928/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "10.1532261",
+    "longitude": "76.3376786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptoptilos javanicus",
+    "common name": "Lesser Adjutant",
+    "observation photo url": "https://static.inaturalist.org/photos/557540494/square.jpg",
+    "date": "2025-05-04",
+    "latitude": "-3.0921652288",
+    "longitude": "112.3385409914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia microscelis",
+    "common name": "African Woolly-necked Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557539732/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-2.1147437918",
+    "longitude": "14.0698186643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557505130/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "47.53633093",
+    "longitude": "1.7568838488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria ibis",
+    "common name": "Yellow-billed Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557517776/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-0.41038",
+    "longitude": "36.1168945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria leucocephala",
+    "common name": "Painted Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557502313/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "15.4973111945",
+    "longitude": "73.8321640715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mycteria ibis",
+    "common name": "Yellow-billed Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557499419/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-0.3063466667",
+    "longitude": "36.0928611667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557489867/square.jpg",
+    "date": "2024-06-21",
+    "latitude": "45.4750589166",
+    "longitude": "16.7646408688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia nigra",
+    "common name": "Black Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557487153/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "42.9851838073",
+    "longitude": "46.8659470975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557486830/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.2521506",
+    "longitude": "8.0693216997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557484423/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.8380694444",
+    "longitude": "8.4549416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anastomus oscitans",
+    "common name": "Asian Openbill",
+    "observation photo url": "https://static.inaturalist.org/photos/557472933/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "7.1675667771",
+    "longitude": "79.9368970695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557473556/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "45.496051",
+    "longitude": "21.30211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Jabiru mycteria",
+    "common name": "Jabiru",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557471024/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-21.7983686484",
+    "longitude": "-46.6405469924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia boyciana",
+    "common name": "Oriental Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557468768/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.6679171947",
+    "longitude": "117.2524088126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557468070/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.660292273",
+    "longitude": "4.4743091986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia boyciana",
+    "common name": "Oriental Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557461733/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "33.3399565594",
+    "longitude": "120.7005906626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557453362/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.4449286534",
+    "longitude": "5.2527430046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia",
+    "common name": "White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557446975/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "50.8289266661",
+    "longitude": "27.041115649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557443574/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "47.3232201485",
+    "longitude": "8.1994949975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ciconia ciconia ciconia",
+    "common name": "European White Stork",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557435709/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.9889626217",
+    "longitude": "43.5762423392",
+    "quality_grade": "research"
+  }
+]

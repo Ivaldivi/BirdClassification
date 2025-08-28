@@ -1,0 +1,1289 @@
+[
+  {
+    "species": "Merops persicus",
+    "common name": "Blue-cheeked Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173242/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8411873149",
+    "longitude": "55.2556165768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558162528/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "50.0482621261",
+    "longitude": "8.4569123005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155538/square.jpg",
+    "date": "2024-04-15",
+    "latitude": "36.2887233333",
+    "longitude": "-5.3902566667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558142488/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "55.9442833333",
+    "longitude": "44.1780133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130641/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.1428164499",
+    "longitude": "35.5840391647",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558127538/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.9212612762",
+    "longitude": "153.0067282634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558105522/square.jpg",
+    "date": "2024-02-14",
+    "latitude": "16.3529591412",
+    "longitude": "-16.2776269855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558062675/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "47.3542870043",
+    "longitude": "19.2145233685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558062428/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "47.354375342",
+    "longitude": "19.2148348766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558062344/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "47.3543985529",
+    "longitude": "19.2147710574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558101680/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.4504666667",
+    "longitude": "11.7056583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558084939/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "51.6848209997",
+    "longitude": "82.8931871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558081550/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "47.3696009885",
+    "longitude": "-1.1131395575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558063025/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "7.354540284",
+    "longitude": "81.0017022799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558055420/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.2052808117",
+    "longitude": "16.2374288418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558046755/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "40.6216883333",
+    "longitude": "-3.7876516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558046106/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "40.6212426578",
+    "longitude": "-3.7885724696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558027078/square.jpg",
+    "date": "2025-04-30",
+    "latitude": "36.5741370204",
+    "longitude": "44.0927922154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558026749/square.jpg",
+    "date": "2025-04-30",
+    "latitude": "36.574373593",
+    "longitude": "44.090175619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558032452/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.6089135046",
+    "longitude": "80.459605969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558022667/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "23.2598816188",
+    "longitude": "77.4126150459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558015854/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "53.1218125394",
+    "longitude": "50.2245793374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558008879/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "-22.7348584606",
+    "longitude": "31.0157233848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/558008675/square.jpg",
+    "date": "2022-09-20",
+    "latitude": "36.8064948",
+    "longitude": "10.1815316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557989619/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.2613351753",
+    "longitude": "35.3303253602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557989591/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.2632587254",
+    "longitude": "35.3344425793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557976939/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.2798486089",
+    "longitude": "3.115936156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557978268/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.04255",
+    "longitude": "153.1048278333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557973512/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "40.4170675456",
+    "longitude": "-3.7187827114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557964350/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-24.1287435587",
+    "longitude": "31.2856728595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557951838/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.7421833333",
+    "longitude": "32.7441527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557941612/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.6356930585",
+    "longitude": "45.0472331927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops bullockoides",
+    "common name": "White-fronted Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557939799/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.86237248",
+    "longitude": "31.6425182538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557939325/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "40.4080142108",
+    "longitude": "-1.4277794421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557934744/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.690085",
+    "longitude": "76.5038933333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557937077/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "43.615428254",
+    "longitude": "3.1423788151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops viridis",
+    "common name": "Blue-throated Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557932785/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "4.8537830915",
+    "longitude": "100.7503031799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops philippinus",
+    "common name": "Blue-tailed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557921373/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557919655/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557915407/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "48.9520145997",
+    "longitude": "43.6305824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557903209/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "45.1350507687",
+    "longitude": "17.668388439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557888032/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.9076601989",
+    "longitude": "153.0832329214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557889353/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "13.7417383333",
+    "longitude": "100.0433278333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557881493/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.2860669119",
+    "longitude": "10.8321907375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557841457/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-24.813995",
+    "longitude": "152.3656166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557767203/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "-12.6508371574",
+    "longitude": "132.5738874899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557728065/square.jpg",
+    "date": "2005-07-15",
+    "latitude": "-22.737292",
+    "longitude": "31.0104534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops philippinus",
+    "common name": "Blue-tailed Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557727394/square.jpg",
+    "date": "2007-02-16",
+    "latitude": "15.7079288331",
+    "longitude": "100.2102495803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops bullockoides",
+    "common name": "White-fronted Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557726842/square.jpg",
+    "date": "2005-07-15",
+    "latitude": "-22.737292",
+    "longitude": "31.0104534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557706806/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-2.4403734102",
+    "longitude": "34.8638563227",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557689822/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.4218740142",
+    "longitude": "7.7346173287",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557653794/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.0128578879",
+    "longitude": "10.5184419081",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557625305/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "36.8780486497",
+    "longitude": "-3.7266078801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557621591/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.5557560972",
+    "longitude": "-4.9531263127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops persicus",
+    "common name": "Blue-cheeked Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557576530/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "32.5880375349",
+    "longitude": "35.520693327",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557598965/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-2.4288357196",
+    "longitude": "34.8849244994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557597648/square.jpg",
+    "date": "2025-04-10",
+    "latitude": "22.2063707286",
+    "longitude": "80.6620970788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557588279/square.jpg",
+    "date": "2019-02-10",
+    "latitude": "20.541179",
+    "longitude": "81.6649182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557572432/square.jpg",
+    "date": "2019-01-12",
+    "latitude": "21.258903506",
+    "longitude": "81.6187155763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557567883/square.jpg",
+    "date": "2019-01-22",
+    "latitude": "21.2481697",
+    "longitude": "79.9865906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557548916/square.jpg",
+    "date": "2024-08-25",
+    "latitude": "41.3417783854",
+    "longitude": "26.5004731715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557545647/square.jpg",
+    "date": "2023-04-01",
+    "latitude": "27.1596085",
+    "longitude": "77.5218127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557542612/square.jpg",
+    "date": "2024-08-25",
+    "latitude": "41.3416308776",
+    "longitude": "26.5010428056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557534680/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.6412200997",
+    "longitude": "45.0068119997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops leschenaulti",
+    "common name": "Chestnut-headed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557524904/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-7.771389297",
+    "longitude": "114.3160251554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557519633/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "31.1073721667",
+    "longitude": "-7.9193216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557510043/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "12.2270033333",
+    "longitude": "79.051575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557506591/square.jpg",
+    "date": "2023-07-19",
+    "latitude": "48.0513650999",
+    "longitude": "7.6461200359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557505513/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "39.3720788911",
+    "longitude": "16.7806188236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557500162/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "6.3403687432",
+    "longitude": "81.4642741414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops hirundineus",
+    "common name": "Swallow-tailed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557490176/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "13.4559948995",
+    "longitude": "-16.4591200861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops hirundineus",
+    "common name": "Swallow-tailed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557490172/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "13.4715714367",
+    "longitude": "-16.4846496903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops hirundineus",
+    "common name": "Swallow-tailed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557490157/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "13.5132493905",
+    "longitude": "-16.5013379254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557491231/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.2987249559",
+    "longitude": "45.0597420329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557474207/square.jpg",
+    "date": "2024-12-01",
+    "latitude": "-25.2564932309",
+    "longitude": "152.8066248368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops philippinus",
+    "common name": "Blue-tailed Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557478394/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "0.331161786",
+    "longitude": "102.7240599319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops leschenaulti",
+    "common name": "Chestnut-headed Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557472948/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "6.9343264725",
+    "longitude": "80.8295563866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557472959/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.2089",
+    "longitude": "17.7124",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557462544/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-25.903209576",
+    "longitude": "153.0903691904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557468595/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.239565",
+    "longitude": "17.130225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557465077/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "22.4641341473",
+    "longitude": "89.5416734346",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops philippinus",
+    "common name": "Blue-tailed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557462176/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "14.5763053188",
+    "longitude": "80.1947605959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctyornis amictus",
+    "common name": "Red-bearded Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557452273/square.jpg",
+    "date": "2025-03-01",
+    "latitude": "3.711868",
+    "longitude": "101.7365558",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops viridis",
+    "common name": "Blue-throated Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557443092/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "1.32572",
+    "longitude": "103.8300783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops persicus",
+    "common name": "Blue-cheeked Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557435738/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "45.9889626217",
+    "longitude": "43.5762423392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557431531/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "17.4270688614",
+    "longitude": "104.7499401122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557431418/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "17.4261303117",
+    "longitude": "104.7498703748",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops cyanophrys",
+    "common name": "Arabian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557430552/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "24.1801383333",
+    "longitude": "55.72587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops philippinus",
+    "common name": "Blue-tailed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557416372/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "14.3750486714",
+    "longitude": "79.9548449367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557386729/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2760763102",
+    "longitude": "152.7598392634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops persicus",
+    "common name": "Blue-cheeked Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557386075/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "45.8522179217",
+    "longitude": "43.5993550717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops philippinus",
+    "common name": "Blue-tailed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557382638/square.jpg",
+    "date": "2024-12-12",
+    "latitude": "14.4535835997",
+    "longitude": "79.8818006997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557370813/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2760763102",
+    "longitude": "152.7598392634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops leschenaulti",
+    "common name": "Chestnut-headed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557179209/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "10.309876",
+    "longitude": "76.926686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops philippinus",
+    "common name": "Blue-tailed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557376165/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "14.3748892048",
+    "longitude": "79.9538950995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557195227/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7949847111",
+    "longitude": "143.4222947655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557287377/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "13.2124190317",
+    "longitude": "100.9911882877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops bullockoides",
+    "common name": "White-fronted Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557279302/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-17.9255578692",
+    "longitude": "25.8537706701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops bullockoides",
+    "common name": "White-fronted Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557279283/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-17.9255578692",
+    "longitude": "25.8537706701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557263478/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-17.847057384",
+    "longitude": "25.1170909936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557263470/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-17.847057384",
+    "longitude": "25.1170909936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557254161/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-12.7002872343",
+    "longitude": "131.6490913276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557254167/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-12.700510304",
+    "longitude": "131.649422217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops pusillus",
+    "common name": "Little Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557239890/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "0.0833331872",
+    "longitude": "32.333333306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557220314/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "42.0370600292",
+    "longitude": "9.4486190379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557158601/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.0627088172",
+    "longitude": "3.0589119701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557159026/square.jpg",
+    "date": "2024-04-16",
+    "latitude": "36.2898016667",
+    "longitude": "-5.3895383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557154403/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.7445840116",
+    "longitude": "-7.8266367123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557128633/square.jpg",
+    "date": "2025-02-17",
+    "latitude": "-17.8724483056",
+    "longitude": "25.7972883056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557140661/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.8472345985",
+    "longitude": "10.3431551903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557131305/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.5818229684",
+    "longitude": "44.8396353296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557139332/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.9303534601",
+    "longitude": "27.4922058731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557137955/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "42.3300076316",
+    "longitude": "3.1125767996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557129936/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "55.8838625397",
+    "longitude": "49.7667588976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557124773/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "55.9676046654",
+    "longitude": "49.625335911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557115010/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.5142358873",
+    "longitude": "81.2833645535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557102210/square.jpg",
+    "date": "2024-04-10",
+    "latitude": "36.39866",
+    "longitude": "-5.3156666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557098911/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.2582384832",
+    "longitude": "12.2030445188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops persicus",
+    "common name": "Blue-cheeked Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557095503/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.6968314412",
+    "longitude": "55.7425363115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557095010/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "40.8565935043",
+    "longitude": "15.5601408624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops bullockoides",
+    "common name": "White-fronted Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557093734/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-22.385191",
+    "longitude": "26.708668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops cyanophrys",
+    "common name": "Arabian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557085090/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.6836080496",
+    "longitude": "55.7421636097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557077205/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "55.8883550256",
+    "longitude": "49.1366117075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/557070560/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.4934833333",
+    "longitude": "0.7378366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557066253/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "39.6232119525",
+    "longitude": "15.9773220773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557053960/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "53.1511974048",
+    "longitude": "83.499361506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557052550/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "53.1511974048",
+    "longitude": "83.499361506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557029398/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.3974897129",
+    "longitude": "78.4630683287",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557010541/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "47.9071583333",
+    "longitude": "46.52233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557009767/square.jpg",
+    "date": "2025-05-11",
+    "latitude": "34.8274146446",
+    "longitude": "24.0906269357",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557008182/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "11.2876840997",
+    "longitude": "75.9186956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops persicus",
+    "common name": "Blue-cheeked Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557001535/square.jpg",
+    "date": "2024-03-26",
+    "latitude": "-33.6789625788",
+    "longitude": "25.9013259472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/556975184/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.3803533057",
+    "longitude": "80.2089837033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctyornis athertoni",
+    "common name": "Blue-bearded Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556974559/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.3590098612",
+    "longitude": "92.3774540797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/556956999/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.356605",
+    "longitude": "11.70833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops apiaster",
+    "common name": "European Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/556947027/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.8429798354",
+    "longitude": "1.106224364",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops cyanophrys",
+    "common name": "Arabian Green Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556940794/square.jpg",
+    "date": "2023-06-25",
+    "latitude": "24.396545",
+    "longitude": "55.435425",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556904895/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-19.2531061569",
+    "longitude": "146.80964234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops ornatus",
+    "common name": "Rainbow Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556903895/square.jpg",
+    "date": "2025-01-20",
+    "latitude": "-34.6786",
+    "longitude": "140.73136",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops leschenaulti",
+    "common name": "Chestnut-headed Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556909633/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "10.1298124875",
+    "longitude": "76.68706242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctyornis athertoni",
+    "common name": "Blue-bearded Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556909256/square.jpg",
+    "date": "2025-02-23",
+    "latitude": "11.4182190974",
+    "longitude": "107.4280863315",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctyornis athertoni",
+    "common name": "Blue-bearded Bee-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556905998/square.jpg",
+    "date": "2025-02-09",
+    "latitude": "10.1298124875",
+    "longitude": "76.68706242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Merops orientalis",
+    "common name": "Asian Green Bee-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/556903433/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.9620787",
+    "longitude": "77.8990441",
+    "quality_grade": "research"
+  }
+]

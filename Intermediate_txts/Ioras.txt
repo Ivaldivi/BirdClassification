@@ -1,0 +1,1676 @@
+[
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558048000/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "14.5870223",
+    "longitude": "78.8999331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557916550/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557598489/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "3.0944963",
+    "longitude": "101.5104943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557588467/square.jpg",
+    "date": "2019-02-10",
+    "latitude": "20.541179",
+    "longitude": "81.6649182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557588210/square.jpg",
+    "date": "2019-02-10",
+    "latitude": "20.541179",
+    "longitude": "81.6649182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557582719/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "26.8491845",
+    "longitude": "88.3603576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557492913/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "3.2096575489",
+    "longitude": "113.0577636116",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/557470942/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "26.2262975449",
+    "longitude": "74.8646043241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/557440799/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "24.6342703183",
+    "longitude": "72.7607064812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557437265/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-8.132175",
+    "longitude": "114.478695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557380454/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "1.7164133333",
+    "longitude": "110.4442133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/556969175/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-6.2106945065",
+    "longitude": "106.7643954232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/556903541/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "12.9620787",
+    "longitude": "77.8990441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556877845/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "6.3387674431",
+    "longitude": "100.8298223096",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556860083/square.jpg",
+    "date": "2025-02-24",
+    "latitude": "11.4202698063",
+    "longitude": "107.4271743804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556854045/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "12.4244192352",
+    "longitude": "75.7381853834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556853251/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "12.4244192352",
+    "longitude": "75.7381853834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556501196/square.jpg",
+    "date": "2018-10-13",
+    "latitude": "15.3776333",
+    "longitude": "74.2306659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556469661/square.jpg",
+    "date": "2018-08-23",
+    "latitude": "21.258903506",
+    "longitude": "81.6187155763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556448849/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "12.5209516667",
+    "longitude": "77.8849733333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/556432145/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "1.3531354984",
+    "longitude": "103.6812769202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/556388540/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "12.7517033333",
+    "longitude": "77.5998033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556346911/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "12.7614559",
+    "longitude": "77.6000394",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556336918/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "20.4917560903",
+    "longitude": "73.3626827141",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556307671/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "4.8673914566",
+    "longitude": "100.6663194141",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556042746/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "-8.0485329152",
+    "longitude": "113.0626526847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555941686/square.jpg",
+    "date": "2017-11-07",
+    "latitude": "20.2717885",
+    "longitude": "79.3875706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555915771/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "3.5157534679",
+    "longitude": "117.6816894651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555913622/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "3.5461358549",
+    "longitude": "117.6756388198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555913613/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "3.4565100587",
+    "longitude": "117.6309241619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555876422/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "1.3385396",
+    "longitude": "103.7303578",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555848820/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-0.3801832001",
+    "longitude": "117.0507574529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555848811/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-0.3801510143",
+    "longitude": "117.0506394357",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555561887/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-8.4927867628",
+    "longitude": "115.6102164835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555524955/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "26.0663875",
+    "longitude": "91.5402031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/555494315/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "13.0636971667",
+    "longitude": "77.768895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555483608/square.jpg",
+    "date": "2023-10-24",
+    "latitude": "20.4707125",
+    "longitude": "84.2583594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/555439753/square.jpg",
+    "date": "2023-08-11",
+    "latitude": "1.3727504064",
+    "longitude": "103.9519747696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/555437331/square.jpg",
+    "date": "2023-08-09",
+    "latitude": "1.4464304",
+    "longitude": "103.723404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555422182/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "6.1505516667",
+    "longitude": "116.1455766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555418845/square.jpg",
+    "date": "2018-07-12",
+    "latitude": "5.9847409523",
+    "longitude": "116.0855388866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/555169382/square.jpg",
+    "date": "2012-07-30",
+    "latitude": "5.9661357783",
+    "longitude": "116.0704393758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555147351/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "11.4130853415",
+    "longitude": "107.380875488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555145589/square.jpg",
+    "date": "2017-11-23",
+    "latitude": "23.1509944",
+    "longitude": "79.3681199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555142634/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "13.8610771003",
+    "longitude": "100.5156893831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555035346/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "4.852217378",
+    "longitude": "100.7495660031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/555036090/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "4.4729606097",
+    "longitude": "101.1707419191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554981387/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "1.3003133333",
+    "longitude": "103.856955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554964055/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "14.0758518661",
+    "longitude": "100.6009469926",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/554719735/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.7299827046",
+    "longitude": "78.2890033714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554694792/square.jpg",
+    "date": "2017-01-29",
+    "latitude": "21.2191578",
+    "longitude": "81.6976434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554694747/square.jpg",
+    "date": "2017-01-29",
+    "latitude": "21.2191578",
+    "longitude": "81.6976434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554687257/square.jpg",
+    "date": "2017-02-25",
+    "latitude": "20.541179",
+    "longitude": "81.6649182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554672622/square.jpg",
+    "date": "2017-02-19",
+    "latitude": "21.2191578",
+    "longitude": "81.6976434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554672580/square.jpg",
+    "date": "2017-02-19",
+    "latitude": "21.2191578",
+    "longitude": "81.6976434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554672447/square.jpg",
+    "date": "2017-02-19",
+    "latitude": "21.2191578",
+    "longitude": "81.6976434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554664769/square.jpg",
+    "date": "2017-04-04",
+    "latitude": "17.844648",
+    "longitude": "81.024147",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/554574842/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-6.0543347187",
+    "longitude": "106.7467736687",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554569929/square.jpg",
+    "date": "2022-08-21",
+    "latitude": "23.2007133034",
+    "longitude": "69.2462694457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554561290/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "1.2946083333",
+    "longitude": "103.88665",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554560279/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "6.4540898941",
+    "longitude": "80.8955801278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/554490292/square.jpg",
+    "date": "2014-07-28",
+    "latitude": "12.8194367462",
+    "longitude": "99.3711370189",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554429998/square.jpg",
+    "date": "2005-09-23",
+    "latitude": "23.1938498751",
+    "longitude": "69.2700018322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554220964/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "9.729055",
+    "longitude": "118.74962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554201557/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "1.5517339053",
+    "longitude": "110.355001393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/554158175/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.7747921348",
+    "longitude": "78.2097052038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554105355/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "3.2156189454",
+    "longitude": "101.8813417107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/554085839/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "12.4244192352",
+    "longitude": "75.7381853834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554083511/square.jpg",
+    "date": "2024-08-17",
+    "latitude": "12.6502166",
+    "longitude": "78.121699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554062976/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "12.6503966667",
+    "longitude": "78.1209166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554052019/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "12.6503966667",
+    "longitude": "78.1209166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/553598060/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "4.8495666667",
+    "longitude": "100.7470655556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553959472/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "12.6487883333",
+    "longitude": "78.1213766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553947828/square.jpg",
+    "date": "2019-08-25",
+    "latitude": "-8.5035806",
+    "longitude": "115.2547579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/553684114/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "18.7959620969",
+    "longitude": "98.979298955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553655702/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.7198033333",
+    "longitude": "78.2886266667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553599770/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.7198016667",
+    "longitude": "78.288645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553599536/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.7197883333",
+    "longitude": "78.2886666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553599321/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.7197883333",
+    "longitude": "78.2886666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553599095/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.7197833333",
+    "longitude": "78.2886533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553580602/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.1501315261",
+    "longitude": "107.0492824145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/553564491/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "17.7170704298",
+    "longitude": "78.627038151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina nigrolutea",
+    "common name": "White-tailed Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553509901/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "11.7556798183",
+    "longitude": "78.2594886795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553237059/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "1.3801589425",
+    "longitude": "103.9505328446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553140452/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-8.1361875865",
+    "longitude": "114.445415536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553119314/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "-8.1367639524",
+    "longitude": "114.5990227745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553113413/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-8.2849413167",
+    "longitude": "115.0267823222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553049517/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "10.7420579351",
+    "longitude": "106.6328072928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553045849/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "16.1705083415",
+    "longitude": "108.0179398117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553045723/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "16.1317166685",
+    "longitude": "108.053922374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553045456/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "16.0059742042",
+    "longitude": "108.0795535406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553034717/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "16.1678842263",
+    "longitude": "108.1914724465",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553034768/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "13.5440316552",
+    "longitude": "100.4154383764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553030834/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "10.309293845",
+    "longitude": "77.6434546709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553015582/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "1.3676133023",
+    "longitude": "103.7525200349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552967518/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "4.8499616667",
+    "longitude": "100.7413416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552829260/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.8186866667",
+    "longitude": "78.2722016667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/552790382/square.jpg",
+    "date": "2022-01-21",
+    "latitude": "20.3683306",
+    "longitude": "85.7647421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552805706/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.8450566667",
+    "longitude": "78.2881316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552801717/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "11.843785",
+    "longitude": "78.2877416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552763775/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "6.1810218985",
+    "longitude": "102.2998028621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552762232/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "6.1814808896",
+    "longitude": "102.3011821881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552755836/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "1.3551526",
+    "longitude": "103.7972022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/552693949/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "1.7159830113",
+    "longitude": "110.4442279413",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/552693949/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "1.4470563464",
+    "longitude": "103.730179053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552648693/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552633688/square.jpg",
+    "date": "2018-07-06",
+    "latitude": "5.7212471295",
+    "longitude": "115.9204950033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552557807/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "1.3358997",
+    "longitude": "103.7261741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552557254/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "1.3358997",
+    "longitude": "103.7261741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552384960/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "11.4278269599",
+    "longitude": "107.3161828009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552384732/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "11.374929464",
+    "longitude": "107.2427384259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552384701/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "11.3538663173",
+    "longitude": "107.2434250714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552384701/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "21.0251550834",
+    "longitude": "75.5723591795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552384701/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "21.0251550834",
+    "longitude": "75.5723591795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/551712959/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "1.7170302791",
+    "longitude": "110.4456176609",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/551712880/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "1.717609376",
+    "longitude": "110.4448958114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia scapularis",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551358828/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-8.5961625725",
+    "longitude": "115.2518057639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/551354947/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "3.0247494177",
+    "longitude": "101.6297813505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/551354947/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "21.0257929944",
+    "longitude": "75.5633367452",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/551354947/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "10.7626784383",
+    "longitude": "76.274355948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/551255477/square.jpg",
+    "date": "2009-11-30",
+    "latitude": "12.8763023275",
+    "longitude": "99.5603249672",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550881309/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "4.47577",
+    "longitude": "101.1673933333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550817314/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "15.4050104473",
+    "longitude": "74.2555513376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550755889/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "27.5582833333",
+    "longitude": "84.458285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550751722/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "1.3815718739",
+    "longitude": "103.9548502117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550751722/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "13.6335678404",
+    "longitude": "100.6431759524",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550172685/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "5.9865833333",
+    "longitude": "116.0889833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550172276/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "5.9865833333",
+    "longitude": "116.0889833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550162629/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "23.6297932834",
+    "longitude": "90.693190533",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/550051878/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-6.9146736",
+    "longitude": "106.8241494",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549860676/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "3.20933",
+    "longitude": "101.5613392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549761230/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "19.1550597639",
+    "longitude": "75.1069043577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/549737440/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "1.71666583",
+    "longitude": "110.44422984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/549737440/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "12.6738349622",
+    "longitude": "78.0447798595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549727658/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "12.6741015543",
+    "longitude": "78.0438524857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549727344/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "12.6739586086",
+    "longitude": "78.0440271646",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549726214/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "12.6743",
+    "longitude": "78.0451616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/549718697/square.jpg",
+    "date": "2018-04-27",
+    "latitude": "15.683331691",
+    "longitude": "100.2500000596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549714611/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "12.6743833333",
+    "longitude": "78.0447383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549710711/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "12.67397",
+    "longitude": "78.04371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549696479/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "1.5834259",
+    "longitude": "110.3499195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549696555/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "12.6741633333",
+    "longitude": "78.04277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549695440/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "6.4913794683",
+    "longitude": "81.4261713624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549597190/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "5.8881056827",
+    "longitude": "117.8333969169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549351841/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "18.5497166667",
+    "longitude": "73.7821883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/549349040/square.jpg",
+    "date": "2023-09-12",
+    "latitude": "12.2372855245",
+    "longitude": "76.3350106766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/549340165/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "1.5515088366",
+    "longitude": "110.3458089754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/549339262/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "1.5525458004",
+    "longitude": "110.3460406512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/549227019/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-6.1198708603",
+    "longitude": "106.7386629805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/549181568/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "12.2251366667",
+    "longitude": "79.0537861667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549070084/square.jpg",
+    "date": "2018-05-30",
+    "latitude": "11.405356855",
+    "longitude": "107.2855113094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548996751/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "14.423548027",
+    "longitude": "101.386125196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548807608/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "0.8656043402",
+    "longitude": "102.0966648467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548782000/square.jpg",
+    "date": "2024-11-04",
+    "latitude": "4.8484187457",
+    "longitude": "100.749622521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548772152/square.jpg",
+    "date": "2025-04-27",
+    "latitude": "23.5034329",
+    "longitude": "92.4179725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548753829/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "5.8743936352",
+    "longitude": "101.3382086359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548731465/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "12.6729870993",
+    "longitude": "78.0431980267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548731424/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "12.6729870993",
+    "longitude": "78.0431980267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548731348/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "12.6729870993",
+    "longitude": "78.0431980267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548456231/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "10.7623250877",
+    "longitude": "106.7262124573",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548406540/square.jpg",
+    "date": "2022-04-15",
+    "latitude": "2.3023518594",
+    "longitude": "111.889635567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548403721/square.jpg",
+    "date": "2022-04-11",
+    "latitude": "2.2730371732",
+    "longitude": "111.8479882306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548388637/square.jpg",
+    "date": "2022-04-01",
+    "latitude": "4.5787196124",
+    "longitude": "114.0330225587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548334263/square.jpg",
+    "date": "2025-01-22",
+    "latitude": "21.9248192234",
+    "longitude": "101.2596959833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548323538/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "21.9276859231",
+    "longitude": "101.2542439726",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia horizoptera",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/547443691/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "8.9144383",
+    "longitude": "98.5273942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina lafresnayei",
+    "common name": "Great Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547422523/square.jpg",
+    "date": "2010-08-17",
+    "latitude": "8.171027037",
+    "longitude": "98.8426616561",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547383585/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "18.7166277778",
+    "longitude": "73.4882805556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547383585/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "19.1633328235",
+    "longitude": "72.8923035522",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547218170/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-0.9138058616",
+    "longitude": "100.4707376428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546934683/square.jpg",
+    "date": "2016-10-14",
+    "latitude": "13.3439188",
+    "longitude": "74.7474504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546923281/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "6.0092323268",
+    "longitude": "116.0074456383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546902447/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "13.5430966667",
+    "longitude": "100.4167333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546864023/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-6.737495",
+    "longitude": "106.7756616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546864023/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "12.6743357626",
+    "longitude": "78.0435520783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546864023/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "12.6740858532",
+    "longitude": "78.043756932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546786899/square.jpg",
+    "date": "2010-03-17",
+    "latitude": "8.6070385903",
+    "longitude": "99.6220215745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina viridissima",
+    "common name": "Green Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546786881/square.jpg",
+    "date": "2010-03-18",
+    "latitude": "8.7760158742",
+    "longitude": "99.6047554459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546751466/square.jpg",
+    "date": "2012-01-11",
+    "latitude": "8.9777134",
+    "longitude": "98.6381879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546732359/square.jpg",
+    "date": "2007-06-10",
+    "latitude": "7.9843109",
+    "longitude": "98.3307468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546732354/square.jpg",
+    "date": "2006-05-06",
+    "latitude": "7.9843109",
+    "longitude": "98.3307468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546454414/square.jpg",
+    "date": "2022-09-24",
+    "latitude": "5.9850883333",
+    "longitude": "116.0860695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546401226/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "21.2633306521",
+    "longitude": "76.5185833945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546342950/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-8.2339117318",
+    "longitude": "114.5129991688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://static.inaturalist.org/photos/546334637/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "7.2732157216",
+    "longitude": "81.5339190513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aegithina tiphia",
+    "common name": "Common Iora",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546299061/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-8.1300186",
+    "longitude": "115.3673914",
+    "quality_grade": "research"
+  }
+]

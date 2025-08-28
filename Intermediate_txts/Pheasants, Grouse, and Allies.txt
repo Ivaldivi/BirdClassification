@@ -1,0 +1,1019 @@
+[
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558190420/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "37.2601555556",
+    "longitude": "-107.0302888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dendragapus obscurus",
+    "common name": "Dusky Grouse",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558150305/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "44.9446666",
+    "longitude": "-109.6276701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perdix perdix",
+    "common name": "Gray Partridge",
+    "observation photo url": "https://static.inaturalist.org/photos/558164495/square.jpg",
+    "date": "2025-04-18",
+    "latitude": "48.8769462773",
+    "longitude": "4.0877629038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dendragapus obscurus",
+    "common name": "Dusky Grouse",
+    "observation photo url": "https://static.inaturalist.org/photos/558175608/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.92746",
+    "longitude": "-106.9737209722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558175060/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.6778851147",
+    "longitude": "-111.7769421637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus gallus",
+    "common name": "Red Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558174805/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.0309791565",
+    "longitude": "-88.0393218994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169502/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.6342192549",
+    "longitude": "-1.2711116169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169275/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.9938410285",
+    "longitude": "-71.4716495224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrao urogallus",
+    "common name": "Western Capercaillie",
+    "observation photo url": "https://static.inaturalist.org/photos/558167308/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "62.9459437221",
+    "longitude": "25.9898385317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus gallus",
+    "common name": "Red Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160354/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.8140841",
+    "longitude": "-76.0550855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558158580/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.3026083333",
+    "longitude": "-82.198075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558137933/square.jpg",
+    "date": "2024-12-19",
+    "latitude": "46.0107568367",
+    "longitude": "-89.017344013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558143033/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.0158047838",
+    "longitude": "-81.3072475845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortygornis sephaena",
+    "common name": "Crested Francolin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141007/square.jpg",
+    "date": "2023-03-06",
+    "latitude": "-24.89663",
+    "longitude": "31.5193533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139890/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "48.4119014556",
+    "longitude": "-123.3637453167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://static.inaturalist.org/photos/558138269/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.8661215",
+    "longitude": "-79.2756607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558132193/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.5576221897",
+    "longitude": "-122.0871647739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558132800/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "44.9682111111",
+    "longitude": "-93.2121361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://static.inaturalist.org/photos/558130308/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "37.6465203323",
+    "longitude": "-122.1464369819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://static.inaturalist.org/photos/558126686/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.4481048594",
+    "longitude": "-77.3827935756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558121672/square.jpg",
+    "date": "2023-08-13",
+    "latitude": "48.1366083333",
+    "longitude": "-123.1500945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bonasa umbellus",
+    "common name": "Ruffed Grouse",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558121580/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "51.1362195",
+    "longitude": "-90.2670583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://static.inaturalist.org/photos/558119191/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.0099754333",
+    "longitude": "-81.2491226194",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558117864/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "40.597195",
+    "longitude": "-74.0688555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dendragapus fuliginosus",
+    "common name": "Sooty Grouse",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558116798/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.9605216667",
+    "longitude": "-119.891905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558114208/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "37.1708729378",
+    "longitude": "-122.2225044053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558110098/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "31.2646065295",
+    "longitude": "-85.4626587517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558098531/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.4546741997",
+    "longitude": "-122.6487695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558088044/square.jpg",
+    "date": "2024-11-01",
+    "latitude": "52.8357487537",
+    "longitude": "-6.3057561145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558095722/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "36.2449601793",
+    "longitude": "-94.2378581225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perdix perdix",
+    "common name": "Gray Partridge",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558093139/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.83468891",
+    "longitude": "24.1579039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558087599/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.9091833333",
+    "longitude": "-122.295355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perdicula asiatica",
+    "common name": "Jungle Bush-Quail",
+    "observation photo url": "https://static.inaturalist.org/photos/558084674/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "11.7747921348",
+    "longitude": "78.2097052038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://static.inaturalist.org/photos/558083013/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "54.1624",
+    "longitude": "8.9818033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558076855/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.3439113278",
+    "longitude": "-71.1968042781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558076116/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.3435113065",
+    "longitude": "-71.1972059113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558064000/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "7.9256370931",
+    "longitude": "80.7092884643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Centrocercus urophasianus",
+    "common name": "Greater Sage-Grouse",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558071821/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "40.5924387924",
+    "longitude": "-109.1731705467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558067713/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.6243743896",
+    "longitude": "-122.3165130615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558055597/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "52.3713010958",
+    "longitude": "-1.5631509493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558054146/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.9840292018",
+    "longitude": "5.6638517976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dendragapus obscurus",
+    "common name": "Dusky Grouse",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558053351/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "48.1544333333",
+    "longitude": "-113.9323883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus sonneratii",
+    "common name": "Grey Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558048066/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "14.5870223",
+    "longitude": "78.8999331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558049970/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.47509656",
+    "longitude": "-73.77393781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558045857/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.410190103",
+    "longitude": "-78.0176495791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/558045738/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "10.925421",
+    "longitude": "78.5462098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558045678/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "32.0081453997",
+    "longitude": "-109.3617306997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/558044634/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "10.925421",
+    "longitude": "78.5462098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/558041669/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "10.9837512969",
+    "longitude": "76.0717239378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pternistis afer",
+    "common name": "Red-necked Spurfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558040340/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-1.3737951517",
+    "longitude": "35.0236778259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectoris rufa",
+    "common name": "Red-legged Partridge",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558039451/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "40.60157",
+    "longitude": "-3.8015249722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perdix perdix",
+    "common name": "Gray Partridge",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558025753/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.1818980822",
+    "longitude": "35.1259754447",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo domesticus",
+    "common name": "Domestic Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558037541/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.7190466667",
+    "longitude": "-117.0441666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558035462/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "41.1966590011",
+    "longitude": "-74.9067427639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032400/square.jpg",
+    "date": "2008-09-19",
+    "latitude": "43.1079975907",
+    "longitude": "-72.9238939181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo silvestris",
+    "common name": "Eastern Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558031808/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.7126738426",
+    "longitude": "-79.8046655167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558039036/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.5259022",
+    "longitude": "-76.0240744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558030170/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.9404833333",
+    "longitude": "15.4908",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lagopus leucura",
+    "common name": "White-tailed Ptarmigan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558026721/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "39.1213278333",
+    "longitude": "-106.4409166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://static.inaturalist.org/photos/558015734/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "43.4940216667",
+    "longitude": "-72.0762555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris ocellata",
+    "common name": "Ocellated Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558013580/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "18.3970898472",
+    "longitude": "-89.8313729825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://static.inaturalist.org/photos/558013278/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.8300957823",
+    "longitude": "-79.1778013592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558012550/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.4697700152",
+    "longitude": "-71.5106099099",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophophorus impejanus",
+    "common name": "Himalayan Monal",
+    "observation photo url": "https://static.inaturalist.org/photos/558004285/square.jpg",
+    "date": "2025-04-16",
+    "latitude": "27.8470306111",
+    "longitude": "86.7466315056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558002879/square.jpg",
+    "date": "2023-12-27",
+    "latitude": "26.9677444709",
+    "longitude": "75.8475671691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558002595/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "11.0757203261",
+    "longitude": "76.9871871919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558001207/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.108383112",
+    "longitude": "-81.7416091351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Bonasa umbellus",
+    "common name": "Ruffed Grouse",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557999888/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.6963688259",
+    "longitude": "-90.7114810167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus gallus",
+    "common name": "Red Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557995638/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.4984474182",
+    "longitude": "29.1271381378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://static.inaturalist.org/photos/557994088/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "50.9722816",
+    "longitude": "-3.5284436",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perdix perdix",
+    "common name": "Gray Partridge",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557989612/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.2727756297",
+    "longitude": "35.3578059132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectoris rufa",
+    "common name": "Red-legged Partridge",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557989857/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.9681783552",
+    "longitude": "-8.0909079686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://static.inaturalist.org/photos/557988997/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.8964065997",
+    "longitude": "-88.5774117997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557987945/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "52.44158",
+    "longitude": "1.026275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557983919/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "35.932200527",
+    "longitude": "120.1915205667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coturnix coturnix",
+    "common name": "Common Quail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557974655/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "43.2281600226",
+    "longitude": "76.8650064212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557975999/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "11.0758717373",
+    "longitude": "76.9892035425",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557971434/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.1296268683",
+    "longitude": "30.5977938702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus versicolor",
+    "common name": "Green Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557969758/square.jpg",
+    "date": "2024-07-27",
+    "latitude": "34.2991666667",
+    "longitude": "136.7935472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557968246/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "37.171906",
+    "longitude": "-76.682457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perdix perdix",
+    "common name": "Gray Partridge",
+    "observation photo url": "https://static.inaturalist.org/photos/557963060/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "53.153339571",
+    "longitude": "58.7764051208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus varius",
+    "common name": "Green Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557965534/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-7.7688533648",
+    "longitude": "114.3234525248",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perdix perdix",
+    "common name": "Gray Partridge",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557964984/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "55.03448847",
+    "longitude": "52.40445251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus gallus",
+    "common name": "Red Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557961339/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "1.29695585",
+    "longitude": "103.7831494399",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557956597/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.2115984461",
+    "longitude": "-0.8080164716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lagopus muta",
+    "common name": "Rock Ptarmigan",
+    "observation photo url": "https://static.inaturalist.org/photos/557949505/square.jpg",
+    "date": "2024-08-22",
+    "latitude": "44.2330107516",
+    "longitude": "6.7355144763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectoris rufa",
+    "common name": "Red-legged Partridge",
+    "observation photo url": "https://static.inaturalist.org/photos/557949545/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "57.1098582141",
+    "longitude": "-3.9688837901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Syrmaticus reevesii",
+    "common name": "Reeves's Pheasant",
+    "observation photo url": "https://static.inaturalist.org/photos/557945650/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.5848624482",
+    "longitude": "-1.4468347959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pternistis capensis",
+    "common name": "Cape Spurfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557945092/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-33.9885410607",
+    "longitude": "18.426712744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557945021/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.2115984461",
+    "longitude": "-0.8080164716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557943466/square.jpg",
+    "date": "2023-05-03",
+    "latitude": "47.2104282401",
+    "longitude": "29.1729873693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pternistis swainsonii",
+    "common name": "Swainson's Spurfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557941506/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.0733767356",
+    "longitude": "31.6884208584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://static.inaturalist.org/photos/557943690/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "6.3683952181",
+    "longitude": "81.4998406747",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus gallus",
+    "common name": "Red Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557942006/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "1.4242970448",
+    "longitude": "103.8385905325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ortygornis sephaena",
+    "common name": "Crested Francolin",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557939682/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.8346527778",
+    "longitude": "31.6367305556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pternistis natalensis",
+    "common name": "Natal Spurfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557938947/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.8437127622",
+    "longitude": "31.5852870199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557939745/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.2440446733",
+    "longitude": "-73.5633932471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tetrao urogallus",
+    "common name": "Western Capercaillie",
+    "observation photo url": "https://static.inaturalist.org/photos/557939291/square.jpg",
+    "date": "2021-02-28",
+    "latitude": "51.2090962171",
+    "longitude": "15.0216847101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectoris magna",
+    "common name": "Przevalski's Partridge",
+    "observation photo url": "https://static.inaturalist.org/photos/557931859/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "36.214575",
+    "longitude": "100.802881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectoris rufa",
+    "common name": "Red-legged Partridge",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557925069/square.jpg",
+    "date": "2024-07-14",
+    "latitude": "38.1654601767",
+    "longitude": "-3.98649897",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557924898/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.1227382",
+    "longitude": "-2.5134243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pternistis capensis",
+    "common name": "Cape Spurfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557923987/square.jpg",
+    "date": "2011-01-15",
+    "latitude": "-34.3503028515",
+    "longitude": "18.9273748768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Perdix perdix",
+    "common name": "Gray Partridge",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557913991/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.7467949968",
+    "longitude": "55.7021818671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557912756/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "12.4253451894",
+    "longitude": "76.6561346188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectoris rufa",
+    "common name": "Red-legged Partridge",
+    "observation photo url": "https://static.inaturalist.org/photos/557913832/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.7400451095",
+    "longitude": "0.504474802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903021/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "20.7237577",
+    "longitude": "78.3216329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallus gallus",
+    "common name": "Red Junglefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903692/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "1.3048150787",
+    "longitude": "103.8094091043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557902447/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "44.9200798484",
+    "longitude": "-80.1265011611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "common name": "Ring-necked Pheasant",
+    "observation photo url": "https://static.inaturalist.org/photos/557892091/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "52.7601436099",
+    "longitude": "-3.4585446403",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557892154/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "17.42131",
+    "longitude": "78.4221466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Canachites canadensis",
+    "common name": "Spruce Grouse",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557891956/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.9921638889",
+    "longitude": "-125.5489055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pavo cristatus",
+    "common name": "Indian Peafowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557889193/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "17.422735",
+    "longitude": "78.4183633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "common name": "Wild Turkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557887717/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "43.4007542488",
+    "longitude": "-89.8468623777",
+    "quality_grade": "research"
+  }
+]

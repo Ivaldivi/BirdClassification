@@ -1,0 +1,1604 @@
+[
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558046048/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.4758",
+    "longitude": "31.9732111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557971641/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-24.0736745426",
+    "longitude": "31.2471230125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557969778/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-24.0485857005",
+    "longitude": "31.3460519599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557926222/square.jpg",
+    "date": "2015-07-27",
+    "latitude": "-1.6767082",
+    "longitude": "34.9033276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557888033/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.3418395101",
+    "longitude": "31.80964306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/557763107/square.jpg",
+    "date": "2023-08-02",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557660563/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.9684966064",
+    "longitude": "31.5547399968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557637471/square.jpg",
+    "date": "2024-09-13",
+    "latitude": "-33.6203264543",
+    "longitude": "25.8047226749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557576827/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-3.1617522",
+    "longitude": "35.5876697",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557425545/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "13.0505344873",
+    "longitude": "8.320992478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557236416/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-17.8244506922",
+    "longitude": "25.1295987496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/556858518/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-0.4208816667",
+    "longitude": "36.1126366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556627365/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-25.3345928776",
+    "longitude": "31.8787738259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556436407/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.3418543577",
+    "longitude": "31.8094703928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556349743/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-7.7674633333",
+    "longitude": "34.872995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556308148/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-25.3417383296",
+    "longitude": "31.8813633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555869309/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-25.3417370918",
+    "longitude": "31.8096343428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555669067/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-24.6633871275",
+    "longitude": "31.7895013466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555478931/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.29298375",
+    "longitude": "32.45361645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555115833/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-15.6768523933",
+    "longitude": "29.4731021878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555044953/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.3205198",
+    "longitude": "32.43547085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/554726055/square.jpg",
+    "date": "2025-01-23",
+    "latitude": "-28.3026027778",
+    "longitude": "31.8270555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554682848/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-19.9252179827",
+    "longitude": "23.5092095491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554602053/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.3564290702",
+    "longitude": "36.9058570862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554578699/square.jpg",
+    "date": "2023-12-30",
+    "latitude": "-25.2302756022",
+    "longitude": "27.1012708917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554515657/square.jpg",
+    "date": "2014-05-10",
+    "latitude": "-17.9511462",
+    "longitude": "24.6868329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554490132/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-1.6887716667",
+    "longitude": "30.7316916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554411830/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-24.0673491694",
+    "longitude": "31.4451537714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554350224/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.6379527778",
+    "longitude": "23.4604888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554323100/square.jpg",
+    "date": "2014-07-27",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/554195238/square.jpg",
+    "date": "2024-02-19",
+    "latitude": "-24.9891115774",
+    "longitude": "31.5693171566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553852703/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "-23.9632297178",
+    "longitude": "31.7725939021",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553827786/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-7.7019060414",
+    "longitude": "38.1940761045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553717394/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-24.9508398263",
+    "longitude": "31.6586413839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553734887/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "-1.502725",
+    "longitude": "35.115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553624085/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-25.2717363412",
+    "longitude": "31.4652672239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553586564/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-18.8696713127",
+    "longitude": "27.0684073718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553377707/square.jpg",
+    "date": "2024-08-20",
+    "latitude": "-0.6068706028",
+    "longitude": "30.970212389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553333862/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-29.1319274336",
+    "longitude": "24.3862196875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553295198/square.jpg",
+    "date": "2014-10-21",
+    "latitude": "-16.1178248424",
+    "longitude": "29.4025982835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553200581/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-2.3013309997",
+    "longitude": "34.8341957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/552626697/square.jpg",
+    "date": "2023-02-24",
+    "latitude": "-3.1716812761",
+    "longitude": "35.4949473957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/552944138/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-0.0409110601",
+    "longitude": "30.1021860167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552742299/square.jpg",
+    "date": "2025-03-16",
+    "latitude": "-22.20005473",
+    "longitude": "29.21562759",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552663255/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-24.9811227511",
+    "longitude": "31.5666745185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552620039/square.jpg",
+    "date": "2023-09-19",
+    "latitude": "-33.6203264543",
+    "longitude": "25.8047226749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552453124/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-17.8706264827",
+    "longitude": "24.9716301716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552449956/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "-17.8291216667",
+    "longitude": "25.6206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552449927/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "-17.8291233056",
+    "longitude": "25.6206033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552418354/square.jpg",
+    "date": "2025-02-14",
+    "latitude": "-17.8292816389",
+    "longitude": "25.6269466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/552318386/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-0.3025333333",
+    "longitude": "36.1199633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/552307543/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-7.2113006639",
+    "longitude": "37.1138558909",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552294592/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-0.6465703105",
+    "longitude": "30.9555408731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552062542/square.jpg",
+    "date": "2013-04-12",
+    "latitude": "-24.3860251",
+    "longitude": "31.3327344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551923070/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-17.9128528296",
+    "longitude": "25.7263530819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/551876374/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-7.2293760932",
+    "longitude": "37.0874921232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551833680/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-24.9811817982",
+    "longitude": "31.5665233796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551571265/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.8931398364",
+    "longitude": "25.8149476032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551291267/square.jpg",
+    "date": "2023-08-19",
+    "latitude": "-0.3105602778",
+    "longitude": "36.1166358333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550951797/square.jpg",
+    "date": "2023-07-24",
+    "latitude": "-22.8593451817",
+    "longitude": "30.763724575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/550932219/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-25.0290695",
+    "longitude": "31.5876833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550522358/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-28.4519058642",
+    "longitude": "29.8635645375",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550491415/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-2.3013416667",
+    "longitude": "34.8341833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550098967/square.jpg",
+    "date": "2018-04-25",
+    "latitude": "5.5796548409",
+    "longitude": "23.7859879504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549924881/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-25.384325",
+    "longitude": "31.5161833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549844564/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-3.2098346269",
+    "longitude": "35.5678653245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549844519/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-3.2098346269",
+    "longitude": "35.5678653245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549151554/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "-2.3465072475",
+    "longitude": "34.5483187809",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/548914433/square.jpg",
+    "date": "2024-05-30",
+    "latitude": "-1.4141634837",
+    "longitude": "35.4487643956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/548888798/square.jpg",
+    "date": "2024-05-30",
+    "latitude": "-0.3103488154",
+    "longitude": "36.1167173391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548896584/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-1.7598262011",
+    "longitude": "35.2166021157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548555205/square.jpg",
+    "date": "2025-03-01",
+    "latitude": "-24.9812157547",
+    "longitude": "31.5663074545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548472465/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-1.3380083",
+    "longitude": "36.8133709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548307767/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-24.6091592496",
+    "longitude": "26.0246442538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548100726/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-33.5857224",
+    "longitude": "25.7995432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547967939/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-25.3822527",
+    "longitude": "31.1054778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547827816/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-24.2530175292",
+    "longitude": "31.7217478973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547274534/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "3.8201433963",
+    "longitude": "33.7015664258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546989932/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-0.8803476087",
+    "longitude": "36.3490592982",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546958255/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-3.9831380119",
+    "longitude": "38.0431107685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546957734/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-3.9831380119",
+    "longitude": "38.0431107685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546932517/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "3.6585471491",
+    "longitude": "33.8150053022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546683214/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "-1.928985558",
+    "longitude": "9.3075920257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/546564810/square.jpg",
+    "date": "2024-08-15",
+    "latitude": "-3.7001641",
+    "longitude": "35.8645785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546273652/square.jpg",
+    "date": "2018-09-28",
+    "latitude": "-25.024",
+    "longitude": "31.239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546224206/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-24.1167773275",
+    "longitude": "30.9378588477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546155888/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-26.6235366667",
+    "longitude": "30.786975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546100523/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-19.4869120853",
+    "longitude": "23.319572654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545839996/square.jpg",
+    "date": "2022-10-29",
+    "latitude": "-17.8269132764",
+    "longitude": "25.1190718263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/545742606/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-0.192235631",
+    "longitude": "29.9097520145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545305437/square.jpg",
+    "date": "2022-10-26",
+    "latitude": "-17.8445055031",
+    "longitude": "22.9916418716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545016039/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-24.1808679327",
+    "longitude": "30.6389171896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544984456/square.jpg",
+    "date": "2024-09-28",
+    "latitude": "-25.0602919558",
+    "longitude": "31.893288393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544983115/square.jpg",
+    "date": "2024-09-28",
+    "latitude": "-25.0940832653",
+    "longitude": "31.9125722132",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544954864/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-24.3569141566",
+    "longitude": "31.5102353144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544648485/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-24.0918687237",
+    "longitude": "30.8632309959",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544431470/square.jpg",
+    "date": "2025-02-06",
+    "latitude": "-27.5971457833",
+    "longitude": "32.21994535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544371592/square.jpg",
+    "date": "2025-02-06",
+    "latitude": "-27.6289040667",
+    "longitude": "32.23450345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544371566/square.jpg",
+    "date": "2025-02-06",
+    "latitude": "-27.6288915",
+    "longitude": "32.2345955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544371551/square.jpg",
+    "date": "2025-02-06",
+    "latitude": "-27.6288676167",
+    "longitude": "32.2345742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544364358/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-24.3630280524",
+    "longitude": "30.941996706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544352128/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-15.77543708",
+    "longitude": "29.19286135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544335667/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-1.6091698177",
+    "longitude": "35.149822974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/544323416/square.jpg",
+    "date": "2023-10-15",
+    "latitude": "-18.2041784459",
+    "longitude": "21.7598694512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/544322567/square.jpg",
+    "date": "2023-10-15",
+    "latitude": "-18.1899520378",
+    "longitude": "21.7585657171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544301144/square.jpg",
+    "date": "2022-10-22",
+    "latitude": "-19.3006950849",
+    "longitude": "23.452465497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544283455/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-24.0714738719",
+    "longitude": "30.8287786815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544281622/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-23.071809465",
+    "longitude": "31.4052154067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544056373/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-28.2645047345",
+    "longitude": "31.9103388861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544040434/square.jpg",
+    "date": "2024-10-19",
+    "latitude": "-33.4159448938",
+    "longitude": "25.7885331496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543963275/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-1.3824923",
+    "longitude": "36.86102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/543888139/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-18.6954032906",
+    "longitude": "26.9126765493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/543888129/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-18.7079625314",
+    "longitude": "26.8372698251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/543886083/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-20.3089194989",
+    "longitude": "31.0814277174",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543886217/square.jpg",
+    "date": "2023-07-17",
+    "latitude": "-1.468896",
+    "longitude": "35.28786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543883964/square.jpg",
+    "date": "2023-07-17",
+    "latitude": "-1.468896",
+    "longitude": "35.28786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543645974/square.jpg",
+    "date": "2024-12-16",
+    "latitude": "-1.4821324",
+    "longitude": "35.1299896",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/543584389/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-25.0023638833",
+    "longitude": "31.593945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543440302/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-0.33239",
+    "longitude": "36.11805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543400705/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-1.2482106",
+    "longitude": "35.0119668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543397467/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-1.2482106",
+    "longitude": "35.0119668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543325774/square.jpg",
+    "date": "2024-09-27",
+    "latitude": "-24.6725393469",
+    "longitude": "31.8082801507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543324796/square.jpg",
+    "date": "2024-09-27",
+    "latitude": "-24.1752137486",
+    "longitude": "31.7205838229",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542720983/square.jpg",
+    "date": "2025-02-02",
+    "latitude": "-27.3981866667",
+    "longitude": "31.89352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/542704973/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-1.5792175712",
+    "longitude": "34.9490729616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542666384/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-24.445",
+    "longitude": "31.145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542520412/square.jpg",
+    "date": "2024-09-27",
+    "latitude": "-18.6347437431",
+    "longitude": "24.092356899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542363593/square.jpg",
+    "date": "2024-09-26",
+    "latitude": "-24.3962780693",
+    "longitude": "31.926813951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542363530/square.jpg",
+    "date": "2024-09-26",
+    "latitude": "-24.3965148638",
+    "longitude": "31.9342978426",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541997695/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "-23.8386385617",
+    "longitude": "31.613150885",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541942438/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "-24.16346623",
+    "longitude": "31.630918625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus africanus",
+    "common name": "Common Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541919544/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-24.4064174595",
+    "longitude": "31.8096778903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/541805136/square.jpg",
+    "date": "2017-10-16",
+    "latitude": "-26.96071",
+    "longitude": "21.85852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541764001/square.jpg",
+    "date": "2024-11-26",
+    "latitude": "-24.4831422808",
+    "longitude": "25.0796175376",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/541753588/square.jpg",
+    "date": "2017-02-20",
+    "latitude": "-17.828578",
+    "longitude": "25.133276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/541719312/square.jpg",
+    "date": "2014-06-27",
+    "latitude": "-26.97463",
+    "longitude": "21.83949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541706754/square.jpg",
+    "date": "2010-06-08",
+    "latitude": "-28.2198305",
+    "longitude": "31.9518652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/541694960/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-28.0515945",
+    "longitude": "32.1209916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541461375/square.jpg",
+    "date": "2024-09-24",
+    "latitude": "-24.0095213796",
+    "longitude": "31.6764218858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541439539/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-0.8678466",
+    "longitude": "36.3714756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541394251/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "-24.0713816667",
+    "longitude": "31.738745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541397724/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-18.1268007718",
+    "longitude": "21.6878061728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541389243/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-0.356",
+    "longitude": "36.101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541365859/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-24.4018331331",
+    "longitude": "31.7579411517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541296560/square.jpg",
+    "date": "2024-12-08",
+    "latitude": "-24.7382364915",
+    "longitude": "27.9388998378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/541174142/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-3.562235631",
+    "longitude": "36.0119418034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/541174137/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-3.562235631",
+    "longitude": "36.0119418034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/541174113/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-3.562235631",
+    "longitude": "36.0119418034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541176793/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-25.400453989",
+    "longitude": "27.7329730242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541123063/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-24.5034480383",
+    "longitude": "31.701666365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540926937/square.jpg",
+    "date": "2024-09-23",
+    "latitude": "-22.4254158948",
+    "longitude": "31.3075506062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540924947/square.jpg",
+    "date": "2024-09-23",
+    "latitude": "-22.7373826593",
+    "longitude": "31.168346895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/540831405/square.jpg",
+    "date": "2023-10-08",
+    "latitude": "-27.645697",
+    "longitude": "32.1511412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/540821561/square.jpg",
+    "date": "2023-10-07",
+    "latitude": "-27.645697",
+    "longitude": "32.1511412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/540816419/square.jpg",
+    "date": "2024-02-10",
+    "latitude": "-27.645697",
+    "longitude": "32.1511412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540845026/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "1.00426263",
+    "longitude": "34.36296379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540717740/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-25.0162302565",
+    "longitude": "31.5880548013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540631463/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-18.5608990653",
+    "longitude": "24.0698417924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus africanus",
+    "common name": "Common Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540598542/square.jpg",
+    "date": "2024-09-27",
+    "latitude": "-18.5608422584",
+    "longitude": "24.0698874746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540419905/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-17.8283699327",
+    "longitude": "25.1128392533",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540419836/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-17.8282447813",
+    "longitude": "25.1127369892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540328983/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-0.7843127378",
+    "longitude": "36.2623877046",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540210144/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-17.8490000333",
+    "longitude": "24.8595893477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540212727/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-13.068815",
+    "longitude": "31.820396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/540152078/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "1.3723783333",
+    "longitude": "37.3394383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539885303/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "0.04619",
+    "longitude": "36.97068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539766307/square.jpg",
+    "date": "2025-06-28",
+    "latitude": "-17.8351946935",
+    "longitude": "25.1101075003",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539683261/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-24.8463861426",
+    "longitude": "31.3709591026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539694962/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-17.7859379155",
+    "longitude": "25.183368054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539527643/square.jpg",
+    "date": "2024-09-22",
+    "latitude": "-22.6757636456",
+    "longitude": "31.0121230244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/539177148/square.jpg",
+    "date": "2019-02-13",
+    "latitude": "-0.5949676425",
+    "longitude": "29.7133416505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://static.inaturalist.org/photos/539176951/square.jpg",
+    "date": "2019-02-13",
+    "latitude": "-0.5949676425",
+    "longitude": "29.7133416505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539041000/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.2024747691",
+    "longitude": "24.3910858644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538526898/square.jpg",
+    "date": "2023-07-31",
+    "latitude": "1.641683193",
+    "longitude": "36.9397272956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538439374/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-19.2968178136",
+    "longitude": "23.4077352018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus africanus",
+    "common name": "Yellow-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538439354/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-19.2894734399",
+    "longitude": "23.3749992944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538439336/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-19.2643421943",
+    "longitude": "23.3497542613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Buphagus erythroryncha",
+    "common name": "Red-billed Oxpecker",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538129061/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-19.8047172754",
+    "longitude": "23.5152243769",
+    "quality_grade": "research"
+  }
+]

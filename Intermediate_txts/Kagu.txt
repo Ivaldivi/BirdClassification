@@ -1,0 +1,1316 @@
+[
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/548347299/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-21.678787371",
+    "longitude": "165.6568993606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534331927/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "-22.0962766363",
+    "longitude": "166.6103928352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527979825/square.jpg",
+    "date": "2023-10-03",
+    "latitude": "-22.0163473068",
+    "longitude": "166.6190129329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524378271/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-22.0707408984",
+    "longitude": "166.6295199489",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507051665/square.jpg",
+    "date": "2025-03-10",
+    "latitude": "-22.05488419",
+    "longitude": "166.6315446149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476380906/square.jpg",
+    "date": "2024-11-13",
+    "latitude": "-22.0019242665",
+    "longitude": "166.6179571741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468178562/square.jpeg",
+    "date": "2023-08-10",
+    "latitude": "-21.5555467237",
+    "longitude": "165.5473173595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468178462/square.jpeg",
+    "date": "2023-08-10",
+    "latitude": "-21.4887251637",
+    "longitude": "165.4363863153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466218816/square.jpeg",
+    "date": "2024-03-27",
+    "latitude": "-22.1755898067",
+    "longitude": "166.7834219669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466218142/square.jpeg",
+    "date": "2024-03-27",
+    "latitude": "-22.0833779634",
+    "longitude": "166.6128783886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462438841/square.jpg",
+    "date": "2010-09-28",
+    "latitude": "-22.1947706352",
+    "longitude": "166.7112543302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460002509/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-21.7419503979",
+    "longitude": "165.7138981423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/455182987/square.jpeg",
+    "date": "2024-11-30",
+    "latitude": "-22.1597607013",
+    "longitude": "166.7197264018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/454752980/square.jpeg",
+    "date": "2024-11-30",
+    "latitude": "-22.037531547",
+    "longitude": "166.6129458938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440564260/square.jpeg",
+    "date": "2022-07-05",
+    "latitude": "-22.069591828",
+    "longitude": "166.7011793232",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438160231/square.jpeg",
+    "date": "2016-05-07",
+    "latitude": "-21.6900538519",
+    "longitude": "165.6796489698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438160357/square.jpeg",
+    "date": "2016-05-07",
+    "latitude": "-21.791643715",
+    "longitude": "165.6482240978",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438160077/square.jpeg",
+    "date": "2016-05-07",
+    "latitude": "-21.7267858703",
+    "longitude": "165.686342718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/434724220/square.jpeg",
+    "date": "2024-05-09",
+    "latitude": "-21.7020781888",
+    "longitude": "165.7323575602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412114568/square.jpeg",
+    "date": "2024-04-23",
+    "latitude": "-22.083536354",
+    "longitude": "166.7474869712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380440076/square.jpg",
+    "date": "2024-05-10",
+    "latitude": "-22.0781924806",
+    "longitude": "166.4565212312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371641270/square.jpeg",
+    "date": "2024-04-27",
+    "latitude": "-22.0817864",
+    "longitude": "166.7530570036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371641187/square.jpeg",
+    "date": "2024-04-27",
+    "latitude": "-22.1277914832",
+    "longitude": "166.6925995211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371641210/square.jpeg",
+    "date": "2024-04-27",
+    "latitude": "-22.1267260497",
+    "longitude": "166.6919227138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371637610/square.jpeg",
+    "date": "2024-04-27",
+    "latitude": "-22.0662420896",
+    "longitude": "166.7023127145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/371637675/square.jpeg",
+    "date": "2024-04-27",
+    "latitude": "-22.0032245444",
+    "longitude": "166.7398513165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361851870/square.jpg",
+    "date": "2024-03-21",
+    "latitude": "-21.797042696",
+    "longitude": "165.7173896241",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358480283/square.jpg",
+    "date": "2023-11-22",
+    "latitude": "-22.0235711934",
+    "longitude": "166.6228481842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355626611/square.jpg",
+    "date": "2024-03-06",
+    "latitude": "-22.1987565303",
+    "longitude": "166.6898895235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348560485/square.jpg",
+    "date": "2024-01-27",
+    "latitude": "-22.1780179755",
+    "longitude": "166.7542520935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348208701/square.jpeg",
+    "date": "2024-01-27",
+    "latitude": "-22.122012149",
+    "longitude": "166.6693569252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/347096244/square.jpeg",
+    "date": "2023-11-11",
+    "latitude": "-22.0790622762",
+    "longitude": "166.7537897514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/344069301/square.jpeg",
+    "date": "2023-12-31",
+    "latitude": "-21.638357284",
+    "longitude": "165.6525053129",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/344069153/square.jpeg",
+    "date": "2023-12-31",
+    "latitude": "-21.7678021727",
+    "longitude": "165.7157542243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/342663060/square.jpeg",
+    "date": "2023-12-26",
+    "latitude": "-22.1842429003",
+    "longitude": "166.7418861751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/342662933/square.jpeg",
+    "date": "2023-12-26",
+    "latitude": "-22.0746955285",
+    "longitude": "166.6178164995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/342662647/square.jpeg",
+    "date": "2023-12-26",
+    "latitude": "-22.0059262561",
+    "longitude": "166.7052929263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342477573/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-21.7293101503",
+    "longitude": "165.7639735495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342477556/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-21.7736950502",
+    "longitude": "165.7573392284",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342477257/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-21.6524117706",
+    "longitude": "165.6294811254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342477180/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-21.6569195588",
+    "longitude": "165.639009362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342477064/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-21.6434839269",
+    "longitude": "165.6995338845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342476987/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-21.7871703962",
+    "longitude": "165.6504486088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/341200943/square.jpeg",
+    "date": "2023-12-17",
+    "latitude": "-21.7596416088",
+    "longitude": "165.7406270706",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/338534365/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-21.7518162792",
+    "longitude": "165.7094850668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/337923306/square.jpeg",
+    "date": "2023-11-09",
+    "latitude": "-21.6266945608",
+    "longitude": "165.7373254953",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/337550716/square.jpg",
+    "date": "2023-11-27",
+    "latitude": "-22.1157602247",
+    "longitude": "166.6785244984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/337550716/square.jpg",
+    "date": "2023-11-26",
+    "latitude": "-21.6706656522",
+    "longitude": "165.6954831664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335204653/square.jpeg",
+    "date": "2023-11-15",
+    "latitude": "-22.0468735753",
+    "longitude": "166.7098910494",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/330459337/square.jpeg",
+    "date": "2023-10-24",
+    "latitude": "-22.1522486442",
+    "longitude": "166.6881472709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/327902674/square.jpg",
+    "date": "2023-01-17",
+    "latitude": "-21.6110939475",
+    "longitude": "165.9016100784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323216732/square.jpeg",
+    "date": "2023-08-12",
+    "latitude": "-22.070922053",
+    "longitude": "166.7375642285",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/315961064/square.jpeg",
+    "date": "2023-09-01",
+    "latitude": "-22.3467383355",
+    "longitude": "166.4522375534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291193182/square.jpg",
+    "date": "2023-04-22",
+    "latitude": "-22.0754102031",
+    "longitude": "166.6924569145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289228905/square.jpeg",
+    "date": "2023-06-12",
+    "latitude": "-22.0832724955",
+    "longitude": "166.6276660137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289226986/square.jpeg",
+    "date": "2023-06-12",
+    "latitude": "-22.0698760593",
+    "longitude": "166.7292171229",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289227139/square.jpeg",
+    "date": "2023-06-12",
+    "latitude": "-22.0677339035",
+    "longitude": "166.7721212481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270562474/square.jpeg",
+    "date": "2023-03-27",
+    "latitude": "-22.0297756576",
+    "longitude": "166.7104386121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/269630789/square.jpg",
+    "date": "2023-03-27",
+    "latitude": "-22.1500458846",
+    "longitude": "166.6245354432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255733870/square.jpeg",
+    "date": "2011-06-28",
+    "latitude": "-22.0039602377",
+    "longitude": "166.6990036297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/254204154/square.jpeg",
+    "date": "2022-12-12",
+    "latitude": "-22.0980312516",
+    "longitude": "166.7540987964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/254198650/square.jpeg",
+    "date": "2022-12-12",
+    "latitude": "-22.1231174244",
+    "longitude": "166.6849126547",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252932316/square.jpeg",
+    "date": "2013-05-22",
+    "latitude": "-22.0762103748",
+    "longitude": "166.7943840634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/252486518/square.jpg",
+    "date": "2022-12-18",
+    "latitude": "-22.1316421103",
+    "longitude": "166.7212533059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/251522192/square.jpg",
+    "date": "2022-12-17",
+    "latitude": "-22.2894924176",
+    "longitude": "166.5553272416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/251403357/square.jpg",
+    "date": "2022-12-17",
+    "latitude": "-22.3667342734",
+    "longitude": "166.4310076067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/250008712/square.jpg",
+    "date": "2022-12-18",
+    "latitude": "-22.0116668906",
+    "longitude": "166.629765575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/249856534/square.jpg",
+    "date": "2022-12-18",
+    "latitude": "-22.1855329011",
+    "longitude": "166.642434044",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/249851280/square.jpg",
+    "date": "2022-12-18",
+    "latitude": "-22.00609406",
+    "longitude": "166.6380196084",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/249845074/square.jpg",
+    "date": "2022-12-18",
+    "latitude": "-22.1140237254",
+    "longitude": "166.7429041905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249646502/square.jpg",
+    "date": "2018-01-17",
+    "latitude": "-21.30347187",
+    "longitude": "165.5639460701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/249428281/square.jpeg",
+    "date": "2022-12-18",
+    "latitude": "-22.0954349718",
+    "longitude": "166.6711248993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/249405784/square.jpeg",
+    "date": "2022-12-22",
+    "latitude": "-21.5714530566",
+    "longitude": "165.7864353796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/249405778/square.jpeg",
+    "date": "2022-12-22",
+    "latitude": "-21.4192045651",
+    "longitude": "165.6137260142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248453906/square.jpeg",
+    "date": "2018-07-18",
+    "latitude": "-21.7477341163",
+    "longitude": "165.6751541138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248328364/square.jpeg",
+    "date": "2018-07-10",
+    "latitude": "-22.0015469149",
+    "longitude": "166.7219178723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248327669/square.jpeg",
+    "date": "2018-07-10",
+    "latitude": "-22.0401824027",
+    "longitude": "166.683455815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248327654/square.jpeg",
+    "date": "2018-07-10",
+    "latitude": "-22.090205857",
+    "longitude": "166.6438095292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248326380/square.jpeg",
+    "date": "2018-07-10",
+    "latitude": "-22.1296622255",
+    "longitude": "166.6914453801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248326380/square.jpeg",
+    "date": "2022-11-20",
+    "latitude": "-21.5860317468",
+    "longitude": "165.7028227001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244409574/square.jpg",
+    "date": "2022-11-21",
+    "latitude": "-21.744874136",
+    "longitude": "165.78135651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/244205914/square.jpeg",
+    "date": "2022-11-19",
+    "latitude": "-22.1537819862",
+    "longitude": "166.7026774921",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/231101536/square.jpg",
+    "date": "2022-09-18",
+    "latitude": "-22.062885847",
+    "longitude": "166.6288907315",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/229900584/square.jpg",
+    "date": "2016-10-01",
+    "latitude": "-22.1443944963",
+    "longitude": "166.724207808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/229894838/square.jpg",
+    "date": "2016-10-01",
+    "latitude": "-22.1905442116",
+    "longitude": "166.7850406372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/229666697/square.jpg",
+    "date": "2018-09-30",
+    "latitude": "-22.1010179384",
+    "longitude": "166.6599301386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225347352/square.jpg",
+    "date": "2010-05-02",
+    "latitude": "-21.1232829065",
+    "longitude": "165.7919863527",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225346846/square.jpg",
+    "date": "2010-05-02",
+    "latitude": "-21.1347625409",
+    "longitude": "165.6761191791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/223442307/square.jpg",
+    "date": "2009-08-29",
+    "latitude": "-22.0524123833",
+    "longitude": "166.6518687031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/217099785/square.jpeg",
+    "date": "2003-11-22",
+    "latitude": "-22.1082659016",
+    "longitude": "166.6625882465",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/213551192/square.jpeg",
+    "date": "2019-05-03",
+    "latitude": "-22.1662124193",
+    "longitude": "166.6698268628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/206937001/square.jpg",
+    "date": "2022-03-26",
+    "latitude": "-22.3049666534",
+    "longitude": "166.5389891766",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203166274/square.jpg",
+    "date": "2019-07-23",
+    "latitude": "-22.0354413263",
+    "longitude": "166.689916133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202133000/square.jpg",
+    "date": "2020-02-09",
+    "latitude": "-21.6595059061",
+    "longitude": "165.764413771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200231660/square.jpeg",
+    "date": "2015-10-10",
+    "latitude": "-21.6453559995",
+    "longitude": "166.0075132073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197705036/square.jpg",
+    "date": "2022-05-14",
+    "latitude": "-22.1808136585",
+    "longitude": "166.7547013776",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173988053/square.jpeg",
+    "date": "2019-05-07",
+    "latitude": "-22.0870403362",
+    "longitude": "166.7377190768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173656998/square.jpg",
+    "date": "2003-01-25",
+    "latitude": "-22.1657479323",
+    "longitude": "166.6040359243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156193688/square.jpeg",
+    "date": "2021-07-10",
+    "latitude": "-22.1585033019",
+    "longitude": "166.7569600587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156192468/square.jpeg",
+    "date": "2021-07-10",
+    "latitude": "-22.1073162307",
+    "longitude": "166.7052226866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156189496/square.jpeg",
+    "date": "2021-07-10",
+    "latitude": "-22.0385556311",
+    "longitude": "166.7553405302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153059879/square.jpeg",
+    "date": "2021-05-16",
+    "latitude": "-22.10067062",
+    "longitude": "166.6336824746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138916535/square.jpeg",
+    "date": "2011-06-28",
+    "latitude": "-22.1285192915",
+    "longitude": "166.7869342462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114599399/square.jpeg",
+    "date": "2019-08-08",
+    "latitude": "-22.065300565",
+    "longitude": "166.6572851908",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114250877/square.jpeg",
+    "date": "2020-11-29",
+    "latitude": "-21.6865663234",
+    "longitude": "165.6493413865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114162486/square.jpg",
+    "date": "2009-06-30",
+    "latitude": "-21.242704596",
+    "longitude": "165.5902623823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114162480/square.jpg",
+    "date": "2009-06-30",
+    "latitude": "-21.298870961",
+    "longitude": "165.4818805301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97054281/square.jpg",
+    "date": "2020-09-23",
+    "latitude": "-21.6097419136",
+    "longitude": "165.7168790883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96900255/square.jpeg",
+    "date": "2020-09-23",
+    "latitude": "-21.7154436375",
+    "longitude": "165.6659849358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91919325/square.jpeg",
+    "date": "2020-01-12",
+    "latitude": "-22.1295300211",
+    "longitude": "166.6256593372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88146914/square.jpg",
+    "date": "2020-01-12",
+    "latitude": "-22.1465636507",
+    "longitude": "166.7395863134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84876472/square.jpg",
+    "date": "2012-07-08",
+    "latitude": "-22.177552199",
+    "longitude": "166.7329397754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77775039/square.jpg",
+    "date": "2020-03-07",
+    "latitude": "-21.7121501606",
+    "longitude": "165.8655646253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67639154/square.jpg",
+    "date": "2017-07-30",
+    "latitude": "-22.3177520374",
+    "longitude": "166.4598926469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67377094/square.jpeg",
+    "date": "2020-02-06",
+    "latitude": "-21.4987953055",
+    "longitude": "165.5048805835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67376861/square.jpeg",
+    "date": "2020-02-06",
+    "latitude": "-22.0861423802",
+    "longitude": "166.6097003691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61422484/square.jpg",
+    "date": "2020-01-03",
+    "latitude": "-22.1383801307",
+    "longitude": "166.6268897433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61250910/square.jpeg",
+    "date": "2019-06-18",
+    "latitude": "-22.1659919441",
+    "longitude": "166.7756227104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58137770/square.jpg",
+    "date": "2019-10-09",
+    "latitude": "-21.7548782567",
+    "longitude": "166.1169996455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58137181/square.jpg",
+    "date": "2019-12-17",
+    "latitude": "-22.0173275265",
+    "longitude": "166.7897132599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/57963149/square.jpg",
+    "date": "2019-11-19",
+    "latitude": "-22.1324187293",
+    "longitude": "166.7042792699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/57963140/square.jpg",
+    "date": "2019-11-19",
+    "latitude": "-22.1237181333",
+    "longitude": "166.7460772238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/57963132/square.jpg",
+    "date": "2019-11-19",
+    "latitude": "-22.1566228767",
+    "longitude": "166.6049450219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57061126/square.jpeg",
+    "date": "2019-11-24",
+    "latitude": "-22.1206283513",
+    "longitude": "166.790012848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56362111/square.jpeg",
+    "date": "2019-10-21",
+    "latitude": "-22.1650877324",
+    "longitude": "166.7825803961",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56361924/square.jpeg",
+    "date": "2019-10-21",
+    "latitude": "-22.0928398856",
+    "longitude": "166.7292077739",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55924569/square.jpg",
+    "date": "2019-11-07",
+    "latitude": "-22.1379938915",
+    "longitude": "166.679571742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54692159/square.jpeg",
+    "date": "2019-10-22",
+    "latitude": "-21.4257411429",
+    "longitude": "165.3782499107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/51249948/square.jpeg",
+    "date": "2019-07-26",
+    "latitude": "-22.1902301761",
+    "longitude": "166.7760847688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/49002153/square.jpg",
+    "date": "2019-03-19",
+    "latitude": "-22.0707674924",
+    "longitude": "166.780225366",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42904853/square.jpg",
+    "date": "2003-06-07",
+    "latitude": "-22.0031405942",
+    "longitude": "166.7770667538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33484568/square.jpeg",
+    "date": "2019-02-28",
+    "latitude": "-22.0809741777",
+    "longitude": "166.6026755036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/30022172/square.jpg",
+    "date": "2019-01-08",
+    "latitude": "-22.015358145",
+    "longitude": "166.762146939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/30021347/square.jpg",
+    "date": "2019-01-08",
+    "latitude": "-22.0109851478",
+    "longitude": "166.7158692947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/29884446/square.jpg",
+    "date": "2018-08-24",
+    "latitude": "-22.1451226345",
+    "longitude": "166.6009312937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/29884342/square.jpg",
+    "date": "2018-08-24",
+    "latitude": "-22.023988492",
+    "longitude": "166.6417769301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28961736/square.jpg",
+    "date": "2010-12-22",
+    "latitude": "-22.0922642554",
+    "longitude": "166.6095508925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27909921/square.jpg",
+    "date": "2017-05-12",
+    "latitude": "-21.4529456269",
+    "longitude": "166.0839614402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27485704/square.jpg",
+    "date": "2011-03-27",
+    "latitude": "-22.1140506634",
+    "longitude": "166.6233665685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27485701/square.jpg",
+    "date": "2015-11-27",
+    "latitude": "-21.6734297559",
+    "longitude": "165.7856254051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27485648/square.jpg",
+    "date": "2015-11-24",
+    "latitude": "-21.671717225",
+    "longitude": "165.6447309945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27485642/square.jpg",
+    "date": "2013-11-07",
+    "latitude": "-22.1134246489",
+    "longitude": "166.7356030998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11239850/square.jpg",
+    "date": "2017-10-01",
+    "latitude": "-22.0497615995",
+    "longitude": "166.6492399736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://static.inaturalist.org/photos/5319870/square.jpeg",
+    "date": "2016-09-20",
+    "latitude": "-22.0941867005",
+    "longitude": "166.7695003398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2858590/square.jpg",
+    "date": "2015-11-25",
+    "latitude": "-21.1407725635",
+    "longitude": "165.3874231234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhynochetos jubatus",
+    "common name": "Kagu",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1623281/square.JPG",
+    "date": "2015-03-01",
+    "latitude": "-21.7844385119",
+    "longitude": "165.6060982004",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,1514 @@
+[
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557025753/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-22.5871793917",
+    "longitude": "46.7112375131",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549796230/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-22.5785910594",
+    "longitude": "46.7067216962",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549795910/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-22.5829869602",
+    "longitude": "46.7060130928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/549389679/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-22.6448961492",
+    "longitude": "45.3312823814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547421604/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-22.5793945186",
+    "longitude": "46.7097872153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547421330/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-22.5802122656",
+    "longitude": "46.706787557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543291574/square.jpg",
+    "date": "2024-11-27",
+    "latitude": "-18.7706204394",
+    "longitude": "48.4321342821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536465230/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-12.795258608",
+    "longitude": "45.119046918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521423660/square.jpg",
+    "date": "2017-07-19",
+    "latitude": "-18.9435460828",
+    "longitude": "48.4138482852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521423638/square.jpg",
+    "date": "2017-07-19",
+    "latitude": "-18.9435460828",
+    "longitude": "48.4138482852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505226037/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "-18.413216",
+    "longitude": "47.941203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/500597463/square.jpeg",
+    "date": "2025-05-02",
+    "latitude": "-22.4656139",
+    "longitude": "45.2617709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479842363/square.jpeg",
+    "date": "2025-03-26",
+    "latitude": "-20.4711184997",
+    "longitude": "47.2119268",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478323541/square.jpeg",
+    "date": "2025-03-21",
+    "latitude": "-20.468571",
+    "longitude": "47.2140577997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477234932/square.jpeg",
+    "date": "2025-03-16",
+    "latitude": "-12.7913729742",
+    "longitude": "45.1009501863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475826869/square.jpeg",
+    "date": "2025-03-11",
+    "latitude": "-12.794413539",
+    "longitude": "45.1182030355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474587514/square.jpeg",
+    "date": "2006-11-18",
+    "latitude": "-16.2233004",
+    "longitude": "46.941659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/471625541/square.jpeg",
+    "date": "2018-10-07",
+    "latitude": "-17.5162303114",
+    "longitude": "46.8823134899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471445747/square.jpg",
+    "date": "2024-12-16",
+    "latitude": "-18.768718652",
+    "longitude": "48.4331910725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/465646038/square.jpg",
+    "date": "2016-06-23",
+    "latitude": "-18.9359148",
+    "longitude": "48.4144491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464734995/square.jpg",
+    "date": "2008-10-20",
+    "latitude": "-20.0633884207",
+    "longitude": "44.6575472597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460831661/square.jpg",
+    "date": "2023-10-27",
+    "latitude": "-22.8417034",
+    "longitude": "44.6818377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459472453/square.jpeg",
+    "date": "2024-11-28",
+    "latitude": "-18.9353990835",
+    "longitude": "48.4186700454",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456101456/square.jpg",
+    "date": "2017-05-10",
+    "latitude": "-16.3129329587",
+    "longitude": "46.8168566163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455885485/square.jpg",
+    "date": "2024-11-14",
+    "latitude": "-18.7706204394",
+    "longitude": "48.4321342821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455677304/square.jpeg",
+    "date": "2024-11-13",
+    "latitude": "-18.9371043704",
+    "longitude": "48.4251992266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454454330/square.jpeg",
+    "date": "2024-10-25",
+    "latitude": "-22.8849241275",
+    "longitude": "44.68224904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454202971/square.jpg",
+    "date": "2024-10-26",
+    "latitude": "-22.8436652929",
+    "longitude": "44.6979178084",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/453140985/square.jpg",
+    "date": "2024-11-18",
+    "latitude": "-22.5840170009",
+    "longitude": "46.7143458243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452422283/square.jpeg",
+    "date": "2024-10-20",
+    "latitude": "-16.3088648856",
+    "longitude": "46.816036306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452196998/square.jpg",
+    "date": "2024-10-20",
+    "latitude": "-16.3114340243",
+    "longitude": "46.8171995502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/451353402/square.jpeg",
+    "date": "2024-11-18",
+    "latitude": "-22.8417034317",
+    "longitude": "44.6818377078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/448844318/square.jpeg",
+    "date": "2024-11-08",
+    "latitude": "-18.9129722248",
+    "longitude": "48.4143884149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447038580/square.jpeg",
+    "date": "2022-08-07",
+    "latitude": "-21.2600711258",
+    "longitude": "45.2861178949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439902406/square.jpg",
+    "date": "2024-09-27",
+    "latitude": "-18.766947",
+    "longitude": "46.869107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437631934/square.jpeg",
+    "date": "2023-11-08",
+    "latitude": "-22.8422275072",
+    "longitude": "44.6815802079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436102900/square.jpeg",
+    "date": "2023-11-08",
+    "latitude": "-22.8833882304",
+    "longitude": "44.6871284571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428531269/square.jpeg",
+    "date": "2024-09-04",
+    "latitude": "-18.9207552405",
+    "longitude": "48.5002395451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/424580552/square.jpeg",
+    "date": "2011-11-08",
+    "latitude": "-15.0167580235",
+    "longitude": "47.2388083488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/424062649/square.jpeg",
+    "date": "2024-08-23",
+    "latitude": "-21.8532416667",
+    "longitude": "46.84185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/418323219/square.jpg",
+    "date": "2023-12-06",
+    "latitude": "-22.8627351508",
+    "longitude": "44.6721706187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417561753/square.jpg",
+    "date": "2023-10-17",
+    "latitude": "-12.6166667",
+    "longitude": "49.15",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417561712/square.jpg",
+    "date": "2023-10-17",
+    "latitude": "-12.6166667",
+    "longitude": "49.15",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399550574/square.jpeg",
+    "date": "2012-01-19",
+    "latitude": "-12.5175133204",
+    "longitude": "49.08719814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/390335792/square.jpeg",
+    "date": "2024-06-02",
+    "latitude": "-18.9471559722",
+    "longitude": "48.4192889722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378664646/square.jpeg",
+    "date": "2012-09-16",
+    "latitude": "-12.8812861111",
+    "longitude": "45.214325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367507154/square.jpg",
+    "date": "2024-04-17",
+    "latitude": "-22.8827666667",
+    "longitude": "44.6947466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364766059/square.jpg",
+    "date": "2024-04-09",
+    "latitude": "-22.4693774454",
+    "longitude": "45.2664079341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/356744925/square.jpeg",
+    "date": "2009-12-04",
+    "latitude": "-12.900462",
+    "longitude": "45.149037",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351007872/square.jpg",
+    "date": "2024-02-10",
+    "latitude": "-12.840699707",
+    "longitude": "45.1240301714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349325440/square.jpeg",
+    "date": "2024-01-30",
+    "latitude": "-18.4067973908",
+    "longitude": "47.8812331305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347355698/square.jpg",
+    "date": "2019-10-21",
+    "latitude": "-22.8838918721",
+    "longitude": "44.6903673345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347353507/square.jpg",
+    "date": "2019-10-10",
+    "latitude": "-12.5184835179",
+    "longitude": "49.1712865236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347353505/square.jpg",
+    "date": "2019-10-10",
+    "latitude": "-12.5184835179",
+    "longitude": "49.1712865236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/344690544/square.jpg",
+    "date": "2023-12-06",
+    "latitude": "-22.0863817",
+    "longitude": "46.7709573",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340788237/square.jpeg",
+    "date": "2023-11-30",
+    "latitude": "-21.2472295391",
+    "longitude": "47.3982430481",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338065022/square.jpeg",
+    "date": "2023-11-06",
+    "latitude": "-19.0076055556",
+    "longitude": "48.4693888889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/333006467/square.jpg",
+    "date": "2023-10-01",
+    "latitude": "-18.814248636",
+    "longitude": "48.4316425062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/332959130/square.jpg",
+    "date": "2023-10-02",
+    "latitude": "-18.7911266667",
+    "longitude": "48.4271233333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/326913421/square.jpeg",
+    "date": "2023-10-09",
+    "latitude": "-18.818075",
+    "longitude": "48.4319638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/324689223/square.jpg",
+    "date": "2019-10-24",
+    "latitude": "-16.3203987268",
+    "longitude": "46.8045549731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/324680040/square.jpg",
+    "date": "2019-11-04",
+    "latitude": "-22.8916607662",
+    "longitude": "44.6906347639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/322975886/square.jpg",
+    "date": "2023-09-24",
+    "latitude": "-12.527195",
+    "longitude": "49.173355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/322975397/square.jpg",
+    "date": "2023-09-24",
+    "latitude": "-12.5275716667",
+    "longitude": "49.1733183333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/316067458/square.jpeg",
+    "date": "2023-09-01",
+    "latitude": "-12.8540576976",
+    "longitude": "45.1093570484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/309268633/square.jpg",
+    "date": "2023-05-14",
+    "latitude": "-18.9342767141",
+    "longitude": "48.4236414635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/309268630/square.jpg",
+    "date": "2023-05-14",
+    "latitude": "-18.9340083688",
+    "longitude": "48.4239847862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/308404979/square.jpg",
+    "date": "2008-09-04",
+    "latitude": "-18.8943341823",
+    "longitude": "48.4346856154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/308071099/square.jpg",
+    "date": "2006-02-01",
+    "latitude": "-21.069441066",
+    "longitude": "47.2084340331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/305270755/square.jpg",
+    "date": "2005-10-27",
+    "latitude": "-21.2549523516",
+    "longitude": "47.4204427634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293072206/square.jpg",
+    "date": "2023-05-27",
+    "latitude": "-18.9402691402",
+    "longitude": "48.4301089563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264402024/square.png",
+    "date": "2015-09-16",
+    "latitude": "-18.9519284532",
+    "longitude": "48.2437799242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264402012/square.png",
+    "date": "2015-09-16",
+    "latitude": "-18.9652491026",
+    "longitude": "48.2511359453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259697363/square.jpg",
+    "date": "2011-04-28",
+    "latitude": "-12.9713080118",
+    "longitude": "45.1342053318",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/254350606/square.jpg",
+    "date": "2019-11-04",
+    "latitude": "-22.9113292441",
+    "longitude": "44.674778167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/251406195/square.jpeg",
+    "date": "2022-03-02",
+    "latitude": "-21.5057329606",
+    "longitude": "47.4444583648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/248473838/square.jpeg",
+    "date": "2022-12-19",
+    "latitude": "-22.8823599444",
+    "longitude": "44.6944966111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245049540/square.jpg",
+    "date": "2022-10-13",
+    "latitude": "-21.240553965",
+    "longitude": "47.39431128",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244721897/square.jpg",
+    "date": "2022-10-11",
+    "latitude": "-22.8851422483",
+    "longitude": "44.6932099383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244050474/square.jpg",
+    "date": "2013-11-09",
+    "latitude": "-22.8505794847",
+    "longitude": "44.708404541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244038472/square.jpg",
+    "date": "2013-11-08",
+    "latitude": "-22.8505794847",
+    "longitude": "44.708404541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236367641/square.jpg",
+    "date": "2013-09-26",
+    "latitude": "-18.8156837501",
+    "longitude": "48.4360416682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225184848/square.jpg",
+    "date": "2011-02-04",
+    "latitude": "-12.8208042634",
+    "longitude": "45.1440058543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222396412/square.jpg",
+    "date": "2022-08-08",
+    "latitude": "-12.3550585038",
+    "longitude": "43.7293629336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207727734/square.jpg",
+    "date": "2009-11-22",
+    "latitude": "-19.9651424982",
+    "longitude": "46.9182280466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207448239/square.jpg",
+    "date": "2020-01-28",
+    "latitude": "-18.9237324125",
+    "longitude": "47.8458206386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187856116/square.jpeg",
+    "date": "2022-04-12",
+    "latitude": "-21.2569342481",
+    "longitude": "47.4251427646",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182295399/square.jpg",
+    "date": "2022-03-08",
+    "latitude": "-12.9855268417",
+    "longitude": "45.108736016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182171032/square.jpg",
+    "date": "2013-11-10",
+    "latitude": "-22.4656139",
+    "longitude": "45.2617709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/180467259/square.jpg",
+    "date": "2005-11-26",
+    "latitude": "-18.8894633235",
+    "longitude": "48.4330812497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179788209/square.jpg",
+    "date": "1998-11-05",
+    "latitude": "-20.7167793765",
+    "longitude": "44.1556416514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178272946/square.jpg",
+    "date": "2019-11-19",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178262704/square.jpg",
+    "date": "2019-11-06",
+    "latitude": "-16.2233004",
+    "longitude": "46.941659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172647000/square.jpeg",
+    "date": "2012-11-03",
+    "latitude": "-22.8839337039",
+    "longitude": "44.6905226144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172645488/square.jpeg",
+    "date": "2012-10-24",
+    "latitude": "-18.7842463754",
+    "longitude": "48.4306932557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172482401/square.jpeg",
+    "date": "2011-10-13",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168504321/square.jpg",
+    "date": "2018-11-02",
+    "latitude": "-20.068635",
+    "longitude": "44.663275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/164670076/square.jpg",
+    "date": "2013-03-16",
+    "latitude": "-22.5671782225",
+    "longitude": "45.3634870498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141417040/square.jpeg",
+    "date": "2017-11-03",
+    "latitude": "-21.2633857983",
+    "longitude": "47.4401615637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138889065/square.jpg",
+    "date": "2018-11-11",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123650162/square.jpeg",
+    "date": "2013-11-13",
+    "latitude": "-22.8417034",
+    "longitude": "44.6818377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118526751/square.jpg",
+    "date": "2019-10-16",
+    "latitude": "-22.6491446105",
+    "longitude": "45.3298149575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118451645/square.jpg",
+    "date": "2019-10-15",
+    "latitude": "-22.8840684736",
+    "longitude": "44.6938886544",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118451013/square.jpg",
+    "date": "2019-10-15",
+    "latitude": "-22.8846307229",
+    "longitude": "44.6924781797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118451008/square.jpg",
+    "date": "2019-10-15",
+    "latitude": "-22.8838270991",
+    "longitude": "44.6931058166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118450958/square.jpg",
+    "date": "2019-10-15",
+    "latitude": "-22.8838507769",
+    "longitude": "44.6928375957",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/107677712/square.jpeg",
+    "date": "2012-04-21",
+    "latitude": "-18.8898392139",
+    "longitude": "48.4352606086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104494891/square.jpeg",
+    "date": "2018-10-18",
+    "latitude": "-18.9071857211",
+    "longitude": "48.4305204442",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104493072/square.jpeg",
+    "date": "2018-10-15",
+    "latitude": "-18.8336328021",
+    "longitude": "48.4194620121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/91325732/square.jpg",
+    "date": "2019-09-24",
+    "latitude": "-21.25817",
+    "longitude": "47.42127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/88220755/square.jpg",
+    "date": "2016-06-23",
+    "latitude": "-18.9357916667",
+    "longitude": "48.4147616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/85368897/square.jpg",
+    "date": "2017-10-20",
+    "latitude": "-22.5586372716",
+    "longitude": "45.3772398586",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74002495/square.jpg",
+    "date": "2016-06-09",
+    "latitude": "-16.3032199745",
+    "longitude": "46.8136681715",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/67514929/square.jpeg",
+    "date": "2019-05-10",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65069439/square.jpg",
+    "date": "2020-02-03",
+    "latitude": "-22.8733623872",
+    "longitude": "44.6916055754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64093842/square.jpg",
+    "date": "2017-08-31",
+    "latitude": "-22.8807442996",
+    "longitude": "44.6889107415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64093840/square.jpg",
+    "date": "2017-08-31",
+    "latitude": "-22.8807442996",
+    "longitude": "44.6889107415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/63446103/square.jpg",
+    "date": "2019-12-12",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/63419890/square.jpg",
+    "date": "2019-12-12",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63199093/square.jpg",
+    "date": "2008-11-14",
+    "latitude": "-22.8858209967",
+    "longitude": "44.6919150668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63031932/square.jpg",
+    "date": "2020-01-26",
+    "latitude": "-18.796114",
+    "longitude": "48.425517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62888758/square.jpg",
+    "date": "2008-05-13",
+    "latitude": "-18.7843201465",
+    "longitude": "44.7406626441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62086456/square.jpg",
+    "date": "2008-12-04",
+    "latitude": "-12.8058927009",
+    "longitude": "45.1631641392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61115573/square.jpeg",
+    "date": "2013-11-10",
+    "latitude": "-22.886",
+    "longitude": "44.692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57994208/square.jpg",
+    "date": "2017-08-31",
+    "latitude": "-20.7168168",
+    "longitude": "44.155705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57229692/square.jpeg",
+    "date": "2014-11-07",
+    "latitude": "-21.2609014221",
+    "longitude": "47.4216340721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55446410/square.jpeg",
+    "date": "2014-10-14",
+    "latitude": "-21.1088988197",
+    "longitude": "45.5631662815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55436024/square.jpg",
+    "date": "2019-10-02",
+    "latitude": "-22.8817016667",
+    "longitude": "44.69303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55436019/square.jpg",
+    "date": "2019-10-02",
+    "latitude": "-22.881665",
+    "longitude": "44.6929983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55435956/square.jpg",
+    "date": "2019-10-02",
+    "latitude": "-22.88383",
+    "longitude": "44.6925883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52308175/square.jpg",
+    "date": "2008-09-15",
+    "latitude": "-12.8640021135",
+    "longitude": "45.1554016344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50542259/square.jpeg",
+    "date": "2019-05-31",
+    "latitude": "-22.8851406071",
+    "longitude": "44.6914175458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49587334/square.jpeg",
+    "date": "2019-08-28",
+    "latitude": "-21.3770828247",
+    "longitude": "47.8654289246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48684809/square.jpeg",
+    "date": "2018-10-07",
+    "latitude": "-18.83498",
+    "longitude": "48.4587382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48031896/square.jpg",
+    "date": "2019-08-12",
+    "latitude": "-22.5399652496",
+    "longitude": "45.3784546197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47290837/square.jpeg",
+    "date": "2016-11-06",
+    "latitude": "-18.927589",
+    "longitude": "48.414349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47290182/square.jpeg",
+    "date": "2016-11-04",
+    "latitude": "-18.927589",
+    "longitude": "48.414349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46118639/square.jpg",
+    "date": "2013-09-03",
+    "latitude": "-18.8597833333",
+    "longitude": "48.470269445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39839859/square.jpeg",
+    "date": "2017-05-26",
+    "latitude": "-22.8416919993",
+    "longitude": "44.6817398071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/35825503/square.jpg",
+    "date": "2018-10-16",
+    "latitude": "-22.881291",
+    "longitude": "44.684141",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29091112/square.jpg",
+    "date": "2018-12-02",
+    "latitude": "-22.8417034",
+    "longitude": "44.6818377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/28457155/square.jpg",
+    "date": "2018-10-27",
+    "latitude": "-16.262408",
+    "longitude": "46.823719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/26644333/square.jpeg",
+    "date": "2018-09-26",
+    "latitude": "-18.9466319725",
+    "longitude": "48.4248558968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/26644118/square.jpeg",
+    "date": "2018-09-26",
+    "latitude": "-18.9466313838",
+    "longitude": "48.4248578148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor discolor",
+    "common name": "Malagasy Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26442355/square.jpeg",
+    "date": "2018-10-05",
+    "latitude": "-18.7899703009",
+    "longitude": "48.4354820563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16527894/square.jpg",
+    "date": "2017-11-20",
+    "latitude": "-16.259504",
+    "longitude": "46.897888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15169110/square.jpeg",
+    "date": "2016-11-25",
+    "latitude": "-20.07",
+    "longitude": "44.6569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/13816934/square.jpg",
+    "date": "2018-02-28",
+    "latitude": "-12.620788274",
+    "longitude": "45.1014299157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13593475/square.jpeg",
+    "date": "2018-02-04",
+    "latitude": "-22.8818955118",
+    "longitude": "44.6931123732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13590780/square.jpeg",
+    "date": "2018-02-04",
+    "latitude": "-22.8840611111",
+    "longitude": "44.6936083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13300240/square.jpeg",
+    "date": "2013-11-10",
+    "latitude": "-22.8417034",
+    "longitude": "44.6818377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12784063/square.jpeg",
+    "date": "2017-12-04",
+    "latitude": "-21.261220997",
+    "longitude": "47.3936462402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12424741/square.jpg",
+    "date": "2017-12-14",
+    "latitude": "-18.9325266667",
+    "longitude": "48.4136283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12418741/square.jpeg",
+    "date": "2017-11-10",
+    "latitude": "-22.8280861318",
+    "longitude": "44.6855163574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12401188/square.jpg",
+    "date": "2017-12-06",
+    "latitude": "-22.8813116667",
+    "longitude": "44.693145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12396291/square.jpeg",
+    "date": "2017-11-03",
+    "latitude": "-20.4939188716",
+    "longitude": "44.1901016235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12396245/square.jpeg",
+    "date": "2017-11-03",
+    "latitude": "-20.5736533236",
+    "longitude": "44.2474365234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/10637931/square.jpg",
+    "date": "2017-09-21",
+    "latitude": "-12.6777947823",
+    "longitude": "45.1594150024",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10056154/square.jpg",
+    "date": "2016-07-19",
+    "latitude": "-18.7717143952",
+    "longitude": "48.4331738949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10056087/square.jpg",
+    "date": "2016-06-21",
+    "latitude": "-18.7680269534",
+    "longitude": "48.4319400787",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9091359/square.jpeg",
+    "date": "2012-08-01",
+    "latitude": "-18.8234783889",
+    "longitude": "48.4318950607",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/6171620/square.jpg",
+    "date": "2016-11-14",
+    "latitude": "-22.88347",
+    "longitude": "44.692833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://static.inaturalist.org/photos/6171619/square.jpg",
+    "date": "2016-11-14",
+    "latitude": "-22.882778",
+    "longitude": "44.694936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5812038/square.jpg",
+    "date": "2015-11-10",
+    "latitude": "-21.250502",
+    "longitude": "47.403001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5218022/square.jpg",
+    "date": "2015-10-31",
+    "latitude": "-18.413342",
+    "longitude": "47.940913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3402120/square.jpg",
+    "date": "2015-10-24",
+    "latitude": "-16.299586",
+    "longitude": "46.815447",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3013889/square.jpg",
+    "date": "2007-11-09",
+    "latitude": "-16.31236",
+    "longitude": "46.816784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leptosomus discolor",
+    "common name": "Cuckoo-roller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2039897/square.jpg",
+    "date": "2010-08-10",
+    "latitude": "-18.978376",
+    "longitude": "44.511795",
+    "quality_grade": "research"
+  }
+]

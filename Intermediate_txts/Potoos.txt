@@ -1,0 +1,1001 @@
+[
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557800922/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-17.2766443544",
+    "longitude": "-56.70812686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557609666/square.jpg",
+    "date": "2024-12-08",
+    "latitude": "10.89241",
+    "longitude": "-84.79567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557354320/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "17.5370448403",
+    "longitude": "-91.9435008344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557199059/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-22.8852310758",
+    "longitude": "-47.033561589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557103154/square.jpg",
+    "date": "2022-04-11",
+    "latitude": "-22.9051359449",
+    "longitude": "-47.0187859911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557102587/square.jpg",
+    "date": "2022-04-11",
+    "latitude": "-22.9050147627",
+    "longitude": "-47.018969969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556663301/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.5799871952",
+    "longitude": "-57.021121681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556663301/square.jpg",
+    "date": "2017-10-10",
+    "latitude": "-27.8884044",
+    "longitude": "-52.2258411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556663301/square.jpg",
+    "date": "2014-11-08",
+    "latitude": "-28.3184911",
+    "longitude": "-51.1780773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/556448586/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "9.2405440468",
+    "longitude": "-83.6199888841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556315930/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-16.4988671105",
+    "longitude": "-56.7038505524",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556306897/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-16.5120833064",
+    "longitude": "-56.7115592211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556254485/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-4.5933916667",
+    "longitude": "-73.6640055556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/556054055/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "8.4819283333",
+    "longitude": "-83.5969866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/555845857/square.jpg",
+    "date": "2020-08-31",
+    "latitude": "-10.706367941",
+    "longitude": "-48.9056041092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555852317/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "17.985917606",
+    "longitude": "-92.9193140097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554839794/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "19.3872444783",
+    "longitude": "-96.6556959848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554604716/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-19.05790845",
+    "longitude": "-56.65375405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554516763/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-0.5052777783",
+    "longitude": "-76.3613888883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554504224/square.jpg",
+    "date": "2025-03-04",
+    "latitude": "5.3366396036",
+    "longitude": "-74.7326487568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554194375/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "20.5988276",
+    "longitude": "-88.1531915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553983932/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553490956/square.jpg",
+    "date": "2023-11-26",
+    "latitude": "10.1580206",
+    "longitude": "-83.7827062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/552936765/square.jpg",
+    "date": "2006-12-27",
+    "latitude": "-2.2404968909",
+    "longitude": "-79.8951932788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/552750230/square.jpg",
+    "date": "2017-07-20",
+    "latitude": "-0.0169444444",
+    "longitude": "-76.1775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552629674/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-3.2055125683",
+    "longitude": "-59.0625614017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552629650/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-3.2055125683",
+    "longitude": "-59.0625614017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552629524/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-3.3901087183",
+    "longitude": "-60.18267681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552629508/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-3.389444695",
+    "longitude": "-60.182748335",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552626181/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-3.0426366667",
+    "longitude": "-64.8565538883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552622882/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "-3.0426602783",
+    "longitude": "-64.8565766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius leucopterus",
+    "common name": "White-winged Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/552296056/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "4.3446946533",
+    "longitude": "-52.3416932952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552289399/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-9.843195",
+    "longitude": "-56.122929445",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552289379/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "-9.8414675",
+    "longitude": "-56.1237486117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552267082/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "8.3928661",
+    "longitude": "-77.8705989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/552220441/square.jpg",
+    "date": "2025-02-02",
+    "latitude": "-0.6253341406",
+    "longitude": "-76.617479406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551992254/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "10.3367291594",
+    "longitude": "-85.1384111732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551951944/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-19.9538489409",
+    "longitude": "-56.3044999675",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551702378/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "19.5956633333",
+    "longitude": "-96.3807883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551521763/square.jpg",
+    "date": "2025-04-05",
+    "latitude": "9.81982",
+    "longitude": "-84.60817",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551516569/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "15.5304261966",
+    "longitude": "-88.0360811949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551194325/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "15.0063030402",
+    "longitude": "-92.2616441682",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551114401/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-15.43455",
+    "longitude": "-55.8265722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551053472/square.jpg",
+    "date": "2006-02-12",
+    "latitude": "11.0209185562",
+    "longitude": "-84.7174973055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phyllaemulor bracteatus",
+    "common name": "Rufous Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/550892252/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "5.282884",
+    "longitude": "-53.485642",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550617440/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-15.9413121805",
+    "longitude": "-56.2353320349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550552150/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-3.8161083445",
+    "longitude": "-70.3442801535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/550311073/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-6.7523852364",
+    "longitude": "-51.1506150663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549452037/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "16.7942365704",
+    "longitude": "-93.0891717801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius leucopterus",
+    "common name": "White-winged Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549315083/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "4.3507237426",
+    "longitude": "-52.3222430248",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548945220/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-9.9457929223",
+    "longitude": "-67.8278946876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548837355/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-18.987",
+    "longitude": "-40.133",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548834929/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-18.986785",
+    "longitude": "-40.1333983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548713766/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-0.327913592",
+    "longitude": "-55.8354987017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/548505285/square.jpg",
+    "date": "2023-03-30",
+    "latitude": "8.5433523325",
+    "longitude": "-83.576616805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548145170/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-3.8187100018",
+    "longitude": "-70.3418115154",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548113787/square.jpg",
+    "date": "2024-05-09",
+    "latitude": "17.484300465",
+    "longitude": "-92.04834018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/547623610/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "6.493209",
+    "longitude": "-74.420097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/547615026/square.jpg",
+    "date": "2021-05-10",
+    "latitude": "-2.3552600569",
+    "longitude": "-54.9079600722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547335752/square.jpg",
+    "date": "2024-09-29",
+    "latitude": "4.8331924",
+    "longitude": "-75.4209166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547289128/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "8.4787202306",
+    "longitude": "-80.3674626444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547282999/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "15.5301966667",
+    "longitude": "-88.0362611667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/547191808/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "3.5473616667",
+    "longitude": "-76.288475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/546890044/square.jpg",
+    "date": "2013-01-08",
+    "latitude": "-22.4521982642",
+    "longitude": "-42.775739094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546865730/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "10.89241",
+    "longitude": "-84.79567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546460049/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "14.8855043081",
+    "longitude": "-92.2926664352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546125494/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-12.836773634",
+    "longitude": "-69.2933266949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546078672/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-0.4050616267",
+    "longitude": "-76.6122775273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/545635755/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "10.5985916667",
+    "longitude": "-61.4468333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545629983/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "20.9673702",
+    "longitude": "-89.5925857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545610028/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "10.4475305272",
+    "longitude": "-84.0182908083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545412383/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-3.8324825628",
+    "longitude": "-70.344738476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545310053/square.jpg",
+    "date": "2014-12-16",
+    "latitude": "-25.8342089",
+    "longitude": "-52.0309977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545310018/square.jpg",
+    "date": "2016-10-29",
+    "latitude": "-27.9409113",
+    "longitude": "-52.9216705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545310000/square.jpg",
+    "date": "2016-02-05",
+    "latitude": "-26.4075341",
+    "longitude": "-52.3598595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545136165/square.jpg",
+    "date": "2023-10-20",
+    "latitude": "-23.7428277778",
+    "longitude": "-46.7203944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544650854/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-0.5244821",
+    "longitude": "-76.4402203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/544645535/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-3.364195668",
+    "longitude": "-64.7183950245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544564143/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "16.8278114",
+    "longitude": "-99.8478451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544549915/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "1.9699366965",
+    "longitude": "-76.0228153691",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544451295/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-2.470072635",
+    "longitude": "-54.9765419733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544207743/square.jpg",
+    "date": "2025-02-21",
+    "latitude": "-29.0837503733",
+    "longitude": "-52.9731610045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544119943/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-0.4063094",
+    "longitude": "-76.6239269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543462004/square.jpg",
+    "date": "2022-12-07",
+    "latitude": "9.1225128174",
+    "longitude": "-79.7156792121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/543206532/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "17.8002879722",
+    "longitude": "-93.4028179722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543086753/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-16.5108012496",
+    "longitude": "-56.7481432039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543086675/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-16.5108012496",
+    "longitude": "-56.7481432039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543056789/square.jpg",
+    "date": "2025-04-17",
+    "latitude": "-28.0699399968",
+    "longitude": "-65.5849389824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543017939/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "15.5296777239",
+    "longitude": "-88.0357693881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542433111/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "8.7826968579",
+    "longitude": "-83.2484639411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541806644/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "11.017",
+    "longitude": "-84.701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541797502/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "17.9558839704",
+    "longitude": "-93.3073214794",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541619083/square.jpg",
+    "date": "2020-02-22",
+    "latitude": "-27.8924133333",
+    "longitude": "-52.637155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541609671/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-12.8520469196",
+    "longitude": "-69.4692068338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/541419404/square.jpg",
+    "date": "2021-05-21",
+    "latitude": "-8.8806624258",
+    "longitude": "-63.9160021702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/541418911/square.jpg",
+    "date": "2021-01-05",
+    "latitude": "-8.8806624258",
+    "longitude": "-63.9160021702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/541418880/square.jpg",
+    "date": "2021-01-04",
+    "latitude": "-8.8806624258",
+    "longitude": "-63.9160021702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/541035612/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-14.1442420126",
+    "longitude": "-66.6627792904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541093359/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "18.0578583333",
+    "longitude": "-76.79535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541078712/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "6.8452934391",
+    "longitude": "-73.3849258348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541036409/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "10.4488768102",
+    "longitude": "-83.5069228336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540931424/square.jpg",
+    "date": "2023-01-20",
+    "latitude": "-20.4738698901",
+    "longitude": "-54.6138671972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540532855/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "21.9737456837",
+    "longitude": "-98.9909765124",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius jamaicensis",
+    "common name": "Northern Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540517286/square.jpg",
+    "date": "2025-03-25",
+    "latitude": "20.9787212696",
+    "longitude": "-89.6690594671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540275534/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-7.4486957902",
+    "longitude": "-73.9408041072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/540210001/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "8.5408354",
+    "longitude": "-83.570964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius griseus",
+    "common name": "Common Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/540203719/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "6.9070464693",
+    "longitude": "-73.388103582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/539819385/square.jpg",
+    "date": "2023-03-09",
+    "latitude": "2.7044616559",
+    "longitude": "-72.2241723967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://static.inaturalist.org/photos/539597789/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-22.6200357953",
+    "longitude": "-52.1734504541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539431839/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "-0.4410946991",
+    "longitude": "-76.2946408999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctibius grandis",
+    "common name": "Great Potoo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539431823/square.jpg",
+    "date": "2025-03-11",
+    "latitude": "-0.4410946991",
+    "longitude": "-76.2946408999",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,1550 @@
+[
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558184374/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-0.0528321103",
+    "longitude": "-78.7820669422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558043894/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-16.6145886788",
+    "longitude": "-56.7328769865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/557805312/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "9.8870889413",
+    "longitude": "-84.0342300385",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557744587/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-16.7491358853",
+    "longitude": "-56.8667541798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557695827/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "9.88701",
+    "longitude": "-84.033746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557584517/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "10.3139779843",
+    "longitude": "-84.8873915612",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556907527/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-0.052545",
+    "longitude": "-78.781395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556669034/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "9.9732",
+    "longitude": "-83.6909716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/556648140/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "4.2226770337",
+    "longitude": "-73.4921142867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556248328/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-4.5735972222",
+    "longitude": "-73.7258",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555286389/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "10.4492246152",
+    "longitude": "-84.0108910865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554964767/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "4.2719905",
+    "longitude": "-75.1139194",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554661076/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "9.97882",
+    "longitude": "-83.8467416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554524134/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-0.0518522074",
+    "longitude": "-78.7813836593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554524071/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-0.0519416956",
+    "longitude": "-78.7813358711",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553982189/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-17.1459998939",
+    "longitude": "-56.5301572946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553828068/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-16.3788014",
+    "longitude": "-56.6214294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/553766079/square.jpg",
+    "date": "2013-10-06",
+    "latitude": "-12.6319630073",
+    "longitude": "-71.2386131897",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553147971/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-14.1694185254",
+    "longitude": "-51.2932818759",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553037760/square.jpg",
+    "date": "2024-07-03",
+    "latitude": "-11.8788073472",
+    "longitude": "-71.3907422664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552962161/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-12.835080053",
+    "longitude": "-71.3841696254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/552851523/square.jpg",
+    "date": "2024-12-15",
+    "latitude": "9.8280803",
+    "longitude": "-83.7730319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/552746120/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-12.173031664",
+    "longitude": "-69.3912165239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552619950/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-16.7502441667",
+    "longitude": "-56.8791491667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/552567306/square.jpg",
+    "date": "2025-01-31",
+    "latitude": "-0.154380576",
+    "longitude": "-75.9610722804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552516902/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-9.5599955663",
+    "longitude": "-55.9080492137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552379317/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-9.5870044803",
+    "longitude": "-55.9264493742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/552220406/square.jpg",
+    "date": "2025-02-02",
+    "latitude": "-0.6253341406",
+    "longitude": "-76.617479406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552216048/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-16.2120442249",
+    "longitude": "-56.5773347744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552048238/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-9.625524494",
+    "longitude": "-55.9273323084",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551563714/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-9.6083813858",
+    "longitude": "-55.9337286097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/551507582/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-8.3179143916",
+    "longitude": "-63.4951601914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551384583/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-10.9686567782",
+    "longitude": "-66.7946705595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551378077/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-16.3956966",
+    "longitude": "-56.6025109997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550692470/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.3639248417",
+    "longitude": "-56.7739716684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550691592/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.3647849918",
+    "longitude": "-56.773542515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550691565/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.3645597148",
+    "longitude": "-56.773478142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550119647/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "9.8070443889",
+    "longitude": "-83.7052094936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/549617458/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "10.3047398281",
+    "longitude": "-84.8088946741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/549587724/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-12.8944764218",
+    "longitude": "-71.4031526883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548953191/square.jpg",
+    "date": "2022-04-13",
+    "latitude": "10.4368996",
+    "longitude": "-84.72261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548611158/square.jpg",
+    "date": "2019-07-15",
+    "latitude": "-16.5031007443",
+    "longitude": "-56.7454539712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548610783/square.jpg",
+    "date": "2019-07-15",
+    "latitude": "-16.5030184495",
+    "longitude": "-56.745529073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/548505029/square.jpg",
+    "date": "2023-03-24",
+    "latitude": "10.8041601857",
+    "longitude": "-85.3185517922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548360571/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "8.6249533333",
+    "longitude": "-80.1391138333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548079391/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-12.6096033333",
+    "longitude": "-69.0478055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548062683/square.jpg",
+    "date": "2019-07-14",
+    "latitude": "-16.5028332859",
+    "longitude": "-56.745593446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548062678/square.jpg",
+    "date": "2019-07-14",
+    "latitude": "-16.502822999",
+    "longitude": "-56.7455612595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547288994/square.jpg",
+    "date": "2023-08-21",
+    "latitude": "-0.7331484595",
+    "longitude": "-47.8498745708",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547134972/square.jpg",
+    "date": "2018-08-13",
+    "latitude": "10.4377587304",
+    "longitude": "-84.011441106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546056888/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-12.9122516667",
+    "longitude": "-69.5180533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545607646/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "10.4468829681",
+    "longitude": "-84.1050395418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545443915/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-0.0529638333",
+    "longitude": "-78.7821366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545023834/square.jpg",
+    "date": "2025-01-31",
+    "latitude": "9.8279211583",
+    "longitude": "-83.7738005611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544451609/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-2.4177535161",
+    "longitude": "-55.2122365893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543086082/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-16.5108012496",
+    "longitude": "-56.7481432039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542412096/square.jpg",
+    "date": "2024-02-03",
+    "latitude": "10.2196606222",
+    "longitude": "-83.8106968698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/540996893/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-0.0513333278",
+    "longitude": "-78.773689398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540499167/square.jpg",
+    "date": "2005-03-31",
+    "latitude": "7.8102437876",
+    "longitude": "-68.8995554243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540434735/square.jpg",
+    "date": "2005-03-30",
+    "latitude": "7.8102437876",
+    "longitude": "-68.8995554243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539373919/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-15.2984797459",
+    "longitude": "-47.4530182712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539358097/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "0.005305",
+    "longitude": "-78.78228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539091721/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-12.8525210546",
+    "longitude": "-69.4694107942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538117691/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-12.6096222222",
+    "longitude": "-69.0482472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/537759352/square.jpg",
+    "date": "2025-07-10",
+    "latitude": "-16.3788014",
+    "longitude": "-56.6214294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537153494/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-16.5524108709",
+    "longitude": "-56.7146055904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/535645040/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "9.8596377341",
+    "longitude": "-83.6522438295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/535550594/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-0.0697721",
+    "longitude": "-78.7616921",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/535549291/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-0.0697721",
+    "longitude": "-78.7616921",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535514655/square.jpg",
+    "date": "2019-02-22",
+    "latitude": "9.8191888147",
+    "longitude": "-83.8858683407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/534509588/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "-16.50339",
+    "longitude": "-56.74516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534187447/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-0.0487169565",
+    "longitude": "-78.7751980126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/534117881/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-0.0529404282",
+    "longitude": "-78.7821234763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532866424/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "4.7473686273",
+    "longitude": "-52.4868392955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532584997/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "9.8281437283",
+    "longitude": "-83.7740189529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/532507123/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-0.4343140182",
+    "longitude": "-76.2899856871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531907821/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "9.8200380727",
+    "longitude": "-83.5393308964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/531856192/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-0.4365299621",
+    "longitude": "-76.2859452264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531018581/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "-0.6233967468",
+    "longitude": "-76.6205932124",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/530528215/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-21.1568911731",
+    "longitude": "-47.9973128155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias helias",
+    "common name": "Amazonian Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424601653/square.jpg",
+    "date": "2024-07-13",
+    "latitude": "-12.8408940601",
+    "longitude": "-69.5034125788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias major",
+    "common name": "Northern Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530067518/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "9.8280803",
+    "longitude": "-83.7730319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530012498/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "10.8006969141",
+    "longitude": "-85.4059716519",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529904557/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "-0.6233303677",
+    "longitude": "-76.6206653788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528740020/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "-16.3806349504",
+    "longitude": "-56.615666946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias major",
+    "common name": "Northern Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527834772/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "9.8276869722",
+    "longitude": "-83.7719189722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527812043/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "-0.4385333333",
+    "longitude": "-76.2791466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527522416/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-10.9228683333",
+    "longitude": "-69.893725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525902974/square.jpg",
+    "date": "2008-11-02",
+    "latitude": "-19.5880777412",
+    "longitude": "-56.14262192",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525657823/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-12.6100797653",
+    "longitude": "-69.0491638184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523044286/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "8.6477876012",
+    "longitude": "-80.1269634858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523001112/square.jpg",
+    "date": "2025-01-08",
+    "latitude": "9.8335209451",
+    "longitude": "-83.5720878307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/522719159/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-0.0487169565",
+    "longitude": "-78.7751980126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/522509461/square.jpg",
+    "date": "2024-02-02",
+    "latitude": "7.7251297467",
+    "longitude": "-65.0084296614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/522214359/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-16.3861783333",
+    "longitude": "-56.6274916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522112894/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "9.8195737615",
+    "longitude": "-83.5544443377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/521756169/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "-0.0529082997",
+    "longitude": "-78.7820865997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521238528/square.jpg",
+    "date": "2025-06-11",
+    "latitude": "-16.3930394516",
+    "longitude": "-56.615630075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519515576/square.jpg",
+    "date": "2025-03-18",
+    "latitude": "8.02406",
+    "longitude": "-77.7302316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519224698/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "3.948930041",
+    "longitude": "-73.4184387516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518390484/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "9.8280427274",
+    "longitude": "-83.7731015536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517887896/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "9.8163711229",
+    "longitude": "-83.7237767503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516910524/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-0.0528277778",
+    "longitude": "-78.78195",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516699306/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "8.6213107",
+    "longitude": "-80.1397108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/516437988/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-0.5250166667",
+    "longitude": "-76.4174316667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/515427526/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-12.606668",
+    "longitude": "-69.039202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515372548/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-0.0514783",
+    "longitude": "-78.7719421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/515287096/square.jpg",
+    "date": "2025-05-26",
+    "latitude": "5.4893989919",
+    "longitude": "-72.3145433888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514311480/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-0.0523289",
+    "longitude": "-78.7813121",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514206772/square.jpg",
+    "date": "2024-12-23",
+    "latitude": "9.8195935533",
+    "longitude": "-83.5542787685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/514006776/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "8.657157",
+    "longitude": "-83.254387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514007031/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "4.1855972222",
+    "longitude": "-73.6080638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/513193299/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-16.195787657",
+    "longitude": "-67.7535657954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512956953/square.jpg",
+    "date": "2024-10-18",
+    "latitude": "-2.4681289476",
+    "longitude": "-54.6506078876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512515183/square.jpg",
+    "date": "2024-09-13",
+    "latitude": "-16.4365266083",
+    "longitude": "-56.6163724594",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512514575/square.jpg",
+    "date": "2024-09-09",
+    "latitude": "-16.7515472079",
+    "longitude": "-56.8805809917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511892182/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "9.2298133333",
+    "longitude": "-83.44352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510128500/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-4.5246707217",
+    "longitude": "-73.4760463571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/510126522/square.jpg",
+    "date": "2024-05-23",
+    "latitude": "10.7268794079",
+    "longitude": "-85.3868444476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509980576/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "-12.5197416667",
+    "longitude": "-68.979645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509705922/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "-18.9211916667",
+    "longitude": "-54.8662466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/509279304/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "10.3285388",
+    "longitude": "-84.82784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508954106/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "-12.5189457428",
+    "longitude": "-68.9799527451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508383374/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "8.6210772696",
+    "longitude": "-80.1403376264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508021417/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "8.6204132323",
+    "longitude": "-80.1402196093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507375534/square.jpg",
+    "date": "2023-08-15",
+    "latitude": "-16.3788014",
+    "longitude": "-56.6214294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505282356/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "10.4313616667",
+    "longitude": "-84.0050666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505274518/square.jpg",
+    "date": "2025-05-06",
+    "latitude": "4.1858042908",
+    "longitude": "-73.609933795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/504093552/square.jpeg",
+    "date": "2025-05-10",
+    "latitude": "9.8278026295",
+    "longitude": "-83.7718087435",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/503678977/square.jpeg",
+    "date": "2025-05-10",
+    "latitude": "9.9009003345",
+    "longitude": "-84.2420190945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/503120458/square.jpeg",
+    "date": "2025-05-10",
+    "latitude": "-12.608902",
+    "longitude": "-69.096608",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502261324/square.jpg",
+    "date": "2022-09-23",
+    "latitude": "-16.5223272034",
+    "longitude": "-56.7168168139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502032400/square.jpeg",
+    "date": "2025-04-12",
+    "latitude": "9.8196769997",
+    "longitude": "-83.5543136531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502009827/square.jpeg",
+    "date": "2020-11-27",
+    "latitude": "9.1630114956",
+    "longitude": "-79.7365111113",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501416885/square.jpeg",
+    "date": "2025-05-04",
+    "latitude": "1.3684359063",
+    "longitude": "-70.2067914316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/501409051/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "-2.9636134095",
+    "longitude": "-50.0866690965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500479894/square.jpeg",
+    "date": "2024-07-14",
+    "latitude": "-12.8917095752",
+    "longitude": "-71.4029291555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499751049/square.jpeg",
+    "date": "2024-07-07",
+    "latitude": "-12.8917011487",
+    "longitude": "-71.4029459873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499544862/square.jpeg",
+    "date": "2025-05-03",
+    "latitude": "1.2712402962",
+    "longitude": "-70.2103960142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499399452/square.jpeg",
+    "date": "2024-06-29",
+    "latitude": "-12.8914976811",
+    "longitude": "-71.4028553385",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499398448/square.jpeg",
+    "date": "2024-06-24",
+    "latitude": "-12.8915697351",
+    "longitude": "-71.4029451387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499345653/square.jpeg",
+    "date": "2024-06-22",
+    "latitude": "-12.8917479869",
+    "longitude": "-71.4030864886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498014024/square.jpg",
+    "date": "2025-03-23",
+    "latitude": "9.8281316159",
+    "longitude": "-83.7735093332",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497767159/square.jpeg",
+    "date": "2024-12-17",
+    "latitude": "9.8217748544",
+    "longitude": "-83.5558112425",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/497701206/square.jpeg",
+    "date": "2025-04-30",
+    "latitude": "3.9454758167",
+    "longitude": "-73.2712026034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496128236/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "-5.9020040833",
+    "longitude": "-76.108505187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495804396/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "9.819825",
+    "longitude": "-83.5543216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495804392/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "9.8196766667",
+    "longitude": "-83.5543133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494693721/square.jpeg",
+    "date": "2025-04-20",
+    "latitude": "1.5960403638",
+    "longitude": "-75.5788331494",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/494421081/square.jpg",
+    "date": "2024-10-24",
+    "latitude": "3.881632",
+    "longitude": "-67.879638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/492848468/square.jpeg",
+    "date": "2025-03-16",
+    "latitude": "9.7686597",
+    "longitude": "-83.7982351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489860530/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "9.8339083333",
+    "longitude": "-83.5667583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489795406/square.jpeg",
+    "date": "2025-04-14",
+    "latitude": "9.83521118",
+    "longitude": "-83.4151385772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488804909/square.jpg",
+    "date": "2025-01-01",
+    "latitude": "5.3275426354",
+    "longitude": "-71.7564305275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://static.inaturalist.org/photos/488020009/square.jpg",
+    "date": "2025-04-17",
+    "latitude": "9.9009003686",
+    "longitude": "-84.2420191236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias helias",
+    "common name": "Amazonian Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487905418/square.jpeg",
+    "date": "2009-09-21",
+    "latitude": "-5.2665286989",
+    "longitude": "-75.6068749956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487662778/square.jpg",
+    "date": "2021-07-11",
+    "latitude": "-10.04176935",
+    "longitude": "-56.4057117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487064570/square.jpg",
+    "date": "2025-03-21",
+    "latitude": "-12.4780800517",
+    "longitude": "-69.090807905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487063973/square.jpg",
+    "date": "2025-03-21",
+    "latitude": "-12.4778683333",
+    "longitude": "-69.0887533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486826239/square.jpg",
+    "date": "2025-04-13",
+    "latitude": "8.6254366667",
+    "longitude": "-80.1391971667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486648063/square.jpeg",
+    "date": "2014-04-28",
+    "latitude": "-7.0922694474",
+    "longitude": "-77.0599241981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486040464/square.jpeg",
+    "date": "2025-04-13",
+    "latitude": "10.3003053665",
+    "longitude": "-84.7828598022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485639423/square.jpg",
+    "date": "2024-10-15",
+    "latitude": "-16.2645026",
+    "longitude": "-56.6281145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485109659/square.jpeg",
+    "date": "2025-03-29",
+    "latitude": "9.8285233333",
+    "longitude": "-83.7739566667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484817627/square.jpeg",
+    "date": "2024-06-28",
+    "latitude": "-2.512571123",
+    "longitude": "-54.9391362504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484572877/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "-12.6018575217",
+    "longitude": "-69.0451044517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484029135/square.jpeg",
+    "date": "2025-04-06",
+    "latitude": "-12.6084450317",
+    "longitude": "-69.0386781276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483897157/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "9.766698824",
+    "longitude": "-83.7982881614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483474256/square.jpeg",
+    "date": "2024-12-18",
+    "latitude": "2.4802777154",
+    "longitude": "-72.7452776581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483455316/square.jpeg",
+    "date": "2025-04-02",
+    "latitude": "-6.0734993934",
+    "longitude": "-76.9764493033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482919885/square.jpg",
+    "date": "2025-03-24",
+    "latitude": "6.0142334781",
+    "longitude": "-71.2990524496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Eurypyga helias",
+    "common name": "Sunbittern",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482608761/square.jpg",
+    "date": "2025-03-31",
+    "latitude": "9.4499083333",
+    "longitude": "-83.6096033333",
+    "quality_grade": "research"
+  }
+]

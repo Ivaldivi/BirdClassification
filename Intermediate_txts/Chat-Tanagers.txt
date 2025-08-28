@@ -1,0 +1,308 @@
+[
+  {
+    "species": "Calyptophilus frugivorus",
+    "common name": "Eastern Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/503809464/square.jpeg",
+    "date": "2025-05-10",
+    "latitude": "18.113615",
+    "longitude": "-71.2263783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus",
+    "common name": "Eastern Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/503809143/square.jpeg",
+    "date": "2025-02-16",
+    "latitude": "18.1820870144",
+    "longitude": "-71.2805438508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/468076129/square.jpeg",
+    "date": "2025-01-28",
+    "latitude": "18.3082418689",
+    "longitude": "-71.7047108264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/468076110/square.jpeg",
+    "date": "2025-01-27",
+    "latitude": "18.1787548",
+    "longitude": "-71.2803812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456907344/square.jpg",
+    "date": "2010-01-09",
+    "latitude": "18.311713099",
+    "longitude": "-71.7092933125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456906571/square.png",
+    "date": "2024-05-10",
+    "latitude": "18.2600103681",
+    "longitude": "-71.7425729526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422962675/square.jpg",
+    "date": "2024-03-08",
+    "latitude": "18.0895221075",
+    "longitude": "-71.1961723199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/386471965/square.jpg",
+    "date": "2024-05-11",
+    "latitude": "18.2951809056",
+    "longitude": "-71.6356177955",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/383474986/square.png",
+    "date": "2024-05-11",
+    "latitude": "18.2598134122",
+    "longitude": "-71.7425323169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/383472685/square.jpg",
+    "date": "2022-11-19",
+    "latitude": "18.0897364969",
+    "longitude": "-71.195012424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382571107/square.jpg",
+    "date": "2023-07-08",
+    "latitude": "18.3080667655",
+    "longitude": "-71.7044438849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343559820/square.jpg",
+    "date": "2023-11-30",
+    "latitude": "18.3059260717",
+    "longitude": "-71.69663731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/334019404/square.png",
+    "date": "2023-11-07",
+    "latitude": "18.1122517453",
+    "longitude": "-71.2264944973",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus",
+    "common name": "Eastern Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/334015579/square.png",
+    "date": "2023-11-07",
+    "latitude": "18.113647618",
+    "longitude": "-71.2264117944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/290434710/square.jpeg",
+    "date": "2023-04-14",
+    "latitude": "18.3079694444",
+    "longitude": "-71.7041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/290434710/square.jpeg",
+    "date": "2023-04-16",
+    "latitude": "18.0920495945",
+    "longitude": "-71.1943122384",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278483946/square.jpg",
+    "date": "2023-05-11",
+    "latitude": "18.091075145",
+    "longitude": "-71.194204971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278483946/square.jpg",
+    "date": "2023-05-11",
+    "latitude": "18.089683058",
+    "longitude": "-71.1961643087",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278483946/square.jpg",
+    "date": "2023-05-11",
+    "latitude": "18.0897037478",
+    "longitude": "-71.1961150451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278483946/square.jpg",
+    "date": "2023-04-16",
+    "latitude": "18.0900098147",
+    "longitude": "-71.1959730461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278483946/square.jpg",
+    "date": "2023-04-14",
+    "latitude": "18.308904672",
+    "longitude": "-71.7072054371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278483946/square.jpg",
+    "date": "2023-04-14",
+    "latitude": "18.3090399509",
+    "longitude": "-71.7078119516",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278483946/square.jpg",
+    "date": "2023-04-14",
+    "latitude": "18.3078615888",
+    "longitude": "-71.6999208927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/266522059/square.jpg",
+    "date": "2023-04-09",
+    "latitude": "19.0585018",
+    "longitude": "-70.5443421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus",
+    "common name": "Eastern Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/264581730/square.jpg",
+    "date": "2021-03-10",
+    "latitude": "18.7561216844",
+    "longitude": "-70.6261521156",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/244904947/square.jpg",
+    "date": "2022-11-19",
+    "latitude": "18.1283395647",
+    "longitude": "-71.2682250705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220032356/square.jpg",
+    "date": "2022-07-14",
+    "latitude": "18.312381",
+    "longitude": "-71.707231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220024643/square.jpg",
+    "date": "2022-07-13",
+    "latitude": "18.086487",
+    "longitude": "-71.190615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199268421/square.jpeg",
+    "date": "2022-03-18",
+    "latitude": "18.2600050391",
+    "longitude": "-71.7429059272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199268421/square.jpeg",
+    "date": "2022-03-05",
+    "latitude": "18.1155598109",
+    "longitude": "-71.2091894986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/171565264/square.jpg",
+    "date": "2021-11-30",
+    "latitude": "18.3081693533",
+    "longitude": "-71.7007054183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120627476/square.jpeg",
+    "date": "2021-04-08",
+    "latitude": "18.0751704045",
+    "longitude": "-71.0595524407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus frugivorus neibae",
+    "common name": "Cordillera Central Chat-Tanager",
+    "observation photo url": "https://static.inaturalist.org/photos/82505168/square.jpeg",
+    "date": "2017-02-14",
+    "latitude": "19.0337552765",
+    "longitude": "-70.9269254407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calyptophilus tertius",
+    "common name": "Western Chat-Tanager",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13063809/square.jpg",
+    "date": "2018-01-13",
+    "latitude": "18.2141058675",
+    "longitude": "-71.7454433441",
+    "quality_grade": "research"
+  }
+]

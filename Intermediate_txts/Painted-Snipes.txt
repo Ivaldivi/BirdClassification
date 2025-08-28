@@ -1,0 +1,1577 @@
+[
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557956385/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "22.5081966667",
+    "longitude": "114.11886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557956322/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "22.5081966667",
+    "longitude": "114.11886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/557954637/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0140867526",
+    "longitude": "100.7312506253",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557572566/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "32.3695221",
+    "longitude": "34.9794636",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556545357/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "30.4271549582",
+    "longitude": "103.6208801457",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556433823/square.jpg",
+    "date": "2018-06-19",
+    "latitude": "21.3550114",
+    "longitude": "81.7284553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556407590/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "23.1175676176",
+    "longitude": "120.2939105011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556309734/square.jpg",
+    "date": "2024-03-16",
+    "latitude": "25.1109166382",
+    "longitude": "121.4063341815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556309721/square.jpg",
+    "date": "2024-03-16",
+    "latitude": "25.0198210812",
+    "longitude": "121.5308847814",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556309683/square.jpg",
+    "date": "2024-03-16",
+    "latitude": "25.1251163836",
+    "longitude": "121.594861013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556309667/square.jpg",
+    "date": "2024-03-16",
+    "latitude": "25.1128773813",
+    "longitude": "121.5788180937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557412708/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "32.242245",
+    "longitude": "117.5643216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555502582/square.jpg",
+    "date": "2024-02-11",
+    "latitude": "19.8964641",
+    "longitude": "85.4381683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555112535/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-6.0780498365",
+    "longitude": "39.2493607499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555000213/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "24.0639954242",
+    "longitude": "120.4657044665",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/554651127/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "32.3674419651",
+    "longitude": "34.9762928427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/554547348/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "22.090888961",
+    "longitude": "88.7613659352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/554546407/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "22.090888961",
+    "longitude": "88.7613659352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554521959/square.jpg",
+    "date": "2019-10-26",
+    "latitude": "30.3472851555",
+    "longitude": "119.9347169339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554140208/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "23.720795181",
+    "longitude": "120.4290795359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553957359/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-18.8696713127",
+    "longitude": "27.0684073718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553708230/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "14.0086483297",
+    "longitude": "100.7267899019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553662659/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553497288/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553114911/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "23.1189283333",
+    "longitude": "120.2895716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/552785447/square.jpg",
+    "date": "2024-01-28",
+    "latitude": "19.9194047",
+    "longitude": "85.4254317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/552634488/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "23.5453666667",
+    "longitude": "120.4410066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550846684/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "23.2310469225",
+    "longitude": "120.1116385038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549830283/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "24.315554457",
+    "longitude": "120.5515715592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549750049/square.jpg",
+    "date": "2025-04-09",
+    "latitude": "12.9755059649",
+    "longitude": "77.689801231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549749817/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "12.9755059649",
+    "longitude": "77.689801231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549697572/square.jpg",
+    "date": "2025-05-08",
+    "latitude": "7.8740707322",
+    "longitude": "80.6510853767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549252078/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "12.0400924369",
+    "longitude": "75.2974850312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549207805/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "18.1488435705",
+    "longitude": "83.4502556845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549204759/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "30.4286032085",
+    "longitude": "103.6190859557",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/548887394/square.jpg",
+    "date": "2025-05-02",
+    "latitude": "-3.6707716667",
+    "longitude": "39.8609116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548818665/square.jpg",
+    "date": "2025-04-01",
+    "latitude": "19.2181576712",
+    "longitude": "73.072250818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548818663/square.jpg",
+    "date": "2025-04-01",
+    "latitude": "19.2181576712",
+    "longitude": "73.072250818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548425144/square.jpg",
+    "date": "2020-02-15",
+    "latitude": "-30.9592257",
+    "longitude": "24.6636781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548383146/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "12.9755061",
+    "longitude": "77.6898011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547329174/square.jpg",
+    "date": "2015-01-31",
+    "latitude": "20.2801748004",
+    "longitude": "100.0117617138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546989359/square.jpg",
+    "date": "2020-02-15",
+    "latitude": "-30.8954781079",
+    "longitude": "24.6393683756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546989316/square.jpg",
+    "date": "2020-02-15",
+    "latitude": "-30.8955024847",
+    "longitude": "24.6394431975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546875130/square.jpg",
+    "date": "2011-05-02",
+    "latitude": "12.9476787911",
+    "longitude": "99.9060466211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546799295/square.jpg",
+    "date": "2022-09-02",
+    "latitude": "25.0221333333",
+    "longitude": "121.4461527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546799150/square.jpg",
+    "date": "2022-09-01",
+    "latitude": "25.0367916667",
+    "longitude": "121.4557944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546799016/square.jpg",
+    "date": "2022-09-01",
+    "latitude": "25.0243722222",
+    "longitude": "121.4434722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546755559/square.jpg",
+    "date": "2023-05-14",
+    "latitude": "24.6788398791",
+    "longitude": "120.8689502207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545428277/square.jpg",
+    "date": "2025-04-16",
+    "latitude": "26.3028099099",
+    "longitude": "119.214072435",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544886095/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544789161/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-23.7241666667",
+    "longitude": "28.0875222222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544288052/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "23.2617332169",
+    "longitude": "120.0099510483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544288035/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "23.364726287",
+    "longitude": "120.0932671134",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544270022/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "23.24775",
+    "longitude": "120.1529083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nycticryphes semicollaris",
+    "common name": "South American Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544214407/square.jpg",
+    "date": "2022-01-23",
+    "latitude": "-28.6940007755",
+    "longitude": "-53.6879308149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/543234310/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "32.3702482519",
+    "longitude": "34.9792888635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542804897/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "23.3561335303",
+    "longitude": "120.2781194922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542155498/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "27.4746654201",
+    "longitude": "75.2304036543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542149666/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "22.090888961",
+    "longitude": "88.7613659352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542123166/square.jpg",
+    "date": "2017-10-29",
+    "latitude": "-27.8168686593",
+    "longitude": "32.2900195859",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542100145/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "24.3412652007",
+    "longitude": "120.7034709771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/541562025/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "22.6222822913",
+    "longitude": "120.4610897228",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/541156500/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "32.3700787536",
+    "longitude": "34.9797853856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540680196/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540680130/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "21.0236297116",
+    "longitude": "75.557762386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540624930/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "22.5053222867",
+    "longitude": "114.1101855877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540545643/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "25.1072857997",
+    "longitude": "121.5049480997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540270508/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-2.652",
+    "longitude": "37.261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538866292/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "15.8176888663",
+    "longitude": "108.2642224361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538507620/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "23.2370236976",
+    "longitude": "120.1304887891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538253661/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "35.4166876066",
+    "longitude": "129.2917382937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540633003/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "11.2772669606",
+    "longitude": "77.6943339217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/537540778/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "22.3636887",
+    "longitude": "105.7351171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536884368/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "24.668722",
+    "longitude": "121.635034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536884361/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "24.668743",
+    "longitude": "121.634956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536743397/square.jpg",
+    "date": "2023-07-07",
+    "latitude": "26.8144971991",
+    "longitude": "75.691902861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536519202/square.jpg",
+    "date": "2023-03-19",
+    "latitude": "24.8371430261",
+    "longitude": "120.9766712504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/536433143/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "27.2408720532",
+    "longitude": "77.8893760219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536153047/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-20.8876435811",
+    "longitude": "14.9288286065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536077446/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-20.8867831845",
+    "longitude": "14.9298940194",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536066181/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "23.2380204854",
+    "longitude": "120.1467654256",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/535871971/square.jpg",
+    "date": "2023-06-08",
+    "latitude": "12.8925300068",
+    "longitude": "80.1122248918",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/534992952/square.jpg",
+    "date": "2025-06-11",
+    "latitude": "3.9753333335",
+    "longitude": "115.6170361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533757901/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "23.4584716667",
+    "longitude": "121.3820283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/533390892/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "32.1272718645",
+    "longitude": "118.5255224214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533246266/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "21.0251550834",
+    "longitude": "75.5723591795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/533091593/square.jpg",
+    "date": "2025-01-10",
+    "latitude": "-2.6523916667",
+    "longitude": "37.2745861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/532787572/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "23.0889316667",
+    "longitude": "121.21992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/531754584/square.jpg",
+    "date": "2022-03-05",
+    "latitude": "19.2670365",
+    "longitude": "73.1504904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531737007/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "11.7413139",
+    "longitude": "79.3588365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531129559/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "23.22404331",
+    "longitude": "120.12501476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530817804/square.jpg",
+    "date": "2025-07-03",
+    "latitude": "23.3038455288",
+    "longitude": "120.3836459911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530785960/square.jpg",
+    "date": "2019-05-26",
+    "latitude": "28.4933670921",
+    "longitude": "77.265294722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530717334/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "21.0257929944",
+    "longitude": "75.5633367452",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530139801/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "23.0963470208",
+    "longitude": "120.1338209779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/529658970/square.jpg",
+    "date": "2022-11-17",
+    "latitude": "13.6254373665",
+    "longitude": "99.8641287786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529427865/square.jpg",
+    "date": "2023-11-17",
+    "latitude": "-17.424",
+    "longitude": "14.168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nycticryphes semicollaris",
+    "common name": "South American Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528357745/square.jpg",
+    "date": "2020-03-12",
+    "latitude": "-31.231621",
+    "longitude": "-60.514192",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528045526/square.jpg",
+    "date": "2021-05-09",
+    "latitude": "12.1029757",
+    "longitude": "79.9010784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527944111/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "22.7486627264",
+    "longitude": "120.3081269354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/527646179/square.jpg",
+    "date": "2024-12-07",
+    "latitude": "23.2137529217",
+    "longitude": "91.1599802971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/527481384/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "24.2348378508",
+    "longitude": "120.4191541019",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nycticryphes semicollaris",
+    "common name": "South American Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527071648/square.jpg",
+    "date": "2024-09-17",
+    "latitude": "-27.4889934142",
+    "longitude": "-58.7121809797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526567934/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-33.7558445263",
+    "longitude": "21.3235160708",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525987935/square.jpg",
+    "date": "2024-07-19",
+    "latitude": "11.4583042043",
+    "longitude": "107.3500582266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524389844/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "0.7268818861",
+    "longitude": "124.3253528442",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524263779/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "12.6790366667",
+    "longitude": "77.7771066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523291355/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "35.417047903",
+    "longitude": "129.2921200273",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523291270/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "35.4170072247",
+    "longitude": "129.2921555486",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523286438/square.jpg",
+    "date": "2025-02-18",
+    "latitude": "25.3981103921",
+    "longitude": "114.8246799409",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523249335/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "23.646981218",
+    "longitude": "120.3048634508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522548163/square.jpg",
+    "date": "2010-11-04",
+    "latitude": "-18.8067816683",
+    "longitude": "16.9389570583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/522317126/square.jpg",
+    "date": "2024-06-25",
+    "latitude": "3.970692809",
+    "longitude": "115.6177997721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522249058/square.jpg",
+    "date": "2024-09-16",
+    "latitude": "-2.3333333",
+    "longitude": "34.8333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/521306614/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "24.0468463889",
+    "longitude": "120.3932547222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/521167916/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "19.89646",
+    "longitude": "85.50416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521175894/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "14.0069107788",
+    "longitude": "100.7286806326",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/520817918/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "17.628781402",
+    "longitude": "78.76110601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520238240/square.jpg",
+    "date": "2025-06-13",
+    "latitude": "13.7505781",
+    "longitude": "100.7943199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519316709/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-24.2420276306",
+    "longitude": "31.6423539254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519176629/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "30.6941946581",
+    "longitude": "76.8605647981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula australis",
+    "common name": "Australian Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519171774/square.jpg",
+    "date": "2023-11-25",
+    "latitude": "-26.4025551747",
+    "longitude": "152.9448962295",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518627927/square.jpg",
+    "date": "2025-03-29",
+    "latitude": "23.2486067792",
+    "longitude": "113.6559931048",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518160015/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "17.6620871794",
+    "longitude": "74.0377399693",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/518096313/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "22.5087952",
+    "longitude": "114.1129771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/518053509/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "22.914168",
+    "longitude": "120.289927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/517540166/square.jpg",
+    "date": "2003-04-27",
+    "latitude": "26.7030954649",
+    "longitude": "128.0474022363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517017944/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "12.1540796407",
+    "longitude": "79.8964031175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517004327/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "12.2374733773",
+    "longitude": "-1.546706009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula australis",
+    "common name": "Australian Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516975324/square.jpg",
+    "date": "2010-11-25",
+    "latitude": "-32.1618859557",
+    "longitude": "115.9223273127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525939940/square.jpg",
+    "date": "2025-06-02",
+    "latitude": "19.1694809873",
+    "longitude": "73.1799034774",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516345044/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "23.0533792607",
+    "longitude": "120.1919291535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/516013504/square.jpg",
+    "date": "2025-05-05",
+    "latitude": "24.2009347831",
+    "longitude": "120.4938720895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515557859/square.jpg",
+    "date": "2025-05-23",
+    "latitude": "21.0251550834",
+    "longitude": "75.5723591795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/515150561/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "23.8965785414",
+    "longitude": "120.5698871613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515035474/square.jpg",
+    "date": "2020-05-24",
+    "latitude": "35.1116473",
+    "longitude": "136.7257424",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515021020/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "24.7210419681",
+    "longitude": "121.7312843353",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/514085484/square.jpg",
+    "date": "2025-02-21",
+    "latitude": "-2.6526705",
+    "longitude": "37.2606207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nycticryphes semicollaris",
+    "common name": "South American Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/513711647/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-31.8263301865",
+    "longitude": "-65.0128626823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513504887/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "23.2164410392",
+    "longitude": "120.2925923754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513395091/square.jpg",
+    "date": "2020-08-20",
+    "latitude": "-25.8816578093",
+    "longitude": "28.2952498886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513336006/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "36.7045197634",
+    "longitude": "116.8290260062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/513313522/square.jpg",
+    "date": "2025-01-13",
+    "latitude": "22.5052149992",
+    "longitude": "114.1103875637",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nycticryphes semicollaris",
+    "common name": "South American Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512711567/square.jpg",
+    "date": "2019-11-24",
+    "latitude": "-31.2548561",
+    "longitude": "-50.9716701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512308624/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "21.0251550834",
+    "longitude": "75.5723591795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512304638/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "21.0251550834",
+    "longitude": "75.5723591795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512131426/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "21.0251550834",
+    "longitude": "75.5723591795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/511949333/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "35.4157170752",
+    "longitude": "129.290638568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511750230/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "24.74243",
+    "longitude": "121.7618633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/511372100/square.jpg",
+    "date": "2025-04-17",
+    "latitude": "24.7154833333",
+    "longitude": "121.710305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511292430/square.jpg",
+    "date": "2024-02-20",
+    "latitude": "13.7508433333",
+    "longitude": "100.81891",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511219392/square.jpg",
+    "date": "2025-05-27",
+    "latitude": "23.5814299519",
+    "longitude": "120.4448010165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511157420/square.jpg",
+    "date": "2024-07-16",
+    "latitude": "23.3590231781",
+    "longitude": "120.3934983909",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510865296/square.jpg",
+    "date": "2024-12-14",
+    "latitude": "-29.6402283333",
+    "longitude": "30.42098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510673344/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "22.7759295617",
+    "longitude": "113.9614106342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510406557/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "14.0109666667",
+    "longitude": "100.72681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/510235518/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "24.6505766667",
+    "longitude": "121.8195966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/510151523/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "35.1251960028",
+    "longitude": "135.9819238633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/510151529/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "35.134064419",
+    "longitude": "135.9904051608",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510005405/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "23.1979165997",
+    "longitude": "120.2933033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/508608923/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-19.7744817134",
+    "longitude": "20.4694288168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508496364/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "23.7415805556",
+    "longitude": "120.2150833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/508205246/square.jpg",
+    "date": "2025-05-21",
+    "latitude": "23.7409833333",
+    "longitude": "120.2167138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507628715/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "17.6643385113",
+    "longitude": "74.0393178314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/508116752/square.jpg",
+    "date": "2025-02-19",
+    "latitude": "24.7097663997",
+    "longitude": "121.7026687997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/507171698/square.jpg",
+    "date": "2025-02-07",
+    "latitude": "24.7148885",
+    "longitude": "121.7078869997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506770501/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "13.6429516015",
+    "longitude": "100.8644065586",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506769613/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "13.6443755861",
+    "longitude": "100.8640756112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/506704478/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "28.1453547694",
+    "longitude": "113.3963602809",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/506619848/square.jpg",
+    "date": "2025-03-31",
+    "latitude": "9.1302278548",
+    "longitude": "-1.6070115363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/506580117/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "35.1160883313",
+    "longitude": "135.9753125533",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nycticryphes semicollaris",
+    "common name": "South American Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506498526/square.jpg",
+    "date": "2023-07-09",
+    "latitude": "-30.9082825463",
+    "longitude": "-62.4324810459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506249270/square.jpg",
+    "date": "2019-10-15",
+    "latitude": "3.9758283564",
+    "longitude": "115.6184192529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506223451/square.jpg",
+    "date": "2019-10-10",
+    "latitude": "3.9744680276",
+    "longitude": "115.6170127038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rostratula benghalensis",
+    "common name": "Greater Painted-Snipe",
+    "observation photo url": "https://static.inaturalist.org/photos/506078277/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "35.1150000924",
+    "longitude": "135.9757702053",
+    "quality_grade": "research"
+  }
+]

@@ -1,0 +1,1451 @@
+[
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558136185/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.928716089",
+    "longitude": "153.0138684092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://static.inaturalist.org/photos/558061817/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "18.5291882791",
+    "longitude": "73.8185686263",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage maculosa",
+    "common name": "Polynesian Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557976028/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-18.0465777275",
+    "longitude": "178.070411152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage maculosa",
+    "common name": "Polynesian Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557974176/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-18.046557916",
+    "longitude": "178.0711598995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557937734/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.5956873048",
+    "longitude": "151.8918326024",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557923448/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-28.56341",
+    "longitude": "153.5587083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cantonensis",
+    "common name": "Brown-rumped Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557899253/square.jpg",
+    "date": "2014-01-13",
+    "latitude": "19.3435024917",
+    "longitude": "73.691034615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina javensis",
+    "common name": "Oriental Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557896791/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "26.8491845",
+    "longitude": "88.3603576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina macei",
+    "common name": "Indian Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557873224/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "17.7173384365",
+    "longitude": "78.6290908336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus solaris",
+    "common name": "Gray-chinned Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557869792/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "24.250436822",
+    "longitude": "120.9540779102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557866740/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-23.3642083333",
+    "longitude": "150.5145583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557865206/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-25.9089984",
+    "longitude": "153.0075225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557630810/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "6.472253881",
+    "longitude": "124.3042118437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557604142/square.jpg",
+    "date": "2019-02-18",
+    "latitude": "20.6821703",
+    "longitude": "81.1692374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557604151/square.jpg",
+    "date": "2019-02-18",
+    "latitude": "20.6821703",
+    "longitude": "81.1692374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557594859/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "26.9644318",
+    "longitude": "88.2740982",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557588219/square.jpg",
+    "date": "2019-02-10",
+    "latitude": "20.541179",
+    "longitude": "81.6649182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus flammeus",
+    "common name": "Orange Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557519477/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "11.8557305556",
+    "longitude": "76.0516111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557504189/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-32.1509496064",
+    "longitude": "115.841306157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557472355/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2760600347",
+    "longitude": "152.759578324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557477692/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-14.180222255",
+    "longitude": "132.1886128333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557461976/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-32.8338466667",
+    "longitude": "151.70933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557455201/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-31.2954189331",
+    "longitude": "149.1318179127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus solaris",
+    "common name": "Gray-chinned Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557391588/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "24.2141044618",
+    "longitude": "121.20274522",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus solaris",
+    "common name": "Gray-chinned Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557391197/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "24.3816003025",
+    "longitude": "121.3699419604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage sueurii",
+    "common name": "White-shouldered Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557437060/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-8.132175",
+    "longitude": "114.478695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557435672/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.6591783333",
+    "longitude": "151.1539083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434432/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.6594583333",
+    "longitude": "151.1538833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557431329/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-27.2499888889",
+    "longitude": "153.087175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557370587/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7754411617",
+    "longitude": "143.4232462777",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557369657/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7726127114",
+    "longitude": "143.4238242276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557362337/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7887086696",
+    "longitude": "143.4205338396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557407685/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2760763102",
+    "longitude": "152.7598392634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557383246/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-35.165392372",
+    "longitude": "138.494251009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus flammeus",
+    "common name": "Orange Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557373668/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "10.308",
+    "longitude": "76.905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557370981/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.2760763102",
+    "longitude": "152.7598392634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557373001/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "22.3742691917",
+    "longitude": "114.2648227101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus flammeus",
+    "common name": "Orange Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557359965/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "17.7689072743",
+    "longitude": "73.7422983348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557359353/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "17.7690190229",
+    "longitude": "73.7423643842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557195221/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-18.7950028335",
+    "longitude": "143.4221426579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557094802/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-18.1071868336",
+    "longitude": "144.8279631747",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557093490/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-17.6302092655",
+    "longitude": "145.3713191942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Campephaga flava",
+    "common name": "Black Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557300210/square.jpg",
+    "date": "2023-10-25",
+    "latitude": "-26.1564395",
+    "longitude": "31.9823599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus erythropygius",
+    "common name": "White-bellied Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557129948/square.jpg",
+    "date": "2025-01-14",
+    "latitude": "11.579",
+    "longitude": "76.656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557067254/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "22.3739990111",
+    "longitude": "114.2655379325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus solaris",
+    "common name": "Gray-chinned Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557035677/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "22.3251333929",
+    "longitude": "114.2632992938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus flammeus",
+    "common name": "Orange Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557024451/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "11.7747921348",
+    "longitude": "78.2097052038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceblepyris cinereus",
+    "common name": "Madagascar Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557022636/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-22.5870228647",
+    "longitude": "46.7111378461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556980625/square.jpg",
+    "date": "2024-04-10",
+    "latitude": "30.4356360557",
+    "longitude": "77.6772314696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus solaris",
+    "common name": "Gray-chinned Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556954258/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "24.8760696639",
+    "longitude": "121.7549778986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556917008/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "30.2246751",
+    "longitude": "78.7986181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556904860/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-19.2530692749",
+    "longitude": "146.80964234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556904863/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-19.2530157665",
+    "longitude": "146.80964234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556892707/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-30.5357917631",
+    "longitude": "117.5655968115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556886893/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-30.5357920519",
+    "longitude": "117.5655968115",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556876993/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.9273173979",
+    "longitude": "151.1388366102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556877000/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.9272461802",
+    "longitude": "151.1393273005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage melanoptera",
+    "common name": "Black-headed Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556876005/square.jpg",
+    "date": "2024-12-29",
+    "latitude": "19.3435024917",
+    "longitude": "73.691034615",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://static.inaturalist.org/photos/556869667/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "22.090888961",
+    "longitude": "88.7613659352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina macei",
+    "common name": "Indian Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556866764/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "22.090888961",
+    "longitude": "88.7613659352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556859834/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-36.8243216667",
+    "longitude": "144.2186733333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556856149/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "19.3482403924",
+    "longitude": "73.6918805167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556844426/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-24.1118582673",
+    "longitude": "152.7161642024",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556844348/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-24.1118582673",
+    "longitude": "152.7161642024",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556849712/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-26.7362335997",
+    "longitude": "153.1300320997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556840744/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-26.7989783333",
+    "longitude": "150.6798466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556834357/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-8.2165366059",
+    "longitude": "125.6081833059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556833607/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-7.9872954376",
+    "longitude": "113.788818866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://static.inaturalist.org/photos/556827248/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-19.4378383333",
+    "longitude": "146.946975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556801270/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-33.8259993136",
+    "longitude": "151.1458840721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556751077/square.jpg",
+    "date": "2019-06-03",
+    "latitude": "-12.5619488238",
+    "longitude": "131.3016197556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556775638/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-34.6512095188",
+    "longitude": "138.454018737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus divaricatus",
+    "common name": "Ashy Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556766762/square.jpg",
+    "date": "2024-12-15",
+    "latitude": "21.9639620206",
+    "longitude": "120.7185439386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage maculosa",
+    "common name": "Polynesian Triller",
+    "observation photo url": "https://static.inaturalist.org/photos/556720440/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-13.9565812923",
+    "longitude": "-171.5192251993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556637511/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.3420701997",
+    "longitude": "131.021928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556496368/square.jpg",
+    "date": "2018-01-15",
+    "latitude": "15.2652413574",
+    "longitude": "74.5979959863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage melanoptera",
+    "common name": "Black-headed Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556508145/square.jpg",
+    "date": "2018-10-14",
+    "latitude": "15.4396",
+    "longitude": "74.2522",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556501354/square.jpg",
+    "date": "2018-10-13",
+    "latitude": "15.3776333",
+    "longitude": "74.2306659",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://static.inaturalist.org/photos/556480667/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.902438412",
+    "longitude": "113.5722339617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://static.inaturalist.org/photos/556480132/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.8979347717",
+    "longitude": "113.5722339617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus solaris",
+    "common name": "Gray-chinned Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556422379/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "3.7113276931",
+    "longitude": "101.7365295812",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage sueurii",
+    "common name": "White-shouldered Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556402869/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-8.1797997453",
+    "longitude": "114.4389811098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556390957/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-12.3762611111",
+    "longitude": "130.8632777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556378627/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-23.197036319",
+    "longitude": "150.7867816282",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556345766/square.jpg",
+    "date": "2025-04-10",
+    "latitude": "22.177124746",
+    "longitude": "80.6554881157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556345139/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "14.1641509643",
+    "longitude": "100.7996034251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556328241/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.2999444",
+    "longitude": "153.0335611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556316830/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-16.9232753971",
+    "longitude": "145.7988833509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556264874/square.jpg",
+    "date": "2018-11-28",
+    "latitude": "-28.4534824763",
+    "longitude": "115.7227156279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556245739/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-19.2016227778",
+    "longitude": "146.7524766667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556227408/square.jpg",
+    "date": "2025-01-12",
+    "latitude": "12.0734366",
+    "longitude": "76.1510815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556206309/square.jpg",
+    "date": "2024-10-10",
+    "latitude": "-28.8395968905",
+    "longitude": "153.2845562052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556159684/square.jpg",
+    "date": "2018-02-23",
+    "latitude": "-14.1549584134",
+    "longitude": "126.2362238267",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage melaschistos",
+    "common name": "Black-winged Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556068146/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "40.3779471777",
+    "longitude": "115.4375912942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage melaschistos",
+    "common name": "Black-winged Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556068111/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "40.377960893",
+    "longitude": "115.4376762308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina macei",
+    "common name": "Indian Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556051511/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "18.0570861326",
+    "longitude": "82.6762475737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556043162/square.jpg",
+    "date": "2018-01-04",
+    "latitude": "27.2151863",
+    "longitude": "77.5029996",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556039168/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-7.9864869593",
+    "longitude": "113.7891642004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus erythropygius",
+    "common name": "White-bellied Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556003655/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "18.146748952",
+    "longitude": "73.9769198745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555997728/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "22.3740889216",
+    "longitude": "114.2650541291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555997696/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "22.3740889216",
+    "longitude": "114.2650541291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555956543/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-31.8572033333",
+    "longitude": "115.765555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555953972/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-33.8099893997",
+    "longitude": "151.2722751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage melanoptera",
+    "common name": "Black-headed Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555935194/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "28.3589",
+    "longitude": "77.0417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555933756/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.2002647222",
+    "longitude": "146.7553463889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina macei",
+    "common name": "Indian Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555928465/square.jpg",
+    "date": "2017-12-19",
+    "latitude": "20.5806789",
+    "longitude": "81.4416324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage nigra",
+    "common name": "Pied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555923482/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "3.4735507874",
+    "longitude": "117.8666279915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage nigra",
+    "common name": "Pied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555923410/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "3.4736408731",
+    "longitude": "117.8668693903",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Campephaga flava",
+    "common name": "Black Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555922138/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-19.1791966667",
+    "longitude": "15.9181216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555912851/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-27.4860325489",
+    "longitude": "153.4790871922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina macei",
+    "common name": "Indian Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555920334/square.jpg",
+    "date": "2017-10-10",
+    "latitude": "21.1610957",
+    "longitude": "81.7864088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555919841/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.6714182793",
+    "longitude": "131.0348213351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555871069/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.8125351058",
+    "longitude": "153.2021606844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555839142/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-37.8035529625",
+    "longitude": "145.0041214768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555837368/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.9115203362",
+    "longitude": "153.2807870434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina lineata",
+    "common name": "Barred Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555837371/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-17.2534325",
+    "longitude": "145.6307875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555820588/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-31.9508966667",
+    "longitude": "115.8037416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555818418/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.2418816171",
+    "longitude": "146.7919806669",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555762394/square.jpg",
+    "date": "2025-04-09",
+    "latitude": "-33.0078471934",
+    "longitude": "151.7067540363",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555574437/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-17.0440243657",
+    "longitude": "145.3495053368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus roseus",
+    "common name": "Rosy Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555671005/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "18.077959698",
+    "longitude": "82.6592856646",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555615176/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "22.2633461768",
+    "longitude": "114.2438490736",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555563223/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-8.497164848",
+    "longitude": "115.6120594963",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555523389/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-36.1491916667",
+    "longitude": "146.5496083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555515884/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "29.5502375",
+    "longitude": "79.1107344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus roseus",
+    "common name": "Rosy Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555504914/square.jpg",
+    "date": "2024-03-24",
+    "latitude": "19.8950625",
+    "longitude": "84.1158281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555503468/square.jpg",
+    "date": "2016-09-22",
+    "latitude": "-12.5794204933",
+    "longitude": "130.9831769314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555490412/square.jpg",
+    "date": "2023-11-27",
+    "latitude": "19.8474125",
+    "longitude": "85.0241719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555476801/square.jpg",
+    "date": "2017-08-18",
+    "latitude": "-27.3797459418",
+    "longitude": "153.0354210721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555468851/square.jpg",
+    "date": "2022-04-28",
+    "latitude": "20.299397",
+    "longitude": "85.805869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555463504/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.2003822728",
+    "longitude": "146.7503927416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555461791/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "18.6661848526",
+    "longitude": "73.5020411992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555412240/square.jpg",
+    "date": "2025-06-25",
+    "latitude": "-17.0444569597",
+    "longitude": "145.3503567009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555406018/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "-17.0450609596",
+    "longitude": "145.3519255833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus flammeus",
+    "common name": "Orange Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555441854/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "8.6799271204",
+    "longitude": "77.168523632",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555434556/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.6124434389",
+    "longitude": "152.8695237931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555434036/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-19.2758633333",
+    "longitude": "146.767945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus solaris",
+    "common name": "Gray-chinned Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555422984/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "6.0298283333",
+    "longitude": "116.5470733333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555418435/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-16.260767",
+    "longitude": "145.392064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555413706/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-18.655345412",
+    "longitude": "146.1493078619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina papuensis",
+    "common name": "White-bellied Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555387297/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-20.4461846273",
+    "longitude": "148.415302746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage tricolor",
+    "common name": "White-winged Triller",
+    "observation photo url": "https://static.inaturalist.org/photos/555385906/square.jpg",
+    "date": "2024-11-29",
+    "latitude": "-34.229395",
+    "longitude": "142.222558",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555378631/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-20.4462317504",
+    "longitude": "148.4112656862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina maxima",
+    "common name": "Ground Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555322400/square.jpg",
+    "date": "2016-01-14",
+    "latitude": "-35.5931038196",
+    "longitude": "145.0902724471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina javensis",
+    "common name": "Oriental Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555196206/square.jpg",
+    "date": "2024-07-25",
+    "latitude": "21.8839186123",
+    "longitude": "88.8853761926",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555145682/square.jpg",
+    "date": "2017-11-23",
+    "latitude": "23.1509944",
+    "longitude": "79.3681199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555142733/square.jpg",
+    "date": "2017-11-24",
+    "latitude": "21.0842848",
+    "longitude": "70.7944414",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555134971/square.jpg",
+    "date": "2017-11-26",
+    "latitude": "23.1401337",
+    "longitude": "72.3928391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus cinnamomeus",
+    "common name": "Small Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555106536/square.jpg",
+    "date": "2025-01-17",
+    "latitude": "21.2874329515",
+    "longitude": "76.5902126793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina macei",
+    "common name": "Indian Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555105707/square.jpg",
+    "date": "2025-01-28",
+    "latitude": "21.2874329515",
+    "longitude": "76.5902126793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555103486/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "-27.9451355275",
+    "longitude": "145.6662388438",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555101709/square.jpg",
+    "date": "2025-06-09",
+    "latitude": "-27.9805767513",
+    "longitude": "145.6744785898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina macei",
+    "common name": "Indian Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555090680/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "27.5898282778",
+    "longitude": "84.4562433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina javensis",
+    "common name": "Oriental Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555089371/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "27.5888799722",
+    "longitude": "84.463155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lalage leucomela",
+    "common name": "Varied Triller",
+    "observation photo url": "https://static.inaturalist.org/photos/555063795/square.jpg",
+    "date": "2017-12-08",
+    "latitude": "-16.4401335901",
+    "longitude": "145.4061610349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ceblepyris caesius",
+    "common name": "Grey Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555111624/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-33.9468839291",
+    "longitude": "22.4647463858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555045012/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-35.299618247",
+    "longitude": "138.4555406852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus flammeus",
+    "common name": "Orange Minivet",
+    "observation photo url": "https://static.inaturalist.org/photos/555037073/square.jpg",
+    "date": "2023-10-06",
+    "latitude": "20.7542138889",
+    "longitude": "73.4976722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coracina novaehollandiae",
+    "common name": "Black-faced Cuckooshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555031682/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "-27.911568",
+    "longitude": "153.280648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555024812/square.jpg",
+    "date": "2021-12-13",
+    "latitude": "18.6989090365",
+    "longitude": "108.9120804745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pericrocotus speciosus",
+    "common name": "Scarlet Minivet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555011453/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "22.4185366667",
+    "longitude": "114.2063666667",
+    "quality_grade": "research"
+  }
+]

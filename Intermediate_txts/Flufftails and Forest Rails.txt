@@ -1,0 +1,1532 @@
+[
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556928890/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-26.1554144311",
+    "longitude": "27.971423975",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556928890/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-34.0619035714",
+    "longitude": "18.8734448701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548367383/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "-24.4168473922",
+    "longitude": "31.8987536688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546377576/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-33.5347664615",
+    "longitude": "27.0448704064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/545972834/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "0.4050892411",
+    "longitude": "30.4052185336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545270419/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-29.73023775",
+    "longitude": "31.0425836944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura affinis",
+    "common name": "Striped Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545270419/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-32.7067103286",
+    "longitude": "25.6488345936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536489974/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-21.26104535",
+    "longitude": "47.4197197372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531248534/square.jpg",
+    "date": "2025-05-07",
+    "latitude": "-29.431307634",
+    "longitude": "31.2467562945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531248405/square.jpg",
+    "date": "2025-05-04",
+    "latitude": "-29.4313150825",
+    "longitude": "31.2467509301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524380875/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-29.7105311997",
+    "longitude": "31.0933984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524376959/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-29.548552",
+    "longitude": "31.2056384997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/520832149/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-29.5485305556",
+    "longitude": "31.2054500556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520777009/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-29.5485361108",
+    "longitude": "31.2056441233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra centralis",
+    "common name": "White-spotted Flufftail (Southern)",
+    "observation photo url": "https://static.inaturalist.org/photos/518335297/square.jpg",
+    "date": "2025-02-27",
+    "latitude": "0.2262706357",
+    "longitude": "34.8833602951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516597370/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "-34.0118423793",
+    "longitude": "23.4132159602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515573139/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "-21.2627438914",
+    "longitude": "47.4225708396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514384453/square.jpg",
+    "date": "2023-10-22",
+    "latitude": "-11.3171817507",
+    "longitude": "25.1139378186",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/506752570/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "-33.4512382338",
+    "longitude": "18.4363534302",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/506674507/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "-33.4507103639",
+    "longitude": "18.4368714318",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505294328/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-33.3159578467",
+    "longitude": "26.5341010317",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura affinis",
+    "common name": "Striped Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486236530/square.jpg",
+    "date": "2023-05-22",
+    "latitude": "-34.0836614715",
+    "longitude": "18.4013195185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485759696/square.jpeg",
+    "date": "2025-04-12",
+    "latitude": "-33.9459120411",
+    "longitude": "22.4448681217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484217658/square.jpeg",
+    "date": "2025-04-05",
+    "latitude": "-33.9460210782",
+    "longitude": "22.4449476566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra pulchra",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/478742397/square.jpeg",
+    "date": "2025-03-02",
+    "latitude": "6.8405976532",
+    "longitude": "0.4466540441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474370855/square.jpg",
+    "date": "2025-03-05",
+    "latitude": "0.4037",
+    "longitude": "30.4049566667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474370855/square.jpg",
+    "date": "2025-03-05",
+    "latitude": "-29.535675142",
+    "longitude": "31.1988854595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473617863/square.jpg",
+    "date": "2024-01-11",
+    "latitude": "5.2452937771",
+    "longitude": "-1.3879763717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473617863/square.jpg",
+    "date": "2025-02-24",
+    "latitude": "-29.77130809",
+    "longitude": "30.7787788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469044911/square.jpg",
+    "date": "2016-04-27",
+    "latitude": "-26.3739417338",
+    "longitude": "28.0991121487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464911307/square.jpeg",
+    "date": "2025-01-20",
+    "latitude": "-29.728279602",
+    "longitude": "31.0445529968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460476277/square.jpeg",
+    "date": "2024-07-25",
+    "latitude": "0.2215399504",
+    "longitude": "34.8921873103",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460476277/square.jpeg",
+    "date": "2024-12-29",
+    "latitude": "-33.9445576209",
+    "longitude": "22.856345553",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460113436/square.jpeg",
+    "date": "2024-12-26",
+    "latitude": "-27.342",
+    "longitude": "30.142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459948083/square.jpg",
+    "date": "2024-12-26",
+    "latitude": "-27.342",
+    "longitude": "30.142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459948083/square.jpg",
+    "date": "2024-12-28",
+    "latitude": "-33.9445903579",
+    "longitude": "22.856422654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459028369/square.jpeg",
+    "date": "2024-12-24",
+    "latitude": "-34.0039448199",
+    "longitude": "23.2574640768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura insularis",
+    "common name": "Madagascar Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458708191/square.jpeg",
+    "date": "2024-11-25",
+    "latitude": "-19.008843488",
+    "longitude": "48.4793798664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458125633/square.jpeg",
+    "date": "2024-11-22",
+    "latitude": "-21.2604744679",
+    "longitude": "47.5574503872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458125633/square.jpeg",
+    "date": "2024-12-14",
+    "latitude": "-29.5489910524",
+    "longitude": "29.9625162687",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456704368/square.jpeg",
+    "date": "2024-11-06",
+    "latitude": "-18.9300649087",
+    "longitude": "48.4187792461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455438039/square.jpg",
+    "date": "2024-11-28",
+    "latitude": "-25.8215716667",
+    "longitude": "28.2954083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454672460/square.jpeg",
+    "date": "2024-12-02",
+    "latitude": "-29.543583",
+    "longitude": "31.2026840997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/454405064/square.jpeg",
+    "date": "2024-12-01",
+    "latitude": "-25.8215047931",
+    "longitude": "28.29529915",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/452853082/square.jpeg",
+    "date": "2024-11-05",
+    "latitude": "5.3254910343",
+    "longitude": "-1.395177811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/452853082/square.jpeg",
+    "date": "2024-11-23",
+    "latitude": "-29.5379118",
+    "longitude": "31.2052752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452232840/square.jpeg",
+    "date": "2024-11-16",
+    "latitude": "-18.8408436116",
+    "longitude": "48.4664291279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/451567431/square.jpg",
+    "date": "2023-11-08",
+    "latitude": "-26.6726510785",
+    "longitude": "27.0908262139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451348305/square.jpeg",
+    "date": "2024-11-08",
+    "latitude": "5.3478997647",
+    "longitude": "-1.371704909",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/450753889/square.jpeg",
+    "date": "2024-11-07",
+    "latitude": "-21.2604429338",
+    "longitude": "47.4204540802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rallicula leucospila",
+    "common name": "White-striped Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449329950/square.jpeg",
+    "date": "2017-09-27",
+    "latitude": "-1.1047168776",
+    "longitude": "133.9491462148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449359048/square.jpeg",
+    "date": "2024-11-07",
+    "latitude": "-33.9462903672",
+    "longitude": "22.4451016243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448988893/square.jpeg",
+    "date": "2024-11-07",
+    "latitude": "-33.946219549",
+    "longitude": "22.4448232616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447986880/square.jpeg",
+    "date": "2024-10-30",
+    "latitude": "-28.9684585698",
+    "longitude": "29.4474313036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446783901/square.jpg",
+    "date": "2022-01-03",
+    "latitude": "5.3467242966",
+    "longitude": "-1.5873313158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446783901/square.jpg",
+    "date": "2024-10-29",
+    "latitude": "-33.9489914523",
+    "longitude": "22.4453059025",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445371369/square.jpeg",
+    "date": "2023-11-19",
+    "latitude": "-28.377531",
+    "longitude": "32.4107259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442332685/square.jpeg",
+    "date": "2024-10-16",
+    "latitude": "-28.3882833079",
+    "longitude": "32.40884386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441250769/square.jpeg",
+    "date": "2024-07-23",
+    "latitude": "-28.3839402608",
+    "longitude": "32.4115334451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441250769/square.jpeg",
+    "date": "2024-10-04",
+    "latitude": "-34.3683919149",
+    "longitude": "19.2486270288",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441250769/square.jpeg",
+    "date": "2024-09-18",
+    "latitude": "-29.8602943495",
+    "longitude": "30.9803060442",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/429009716/square.jpeg",
+    "date": "2024-09-08",
+    "latitude": "-29.8371815948",
+    "longitude": "30.9428037331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/424068262/square.jpeg",
+    "date": "2024-08-26",
+    "latitude": "-30.2187091203",
+    "longitude": "30.782790184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423754294/square.jpg",
+    "date": "2024-08-23",
+    "latitude": "-30.2744062476",
+    "longitude": "30.736804381",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423754294/square.jpg",
+    "date": "2024-08-25",
+    "latitude": "-29.7515273668",
+    "longitude": "30.7948613462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418474167/square.jpeg",
+    "date": "2024-08-03",
+    "latitude": "-34.0367689611",
+    "longitude": "22.8199322149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura affinis",
+    "common name": "Striped Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418177081/square.jpeg",
+    "date": "2024-08-11",
+    "latitude": "-34.3802265204",
+    "longitude": "18.9908996632",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417262939/square.jpeg",
+    "date": "2024-08-09",
+    "latitude": "-33.115697048",
+    "longitude": "27.7264025876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/416776645/square.jpg",
+    "date": "2024-01-14",
+    "latitude": "5.413511",
+    "longitude": "-1.40797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/415299500/square.jpeg",
+    "date": "2024-08-04",
+    "latitude": "-29.7124955927",
+    "longitude": "31.0938182166",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/414585082/square.jpeg",
+    "date": "2024-08-02",
+    "latitude": "-30.2188290625",
+    "longitude": "30.7827107236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413420285/square.jpg",
+    "date": "2024-07-27",
+    "latitude": "-29.4200991997",
+    "longitude": "31.2527365997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411716293/square.jpeg",
+    "date": "2024-07-03",
+    "latitude": "-34.0367753514",
+    "longitude": "22.8198115155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411716375/square.jpeg",
+    "date": "2024-06-29",
+    "latitude": "-34.0367784076",
+    "longitude": "22.8197974339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411301131/square.jpg",
+    "date": "2018-11-28",
+    "latitude": "5.3375166667",
+    "longitude": "-1.3788611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/410947405/square.jpeg",
+    "date": "2024-07-09",
+    "latitude": "-29.7242319036",
+    "longitude": "31.0553277894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/410947407/square.jpeg",
+    "date": "2024-07-12",
+    "latitude": "-29.725885",
+    "longitude": "31.047169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/410947407/square.jpeg",
+    "date": "2024-07-21",
+    "latitude": "-33.9509083778",
+    "longitude": "18.9157590643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/409231353/square.jpeg",
+    "date": "2024-07-20",
+    "latitude": "-28.9587645997",
+    "longitude": "31.7583641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405742193/square.jpeg",
+    "date": "2024-07-10",
+    "latitude": "-29.7235002711",
+    "longitude": "31.0550511628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405205024/square.jpeg",
+    "date": "2024-05-06",
+    "latitude": "-29.839707737",
+    "longitude": "31.033122763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405205024/square.jpeg",
+    "date": "2024-07-05",
+    "latitude": "-33.9916749451",
+    "longitude": "22.6247547965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402849147/square.jpg",
+    "date": "2024-07-04",
+    "latitude": "-21.3220467855",
+    "longitude": "47.5757427625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402706105/square.jpg",
+    "date": "2022-07-08",
+    "latitude": "-29.297820932",
+    "longitude": "31.4260522599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401076506/square.jpg",
+    "date": "2017-11-30",
+    "latitude": "-25.3876056778",
+    "longitude": "30.7104448652",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398988363/square.jpeg",
+    "date": "2024-06-25",
+    "latitude": "-29.7983316389",
+    "longitude": "30.8095296667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura insularis",
+    "common name": "Madagascar Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398066539/square.jpg",
+    "date": "2024-06-14",
+    "latitude": "-21.3620203055",
+    "longitude": "47.503423886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397636140/square.jpg",
+    "date": "2021-06-24",
+    "latitude": "0.4062983911",
+    "longitude": "30.404689592",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396904672/square.jpg",
+    "date": "2024-06-17",
+    "latitude": "-29.46507401",
+    "longitude": "30.39679885",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/390445365/square.jpeg",
+    "date": "2024-06-04",
+    "latitude": "-28.3851649837",
+    "longitude": "32.4099236698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388889328/square.jpg",
+    "date": "2024-05-25",
+    "latitude": "-33.9430298145",
+    "longitude": "22.4624899928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388889328/square.jpg",
+    "date": "2023-12-06",
+    "latitude": "-27.4549091993",
+    "longitude": "30.8226759732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385253879/square.jpeg",
+    "date": "2011-09-24",
+    "latitude": "-18.4134619652",
+    "longitude": "47.9415954513",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura insularis",
+    "common name": "Madagascar Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385241714/square.jpeg",
+    "date": "2011-09-22",
+    "latitude": "-18.8848067031",
+    "longitude": "48.4327884835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380903946/square.jpeg",
+    "date": "2024-05-13",
+    "latitude": "-33.6744039133",
+    "longitude": "26.6554411501",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377185740/square.jpg",
+    "date": "2024-05-04",
+    "latitude": "-31.6315367556",
+    "longitude": "27.2343707085",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376550347/square.jpg",
+    "date": "2007-02-02",
+    "latitude": "-27.7962025338",
+    "longitude": "30.7819456913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/366043903/square.jpeg",
+    "date": "2024-04-13",
+    "latitude": "-29.7714287",
+    "longitude": "30.77877764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363861509/square.jpg",
+    "date": "2023-09-30",
+    "latitude": "-27.3499695",
+    "longitude": "30.1481326",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363086294/square.jpeg",
+    "date": "2024-04-04",
+    "latitude": "-34.0367850756",
+    "longitude": "22.8198614717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359290034/square.jpeg",
+    "date": "2024-03-16",
+    "latitude": "-29.7412250636",
+    "longitude": "29.5165861927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359289933/square.jpeg",
+    "date": "2024-03-16",
+    "latitude": "-29.7412250636",
+    "longitude": "29.5165861927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex beankaensis",
+    "common name": "Tsingy Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359027105/square.jpg",
+    "date": "2023-10-19",
+    "latitude": "-19.0325958276",
+    "longitude": "44.6594935488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex beankaensis",
+    "common name": "Tsingy Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359026911/square.jpg",
+    "date": "2023-10-19",
+    "latitude": "-19.1993568239",
+    "longitude": "44.7720186005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/358503561/square.jpeg",
+    "date": "2024-02-04",
+    "latitude": "-21.2617716508",
+    "longitude": "47.4211683322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357965060/square.jpg",
+    "date": "2024-02-28",
+    "latitude": "5.3473266406",
+    "longitude": "-1.3722299759",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357661871/square.jpeg",
+    "date": "2024-03-11",
+    "latitude": "-34.0367947999",
+    "longitude": "22.8198007867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/357607147/square.jpeg",
+    "date": "2023-10-01",
+    "latitude": "-29.7714594036",
+    "longitude": "30.7786056027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353956594/square.jpeg",
+    "date": "2024-02-26",
+    "latitude": "-34.0367703503",
+    "longitude": "22.8198624775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/352603971/square.jpg",
+    "date": "2024-02-20",
+    "latitude": "-33.8915691086",
+    "longitude": "23.1770978589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/352603971/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-1.7950275722",
+    "longitude": "12.9625459075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/352471788/square.jpg",
+    "date": "2024-01-09",
+    "latitude": "5.4443695",
+    "longitude": "-1.4441027458",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/352154954/square.jpeg",
+    "date": "2024-02-18",
+    "latitude": "-29.8263791",
+    "longitude": "30.9004553997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/351427611/square.jpeg",
+    "date": "2024-01-17",
+    "latitude": "-0.1863863249",
+    "longitude": "12.5588336599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351245673/square.png",
+    "date": "2024-02-13",
+    "latitude": "5.405657",
+    "longitude": "-1.447286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura affinis",
+    "common name": "Striped Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350821862/square.jpg",
+    "date": "2011-11-26",
+    "latitude": "-25.6300099971",
+    "longitude": "30.7538062012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra centralis",
+    "common name": "White-spotted Flufftail (Southern)",
+    "observation photo url": "https://static.inaturalist.org/photos/345990350/square.jpeg",
+    "date": "2023-09-09",
+    "latitude": "0.4056713",
+    "longitude": "30.4100932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345835292/square.jpeg",
+    "date": "2023-10-17",
+    "latitude": "-28.9685134222",
+    "longitude": "29.4471842051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345835292/square.jpeg",
+    "date": "2024-01-09",
+    "latitude": "-29.5489069809",
+    "longitude": "30.2887831993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/341969177/square.jpg",
+    "date": "2023-12-03",
+    "latitude": "-21.2630532502",
+    "longitude": "47.4210694799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/341969050/square.jpg",
+    "date": "2023-12-03",
+    "latitude": "-21.2630532502",
+    "longitude": "47.4210694799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/341969062/square.jpg",
+    "date": "2023-12-03",
+    "latitude": "-21.2630532502",
+    "longitude": "47.4210694799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/341836288/square.jpg",
+    "date": "2023-12-02",
+    "latitude": "-21.2649009483",
+    "longitude": "47.4198066894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/341836288/square.jpg",
+    "date": "2023-12-16",
+    "latitude": "-34.0595292815",
+    "longitude": "23.0836669795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340169748/square.jpg",
+    "date": "2019-07-10",
+    "latitude": "0.2257659652",
+    "longitude": "34.8843943779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340169748/square.jpg",
+    "date": "2023-12-10",
+    "latitude": "-30.4509601881",
+    "longitude": "29.0414927656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340169748/square.jpg",
+    "date": "2023-11-27",
+    "latitude": "-33.9951002619",
+    "longitude": "22.5484601408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura insularis",
+    "common name": "Madagascar Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338204330/square.jpeg",
+    "date": "2023-10-11",
+    "latitude": "-21.2621012691",
+    "longitude": "47.4211417292",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/337617542/square.jpeg",
+    "date": "2023-11-08",
+    "latitude": "-33.9994473737",
+    "longitude": "22.5289326026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra centralis",
+    "common name": "White-spotted Flufftail (Southern)",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337351037/square.png",
+    "date": "2023-10-10",
+    "latitude": "-11.3207255627",
+    "longitude": "25.110766635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337351037/square.png",
+    "date": "2023-11-24",
+    "latitude": "-33.9451614178",
+    "longitude": "22.0620062421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337351037/square.png",
+    "date": "2023-11-25",
+    "latitude": "-29.5549483333",
+    "longitude": "30.345355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335880583/square.jpg",
+    "date": "2023-11-13",
+    "latitude": "-33.6765524773",
+    "longitude": "26.6550414588",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa elizabethae",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/335734080/square.jpeg",
+    "date": "2023-09-15",
+    "latitude": "-1.0521495",
+    "longitude": "29.6201006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/335734080/square.jpeg",
+    "date": "2023-11-18",
+    "latitude": "-25.2217321958",
+    "longitude": "31.1074874161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/335734080/square.jpeg",
+    "date": "2023-11-14",
+    "latitude": "-29.7890496775",
+    "longitude": "30.802423954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334092836/square.jpg",
+    "date": "2023-04-12",
+    "latitude": "6.6258660945",
+    "longitude": "2.3110358718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334092836/square.jpg",
+    "date": "2023-11-05",
+    "latitude": "-28.6824804203",
+    "longitude": "28.9385937899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334092836/square.jpg",
+    "date": "2023-11-08",
+    "latitude": "-31.5626139835",
+    "longitude": "29.1162400135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans elegans",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/332469175/square.jpeg",
+    "date": "2023-10-26",
+    "latitude": "-34.0022171889",
+    "longitude": "22.5335187138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura insularis",
+    "common name": "Madagascar Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/332395326/square.jpg",
+    "date": "2023-09-28",
+    "latitude": "-18.9311366667",
+    "longitude": "48.4172133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/332395326/square.jpg",
+    "date": "2023-10-29",
+    "latitude": "-34.0125764613",
+    "longitude": "25.5368943793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/331725720/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-18.9285066667",
+    "longitude": "48.413785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/331725717/square.jpg",
+    "date": "2023-09-25",
+    "latitude": "-18.9285066667",
+    "longitude": "48.413785",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330924356/square.jpg",
+    "date": "2023-10-25",
+    "latitude": "-32.4768673334",
+    "longitude": "26.9322574685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura insularis",
+    "common name": "Madagascar Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/327487249/square.jpg",
+    "date": "2023-09-12",
+    "latitude": "-21.2640611",
+    "longitude": "47.4192917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura affinis",
+    "common name": "Striped Flufftail",
+    "observation photo url": "https://static.inaturalist.org/photos/327487249/square.jpg",
+    "date": "2023-10-08",
+    "latitude": "-33.9460186177",
+    "longitude": "22.0648090298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://static.inaturalist.org/photos/324841828/square.jpg",
+    "date": "2019-11-08",
+    "latitude": "-18.9306230599",
+    "longitude": "48.4142633388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324716839/square.jpeg",
+    "date": "2023-09-30",
+    "latitude": "-34.0367514575",
+    "longitude": "22.8198245913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324529511/square.jpeg",
+    "date": "2023-09-29",
+    "latitude": "-29.7697607236",
+    "longitude": "29.7046975472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324451938/square.jpg",
+    "date": "2023-10-01",
+    "latitude": "-29.7872910827",
+    "longitude": "31.0276750868",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324451938/square.jpg",
+    "date": "2023-09-30",
+    "latitude": "-34.0063113905",
+    "longitude": "18.4303178731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324451938/square.jpg",
+    "date": "2023-09-30",
+    "latitude": "-34.006862375",
+    "longitude": "18.4275012184",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324451938/square.jpg",
+    "date": "2023-09-27",
+    "latitude": "-34.0367297862",
+    "longitude": "22.8181384876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324451938/square.jpg",
+    "date": "2023-09-12",
+    "latitude": "-34.0067565156",
+    "longitude": "18.4286141661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324451938/square.jpg",
+    "date": "2023-09-05",
+    "latitude": "-33.9999573138",
+    "longitude": "20.4426259123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324451938/square.jpg",
+    "date": "2023-09-09",
+    "latitude": "-34.0367684055",
+    "longitude": "22.8181907907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura insularis",
+    "common name": "Madagascar Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/315707646/square.jpeg",
+    "date": "2008-09-21",
+    "latitude": "-18.766947",
+    "longitude": "46.869107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/315178527/square.jpeg",
+    "date": "2008-09-23",
+    "latitude": "-18.766947",
+    "longitude": "46.869107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/315178527/square.jpeg",
+    "date": "2023-08-16",
+    "latitude": "-19.36048505",
+    "longitude": "23.1674382379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mentocrex kioloides",
+    "common name": "Madagascar Forest Rail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310298937/square.jpg",
+    "date": "2018-12-02",
+    "latitude": "-18.9336918527",
+    "longitude": "48.414835279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310298937/square.jpg",
+    "date": "2023-08-11",
+    "latitude": "-34.00672726",
+    "longitude": "18.42846977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308063569/square.jpeg",
+    "date": "2018-02-08",
+    "latitude": "-29.4082892039",
+    "longitude": "29.9438890815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura rufa rufa",
+    "common name": "Red-chested Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303199625/square.jpeg",
+    "date": "2023-07-23",
+    "latitude": "-33.942981673",
+    "longitude": "22.4441892654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/300083705/square.jpeg",
+    "date": "2023-07-12",
+    "latitude": "-28.3833503194",
+    "longitude": "32.4116367102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295296703/square.jpeg",
+    "date": "2023-06-30",
+    "latitude": "-34.0367803524",
+    "longitude": "22.819855772",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287629795/square.jpeg",
+    "date": "2023-05-28",
+    "latitude": "6.3901856322",
+    "longitude": "-10.5623853207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura elegans",
+    "common name": "Buff-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286846378/square.jpg",
+    "date": "2020-10-08",
+    "latitude": "-29.7145493813",
+    "longitude": "31.093441214",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280875252/square.jpeg",
+    "date": "2023-01-23",
+    "latitude": "1.222094112",
+    "longitude": "30.8609343862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sarothrura pulchra",
+    "common name": "White-spotted Flufftail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270807034/square.jpg",
+    "date": "2023-04-04",
+    "latitude": "5.4460600231",
+    "longitude": "-1.4165878687",
+    "quality_grade": "research"
+  }
+]

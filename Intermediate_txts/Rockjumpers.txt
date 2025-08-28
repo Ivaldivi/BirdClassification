@@ -1,0 +1,1757 @@
+[
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/557696215/square.jpg",
+    "date": "2005-08-02",
+    "latitude": "-34.3040937",
+    "longitude": "18.8176849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649959/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.3152723567",
+    "longitude": "18.8236425634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649957/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.3150680242",
+    "longitude": "18.8236295294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555399223/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-34.3051960621",
+    "longitude": "18.8268498704",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553766527/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-34.3155105934",
+    "longitude": "18.8230524582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/547579655/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-32.4721949282",
+    "longitude": "19.2761260161",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539822006/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-32.4730700258",
+    "longitude": "19.2760375885",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535836210/square.jpg",
+    "date": "2014-01-04",
+    "latitude": "-30.757655628",
+    "longitude": "28.0677630554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532801163/square.jpg",
+    "date": "2020-10-26",
+    "latitude": "-33.328801727",
+    "longitude": "22.0437179984",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/529398349/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-33.8819616667",
+    "longitude": "19.1659695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528269311/square.jpg",
+    "date": "2019-09-27",
+    "latitude": "-29.554244108",
+    "longitude": "29.3754449617",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528261244/square.jpg",
+    "date": "2019-09-27",
+    "latitude": "-29.587904",
+    "longitude": "29.294429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/525065641/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-32.4435033333",
+    "longitude": "19.2533733333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/522093739/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-32.4757466599",
+    "longitude": "19.2747033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/522092830/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-32.4435083299",
+    "longitude": "19.253725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521541585/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-34.310945",
+    "longitude": "18.8209633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513910951/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-33.6095283333",
+    "longitude": "19.0986066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511034825/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-34.3781138889",
+    "longitude": "19.2690305556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509182460/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-34.3267223494",
+    "longitude": "19.0150009015",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509180388/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-34.3267319961",
+    "longitude": "19.0148830421",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505148642/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "-33.9336221322",
+    "longitude": "20.8490400004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505148642/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-34.3267209292",
+    "longitude": "19.0144425631",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505148642/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-34.3267408648",
+    "longitude": "19.0147758275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496990892/square.jpeg",
+    "date": "2025-04-24",
+    "latitude": "-32.4685638382",
+    "longitude": "19.273477143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492703443/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "-33.321293",
+    "longitude": "22.0364009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491192871/square.jpeg",
+    "date": "2025-04-24",
+    "latitude": "-32.4435683997",
+    "longitude": "19.2536887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488680670/square.jpeg",
+    "date": "2025-04-19",
+    "latitude": "-33.8504101871",
+    "longitude": "19.1866507482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488680202/square.jpeg",
+    "date": "2025-04-18",
+    "latitude": "-33.8596277989",
+    "longitude": "19.1978093703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/488656676/square.jpeg",
+    "date": "2025-04-19",
+    "latitude": "-32.443455",
+    "longitude": "19.253765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487238268/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-34.3129274406",
+    "longitude": "18.8224171556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487238262/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-34.312981",
+    "longitude": "18.822428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487238240/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-34.312981",
+    "longitude": "18.822428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487238148/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-34.312981",
+    "longitude": "18.822428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487238110/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-34.312981",
+    "longitude": "18.822428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487171109/square.jpeg",
+    "date": "2014-12-07",
+    "latitude": "-34.308724024",
+    "longitude": "18.8188075024",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485548460/square.jpeg",
+    "date": "2015-11-17",
+    "latitude": "-29.5918184751",
+    "longitude": "29.2971627072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484991556/square.jpg",
+    "date": "2025-02-20",
+    "latitude": "-34.312565",
+    "longitude": "18.822125",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484186798/square.jpeg",
+    "date": "2025-04-03",
+    "latitude": "-32.4736705831",
+    "longitude": "19.2765376344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482677729/square.jpeg",
+    "date": "2017-04-30",
+    "latitude": "-29.578519743",
+    "longitude": "29.2940790176",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/482629929/square.jpeg",
+    "date": "2024-10-08",
+    "latitude": "-34.309759646",
+    "longitude": "18.8193643381",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/482629904/square.jpeg",
+    "date": "2024-10-08",
+    "latitude": "-34.3096533014",
+    "longitude": "18.8196003725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/482629860/square.jpeg",
+    "date": "2024-10-08",
+    "latitude": "-34.3094199167",
+    "longitude": "18.8188466306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/482050058/square.jpg",
+    "date": "2025-04-01",
+    "latitude": "-33.9518019063",
+    "longitude": "22.2024332602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481854634/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-34.312981",
+    "longitude": "18.822428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/481080755/square.jpg",
+    "date": "2024-12-22",
+    "latitude": "-33.337003424",
+    "longitude": "22.0558878569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479886611/square.jpeg",
+    "date": "2025-03-26",
+    "latitude": "-34.3108091628",
+    "longitude": "18.8214928272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479600083/square.jpg",
+    "date": "2024-05-28",
+    "latitude": "-34.310863996",
+    "longitude": "18.8208229506",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476962440/square.jpeg",
+    "date": "2025-03-11",
+    "latitude": "-32.4732666667",
+    "longitude": "19.2759194444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476583692/square.jpg",
+    "date": "2024-09-14",
+    "latitude": "-33.364",
+    "longitude": "22.066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475917891/square.jpg",
+    "date": "2015-02-21",
+    "latitude": "-29.5657407865",
+    "longitude": "29.3308445043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475764461/square.jpeg",
+    "date": "2023-11-17",
+    "latitude": "-33.3518501143",
+    "longitude": "22.0485966781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475737258/square.jpeg",
+    "date": "2025-03-08",
+    "latitude": "-28.7680764589",
+    "longitude": "28.9299539757",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475679483/square.jpg",
+    "date": "2015-02-21",
+    "latitude": "-29.4613919925",
+    "longitude": "29.382453051",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475523177/square.jpeg",
+    "date": "2025-02-10",
+    "latitude": "-33.3733402159",
+    "longitude": "20.356801936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475522931/square.jpeg",
+    "date": "2025-02-10",
+    "latitude": "-33.2220977724",
+    "longitude": "20.3655156881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475365109/square.jpeg",
+    "date": "2025-03-08",
+    "latitude": "-33.3553398872",
+    "longitude": "22.0510393067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474498555/square.jpeg",
+    "date": "2024-10-19",
+    "latitude": "-33.2863985367",
+    "longitude": "20.5889338041",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474014641/square.jpg",
+    "date": "2025-02-05",
+    "latitude": "-29.5882383333",
+    "longitude": "29.2922183333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473877268/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-32.4434901697",
+    "longitude": "19.2535049816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/473621526/square.jpeg",
+    "date": "2025-01-14",
+    "latitude": "-28.4934453386",
+    "longitude": "28.620502626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473625291/square.jpeg",
+    "date": "2025-01-08",
+    "latitude": "-33.4544004167",
+    "longitude": "21.2896210251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/473369955/square.jpeg",
+    "date": "2025-01-04",
+    "latitude": "-34.389386168",
+    "longitude": "19.311550707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471611629/square.jpeg",
+    "date": "2025-01-23",
+    "latitude": "-29.59139",
+    "longitude": "29.295833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471195101/square.jpg",
+    "date": "2022-08-31",
+    "latitude": "-34.312",
+    "longitude": "18.822",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470476257/square.jpg",
+    "date": "2025-01-23",
+    "latitude": "-29.58554824",
+    "longitude": "29.28838848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470441791/square.jpg",
+    "date": "2025-01-23",
+    "latitude": "-29.58821141",
+    "longitude": "29.2931669001",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469155383/square.jpeg",
+    "date": "2017-12-05",
+    "latitude": "-29.5879785",
+    "longitude": "29.2921966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469155374/square.jpeg",
+    "date": "2017-12-05",
+    "latitude": "-29.5879785",
+    "longitude": "29.2921966",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468848631/square.jpg",
+    "date": "2024-02-18",
+    "latitude": "-34.3097248704",
+    "longitude": "18.8220659139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467587414/square.jpeg",
+    "date": "2025-01-28",
+    "latitude": "-34.3139115592",
+    "longitude": "18.8224733663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467587388/square.jpeg",
+    "date": "2025-01-28",
+    "latitude": "-34.3139115592",
+    "longitude": "18.8224733663",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/467543174/square.jpeg",
+    "date": "2025-01-31",
+    "latitude": "-28.7434805",
+    "longitude": "28.8872491997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466581447/square.jpeg",
+    "date": "2025-01-22",
+    "latitude": "-29.5876332975",
+    "longitude": "29.2915635987",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465534650/square.jpeg",
+    "date": "2023-11-19",
+    "latitude": "-34.145713",
+    "longitude": "18.929077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465534590/square.jpeg",
+    "date": "2023-11-19",
+    "latitude": "-34.145907",
+    "longitude": "18.929239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465534573/square.jpeg",
+    "date": "2023-11-19",
+    "latitude": "-34.144518",
+    "longitude": "18.929837",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465143971/square.jpeg",
+    "date": "2024-12-20",
+    "latitude": "-33.3514104132",
+    "longitude": "22.0526704006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/464660777/square.jpeg",
+    "date": "2025-01-18",
+    "latitude": "-34.3158813715",
+    "longitude": "18.8236077502",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463586967/square.jpeg",
+    "date": "2025-01-02",
+    "latitude": "-34.321258779",
+    "longitude": "18.825205203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463586970/square.jpeg",
+    "date": "2025-01-02",
+    "latitude": "-34.3212560647",
+    "longitude": "18.8252116821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463586941/square.jpeg",
+    "date": "2025-01-02",
+    "latitude": "-34.3101936305",
+    "longitude": "18.82282917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/463092706/square.jpeg",
+    "date": "2025-01-11",
+    "latitude": "-33.3514370245",
+    "longitude": "22.0460190251",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/463073488/square.jpeg",
+    "date": "2025-01-05",
+    "latitude": "-34.3149351351",
+    "longitude": "18.8190325722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462669354/square.jpg",
+    "date": "2025-01-08",
+    "latitude": "-33.456545319",
+    "longitude": "21.285072877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462498460/square.jpg",
+    "date": "2025-01-03",
+    "latitude": "-29.5853580821",
+    "longitude": "29.2881546223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462209943/square.jpeg",
+    "date": "2024-12-28",
+    "latitude": "-29.5885066667",
+    "longitude": "29.2939366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461935262/square.jpeg",
+    "date": "2024-12-07",
+    "latitude": "-34.398693188",
+    "longitude": "19.2470099348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/461621894/square.jpeg",
+    "date": "2024-12-09",
+    "latitude": "-30.7091326378",
+    "longitude": "28.1378434727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/461621888/square.jpeg",
+    "date": "2024-12-09",
+    "latitude": "-30.7091740511",
+    "longitude": "28.1376186361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/461150561/square.jpeg",
+    "date": "2024-12-31",
+    "latitude": "-34.0383899444",
+    "longitude": "18.8692432778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460418486/square.jpg",
+    "date": "2024-12-10",
+    "latitude": "-34.3140890728",
+    "longitude": "18.8228084598",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459962807/square.jpeg",
+    "date": "2024-12-23",
+    "latitude": "-33.3522457913",
+    "longitude": "22.0457772326",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/456373722/square.jpeg",
+    "date": "2024-05-26",
+    "latitude": "-32.473385",
+    "longitude": "19.276495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454498450/square.jpeg",
+    "date": "2024-11-29",
+    "latitude": "-34.3151854228",
+    "longitude": "18.8231009668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454497827/square.jpeg",
+    "date": "2024-11-29",
+    "latitude": "-34.3139179423",
+    "longitude": "18.8227009077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454241596/square.jpeg",
+    "date": "2009-03-15",
+    "latitude": "-29.5099482409",
+    "longitude": "29.3676131676",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454007825/square.jpeg",
+    "date": "2024-11-29",
+    "latitude": "-34.3114883333",
+    "longitude": "18.8218633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454007853/square.jpeg",
+    "date": "2024-11-29",
+    "latitude": "-34.3113966667",
+    "longitude": "18.82202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453987357/square.jpeg",
+    "date": "2024-11-29",
+    "latitude": "-34.3115116667",
+    "longitude": "18.821855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453008039/square.jpeg",
+    "date": "2018-10-13",
+    "latitude": "-32.8998637",
+    "longitude": "19.0333364",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452978104/square.jpeg",
+    "date": "2024-10-17",
+    "latitude": "-33.315727134",
+    "longitude": "20.4253932192",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452227542/square.jpg",
+    "date": "2024-11-18",
+    "latitude": "-34.3138268096",
+    "longitude": "18.8231038844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450134185/square.jpeg",
+    "date": "2024-11-09",
+    "latitude": "-32.6467464675",
+    "longitude": "19.1697083471",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449695825/square.jpg",
+    "date": "2024-10-16",
+    "latitude": "-29.5894482687",
+    "longitude": "29.3574877716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449089704/square.jpg",
+    "date": "2024-10-16",
+    "latitude": "-29.586585",
+    "longitude": "29.291075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448338402/square.jpeg",
+    "date": "2007-08-25",
+    "latitude": "-29.6029875",
+    "longitude": "29.3390932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448135178/square.jpeg",
+    "date": "2024-11-02",
+    "latitude": "-29.6773015461",
+    "longitude": "29.3885563123",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447636703/square.jpeg",
+    "date": "2024-11-02",
+    "latitude": "-33.9157932689",
+    "longitude": "19.1468145205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445700017/square.jpg",
+    "date": "2012-09-17",
+    "latitude": "-34.3057109534",
+    "longitude": "18.8244739866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445289602/square.jpg",
+    "date": "2024-10-12",
+    "latitude": "-34.3115599488",
+    "longitude": "18.8217283474",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444552271/square.jpg",
+    "date": "2024-09-14",
+    "latitude": "-33.364",
+    "longitude": "22.066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/442918551/square.jpeg",
+    "date": "2024-10-12",
+    "latitude": "-34.316271272",
+    "longitude": "18.8231470808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/441679518/square.jpeg",
+    "date": "2024-10-12",
+    "latitude": "-34.3017963841",
+    "longitude": "18.8148288801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440696014/square.jpeg",
+    "date": "2024-10-11",
+    "latitude": "-34.1475467221",
+    "longitude": "18.9298202097",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439712114/square.jpeg",
+    "date": "2023-11-20",
+    "latitude": "-33.3522069085",
+    "longitude": "22.0474825054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438872058/square.jpeg",
+    "date": "2024-05-24",
+    "latitude": "-30.758155427",
+    "longitude": "28.0652379695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438623690/square.jpeg",
+    "date": "2024-09-12",
+    "latitude": "-34.3129241746",
+    "longitude": "18.8227814639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437375479/square.jpeg",
+    "date": "2024-10-01",
+    "latitude": "-34.3111642248",
+    "longitude": "18.822228684",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435368190/square.jpg",
+    "date": "2024-09-22",
+    "latitude": "-32.5123086634",
+    "longitude": "19.1770394455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435171736/square.jpeg",
+    "date": "2024-09-25",
+    "latitude": "-34.31344276",
+    "longitude": "18.82242112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/433753721/square.jpeg",
+    "date": "2024-09-22",
+    "latitude": "-32.0357895382",
+    "longitude": "24.922115542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429618461/square.jpeg",
+    "date": "2024-04-29",
+    "latitude": "-33.4538888527",
+    "longitude": "21.2896965401",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424876917/square.jpeg",
+    "date": "2023-12-17",
+    "latitude": "-32.0511730392",
+    "longitude": "24.1245059936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423340930/square.jpeg",
+    "date": "2024-08-18",
+    "latitude": "-34.3121621593",
+    "longitude": "18.8228727877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419561731/square.jpeg",
+    "date": "2024-04-29",
+    "latitude": "-33.4510649602",
+    "longitude": "21.296918614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418213977/square.jpeg",
+    "date": "2024-08-11",
+    "latitude": "-34.3209219968",
+    "longitude": "18.8242339034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418175909/square.jpeg",
+    "date": "2024-08-11",
+    "latitude": "-34.3128611111",
+    "longitude": "18.8222583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418175920/square.jpeg",
+    "date": "2024-08-11",
+    "latitude": "-34.3127805556",
+    "longitude": "18.8222111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418013866/square.jpg",
+    "date": "2024-08-11",
+    "latitude": "-33.4667939052",
+    "longitude": "21.2824754221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414578865/square.jpg",
+    "date": "2024-08-02",
+    "latitude": "-33.4552379341",
+    "longitude": "21.2862179517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/410146934/square.jpeg",
+    "date": "2024-07-22",
+    "latitude": "-28.8317904668",
+    "longitude": "28.6895843151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/409121149/square.png",
+    "date": "2019-07-11",
+    "latitude": "-34.322927",
+    "longitude": "18.825243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405589247/square.jpg",
+    "date": "2024-06-24",
+    "latitude": "-34.1451063106",
+    "longitude": "18.9354622158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/403140112/square.jpeg",
+    "date": "2023-06-14",
+    "latitude": "-34.1394533827",
+    "longitude": "18.9411035528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402071104/square.jpg",
+    "date": "2024-07-02",
+    "latitude": "-28.8916870977",
+    "longitude": "28.7311412515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401207663/square.jpeg",
+    "date": "2024-06-28",
+    "latitude": "-33.3494785725",
+    "longitude": "22.0416188057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401207658/square.jpeg",
+    "date": "2024-06-28",
+    "latitude": "-33.352398789",
+    "longitude": "22.047098869",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397016994/square.jpeg",
+    "date": "2024-04-04",
+    "latitude": "-33.9706832782",
+    "longitude": "18.898412866",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396603307/square.jpg",
+    "date": "2024-06-05",
+    "latitude": "-34.310174299",
+    "longitude": "18.8199130717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396480246/square.jpeg",
+    "date": "2024-06-05",
+    "latitude": "-34.3125234991",
+    "longitude": "18.8221751439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396480049/square.jpeg",
+    "date": "2024-06-05",
+    "latitude": "-34.3125133193",
+    "longitude": "18.8221723266",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395304553/square.jpeg",
+    "date": "2024-06-15",
+    "latitude": "-34.3356099722",
+    "longitude": "18.9339466111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392825503/square.jpg",
+    "date": "2024-05-03",
+    "latitude": "-33.2724988494",
+    "longitude": "20.5501038876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391843436/square.jpeg",
+    "date": "2024-06-07",
+    "latitude": "-33.9686256846",
+    "longitude": "18.8976917374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391843425/square.jpeg",
+    "date": "2024-06-07",
+    "latitude": "-33.9690205383",
+    "longitude": "18.8977178443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386982439/square.jpeg",
+    "date": "2024-05-25",
+    "latitude": "-34.3121553333",
+    "longitude": "19.0089225556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386814137/square.jpg",
+    "date": "2024-05-25",
+    "latitude": "-34.3121536117",
+    "longitude": "18.822005555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386425373/square.jpeg",
+    "date": "2024-05-26",
+    "latitude": "-34.1383779694",
+    "longitude": "18.9415025661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384363591/square.jpeg",
+    "date": "2017-03-28",
+    "latitude": "-28.7407713869",
+    "longitude": "28.8866654043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382948609/square.jpeg",
+    "date": "2024-05-18",
+    "latitude": "-34.3176265",
+    "longitude": "18.8236671997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380677823/square.jpg",
+    "date": "2024-04-13",
+    "latitude": "-32.4713916",
+    "longitude": "19.2757702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380413008/square.jpg",
+    "date": "2024-02-18",
+    "latitude": "-34.310027",
+    "longitude": "18.821916",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378167024/square.jpeg",
+    "date": "2024-05-02",
+    "latitude": "-32.4753094113",
+    "longitude": "19.2751053348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377673520/square.jpg",
+    "date": "2024-04-24",
+    "latitude": "-32.4664116667",
+    "longitude": "19.2729633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377023123/square.jpeg",
+    "date": "2024-04-10",
+    "latitude": "-34.3289702154",
+    "longitude": "18.8264412573",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376640463/square.jpg",
+    "date": "2024-02-18",
+    "latitude": "-34.310163913",
+    "longitude": "18.8204112641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/374232158/square.jpeg",
+    "date": "2024-04-28",
+    "latitude": "-34.3809148677",
+    "longitude": "19.2732874677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/373755705/square.jpeg",
+    "date": "2024-04-28",
+    "latitude": "-34.0745390636",
+    "longitude": "19.0576454989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/364003988/square.jpeg",
+    "date": "2024-03-28",
+    "latitude": "-32.4678240072",
+    "longitude": "19.2651032022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363174052/square.jpeg",
+    "date": "2024-04-04",
+    "latitude": "-32.3506568997",
+    "longitude": "19.1324889997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/362879124/square.jpeg",
+    "date": "2024-02-18",
+    "latitude": "-34.31002729",
+    "longitude": "18.8219160857",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/362879879/square.jpeg",
+    "date": "2024-04-03",
+    "latitude": "-34.3040935014",
+    "longitude": "18.8176847622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/362320271/square.jpg",
+    "date": "2024-03-20",
+    "latitude": "-28.8342204669",
+    "longitude": "28.9913320499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360974814/square.jpg",
+    "date": "2023-09-23",
+    "latitude": "-29.7530190134",
+    "longitude": "28.3708555308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357666944/square.jpeg",
+    "date": "2024-02-26",
+    "latitude": "-29.6138226123",
+    "longitude": "27.835698695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357636383/square.jpeg",
+    "date": "2024-02-18",
+    "latitude": "-34.3114977143",
+    "longitude": "18.8225775729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357636355/square.jpeg",
+    "date": "2024-02-18",
+    "latitude": "-34.3110310574",
+    "longitude": "18.8223948746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357636338/square.jpeg",
+    "date": "2024-02-18",
+    "latitude": "-34.311079364",
+    "longitude": "18.8218629633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/357423312/square.jpeg",
+    "date": "2024-03-11",
+    "latitude": "-29.5847325217",
+    "longitude": "29.2856344208",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/357420411/square.jpeg",
+    "date": "2024-03-11",
+    "latitude": "-29.6227404809",
+    "longitude": "29.3714909256",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357200834/square.jpeg",
+    "date": "2024-01-28",
+    "latitude": "-29.58684339",
+    "longitude": "29.29115868",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353342362/square.jpeg",
+    "date": "2024-02-24",
+    "latitude": "-30.7096117046",
+    "longitude": "28.136545904",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351255263/square.jpg",
+    "date": "2011-11-12",
+    "latitude": "-34.3157465691",
+    "longitude": "18.8197086664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350858001/square.jpeg",
+    "date": "2023-11-04",
+    "latitude": "-29.602904",
+    "longitude": "29.33939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350857358/square.jpeg",
+    "date": "2023-11-04",
+    "latitude": "-29.602904",
+    "longitude": "29.33939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350225536/square.jpg",
+    "date": "2016-09-06",
+    "latitude": "-34.3085300419",
+    "longitude": "18.8187023221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350225525/square.jpg",
+    "date": "2016-09-06",
+    "latitude": "-34.3085300419",
+    "longitude": "18.8187023221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/346513941/square.jpeg",
+    "date": "2023-11-30",
+    "latitude": "-29.5849423611",
+    "longitude": "29.28861175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/345173500/square.jpeg",
+    "date": "2024-01-02",
+    "latitude": "-34.3109946943",
+    "longitude": "18.8212657288",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/345173501/square.jpeg",
+    "date": "2024-01-02",
+    "latitude": "-34.3113169646",
+    "longitude": "18.8216743625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345010207/square.jpg",
+    "date": "2023-12-20",
+    "latitude": "-34.335362292",
+    "longitude": "18.8346343314",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344787383/square.jpg",
+    "date": "2024-01-02",
+    "latitude": "-34.3119026164",
+    "longitude": "18.8229720997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/344264607/square.jpeg",
+    "date": "2023-01-26",
+    "latitude": "-29.58686419",
+    "longitude": "29.29055831",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343235398/square.jpg",
+    "date": "2015-07-19",
+    "latitude": "-34.3113807687",
+    "longitude": "18.821692685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342696647/square.jpg",
+    "date": "2023-12-16",
+    "latitude": "-34.0384778333",
+    "longitude": "18.86197",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342347105/square.jpeg",
+    "date": "2023-12-21",
+    "latitude": "-33.2068566605",
+    "longitude": "19.2078714303",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342138359/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-34.1254130955",
+    "longitude": "18.7175229986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341501225/square.jpg",
+    "date": "2012-09-13",
+    "latitude": "-34.3040869014",
+    "longitude": "18.8151944993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341308125/square.jpeg",
+    "date": "2023-12-16",
+    "latitude": "-34.3167334459",
+    "longitude": "18.8233083487",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://static.inaturalist.org/photos/341290642/square.jpeg",
+    "date": "2023-12-16",
+    "latitude": "-34.317983",
+    "longitude": "18.817744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341252358/square.jpeg",
+    "date": "2023-12-16",
+    "latitude": "-33.9718777653",
+    "longitude": "18.90036989",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341100222/square.jpeg",
+    "date": "2023-11-22",
+    "latitude": "-28.7470315",
+    "longitude": "28.8802097222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops aurantius",
+    "common name": "Drakensberg Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340632223/square.jpeg",
+    "date": "2023-11-22",
+    "latitude": "-28.7472494167",
+    "longitude": "28.8800049444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/339044879/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-34.1383779694",
+    "longitude": "18.9415025661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chaetops frenatus",
+    "common name": "Cape Rockjumper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/339044530/square.jpeg",
+    "date": "2023-12-02",
+    "latitude": "-34.1383779694",
+    "longitude": "18.9415025661",
+    "quality_grade": "research"
+  }
+]

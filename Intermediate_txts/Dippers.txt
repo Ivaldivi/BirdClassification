@@ -1,0 +1,1649 @@
+[
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558144726/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.8235933459",
+    "longitude": "-4.0241825581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus leucocephalus",
+    "common name": "White-capped Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139119/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.0288305985",
+    "longitude": "-78.7166854983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558130117/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "34.3494659497",
+    "longitude": "-117.9080552259",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/558085227/square.jpg",
+    "date": "2024-08-21",
+    "latitude": "54.3280013384",
+    "longitude": "-2.7462900057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/558074660/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.0290684025",
+    "longitude": "6.4841913432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558013378/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "9.7506009722",
+    "longitude": "-83.783912",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557968377/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "43.1776733687",
+    "longitude": "-6.5526351725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557958125/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "47.7130110238",
+    "longitude": "11.7580898479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557952138/square.jpg",
+    "date": "2016-09-02",
+    "latitude": "46.6995764462",
+    "longitude": "6.3458780472",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/557611558/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.1562750258",
+    "longitude": "10.212908797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557611346/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "44.0190220593",
+    "longitude": "42.8358159889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/557611297/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.1543968391",
+    "longitude": "10.2115385234",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/557611042/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.1536747641",
+    "longitude": "10.2106527239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus leucocephalus",
+    "common name": "White-capped Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/557566012/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-13.1550528475",
+    "longitude": "-72.52638633",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557576333/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.7747416667",
+    "longitude": "-123.9464116667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557530672/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.2227461235",
+    "longitude": "-3.7988388509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/557529302/square.jpg",
+    "date": "2025-01-18",
+    "latitude": "51.0486839174",
+    "longitude": "7.9926723907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557518269/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.2505135833",
+    "longitude": "-1.8437427222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557517289/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.2502813333",
+    "longitude": "-1.8343100833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557500677/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.5211291736",
+    "longitude": "13.2595682144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557464440/square.jpg",
+    "date": "2025-01-11",
+    "latitude": "41.1022158118",
+    "longitude": "20.814436455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557463450/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.9622398499",
+    "longitude": "22.512181799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557319992/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "50.8785571453",
+    "longitude": "-115.483426073",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/557245573/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.5175607433",
+    "longitude": "-119.8476437883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557188079/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "36.2851270711",
+    "longitude": "137.5742884916",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557101031/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "55.0062044",
+    "longitude": "-6.9317023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557533056/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "48.4125507836",
+    "longitude": "23.7629345432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557032950/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "42.8639916239",
+    "longitude": "-3.705807391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557022668/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "55.6143091191",
+    "longitude": "-3.0535706352",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556983925/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.8186345",
+    "longitude": "18.2686817997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556959570/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.7560223537",
+    "longitude": "-8.0605567418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556890319/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "43.2664518699",
+    "longitude": "42.1454072088",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556872580/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "51.404275",
+    "longitude": "104.82705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556859420/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "43.2825172413",
+    "longitude": "42.1724819818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556856983/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "43.8428358011",
+    "longitude": "7.1651327775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556851189/square.jpg",
+    "date": "2024-12-02",
+    "latitude": "34.4780361413",
+    "longitude": "136.1020935334",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556835760/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "40.1260773108",
+    "longitude": "-123.8247035118",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556799555/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.6080381319",
+    "longitude": "-123.4657568554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556798860/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "40.4849769",
+    "longitude": "-106.8317158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556797496/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "40.4849769",
+    "longitude": "-106.8317158",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556766062/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "41.7955087",
+    "longitude": "-124.1046827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556655306/square.jpg",
+    "date": "2009-11-27",
+    "latitude": "37.2951288801",
+    "longitude": "-112.9482294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556637091/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "37.7915333333",
+    "longitude": "-107.5779883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556635932/square.jpg",
+    "date": "2008-08-24",
+    "latitude": "38.0242948",
+    "longitude": "-122.7213977",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556617787/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "39.4578000402",
+    "longitude": "-120.2136107272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556603037/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.2816487003",
+    "longitude": "-117.208353645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556596001/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "42.9497591215",
+    "longitude": "0.0260070339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556595326/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.5853914782",
+    "longitude": "2.95940727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556561402/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "43.2724944771",
+    "longitude": "42.1220482952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556555399/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "43.3033758912",
+    "longitude": "42.1805528796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556549682/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "43.2564903978",
+    "longitude": "42.1828211868",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556549937/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "42.6204113537",
+    "longitude": "1.249698177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556511875/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "43.258446236",
+    "longitude": "42.130202322",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556506759/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "32.5727989693",
+    "longitude": "104.7778510272",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556495420/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "53.3688527778",
+    "longitude": "-1.5180611111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556485124/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "45.3494033333",
+    "longitude": "-121.988075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556483162/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "50.9227379508",
+    "longitude": "11.5843105339",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556380842/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "46.4366567",
+    "longitude": "9.3580523",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556363971/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "46.3045863877",
+    "longitude": "13.885479819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556322263/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "45.350419503",
+    "longitude": "-121.9995311898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556176813/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "44.679",
+    "longitude": "2.84867",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556173028/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "40.64549622",
+    "longitude": "-115.40638213",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556121116/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "53.0749787",
+    "longitude": "-1.7895495997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556111962/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "53.2515659932",
+    "longitude": "-1.8257466159",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556096925/square.jpg",
+    "date": "2024-11-07",
+    "latitude": "53.9546305625",
+    "longitude": "27.4893902942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556071405/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "56.2396916667",
+    "longitude": "-5.0749388333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556063210/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "10.1904094997",
+    "longitude": "-84.3037386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555965027/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "51.5005583333",
+    "longitude": "-116.5151883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555946984/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "33.5201375186",
+    "longitude": "107.9872898779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555946305/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "33.5194935091",
+    "longitude": "107.9872898779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555936439/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "46.5675179615",
+    "longitude": "9.6963699907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555931539/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "46.5343166667",
+    "longitude": "22.5723722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii pallasii",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/555913480/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "23.6335422222",
+    "longitude": "120.7907205556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555913995/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "50.6951733941",
+    "longitude": "15.7414837182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555891323/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "48.4908033333",
+    "longitude": "-121.1020583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/555877401/square.jpg",
+    "date": "2024-11-05",
+    "latitude": "53.9544658455",
+    "longitude": "27.4897717685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555852256/square.jpg",
+    "date": "2024-08-13",
+    "latitude": "52.0538583333",
+    "longitude": "-9.5355716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555817677/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "47.8408323",
+    "longitude": "-120.0168079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/555815539/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "47.585155",
+    "longitude": "-120.806495",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555749518/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "53.0052800733",
+    "longitude": "-4.1004508361",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555609624/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "44.620155",
+    "longitude": "6.200575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/555575307/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "32.8972068765",
+    "longitude": "97.0763030648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555575844/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "43.6718420731",
+    "longitude": "40.2966848016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555571202/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "55.4277547736",
+    "longitude": "-2.7844246477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555629867/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "44.37813364",
+    "longitude": "6.87179439",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555549909/square.jpg",
+    "date": "2023-08-15",
+    "latitude": "9.5445834509",
+    "longitude": "-83.8522832618",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555485681/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "42.570217981",
+    "longitude": "1.6052058244",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555432561/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "49.6739166667",
+    "longitude": "-114.5946694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555431137/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "42.6589099766",
+    "longitude": "-122.7038318117",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555414271/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "61.7953159973",
+    "longitude": "-149.281332077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555379242/square.jpg",
+    "date": "2025-03-30",
+    "latitude": "53.3650960452",
+    "longitude": "-1.5237331018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555291769/square.jpg",
+    "date": "2024-06-06",
+    "latitude": "43.8883249163",
+    "longitude": "145.6229860914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555273431/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "53.8188676679",
+    "longitude": "-1.9459006528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555224815/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "51.7867966667",
+    "longitude": "-3.5607033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/555165063/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "43.7652589982",
+    "longitude": "-110.7488720512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555159208/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "47.42750216",
+    "longitude": "10.27460852",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/555154250/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "44.5607",
+    "longitude": "-121.8564133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555138348/square.jpg",
+    "date": "2021-07-27",
+    "latitude": "53.122322",
+    "longitude": "-1.5136821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555109317/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "37.4088533426",
+    "longitude": "-118.7575616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/555003166/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "23.6279583333",
+    "longitude": "120.7983805556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus leucocephalus",
+    "common name": "White-capped Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554959801/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "4.7611532196",
+    "longitude": "-75.6101713811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554947980/square.jpg",
+    "date": "2025-05-20",
+    "latitude": "52.1871033333",
+    "longitude": "-10.1901166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554937413/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "37.2920383333",
+    "longitude": "-112.9489283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554897261/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "54.7114922509",
+    "longitude": "-1.9814329686",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554877721/square.jpg",
+    "date": "2024-06-08",
+    "latitude": "43.8882796062",
+    "longitude": "145.6225404076",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554841401/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "53.912412088",
+    "longitude": "-1.6674522368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554829621/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "37.7348465",
+    "longitude": "-119.5577466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554828250/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "37.7311522997",
+    "longitude": "-119.5587235997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554806037/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "45.6401503328",
+    "longitude": "11.3088324004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554805993/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "45.6401503328",
+    "longitude": "11.3088324004",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554790264/square.jpg",
+    "date": "2020-01-01",
+    "latitude": "35.1823321632",
+    "longitude": "-106.6480762354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554744820/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "39.422257",
+    "longitude": "-106.0806307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554723148/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "49.0584634079",
+    "longitude": "13.514632171",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555242621/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "44.45589616",
+    "longitude": "6.74691005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554639492/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "43.0424583333",
+    "longitude": "-1.0723138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554633171/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "43.1839282151",
+    "longitude": "-5.4735359922",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554539348/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "45.4831663583",
+    "longitude": "-123.2358065566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554519978/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "49.1242317724",
+    "longitude": "-114.0403964545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554502850/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "49.1260984107",
+    "longitude": "-114.0357021466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554490604/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "37.8579915434",
+    "longitude": "-106.9274644286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554490580/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "37.8579915434",
+    "longitude": "-106.9274644286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554488875/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "37.8170209611",
+    "longitude": "-106.9152217108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554488759/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "37.8170209611",
+    "longitude": "-106.9152217108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554486667/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "47.4676029681",
+    "longitude": "-121.4506314174",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554482025/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "37.8511510366",
+    "longitude": "-106.9255247338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554459440/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "45.5816511658",
+    "longitude": "-121.8519220611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554422393/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "40.7565287014",
+    "longitude": "-8.0580622469",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus leucocephalus",
+    "common name": "White-capped Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554409049/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-15.5816718532",
+    "longitude": "-72.0060575009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554418967/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "40.327287576",
+    "longitude": "-7.6786665246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554383258/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "45.1476978381",
+    "longitude": "5.9301280412",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554353374/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "48.8468444444",
+    "longitude": "-121.6763861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554336018/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "53.8182740552",
+    "longitude": "-1.9460589598",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554333284/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "51.735845",
+    "longitude": "11.0236528333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554330368/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "43.6399166667",
+    "longitude": "18.2161333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554330140/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "44.2431695",
+    "longitude": "7.5341881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554317242/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "47.001668634",
+    "longitude": "-114.9979519844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554252145/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "46.9619089722",
+    "longitude": "-110.5400949722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554252979/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "42.8845516667",
+    "longitude": "78.6244483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554215347/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "46.4423055556",
+    "longitude": "9.3612583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus pallasii",
+    "common name": "Brown Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554164095/square.jpg",
+    "date": "2025-06-30",
+    "latitude": "35.1724730989",
+    "longitude": "133.0194960907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554145933/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "53.2491628056",
+    "longitude": "-1.8548100833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554143919/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "42.5207694444",
+    "longitude": "75.3659527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554124941/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "46.3706380587",
+    "longitude": "14.0978558227",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554124517/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "48.860657437",
+    "longitude": "19.9693394825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554110427/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "42.961503352",
+    "longitude": "0.0917234393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554098130/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "42.5933529394",
+    "longitude": "74.6616794541",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554089780/square.jpg",
+    "date": "2018-08-05",
+    "latitude": "51.4726695535",
+    "longitude": "85.5672681711",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554025647/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "36.58952",
+    "longitude": "-118.824825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554025328/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "33.9952866667",
+    "longitude": "-109.4642866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554019175/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "33.9951383333",
+    "longitude": "-109.4645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/554011141/square.jpg",
+    "date": "2023-05-23",
+    "latitude": "44.4665139",
+    "longitude": "-121.6391444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553934851/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "37.6139690937",
+    "longitude": "-106.6776793022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553934002/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "37.6139899284",
+    "longitude": "-106.6777088566",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553928453/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "37.55042",
+    "longitude": "-106.781875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553919588/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "53.651685",
+    "longitude": "-9.386252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553920628/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "40.009175",
+    "longitude": "-105.6658083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553899555/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "42.646783055",
+    "longitude": "1.4491447217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553895162/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "51.5197833333",
+    "longitude": "-3.1384305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551295268/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "57.2643924346",
+    "longitude": "-3.6540997288",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553856672/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "47.1045793086",
+    "longitude": "14.0881325304",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/553828862/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "42.6004528193",
+    "longitude": "44.6443541104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553743022/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "53.926491393",
+    "longitude": "-1.7804764956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553638860/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "45.4472078093",
+    "longitude": "7.2016527504",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553626705/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "42.793899005",
+    "longitude": "-4.2865524383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553584054/square.jpg",
+    "date": "2024-10-10",
+    "latitude": "36.8169826476",
+    "longitude": "-118.8206194949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553550499/square.jpg",
+    "date": "2011-03-08",
+    "latitude": "51.374997",
+    "longitude": "86.103286",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/553471256/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "39.730375974",
+    "longitude": "-123.6482344611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553436592/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "61.2311366667",
+    "longitude": "-149.8258666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/553430424/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "40.3624987997",
+    "longitude": "-123.0888175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553275807/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "53.3631383333",
+    "longitude": "-1.5284533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/553266489/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "40.350445",
+    "longitude": "-105.6522216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553273069/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "53.0831416667",
+    "longitude": "-1.7913944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553201160/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "43.63996",
+    "longitude": "18.216183",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/556112401/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "50.6406",
+    "longitude": "-3.7354666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552973924/square.jpg",
+    "date": "2025-06-08",
+    "latitude": "54.9893325755",
+    "longitude": "-129.946178761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552955967/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "51.9202283333",
+    "longitude": "-119.3255133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552921011/square.jpg",
+    "date": "2023-11-19",
+    "latitude": "38.5628727749",
+    "longitude": "-109.5147577999",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552908247/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "51.2243885024",
+    "longitude": "-3.7992444823",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552903850/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "48.4610174",
+    "longitude": "-121.0469872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552891717/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "48.6606583333",
+    "longitude": "-113.6131194444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus cinclus",
+    "common name": "White-throated Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/552888968/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "51.2237138889",
+    "longitude": "-3.7999555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus leucocephalus",
+    "common name": "White-capped Dipper",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552878839/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "0.032805",
+    "longitude": "-78.680855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cinclus mexicanus",
+    "common name": "American Dipper",
+    "observation photo url": "https://static.inaturalist.org/photos/552799999/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "39.4209820644",
+    "longitude": "-106.0824996457",
+    "quality_grade": "research"
+  }
+]

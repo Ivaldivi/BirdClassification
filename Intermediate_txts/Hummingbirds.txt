@@ -1,0 +1,749 @@
+[
+  {
+    "species": "Selasphorus platycercus",
+    "common name": "Broad-tailed Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558175168/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.2766142476",
+    "longitude": "-105.4262431781",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Selasphorus platycercus",
+    "common name": "Broad-tailed Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558174933/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.2068455082",
+    "longitude": "-105.4899315754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Colibri delphinae",
+    "common name": "Brown Violetear",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191461/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.022451513",
+    "longitude": "-78.6946738509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coeligena wilsoni",
+    "common name": "Brown Inca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191235/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.022451513",
+    "longitude": "-78.6946738509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Boissonneaua jardini",
+    "common name": "Velvet-purple Coronet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191205/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.022451513",
+    "longitude": "-78.6946738509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Boissonneaua jardini",
+    "common name": "Velvet-purple Coronet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191127/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.022451513",
+    "longitude": "-78.6946738509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Urosticte benjamini",
+    "common name": "Purple-bibbed Whitetip",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558190891/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.022451513",
+    "longitude": "-78.6946738509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ocreatus underwoodii",
+    "common name": "White-booted Racket-tail",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558190912/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.022451513",
+    "longitude": "-78.6946738509",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558187477/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "42.3976843888",
+    "longitude": "-88.1478112936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558186556/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.3289022073",
+    "longitude": "-76.4172455535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558186732/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9785399449",
+    "longitude": "-77.2104963655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558185914/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.3289957968",
+    "longitude": "-76.4171617535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Saucerottia beryllina",
+    "common name": "Berylline Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558185938/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "17.0301547784",
+    "longitude": "-96.5207260475",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cynanthus canivetii",
+    "common name": "Canivet's Emerald",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182079/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "11.905222677",
+    "longitude": "-86.0708370432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173973/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.8165841562",
+    "longitude": "-88.0524426882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hylocharis chrysura",
+    "common name": "Gilded Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558172404/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.5415989911",
+    "longitude": "-58.4674670872",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169897/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "25.7651726984",
+    "longitude": "-100.1213629916",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Selasphorus rufus",
+    "common name": "Rufous Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558166836/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "37.6135342677",
+    "longitude": "-105.533198779",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calypte anna",
+    "common name": "Anna's Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558161354/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.606078645",
+    "longitude": "-120.8531452767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558157020/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.5578833333",
+    "longitude": "-81.73013",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anthracothorax nigricollis",
+    "common name": "Black-throated Mango",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558156446/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "0.0820097",
+    "longitude": "-79.0560907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152396/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.8193612033",
+    "longitude": "-74.6455173175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152390/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.8193612033",
+    "longitude": "-74.6455173175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152366/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.8193612033",
+    "longitude": "-74.6455173175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151104/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "43.6968253",
+    "longitude": "-79.2557466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anthracothorax nigricollis",
+    "common name": "Black-throated Mango",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558154095/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "0.0820097",
+    "longitude": "-79.0560907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Doryfera ludovicae",
+    "common name": "Green-fronted Lancebill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558139588/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "0.0288305985",
+    "longitude": "-78.7166854983",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558136684/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.0287555",
+    "longitude": "-93.1202388333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sappho sparganurus",
+    "common name": "Red-tailed Comet",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558132802/square.jpg",
+    "date": "2024-04-15",
+    "latitude": "-30.8664456299",
+    "longitude": "-64.5139714703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anthracothorax nigricollis",
+    "common name": "Black-throated Mango",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558126401/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-9.9561933333",
+    "longitude": "-67.866135",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558125983/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.6392876218",
+    "longitude": "-90.2625386262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Selasphorus calliope",
+    "common name": "Calliope Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558124640/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "30.6266964307",
+    "longitude": "-104.1240786324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Amazilia tzacatl",
+    "common name": "Rufous-tailed Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558122166/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "9.1821666667",
+    "longitude": "-79.4100833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558122205/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.0638974554",
+    "longitude": "-79.07505624",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calypte anna",
+    "common name": "Anna's Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558109049/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.1233695385",
+    "longitude": "-111.5896395111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558119807/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.5253009171",
+    "longitude": "-79.9865953749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115711/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "34.9425185895",
+    "longitude": "-81.8248704907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Selasphorus sasin",
+    "common name": "Allen's Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558116193/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "34.2464333333",
+    "longitude": "-119.19233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115515/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "34.0833611667",
+    "longitude": "-84.6056366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115402/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "34.0833611667",
+    "longitude": "-84.6056366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115360/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "34.0833611667",
+    "longitude": "-84.6056366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115288/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.89",
+    "longitude": "-77.51",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thalurania glaucopis",
+    "common name": "Violet-capped Woodnymph",
+    "observation photo url": "https://static.inaturalist.org/photos/558103370/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-23.8001928343",
+    "longitude": "-46.6567745036",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Amazilia tzacatl",
+    "common name": "Rufous-tailed Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558091589/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "10.3323278",
+    "longitude": "-84.6050261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chlorostilbon lucidus",
+    "common name": "Glittering-bellied Emerald",
+    "observation photo url": "https://static.inaturalist.org/photos/558090897/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-23.5146149",
+    "longitude": "-46.7848675997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Selasphorus platycercus",
+    "common name": "Broad-tailed Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558086653/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "36.659855",
+    "longitude": "-105.9820866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558084724/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.0832138889",
+    "longitude": "-85.2634333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558081521/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.5112026315",
+    "longitude": "-83.0285012349",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558081053/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "43.8754383333",
+    "longitude": "-80.0823888333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558081071/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "40.1452166667",
+    "longitude": "-76.7638083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558079266/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.2528519244",
+    "longitude": "-85.7590529512",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558079086/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.5481535408",
+    "longitude": "-84.5668540968",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Saucerottia beryllina",
+    "common name": "Berylline Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558077871/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "20.0937659352",
+    "longitude": "-103.8982007377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sephanoides sephaniodes",
+    "common name": "Green-backed Firecrown",
+    "observation photo url": "https://static.inaturalist.org/photos/558077638/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-35.4583961963",
+    "longitude": "-71.0263491422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558077078/square.jpg",
+    "date": "2008-08-24",
+    "latitude": "40.2646713257",
+    "longitude": "-80.1951980591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cynanthus latirostris",
+    "common name": "Broad-billed Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558076251/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "20.0945990802",
+    "longitude": "-103.8751656478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calypte anna",
+    "common name": "Anna's Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558074327/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.7105527778",
+    "longitude": "-117.6191861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558073999/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "37.697679695",
+    "longitude": "-81.0785653949",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558072992/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "25.9071507373",
+    "longitude": "-100.1200664788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calypte anna",
+    "common name": "Anna's Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558072939/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.7105638889",
+    "longitude": "-117.6190861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558072221/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.8819332593",
+    "longitude": "-76.9826060038",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558065019/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.7394416667",
+    "longitude": "-79.4728",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558054200/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "43.2037220342",
+    "longitude": "-72.4454265683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558052173/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "36.3214512769",
+    "longitude": "-91.5265809191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calypte costae",
+    "common name": "Costa's Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558051848/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.7692274438",
+    "longitude": "-116.4145019429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calypte anna",
+    "common name": "Anna's Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558046061/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "33.1368393316",
+    "longitude": "-117.1151827227",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558045413/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.6018466667",
+    "longitude": "-85.2413133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558045350/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "35.6016767007",
+    "longitude": "-85.2406932204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Coeligena torquata",
+    "common name": "Collared Inca",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558042495/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "4.7303104845",
+    "longitude": "-74.2880386406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558032220/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.7607814859",
+    "longitude": "-70.0899022944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calypte anna",
+    "common name": "Anna's Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558023998/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.89415",
+    "longitude": "-123.0049361167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558023942/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.2030945",
+    "longitude": "-96.8857098",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558016318/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.4143119097",
+    "longitude": "-78.3147901297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Calypte costae",
+    "common name": "Costa's Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558016239/square.jpg",
+    "date": "2024-06-23",
+    "latitude": "31.8910829052",
+    "longitude": "-110.9403397143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558011403/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "44.0228166667",
+    "longitude": "-79.4282616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558009059/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.6538956202",
+    "longitude": "-73.9932944545",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558001256/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "45.4522509012",
+    "longitude": "-73.4676582366",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Amazilia tzacatl",
+    "common name": "Rufous-tailed Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558000271/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "6.2162179363",
+    "longitude": "-75.5969450142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Ensifera ensifera",
+    "common name": "Sword-billed Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557998346/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "4.5063737025",
+    "longitude": "-74.2973332107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557996525/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "32.9585581522",
+    "longitude": "-96.6941928923",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus colubris",
+    "common name": "Ruby-throated Hummingbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557994086/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.0688143034",
+    "longitude": "-76.2075941803",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Archilochus alexandri",
+    "common name": "Black-chinned Hummingbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557981405/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "33.0568471667",
+    "longitude": "-97.0889971667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chlorostilbon lucidus",
+    "common name": "Glittering-bellied Emerald",
+    "observation photo url": "https://static.inaturalist.org/photos/557974898/square.jpg",
+    "date": "2022-09-26",
+    "latitude": "-26.8936279521",
+    "longitude": "-59.0101209214",
+    "quality_grade": "research"
+  }
+]

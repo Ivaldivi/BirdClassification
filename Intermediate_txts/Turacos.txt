@@ -1,0 +1,1478 @@
+[
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558008865/square.jpg",
+    "date": "2025-02-26",
+    "latitude": "-22.7345468604",
+    "longitude": "31.0155052319",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557968149/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-24.0937711252",
+    "longitude": "31.3570006549",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557955609/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-26.1383916667",
+    "longitude": "28.0641638889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557945540/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-24.5802241619",
+    "longitude": "31.767451919",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557940314/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.9354388889",
+    "longitude": "31.7105305556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557799496/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-1.9150727975",
+    "longitude": "35.5423350721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557308144/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-2.1312635174",
+    "longitude": "34.7220370871",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco schalowi",
+    "common name": "Schalow's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557279377/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-17.9255578692",
+    "longitude": "25.8537706701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco schalowi",
+    "common name": "Schalow's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557279403/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-17.9255578692",
+    "longitude": "25.8537706701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/557225175/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-2.3333333",
+    "longitude": "34.8333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix",
+    "common name": "Knysna Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557153433/square.jpg",
+    "date": "2025-07-04",
+    "latitude": "-25.3581222222",
+    "longitude": "30.5334138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557052496/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-24.2277315553",
+    "longitude": "30.8691854775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor concolor",
+    "common name": "Lowveld Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557005729/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.3411031873",
+    "longitude": "31.8100048229",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix corythaix",
+    "common name": "Southern Knysna Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556998642/square.jpg",
+    "date": "2011-12-19",
+    "latitude": "-33.9809174286",
+    "longitude": "23.549324053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix corythaix",
+    "common name": "Southern Knysna Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556998631/square.jpg",
+    "date": "2011-12-18",
+    "latitude": "-33.9809174286",
+    "longitude": "23.549324053",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556662678/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "0.7338671792",
+    "longitude": "36.6150928806",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556593438/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-26.0268390991",
+    "longitude": "27.8557031763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556593499/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-26.0267478099",
+    "longitude": "27.8557507738",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/556339097/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-3.4502108",
+    "longitude": "36.7388287",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556149643/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.5750429268",
+    "longitude": "17.1284822961",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556049260/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-3.1957545219",
+    "longitude": "29.5604872798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/555987754/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "5.3436327794",
+    "longitude": "37.4762174243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555967782/square.jpg",
+    "date": "2015-09-08",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus porphyreolophus",
+    "common name": "Southern Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555972267/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-25.3416474",
+    "longitude": "31.8097490072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer piscator",
+    "common name": "Western Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555917476/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "52.3391113605",
+    "longitude": "9.2266769235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555634736/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-1.2635997534",
+    "longitude": "36.817199707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555630864/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-20.2083295943",
+    "longitude": "28.5774069879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555556886/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-23.8911783333",
+    "longitude": "29.4844333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555026659/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-1.7567331336",
+    "longitude": "12.9940918828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/554957753/square.jpg",
+    "date": "2023-06-25",
+    "latitude": "-1.2482107174",
+    "longitude": "35.011966601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/554847909/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-3.8726166667",
+    "longitude": "11.3698166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco rossae",
+    "common name": "Ross's Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/554753877/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "0.0620109839",
+    "longitude": "32.4792743102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix",
+    "common name": "Knysna Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/554753877/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-33.6530639664",
+    "longitude": "24.5832268149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/554500447/square.jpg",
+    "date": "2023-06-29",
+    "latitude": "-2.6526507483",
+    "longitude": "37.2606206685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554413466/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-24.0673491694",
+    "longitude": "31.4451537714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554383339/square.jpg",
+    "date": "2017-12-19",
+    "latitude": "0.4471118046",
+    "longitude": "30.3771658423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/554284399/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-23.2383618071",
+    "longitude": "18.3906569704",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554210900/square.jpg",
+    "date": "2025-04-24",
+    "latitude": "-2.5871672",
+    "longitude": "37.4681396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554205695/square.jpg",
+    "date": "2025-02-27",
+    "latitude": "-22.9891838114",
+    "longitude": "31.3050717402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554184308/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-1.6194165",
+    "longitude": "35.3001427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554135399/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-3.0609221458",
+    "longitude": "34.6595306396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554106467/square.jpg",
+    "date": "2014-05-12",
+    "latitude": "-17.9511462",
+    "longitude": "24.6868329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor concolor",
+    "common name": "Lowveld Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554098120/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-24.2009755024",
+    "longitude": "30.903075034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco rossae",
+    "common name": "Ross's Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/553907419/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "0.0793058544",
+    "longitude": "32.3613318801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/553849404/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "0.0923115361",
+    "longitude": "32.3526559398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/553797052/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "0.1215998661",
+    "longitude": "32.4113624543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor pallidiceps",
+    "common name": "Paleface Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553784654/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-19.194722",
+    "longitude": "17.549722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor pallidiceps",
+    "common name": "Paleface Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553784653/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-19.194722",
+    "longitude": "17.549722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor pallidiceps",
+    "common name": "Paleface Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553770496/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-18.8086588319",
+    "longitude": "16.9393026796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor pallidiceps",
+    "common name": "Paleface Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553770497/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-18.8086588319",
+    "longitude": "16.9393026796",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco hartlaubi",
+    "common name": "Hartlaub's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553734799/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-0.3627965629",
+    "longitude": "36.9041161765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553712373/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-24.7385899872",
+    "longitude": "25.8156560074",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553667716/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-25.1700008406",
+    "longitude": "31.2682107296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus porphyreolophus",
+    "common name": "Southern Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553654582/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-30.2822713936",
+    "longitude": "30.7537229703",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/553560835/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "0.0533695",
+    "longitude": "32.4649166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco rossae",
+    "common name": "Ross's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553380863/square.jpg",
+    "date": "2024-08-22",
+    "latitude": "0.0296419397",
+    "longitude": "32.255713039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553376947/square.jpg",
+    "date": "2024-08-20",
+    "latitude": "-0.6052412263",
+    "longitude": "30.9632443689",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco leucolophus",
+    "common name": "White-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553356379/square.jpg",
+    "date": "2024-08-11",
+    "latitude": "1.4577605151",
+    "longitude": "32.0786648816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus porphyreolophus",
+    "common name": "Southern Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553314816/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-29.592092",
+    "longitude": "30.3619493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco schuettii",
+    "common name": "Black-billed Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553270507/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-1.0453175467",
+    "longitude": "29.779545106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553261026/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-25.1194325779",
+    "longitude": "31.9156579497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor bechuanae",
+    "common name": "Kalahari Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553253944/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-18.5623534863",
+    "longitude": "26.9122743476",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/553253862/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "0.0620109839",
+    "longitude": "32.4792743102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer piscator",
+    "common name": "Western Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553272132/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "6.1763056329",
+    "longitude": "1.2148649991",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/553246210/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "0.6259358026",
+    "longitude": "37.6355813813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553222979/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "0.0253035077",
+    "longitude": "36.9032199032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553222809/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-17.0023259863",
+    "longitude": "13.2450274946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553161736/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-24.5521940534",
+    "longitude": "26.0634076328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco rossae",
+    "common name": "Ross's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553133925/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "0.0605682724",
+    "longitude": "32.4791826223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus porphyreolophus",
+    "common name": "Southern Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553089589/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-29.7785768779",
+    "longitude": "30.7441788094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553080917/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-18.8030263889",
+    "longitude": "17.0425930556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/552954060/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "0.416666769",
+    "longitude": "30.4166659713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/552884256/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "0.4274321934",
+    "longitude": "30.4112583026",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/552716929/square.jpg",
+    "date": "2019-08-03",
+    "latitude": "-20.5504872",
+    "longitude": "14.3976175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix corythaix",
+    "common name": "Southern Knysna Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/552701368/square.jpg",
+    "date": "2024-06-18",
+    "latitude": "-34.0201806997",
+    "longitude": "23.8735788997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552663122/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-25.1042881254",
+    "longitude": "31.6327565546",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco leucolophus",
+    "common name": "White-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552659467/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "2.5281189671",
+    "longitude": "34.7069575571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552651839/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-17.8317317287",
+    "longitude": "25.1171501065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552650420/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-17.8317317287",
+    "longitude": "25.1171501065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix corythaix",
+    "common name": "Southern Knysna Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552646947/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-34.024031007",
+    "longitude": "23.8917867531",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor bechuanae",
+    "common name": "Kalahari Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552556602/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-25.8824538",
+    "longitude": "28.2638695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552550267/square.jpg",
+    "date": "2025-07-21",
+    "latitude": "-2.799715223",
+    "longitude": "37.5328716596",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552429747/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-7.7674633333",
+    "longitude": "34.872995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552429652/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-7.7674633333",
+    "longitude": "34.872995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552394133/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-4.162855",
+    "longitude": "36.0899257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552386798/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-4.162855",
+    "longitude": "36.0899257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552386190/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-4.162855",
+    "longitude": "36.0899257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552349575/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-25.3887152522",
+    "longitude": "28.993997005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552293869/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-0.5126028669",
+    "longitude": "31.0094928369",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552281907/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "-3.215435",
+    "longitude": "37.8000247222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/552187868/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "0.3525882651",
+    "longitude": "32.226489828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/552187071/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "0.3976777",
+    "longitude": "32.0639749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/552187066/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "0.3976777",
+    "longitude": "32.0639749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/552144637/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-24.9813083333",
+    "longitude": "31.566505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus",
+    "common name": "Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552118683/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.37691344",
+    "longitude": "32.41085364",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor concolor",
+    "common name": "Lowveld Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552011628/square.jpg",
+    "date": "2013-04-09",
+    "latitude": "-24.3860251",
+    "longitude": "31.3327344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552011321/square.jpg",
+    "date": "2013-04-09",
+    "latitude": "-24.3860251",
+    "longitude": "31.3327344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor concolor",
+    "common name": "Lowveld Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551999921/square.jpg",
+    "date": "2013-04-09",
+    "latitude": "-24.3860251",
+    "longitude": "31.3327344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco macrorhynchus",
+    "common name": "Yellow-billed Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551883758/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-1.693271",
+    "longitude": "12.908275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551820550/square.jpg",
+    "date": "2025-06-27",
+    "latitude": "0.4548583333",
+    "longitude": "35.8720033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551622610/square.jpg",
+    "date": "2024-03-11",
+    "latitude": "0.0626560548",
+    "longitude": "32.4777675793",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551490160/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-23.8570915309",
+    "longitude": "29.7095852884",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551389496/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-3.7948716667",
+    "longitude": "35.9122666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551334704/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-24.1505721667",
+    "longitude": "30.6575716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus porphyreolophus",
+    "common name": "Southern Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551275602/square.jpg",
+    "date": "2024-06-19",
+    "latitude": "-24.9958989",
+    "longitude": "31.5968698",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix phoebus",
+    "common name": "Northern Knysna Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/551255813/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-23.0000218986",
+    "longitude": "29.8828386515",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix phoebus",
+    "common name": "Northern Knysna Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/551255697/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-23.0003231145",
+    "longitude": "29.8836698011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/551255697/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-17.8114023834",
+    "longitude": "31.0809605688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551283676/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "0.0614986823",
+    "longitude": "32.4774172157",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco hartlaubi",
+    "common name": "Hartlaub's Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/551213095/square.jpg",
+    "date": "2023-06-22",
+    "latitude": "-1.2368076407",
+    "longitude": "36.8304101005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor concolor",
+    "common name": "Lowveld Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551024519/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-25.1701866667",
+    "longitude": "31.26798",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor bechuanae",
+    "common name": "Kalahari Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551007740/square.jpg",
+    "date": "2023-08-14",
+    "latitude": "-25.2303238",
+    "longitude": "27.1012709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550838509/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "0.2447955984",
+    "longitude": "36.8042000262",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550747860/square.jpg",
+    "date": "2003-07-16",
+    "latitude": "-25.2673812718",
+    "longitude": "27.1087575084",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/550425989/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-19.3699349008",
+    "longitude": "16.9655126542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550423889/square.jpg",
+    "date": "2015-04-24",
+    "latitude": "-18.5642665819",
+    "longitude": "24.0635701809",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550339353/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "1.058792034",
+    "longitude": "34.2217200994",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550316085/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "0.0622460124",
+    "longitude": "32.4769987911",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/550310176/square.jpg",
+    "date": "2009-03-29",
+    "latitude": "-20.4773550058",
+    "longitude": "17.3004899892",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco schalowi",
+    "common name": "Schalow's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550269649/square.jpg",
+    "date": "2023-08-18",
+    "latitude": "-1.5953517941",
+    "longitude": "35.3836288888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550268747/square.jpg",
+    "date": "2023-08-18",
+    "latitude": "-1.5950722222",
+    "longitude": "35.3833255556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550258466/square.jpg",
+    "date": "2023-06-15",
+    "latitude": "-3.6985944147",
+    "longitude": "35.9482642992",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550202309/square.jpg",
+    "date": "2025-07-07",
+    "latitude": "0.3898735656",
+    "longitude": "30.4041719573",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco schuettii",
+    "common name": "Black-billed Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550048072/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-2.477645095",
+    "longitude": "29.2016494164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus porphyreolophus",
+    "common name": "Southern Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549977709/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-29.8412909784",
+    "longitude": "30.9300615638",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549877657/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "0.5144350774",
+    "longitude": "12.8045583889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549820428/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-18.8072711245",
+    "longitude": "16.9382804679",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor concolor",
+    "common name": "Lowveld Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549727548/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-23.116667",
+    "longitude": "31.433333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus",
+    "common name": "Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549709912/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-24.9929313611",
+    "longitude": "31.5922088611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549694174/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "-1.8739388889",
+    "longitude": "30.704875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://static.inaturalist.org/photos/549616019/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-2.7353972222",
+    "longitude": "37.3716111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549546028/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-1.4337399121",
+    "longitude": "34.3412716533",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549449856/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-20.1841558964",
+    "longitude": "28.5934480818",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor concolor",
+    "common name": "Lowveld Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549405740/square.jpg",
+    "date": "2025-07-14",
+    "latitude": "-24.3692394092",
+    "longitude": "31.4723427391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549402874/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-26.0585816",
+    "longitude": "27.975388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor concolor",
+    "common name": "Lowveld Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549388947/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "-24.2315649182",
+    "longitude": "31.180554579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549339287/square.jpg",
+    "date": "2025-07-08",
+    "latitude": "-21.5025469916",
+    "longitude": "15.6110772031",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor bechuanae",
+    "common name": "Kalahari Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549268040/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-24.9186214486",
+    "longitude": "28.3948500627",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer piscator",
+    "common name": "Western Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549203755/square.jpg",
+    "date": "2016-11-06",
+    "latitude": "13.528372083",
+    "longitude": "2.0790180194",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549185070/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "0.0458573874",
+    "longitude": "32.4684807658",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549081918/square.jpg",
+    "date": "2007-10-04",
+    "latitude": "0.0546185",
+    "longitude": "32.4794366",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549014524/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-3.7782166667",
+    "longitude": "35.9733666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548985295/square.jpg",
+    "date": "2025-07-28",
+    "latitude": "-17.9128528296",
+    "longitude": "25.7263530819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548984417/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "0.4891668613",
+    "longitude": "30.3349960316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548828228/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "2.271384517",
+    "longitude": "31.6650534952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548827444/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "2.2868204347",
+    "longitude": "31.5787172932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco corythaix corythaix",
+    "common name": "Southern Knysna Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548815093/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-33.9661181",
+    "longitude": "22.6284606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco rossae",
+    "common name": "Ross's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548785818/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "0.0781151716",
+    "longitude": "32.4717114485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor bechuanae",
+    "common name": "Kalahari Go-Away",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548762363/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-26.0594501445",
+    "longitude": "28.0411266939",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548562221/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-24.1506471667",
+    "longitude": "30.65767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548451474/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "3.7274643644",
+    "longitude": "33.6902775219",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548422539/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "0.0781462479",
+    "longitude": "32.4716467174",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco rossae",
+    "common name": "Ross's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548422192/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "0.0784462194",
+    "longitude": "32.4710085604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer personatus",
+    "common name": "Bare-faced Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548137181/square.jpg",
+    "date": "2025-05-28",
+    "latitude": "-1.2482106",
+    "longitude": "35.0119668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco rossae",
+    "common name": "Ross's Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548086446/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "0.0781944595",
+    "longitude": "32.4715601719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547918068/square.jpg",
+    "date": "2006-09-27",
+    "latitude": "-23.9883848",
+    "longitude": "31.5547402",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547894979/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-25.3830873636",
+    "longitude": "31.1041033858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gallirex porphyreolophus porphyreolophus",
+    "common name": "Southern Purple-crested Turaco",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547863933/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-30.374235648",
+    "longitude": "30.7002847152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco violaceus",
+    "common name": "Violet Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/547856865/square.jpg",
+    "date": "2018-12-27",
+    "latitude": "10.5116896193",
+    "longitude": "-10.3507341465",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer concolor",
+    "common name": "Grey Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547861792/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "-22.6770893764",
+    "longitude": "29.0169726235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer leucogaster",
+    "common name": "White-bellied Go-away-bird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547850994/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-2.9011185443",
+    "longitude": "37.9057062005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Corythaeola cristata",
+    "common name": "Great Blue Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/547845136/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "0.062160843",
+    "longitude": "32.4791291583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tauraco rossae",
+    "common name": "Ross's Turaco",
+    "observation photo url": "https://static.inaturalist.org/photos/547843637/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "0.0645144208",
+    "longitude": "32.4779872677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Crinifer zonurus",
+    "common name": "Eastern Plantain-eater",
+    "observation photo url": "https://static.inaturalist.org/photos/547843414/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "0.0641706511",
+    "longitude": "32.4773374486",
+    "quality_grade": "research"
+  }
+]

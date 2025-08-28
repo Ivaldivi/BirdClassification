@@ -1,0 +1,1685 @@
+[
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558198230/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.5131866667",
+    "longitude": "-74.1917283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185740/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.4033476555",
+    "longitude": "-123.348133406",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558171824/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.3941807482",
+    "longitude": "1.5594642836",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus ostralegus",
+    "common name": "European Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558166648/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.332603302",
+    "longitude": "-1.9980354016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558160124/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "32.8503016081",
+    "longitude": "-117.2713803508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558138138/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.5824836115",
+    "longitude": "-73.6408181677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus ostralegus",
+    "common name": "European Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558129584/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3120185142",
+    "longitude": "-1.9949222551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558116975/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "36.9503359704",
+    "longitude": "-122.0447000725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus galapagensis",
+    "common name": "Gal\u00e1pagos Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558116647/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-0.1645103817",
+    "longitude": "-90.8272331581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558110992/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "55.9723333137",
+    "longitude": "-2.4131727563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558090892/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "64.1498311571",
+    "longitude": "-21.9369786497",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558076983/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "36.9498103485",
+    "longitude": "-122.0614636873",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558066614/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "48.6255638208",
+    "longitude": "-2.0320968389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/558057856/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-0.1663403112",
+    "longitude": "-90.8233580366",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558043810/square.jpg",
+    "date": "2025-06-05",
+    "latitude": "37.8419758625",
+    "longitude": "-122.5519326767",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558016183/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-34.6634195336",
+    "longitude": "-54.1751916268",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558016775/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-41.888655",
+    "longitude": "-73.9945966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557974799/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "-43.1476609512",
+    "longitude": "147.8510413016",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557964101/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963849/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557963676/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557961157/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557955330/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557954049/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-31.9965027",
+    "longitude": "115.5398997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557938643/square.jpg",
+    "date": "2024-07-15",
+    "latitude": "-27.50122635",
+    "longitude": "153.39812155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus fuliginosus",
+    "common name": "Sooty Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557927945/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-34.4273837986",
+    "longitude": "119.4023601338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557918247/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-13.8390941644",
+    "longitude": "-76.2570483485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ater",
+    "common name": "Blackish Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557917809/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-13.7350116386",
+    "longitude": "-76.3980782722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus fuliginosus",
+    "common name": "Sooty Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557881359/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-38.421406685",
+    "longitude": "145.076498145",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus unicolor",
+    "common name": "Variable Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557874904/square.jpg",
+    "date": "2014-08-11",
+    "latitude": "-37.7587724",
+    "longitude": "176.4519276",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557870438/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "27.8689181899",
+    "longitude": "-82.8508141165",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557869773/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "27.8688019936",
+    "longitude": "-82.8507969611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557869342/square.jpg",
+    "date": "2025-06-07",
+    "latitude": "27.8679744375",
+    "longitude": "-82.8505506261",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557870724/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "39.3019537997",
+    "longitude": "-123.8040879997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus unicolor",
+    "common name": "Variable Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557860314/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-41.3452643556",
+    "longitude": "174.7823393717",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557851910/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.3378333333",
+    "longitude": "-71.7222283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557851730/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "53.3263818643",
+    "longitude": "-3.773861956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus unicolor",
+    "common name": "Variable Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557851842/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-40.8965694714",
+    "longitude": "174.9773792177",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557840275/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "53.2272276005",
+    "longitude": "-4.1590007695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557827709/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-36.7241804821",
+    "longitude": "-73.1025480526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557819472/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "38.9316377997",
+    "longitude": "-74.9439689997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557800844/square.jpg",
+    "date": "2024-02-15",
+    "latitude": "-20.7281167694",
+    "longitude": "-40.5213777917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ater",
+    "common name": "Blackish Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557777980/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "-12.4792511627",
+    "longitude": "-76.7978429517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557765627/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "40.6229156197",
+    "longitude": "-73.8302643584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557758807/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.4375966667",
+    "longitude": "-123.29227",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557699837/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "50.697316275",
+    "longitude": "-2.0311040664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557754343/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "49.9500764861",
+    "longitude": "-124.8688117941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557733334/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "69.1643438667",
+    "longitude": "35.1252522333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557723812/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "48.6077864083",
+    "longitude": "-2.0271345137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557700247/square.jpg",
+    "date": "2023-07-08",
+    "latitude": "38.4969634271",
+    "longitude": "-75.0147450278",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557689970/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "53.3029743851",
+    "longitude": "-6.1761124805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557682230/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "50.7797950944",
+    "longitude": "-1.3978678362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557679405/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "50.7817708055",
+    "longitude": "-1.3819165014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557679180/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "50.779543025",
+    "longitude": "-1.3855457054",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557675095/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.5598226997",
+    "longitude": "-3.477043",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus moquini",
+    "common name": "African Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557649857/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-33.1301115992",
+    "longitude": "18.0666657753",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557648246/square.jpg",
+    "date": "2023-08-03",
+    "latitude": "54.6786465261",
+    "longitude": "8.7050969526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557639151/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-0.7608928386",
+    "longitude": "-90.3317986429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557623960/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "50.7998822831",
+    "longitude": "-1.4109551342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557621897/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7796272638",
+    "longitude": "-1.4055069255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557620171/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.9299283388",
+    "longitude": "0.4775056243",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557619535/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "25.8203783333",
+    "longitude": "-77.9340366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus moquini",
+    "common name": "African Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557613023/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-33.1917325067",
+    "longitude": "18.1088520498",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557615894/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.6466133333",
+    "longitude": "-1.1646278333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557613791/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-38.747013",
+    "longitude": "-62.3215563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557607977/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7776197029",
+    "longitude": "-1.3971629199",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557607733/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7774314211",
+    "longitude": "-1.3937178238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557607296/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-34.9647707495",
+    "longitude": "-54.9407161846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557600700/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-42.8328277813",
+    "longitude": "-64.8651775724",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557603280/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7776506362",
+    "longitude": "-1.3961426384",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557602715/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7799510372",
+    "longitude": "-1.3908633345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557602330/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7776147546",
+    "longitude": "-1.3970179312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557601994/square.jpg",
+    "date": "2021-06-10",
+    "latitude": "54.0237278",
+    "longitude": "8.8105855",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557601913/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7787905159",
+    "longitude": "-1.3874691211",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557599667/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.777844954",
+    "longitude": "-1.393684567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557599072/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7788503136",
+    "longitude": "-1.3876277754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557598707/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "50.7790950413",
+    "longitude": "-1.3894682723",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557593576/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "37.8318549",
+    "longitude": "-0.7715168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557592800/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "37.8318549",
+    "longitude": "-0.7715168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557583692/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "57.9833589882",
+    "longitude": "-3.9269277694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557583656/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "57.9836577808",
+    "longitude": "-3.9189012308",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557592658/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "38.0757453",
+    "longitude": "-75.2354222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557582687/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.9515717837",
+    "longitude": "-7.722705009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557560691/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "57.9342434703",
+    "longitude": "-4.0490295467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557553312/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "47.4694833333",
+    "longitude": "-3.0852216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus fuliginosus",
+    "common name": "Sooty Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557548588/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-34.6166056428",
+    "longitude": "150.8553431556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557541480/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.3453987658",
+    "longitude": "3.2269103462",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus palliatus",
+    "common name": "Mainland American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557522613/square.jpg",
+    "date": "2017-11-18",
+    "latitude": "-33.6266412783",
+    "longitude": "-71.6324888883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557519842/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "60.0537308756",
+    "longitude": "29.9621167727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus fuliginosus",
+    "common name": "Sooty Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557509641/square.jpg",
+    "date": "2022-04-14",
+    "latitude": "-23.4435637315",
+    "longitude": "151.9144978496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557486016/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "40.6218357505",
+    "longitude": "-73.8320088354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557484134/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "55.5082588706",
+    "longitude": "12.2169797599",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557483791/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "55.5046666335",
+    "longitude": "12.2130394567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557483692/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "55.5055898037",
+    "longitude": "12.2143527805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557477222/square.jpg",
+    "date": "2024-12-17",
+    "latitude": "-25.2564932309",
+    "longitude": "152.8066248368",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557474760/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "48.6081335925",
+    "longitude": "-1.7955408583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557464461/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "57.1736239751",
+    "longitude": "-2.0777564069",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557472392/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "69.7210558825",
+    "longitude": "33.1137442493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557472276/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.6889616667",
+    "longitude": "-1.5412616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557465777/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-36.3155306919",
+    "longitude": "-56.7484127938",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557459958/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "55.8693714546",
+    "longitude": "12.8190286388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557459955/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "55.8693714546",
+    "longitude": "12.8190286388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557459948/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "55.8693714546",
+    "longitude": "12.8190286388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus unicolor",
+    "common name": "Variable Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557452024/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-42.4311560864",
+    "longitude": "173.7032647791",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus unicolor",
+    "common name": "Variable Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557450278/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-40.4098783333",
+    "longitude": "175.22343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557448576/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "51.7913105515",
+    "longitude": "0.9955783188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557443122/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "48.6482449634",
+    "longitude": "-2.4614622071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557437849/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.930174902",
+    "longitude": "0.4776548222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557434753/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "60.150142",
+    "longitude": "-1.148294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557424466/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-0.7608164024",
+    "longitude": "-90.3340872377",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557416337/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "57.1734364342",
+    "longitude": "-2.0798857901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557396168/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.610153392",
+    "longitude": "152.8760872853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557387662/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "48.6943999341",
+    "longitude": "-122.7624063027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557377516/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.0316964591",
+    "longitude": "-74.7712266416",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557375277/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.9797016296",
+    "longitude": "-122.7909583971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557367942/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "65.0064465073",
+    "longitude": "25.4650771245",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus finschi",
+    "common name": "South Island Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557357735/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-43.6501366667",
+    "longitude": "172.3370416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus palliatus",
+    "common name": "Mainland American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557354168/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "35.8223383333",
+    "longitude": "-75.5530866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557903447/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-35.7711400182",
+    "longitude": "137.7841059215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus finschi",
+    "common name": "South Island Pied Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557350378/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-43.650235",
+    "longitude": "172.3403166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557349825/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "36.5914783333",
+    "longitude": "-121.9644166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus unicolor",
+    "common name": "Variable Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557343156/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-39.5667992785",
+    "longitude": "174.0601411834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557334673/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "48.4064768",
+    "longitude": "-123.3220432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557330120/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-38.9280383071",
+    "longitude": "-60.5295986106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557325908/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-38.8950671",
+    "longitude": "-60.3191029",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557316737/square.jpg",
+    "date": "2017-01-28",
+    "latitude": "13.186473553",
+    "longitude": "-87.9302801829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus fuliginosus",
+    "common name": "Sooty Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557315069/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.7279150602",
+    "longitude": "134.503112909",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557288587/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "39.3599466667",
+    "longitude": "-74.4170966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557283397/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "38.24525",
+    "longitude": "-75.1321555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557270638/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.3310312135",
+    "longitude": "16.5445654597",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557259914/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.2040717413",
+    "longitude": "16.4020113945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557274587/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-24.1841033699",
+    "longitude": "-46.7897676677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557261289/square.jpg",
+    "date": "2025-06-15",
+    "latitude": "40.6226608518",
+    "longitude": "-73.8228092275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557249418/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "36.522252273",
+    "longitude": "-121.9448066886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557250194/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "54.2903400933",
+    "longitude": "18.9219958827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556974890/square.jpg",
+    "date": "2024-10-11",
+    "latitude": "53.1035700087",
+    "longitude": "-6.0404050528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557260013/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.5876916667",
+    "longitude": "-73.79",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557202967/square.jpg",
+    "date": "2025-05-04",
+    "latitude": "42.34655383",
+    "longitude": "-70.9576127799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557196701/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.9165825013",
+    "longitude": "-123.9728012606",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557196560/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.9155673693",
+    "longitude": "-123.972715429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557196530/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.915716184",
+    "longitude": "-123.9724969265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557195550/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "45.9171271167",
+    "longitude": "-123.9766688581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557204008/square.jpg",
+    "date": "1990-05-10",
+    "latitude": "53.1291291225",
+    "longitude": "4.8992403152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557204048/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "48.9159515328",
+    "longitude": "-123.5340718122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557184182/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "57.6685818274",
+    "longitude": "11.8162418754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557201981/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "51.7963851714",
+    "longitude": "-0.004271567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557192091/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "48.415858",
+    "longitude": "-123.38878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557192068/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.756736838",
+    "longitude": "8.2535101846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557156100/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "8.898775338",
+    "longitude": "-79.5752627403",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557155538/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "8.8978029501",
+    "longitude": "-79.5789683651",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557153525/square.jpg",
+    "date": "2025-01-27",
+    "latitude": "54.6601600671",
+    "longitude": "-1.1856121102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557150745/square.jpg",
+    "date": "2022-07-01",
+    "latitude": "42.566567008",
+    "longitude": "-124.3917092571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557149578/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.7106866667",
+    "longitude": "-1.9726966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557137165/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "49.1893866364",
+    "longitude": "-123.9342046958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557116149/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "55.8687240635",
+    "longitude": "12.8209351357",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557113811/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "55.868749197",
+    "longitude": "12.8185747917",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557119938/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.59328607",
+    "longitude": "-124.10396681",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ater",
+    "common name": "Blackish Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557110895/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-12.1307221667",
+    "longitude": "-77.0357278333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557103383/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.914537798",
+    "longitude": "-123.9706230306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557071686/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "54.4252999302",
+    "longitude": "37.0661975058",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557071733/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.6888621174",
+    "longitude": "-1.9565829635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557048863/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "51.4931929081",
+    "longitude": "-2.74901877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus moquini",
+    "common name": "African Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557095948/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-34.3498073076",
+    "longitude": "21.0589608387",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557053872/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-13.8334466667",
+    "longitude": "-76.249695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus moquini",
+    "common name": "African Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557051416/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.0433493",
+    "longitude": "24.9269677",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557046977/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "51.5154069312",
+    "longitude": "-9.1712004417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557045695/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.8855675228",
+    "longitude": "-42.0056388222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557045626/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.8854805814",
+    "longitude": "-42.0056008143",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557045029/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "50.3563944444",
+    "longitude": "-4.1271361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus palliatus",
+    "common name": "American Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/557044830/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.8854908043",
+    "longitude": "-42.0055565828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557001220/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "69.1651337139",
+    "longitude": "35.1224495168",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557010797/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "57.0559695",
+    "longitude": "8.5180966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557004438/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-34.0560278333",
+    "longitude": "23.0630471667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556988208/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "35.6702015983",
+    "longitude": "139.9652066503",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556978613/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "65.594565",
+    "longitude": "-22.509576",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus longirostris",
+    "common name": "Pied Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/556945929/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-26.8060864595",
+    "longitude": "153.1252274945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556931443/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "58.3310237903",
+    "longitude": "-6.692068585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/556920832/square.jpg",
+    "date": "2013-06-23",
+    "latitude": "36.6231479299",
+    "longitude": "-121.9125317417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/556920560/square.jpg",
+    "date": "2013-06-23",
+    "latitude": "36.6230963889",
+    "longitude": "-121.9141863889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/556919723/square.jpg",
+    "date": "2013-06-23",
+    "latitude": "36.6373565759",
+    "longitude": "-121.935186027",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus bachmani",
+    "common name": "Black Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/556918756/square.jpg",
+    "date": "2013-06-23",
+    "latitude": "36.6350027713",
+    "longitude": "-121.9246466976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ater",
+    "common name": "Blackish Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556914775/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-42.5747317938",
+    "longitude": "-64.2781615648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556896160/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "63.865115",
+    "longitude": "-20.355009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus unicolor",
+    "common name": "Variable Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556896584/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-36.8327854809",
+    "longitude": "174.7977494238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556883122/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "53.3781598153",
+    "longitude": "5.3223972023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus ostralegus",
+    "common name": "Eurasian Oystercatcher",
+    "observation photo url": "https://static.inaturalist.org/photos/556879524/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "43.4507805529",
+    "longitude": "-3.7718955976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Haematopus unicolor",
+    "common name": "Variable Oystercatcher",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556874596/square.jpg",
+    "date": "2010-09-26",
+    "latitude": "-46.5111673796",
+    "longitude": "168.3260050418",
+    "quality_grade": "research"
+  }
+]

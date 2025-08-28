@@ -1,0 +1,1721 @@
+[
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556952036/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "17.2327298066",
+    "longitude": "-90.2985761556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556576847/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-22.44795286",
+    "longitude": "-42.77211415",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/555377516/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "10.9765305556",
+    "longitude": "-84.7410777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/554769162/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "10.8961804868",
+    "longitude": "-84.7570542526",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554047113/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-22.4504030769",
+    "longitude": "-42.7724839139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/553766017/square.jpg",
+    "date": "2013-10-06",
+    "latitude": "-12.6319630073",
+    "longitude": "-71.2386131897",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553148513/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-14.1656348587",
+    "longitude": "-51.2964517587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551960577/square.jpg",
+    "date": "2019-07-19",
+    "latitude": "-17.2926982194",
+    "longitude": "-56.7102735109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551691655/square.jpg",
+    "date": "2025-03-26",
+    "latitude": "10.8887982791",
+    "longitude": "-84.7817429257",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551579258/square.jpg",
+    "date": "2022-05-04",
+    "latitude": "18.5571871456",
+    "longitude": "-91.1379095318",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551576628/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.8931398364",
+    "longitude": "25.8149476032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551575941/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-17.8931398364",
+    "longitude": "25.8149476032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551574451/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-17.8931398364",
+    "longitude": "25.8149476032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/551548124/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "4.5146584536",
+    "longitude": "-52.0665743575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551486175/square.jpg",
+    "date": "2019-07-18",
+    "latitude": "-17.2701375462",
+    "longitude": "-56.7139189941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550786009/square.jpg",
+    "date": "2025-02-01",
+    "latitude": "-28.3548932",
+    "longitude": "32.40800924",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/547855942/square.jpg",
+    "date": "2018-12-19",
+    "latitude": "10.5187800312",
+    "longitude": "-10.3265553407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/547844157/square.jpg",
+    "date": "2018-12-03",
+    "latitude": "10.5125849394",
+    "longitude": "-10.3511936653",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/546660027/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-22.4503905356",
+    "longitude": "-42.7698733042",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546423816/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-12.7889635585",
+    "longitude": "-69.3429173583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545598146/square.jpg",
+    "date": "2006-02-09",
+    "latitude": "10.5465519538",
+    "longitude": "-83.5066076396",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/544369709/square.jpg",
+    "date": "2023-08-21",
+    "latitude": "-14.7058528019",
+    "longitude": "26.3805832293",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/543520956/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "-0.6590896505",
+    "longitude": "30.9508328179",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543371082/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-0.6606185313",
+    "longitude": "30.9255531479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543017470/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-22.452864",
+    "longitude": "-42.770281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542849501/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "0.7839096497",
+    "longitude": "15.0489157271",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/542342800/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "-22.4484638889",
+    "longitude": "-42.7714972222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/539623151/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-6.2610056254",
+    "longitude": "38.6576976014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539174143/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-8.7534042",
+    "longitude": "-67.3973478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538220824/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-22.452864",
+    "longitude": "-42.770281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/537171587/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "4.4966045262",
+    "longitude": "-52.0573971621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/537166217/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "4.4984575275",
+    "longitude": "-52.0264337584",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536289690/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-23.4854043552",
+    "longitude": "-46.5155530348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536134980/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "-25.1211555",
+    "longitude": "31.9247333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/535579343/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-22.4504741238",
+    "longitude": "-42.7706588432",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/532977712/square.jpg",
+    "date": "2024-02-04",
+    "latitude": "13.3460142295",
+    "longitude": "-13.3785796492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/532947353/square.jpg",
+    "date": "2024-12-12",
+    "latitude": "-24.9918574375",
+    "longitude": "31.5923569052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531551125/square.jpg",
+    "date": "2025-06-21",
+    "latitude": "-0.5687307905",
+    "longitude": "30.9999972373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528914936/square.jpg",
+    "date": "2016-03-03",
+    "latitude": "-26.9115759669",
+    "longitude": "32.3236370067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/528311395/square.jpg",
+    "date": "2014-12-23",
+    "latitude": "17.5382482",
+    "longitude": "-89.1026246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/527700831/square.jpg",
+    "date": "2025-02-10",
+    "latitude": "10.4709513965",
+    "longitude": "-84.0133953697",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/526844482/square.jpg",
+    "date": "2023-03-05",
+    "latitude": "10.89241",
+    "longitude": "-84.79567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/525066650/square.jpg",
+    "date": "2024-11-15",
+    "latitude": "4.4757837815",
+    "longitude": "-52.0576945692",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/525056337/square.jpg",
+    "date": "2024-11-14",
+    "latitude": "4.4623717302",
+    "longitude": "-52.0576922223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/524236197/square.jpg",
+    "date": "2016-04-02",
+    "latitude": "10.8848938",
+    "longitude": "-84.7887039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523968540/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-28.37356",
+    "longitude": "32.4099633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/521860187/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-25.74761",
+    "longitude": "28.2984483",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/521737669/square.jpg",
+    "date": "2025-06-06",
+    "latitude": "10.8782911",
+    "longitude": "-84.7954759997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520746610/square.jpg",
+    "date": "2014-10-30",
+    "latitude": "10.5424838",
+    "longitude": "-83.5023552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519306722/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "11.0252166667",
+    "longitude": "-84.71878",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517086896/square.jpg",
+    "date": "2024-08-07",
+    "latitude": "-0.0351989557",
+    "longitude": "-76.1743846662",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517086596/square.jpg",
+    "date": "2024-08-06",
+    "latitude": "-0.077908",
+    "longitude": "-76.162367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517086589/square.jpg",
+    "date": "2024-08-06",
+    "latitude": "-0.077908",
+    "longitude": "-76.162367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516959376/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "3.6150060612",
+    "longitude": "9.8578688049",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516349190/square.jpg",
+    "date": "2025-05-24",
+    "latitude": "22.2896920193",
+    "longitude": "-97.9132461281",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/515427458/square.jpg",
+    "date": "2025-06-03",
+    "latitude": "-12.606668",
+    "longitude": "-69.039202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/515316073/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "-21.8898846532",
+    "longitude": "-48.2518921271",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514518765/square.jpg",
+    "date": "2025-05-09",
+    "latitude": "10.8924096485",
+    "longitude": "-84.7956699505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/514178675/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "-24.7842077475",
+    "longitude": "31.4206170022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513953144/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-28.9495952695",
+    "longitude": "31.7745148077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/513643904/square.jpg",
+    "date": "2024-01-12",
+    "latitude": "-25.4006790847",
+    "longitude": "29.3670576279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/513643477/square.jpg",
+    "date": "2023-06-12",
+    "latitude": "-25.4016626907",
+    "longitude": "29.3668128905",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512956919/square.jpg",
+    "date": "2024-10-18",
+    "latitude": "-2.4681289476",
+    "longitude": "-54.6506078876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512516934/square.jpg",
+    "date": "2025-05-29",
+    "latitude": "11.0251221667",
+    "longitude": "-84.718825",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/512214579/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "10.88135371",
+    "longitude": "-84.79282379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/512214565/square.jpg",
+    "date": "2025-03-16",
+    "latitude": "10.86369634",
+    "longitude": "-84.79309758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/512214414/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "10.8652490602",
+    "longitude": "-84.79334733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/512214368/square.jpg",
+    "date": "2025-03-17",
+    "latitude": "10.88135371",
+    "longitude": "-84.79282379",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511142036/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "-13.76359758",
+    "longitude": "-66.0984237301",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510979045/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "5.2151795",
+    "longitude": "-2.6505264",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/508499144/square.jpg",
+    "date": "2025-04-12",
+    "latitude": "10.8924096485",
+    "longitude": "-84.7956699505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508205911/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "10.4313291667",
+    "longitude": "-84.0050366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508205899/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "10.4313291667",
+    "longitude": "-84.0050366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508205900/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "10.431320555",
+    "longitude": "-84.0050508333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508205893/square.jpg",
+    "date": "2025-04-23",
+    "latitude": "10.431320555",
+    "longitude": "-84.0050508333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508066479/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "5.2631365",
+    "longitude": "-2.5792482",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/506797127/square.jpg",
+    "date": "2025-04-11",
+    "latitude": "10.8924096485",
+    "longitude": "-84.7956699505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506030126/square.jpg",
+    "date": "2025-05-14",
+    "latitude": "-27.5263366009",
+    "longitude": "31.0615986391",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/506004305/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "10.9229981909",
+    "longitude": "-84.7758378453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505904378/square.jpg",
+    "date": "2025-03-26",
+    "latitude": "10.8879462494",
+    "longitude": "-84.7856915846",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504823773/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "10.9041240714",
+    "longitude": "-84.7760539369",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504702694/square.jpg",
+    "date": "2024-08-01",
+    "latitude": "-2.3502621834",
+    "longitude": "-78.6738991218",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503257508/square.jpeg",
+    "date": "2025-04-16",
+    "latitude": "-0.6462913783",
+    "longitude": "30.9460830601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503256769/square.jpeg",
+    "date": "2025-04-16",
+    "latitude": "-0.6462913783",
+    "longitude": "30.9460830601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502302876/square.jpg",
+    "date": "2025-04-14",
+    "latitude": "-25.507710391",
+    "longitude": "31.8755777927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502240776/square.jpg",
+    "date": "2022-09-24",
+    "latitude": "-16.7484218",
+    "longitude": "-56.8575237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/500776000/square.jpg",
+    "date": "2025-05-04",
+    "latitude": "15.2867783333",
+    "longitude": "-92.9612733333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500140045/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "10.865142768",
+    "longitude": "-84.7901339206",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498792833/square.jpg",
+    "date": "2025-05-02",
+    "latitude": "18.5157057883",
+    "longitude": "-95.0168798144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497809904/square.jpeg",
+    "date": "2025-04-08",
+    "latitude": "10.86527",
+    "longitude": "-84.79338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497798563/square.jpeg",
+    "date": "2025-04-08",
+    "latitude": "10.87624",
+    "longitude": "-84.79581",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/497615284/square.jpg",
+    "date": "2022-10-12",
+    "latitude": "-23.4949384",
+    "longitude": "-46.5197104",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliopais personatus",
+    "common name": "Masked Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/496783514/square.jpeg",
+    "date": "2025-02-22",
+    "latitude": "21.9406569192",
+    "longitude": "89.0739707929",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495719839/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "4.7076851974",
+    "longitude": "-52.2755227729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/492809077/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "-13.6236405974",
+    "longitude": "-63.7027869746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490463661/square.jpg",
+    "date": "2025-04-08",
+    "latitude": "10.86527",
+    "longitude": "-84.7933883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490463659/square.jpg",
+    "date": "2025-04-08",
+    "latitude": "10.876245",
+    "longitude": "-84.795815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489914138/square.jpeg",
+    "date": "2025-04-19",
+    "latitude": "18.523449834",
+    "longitude": "-95.0026330181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489638021/square.jpeg",
+    "date": "2025-04-20",
+    "latitude": "-33.6305305556",
+    "longitude": "26.6394472222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488969078/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-26.1960577502",
+    "longitude": "31.9773548427",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488968183/square.jpg",
+    "date": "2025-03-15",
+    "latitude": "-26.1960577502",
+    "longitude": "31.9773467961",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488941381/square.jpeg",
+    "date": "2025-03-09",
+    "latitude": "10.8851193",
+    "longitude": "-84.7911639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487921854/square.jpg",
+    "date": "2024-11-08",
+    "latitude": "2.8316341148",
+    "longitude": "-72.0833025249",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487922599/square.jpeg",
+    "date": "2017-08-26",
+    "latitude": "-5.916602",
+    "longitude": "-77.118795",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/487261908/square.jpg",
+    "date": "2025-04-16",
+    "latitude": "-21.8926202424",
+    "longitude": "-48.2526384784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486404458/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "18.54268",
+    "longitude": "-91.102181",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/485524163/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "18.5053371325",
+    "longitude": "-95.001635619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485186949/square.jpg",
+    "date": "2024-08-05",
+    "latitude": "-0.0400138333",
+    "longitude": "-76.2162383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/483977946/square.jpeg",
+    "date": "2025-04-06",
+    "latitude": "23.6469445851",
+    "longitude": "-98.5830636294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483286675/square.jpeg",
+    "date": "2025-04-05",
+    "latitude": "10.878163",
+    "longitude": "-84.79572",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483286617/square.jpeg",
+    "date": "2025-04-05",
+    "latitude": "10.876006",
+    "longitude": "-84.795721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483072937/square.jpg",
+    "date": "2025-03-26",
+    "latitude": "10.8805098577",
+    "longitude": "-84.7891974321",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482141950/square.jpeg",
+    "date": "2025-03-01",
+    "latitude": "5.2901916667",
+    "longitude": "-2.6395027778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/480312424/square.jpg",
+    "date": "2025-03-05",
+    "latitude": "10.4303135189",
+    "longitude": "-84.0045301733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/479712152/square.jpeg",
+    "date": "2024-10-21",
+    "latitude": "-0.9138673094",
+    "longitude": "-77.8404542059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479495405/square.jpg",
+    "date": "2025-03-22",
+    "latitude": "10.43133",
+    "longitude": "-84.0050138833",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478912892/square.jpeg",
+    "date": "2025-02-28",
+    "latitude": "13.5472707654",
+    "longitude": "-14.7849888254",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478647447/square.jpeg",
+    "date": "2025-02-25",
+    "latitude": "10.5424838",
+    "longitude": "-83.5023552",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478545525/square.jpeg",
+    "date": "2002-11-30",
+    "latitude": "-25.7402959434",
+    "longitude": "28.9827392623",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478472458/square.jpg",
+    "date": "2025-03-05",
+    "latitude": "17.797338",
+    "longitude": "-88.631212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478112821/square.jpeg",
+    "date": "2025-01-26",
+    "latitude": "-0.6480742678",
+    "longitude": "30.9519866454",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478097984/square.jpg",
+    "date": "2025-03-20",
+    "latitude": "10.8717366667",
+    "longitude": "-84.79722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477970445/square.jpg",
+    "date": "2023-10-06",
+    "latitude": "-4.6239015651",
+    "longitude": "38.0166340039",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477967817/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "18.5259556091",
+    "longitude": "-91.0885524294",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477787138/square.jpg",
+    "date": "2025-03-16",
+    "latitude": "13.9249633333",
+    "longitude": "-90.481705",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477778907/square.jpg",
+    "date": "2022-11-25",
+    "latitude": "10.9854313426",
+    "longitude": "-84.7314048934",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/477475823/square.jpg",
+    "date": "2025-03-14",
+    "latitude": "10.5341770207",
+    "longitude": "-83.5093528937",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477106173/square.jpg",
+    "date": "2025-02-22",
+    "latitude": "5.2989431957",
+    "longitude": "-2.6518436144",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/476481921/square.jpeg",
+    "date": "2025-02-15",
+    "latitude": "5.2335224633",
+    "longitude": "-2.6431650153",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476016479/square.jpg",
+    "date": "2015-02-25",
+    "latitude": "-28.3431227783",
+    "longitude": "32.4076472217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475872036/square.jpg",
+    "date": "2020-02-29",
+    "latitude": "22.2958357",
+    "longitude": "-97.9014162",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/475636732/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "13.4625816667",
+    "longitude": "-15.7879",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/475553124/square.jpg",
+    "date": "2025-03-01",
+    "latitude": "10.4311716543",
+    "longitude": "-84.0051179444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475221405/square.jpeg",
+    "date": "2025-02-15",
+    "latitude": "5.2860579174",
+    "longitude": "-2.6472725719",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliopais personatus",
+    "common name": "Masked Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475031972/square.jpeg",
+    "date": "2025-01-13",
+    "latitude": "22.350847954",
+    "longitude": "89.5864708492",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliopais personatus",
+    "common name": "Masked Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474254214/square.jpg",
+    "date": "2025-01-13",
+    "latitude": "22.3410735113",
+    "longitude": "89.5026214086",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliopais personatus",
+    "common name": "Masked Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474253603/square.jpg",
+    "date": "2025-01-10",
+    "latitude": "22.2850246431",
+    "longitude": "89.5203431577",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473758743/square.jpeg",
+    "date": "2024-02-24",
+    "latitude": "10.8851193",
+    "longitude": "-84.7911639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/473731934/square.jpg",
+    "date": "2024-06-25",
+    "latitude": "-17.8878029863",
+    "longitude": "25.8375247336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/475372995/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-24.4177109853",
+    "longitude": "30.8209091828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473639332/square.jpg",
+    "date": "2025-01-14",
+    "latitude": "-2.0322733467",
+    "longitude": "9.5983674819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473494448/square.jpg",
+    "date": "2012-05-19",
+    "latitude": "11.0298305609",
+    "longitude": "1.595649318",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473480499/square.jpeg",
+    "date": "2011-04-29",
+    "latitude": "-5.2086532861",
+    "longitude": "-75.5330342093",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/473362117/square.jpg",
+    "date": "2025-01-12",
+    "latitude": "-12.0029997",
+    "longitude": "-71.2156222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/473137879/square.jpeg",
+    "date": "2016-09-20",
+    "latitude": "-0.6469886551",
+    "longitude": "30.9538304582",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473018538/square.jpeg",
+    "date": "2024-03-17",
+    "latitude": "4.4670541507",
+    "longitude": "-52.058670658",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472578485/square.jpeg",
+    "date": "2023-11-22",
+    "latitude": "5.419563646",
+    "longitude": "-53.0446893569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472495329/square.jpg",
+    "date": "2023-12-14",
+    "latitude": "1.373333",
+    "longitude": "32.290275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471665174/square.jpg",
+    "date": "2025-02-13",
+    "latitude": "10.89241",
+    "longitude": "-84.79567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471466797/square.jpg",
+    "date": "2025-02-09",
+    "latitude": "10.4555327375",
+    "longitude": "-83.4846620466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/471430335/square.jpeg",
+    "date": "2024-06-17",
+    "latitude": "-18.5254091213",
+    "longitude": "27.5495843589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470575809/square.jpeg",
+    "date": "2025-02-16",
+    "latitude": "19.0360119106",
+    "longitude": "-95.9721713886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/470518283/square.jpg",
+    "date": "2024-10-19",
+    "latitude": "3.843171",
+    "longitude": "-67.976954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469995574/square.jpg",
+    "date": "2019-09-10",
+    "latitude": "-16.7480875",
+    "longitude": "-56.8574844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469942340/square.jpeg",
+    "date": "2025-02-13",
+    "latitude": "19.0360119106",
+    "longitude": "-95.9721713886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/469866809/square.jpeg",
+    "date": "2025-02-02",
+    "latitude": "-24.147373",
+    "longitude": "27.8746505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469520042/square.jpg",
+    "date": "2025-01-03",
+    "latitude": "13.5468160271",
+    "longitude": "-14.7808101644",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469083064/square.jpg",
+    "date": "2025-02-08",
+    "latitude": "13.9787358668",
+    "longitude": "-89.0216594568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469001178/square.jpg",
+    "date": "2025-01-09",
+    "latitude": "13.5460216667",
+    "longitude": "-14.773805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468932916/square.jpeg",
+    "date": "2025-02-08",
+    "latitude": "13.9767153794",
+    "longitude": "-89.0223885231",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468088420/square.jpeg",
+    "date": "2025-01-23",
+    "latitude": "10.4313238929",
+    "longitude": "-84.0050576389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468069469/square.jpeg",
+    "date": "2020-02-23",
+    "latitude": "10.8851193",
+    "longitude": "-84.7911639",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467624954/square.jpeg",
+    "date": "2024-11-13",
+    "latitude": "4.1940963161",
+    "longitude": "-59.0588208022",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliopais personatus",
+    "common name": "Masked Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467516577/square.jpg",
+    "date": "2025-01-06",
+    "latitude": "22.3210511425",
+    "longitude": "89.560793307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467018680/square.jpg",
+    "date": "2025-01-22",
+    "latitude": "10.4232682",
+    "longitude": "-84.0220298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466356463/square.jpg",
+    "date": "2025-01-26",
+    "latitude": "-28.3702634589",
+    "longitude": "32.4102004083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466185713/square.jpg",
+    "date": "2025-01-08",
+    "latitude": "6.5291111117",
+    "longitude": "-57.9070166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/465730043/square.jpeg",
+    "date": "2025-01-24",
+    "latitude": "-25.6899164995",
+    "longitude": "28.2849166542",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465677869/square.jpeg",
+    "date": "2025-01-18",
+    "latitude": "6.3935047409",
+    "longitude": "2.1562713006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis petersii",
+    "common name": "Peters' Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465324629/square.jpeg",
+    "date": "2025-01-22",
+    "latitude": "-28.3677708458",
+    "longitude": "32.4102107808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464252072/square.jpg",
+    "date": "2024-11-28",
+    "latitude": "-12.8966666667",
+    "longitude": "-69.3608333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://static.inaturalist.org/photos/464108483/square.jpeg",
+    "date": "2025-01-15",
+    "latitude": "13.3484008",
+    "longitude": "-13.377556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463690383/square.jpeg",
+    "date": "2012-06-02",
+    "latitude": "-14.5777611999",
+    "longitude": "26.2107990635",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462253700/square.jpeg",
+    "date": "2025-01-05",
+    "latitude": "10.4488768102",
+    "longitude": "-83.5069228336",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462098431/square.jpg",
+    "date": "2024-07-09",
+    "latitude": "0.6239483333",
+    "longitude": "10.4074083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461724369/square.jpg",
+    "date": "2024-11-13",
+    "latitude": "4.2282838576",
+    "longitude": "-59.0389849591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461632479/square.jpg",
+    "date": "2024-11-13",
+    "latitude": "4.20123721",
+    "longitude": "-59.0517940943",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461397427/square.jpg",
+    "date": "2023-11-19",
+    "latitude": "-3.5531739585",
+    "longitude": "-73.0392380468",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461396749/square.jpg",
+    "date": "2023-11-18",
+    "latitude": "-3.5098970156",
+    "longitude": "-73.0635990045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460922246/square.jpg",
+    "date": "2024-11-20",
+    "latitude": "-12.4319",
+    "longitude": "-70.6821",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460915555/square.jpeg",
+    "date": "2024-12-01",
+    "latitude": "-2.4261388274",
+    "longitude": "9.8762771752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/460305328/square.jpeg",
+    "date": "2024-12-29",
+    "latitude": "19.1431313326",
+    "longitude": "-95.9938146172",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459931984/square.jpeg",
+    "date": "2016-09-07",
+    "latitude": "-17.4929196659",
+    "longitude": "24.3289354646",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459872917/square.jpg",
+    "date": "2024-11-17",
+    "latitude": "-11.9874",
+    "longitude": "-71.2247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://static.inaturalist.org/photos/459762687/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-1.0385445",
+    "longitude": "-77.6646616667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459714238/square.jpeg",
+    "date": "2024-10-08",
+    "latitude": "-20.0905527778",
+    "longitude": "-55.9634166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459852268/square.jpg",
+    "date": "2024-11-17",
+    "latitude": "-11.99666",
+    "longitude": "-71.23222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459589731/square.jpg",
+    "date": "2024-11-17",
+    "latitude": "-11.9874",
+    "longitude": "-71.2247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Podica senegalensis",
+    "common name": "African Finfoot",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459048576/square.jpeg",
+    "date": "2024-11-20",
+    "latitude": "13.464544",
+    "longitude": "-15.816685",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459046998/square.jpg",
+    "date": "2024-11-17",
+    "latitude": "-11.9966666667",
+    "longitude": "-71.2322216667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Heliornis fulica",
+    "common name": "Sungrebe",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458819549/square.jpg",
+    "date": "2023-12-29",
+    "latitude": "10.8695572979",
+    "longitude": "-84.7917868251",
+    "quality_grade": "research"
+  }
+]

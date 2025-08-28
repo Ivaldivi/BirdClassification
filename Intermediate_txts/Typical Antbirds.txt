@@ -1,0 +1,1460 @@
+[
+  {
+    "species": "Mackenziaena severa",
+    "common name": "Tufted Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558169416/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.616052468",
+    "longitude": "-45.7741103654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Poliocrania exsul",
+    "common name": "Chestnut-backed Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/558151011/square.jpg",
+    "date": "2022-02-27",
+    "latitude": "9.7788343225",
+    "longitude": "-84.605571788",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558081893/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "8.5203059444",
+    "longitude": "-71.387649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558079529/square.jpg",
+    "date": "2025-08-11",
+    "latitude": "-25.8577973921",
+    "longitude": "-54.1647467095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus atrinucha",
+    "common name": "Black-crowned Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558049545/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "9.0873553189",
+    "longitude": "-79.6549388618",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Formicivora rufa",
+    "common name": "Rusty-backed Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558044790/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-16.6194956509",
+    "longitude": "-56.7399621953",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557974547/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-15.578909607",
+    "longitude": "-56.1055184528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Formicivora rufa",
+    "common name": "Rusty-backed Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557944480/square.jpg",
+    "date": "2021-09-18",
+    "latitude": "-18.9974133141",
+    "longitude": "-48.3072059648",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus torquatus",
+    "common name": "Rufous-winged Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557944407/square.jpg",
+    "date": "2021-09-18",
+    "latitude": "-18.9909240083",
+    "longitude": "-48.3057384906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557859041/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.5383833333",
+    "longitude": "-61.0635111111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmoborus leucophrys",
+    "common name": "White-browed Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557834803/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-12.5679029",
+    "longitude": "-70.1009579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mackenziaena severa",
+    "common name": "Tufted Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557831317/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.8165908",
+    "longitude": "-45.3667925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mackenziaena severa",
+    "common name": "Tufted Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830927/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.8165908",
+    "longitude": "-45.3667925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmoderus squamosus",
+    "common name": "Squamate Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557830532/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.8165908",
+    "longitude": "-45.3667925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyriglena leucoptera",
+    "common name": "White-shouldered Fire-eye",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557828100/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.8165908",
+    "longitude": "-45.3667925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyriglena leucoptera",
+    "common name": "White-shouldered Fire-eye",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557827851/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.8165908",
+    "longitude": "-45.3667925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557819102/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.2895519589",
+    "longitude": "-60.980857374",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557801083/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.1683629",
+    "longitude": "-44.3952834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557800962/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-22.1683629",
+    "longitude": "-44.3952834",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gymnopithys bicolor",
+    "common name": "Bicolored Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557747138/square.jpg",
+    "date": "2024-08-26",
+    "latitude": "9.7762193744",
+    "longitude": "-84.6006015745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cercomacra melanaria",
+    "common name": "Mato Grosso Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557744910/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-16.7503565834",
+    "longitude": "-56.8624591587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dysithamnus mentalis",
+    "common name": "Plain Antvireo",
+    "observation photo url": "https://static.inaturalist.org/photos/557662704/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "8.7857037627",
+    "longitude": "-82.9620851828",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Microrhopias quixensis",
+    "common name": "Dot-winged Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/557646581/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "8.7041283659",
+    "longitude": "-83.2065661401",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus bridgesi",
+    "common name": "Black-hooded Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557642779/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "8.7006966211",
+    "longitude": "-83.202178005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557615204/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-30.934437364",
+    "longitude": "-64.2816445604",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557547181/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "11.2661948251",
+    "longitude": "-60.5857718225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557543061/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "11.2797613106",
+    "longitude": "-60.6916128331",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Formicivora grisea",
+    "common name": "Southern White-fringed Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557547331/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-18.2643928",
+    "longitude": "-39.6470539",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus pectoralis",
+    "common name": "Pectoral Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557547331/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-5.8166984273",
+    "longitude": "-35.2777671212",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus pelzelni",
+    "common name": "Planalto Slaty-Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557516922/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-16.742875",
+    "longitude": "-43.902075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula pacifica",
+    "common name": "Pacific Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557430352/square.jpg",
+    "date": "2025-07-02",
+    "latitude": "0.0820097",
+    "longitude": "-79.0560907",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cymbilaimus lineatus",
+    "common name": "Fasciated Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557384684/square.jpg",
+    "date": "2025-04-06",
+    "latitude": "10.470313",
+    "longitude": "-84.6507325",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula longicauda",
+    "common name": "Stripe-chested Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/557367516/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-11.0425169375",
+    "longitude": "-75.3732356429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Sciaphylax hemimelaena",
+    "common name": "Chestnut-tailed Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557366029/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-11.0436676882",
+    "longitude": "-75.3728259355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus atrinucha",
+    "common name": "Black-crowned Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557326990/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.2855",
+    "longitude": "-80.384367",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557326930/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-0.296327",
+    "longitude": "-80.390898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus bernardi",
+    "common name": "Collared Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557339686/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-2.147824502",
+    "longitude": "-79.9677386507",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cercomacra melanaria",
+    "common name": "Mato Grosso Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557338294/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-15.1897966667",
+    "longitude": "-64.7512683333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557338061/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-15.1900183333",
+    "longitude": "-64.7513083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dysithamnus stictothorax",
+    "common name": "Spot-breasted Antvireo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557321817/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-23.3873748056",
+    "longitude": "-44.9013864182",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus rufimarginatus",
+    "common name": "Rufous-margined Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557305686/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-23.3862557431",
+    "longitude": "-46.5299776196",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557263314/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-20.4018096332",
+    "longitude": "-51.3886537403",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus palliatus",
+    "common name": "Chestnut-backed Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557258468/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-21.1208605191",
+    "longitude": "-42.9413096979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557244110/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.0406667035",
+    "longitude": "-58.4576431614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557240537/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.8833980318",
+    "longitude": "-60.4086164151",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus bridgesi",
+    "common name": "Black-hooded Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557210438/square.jpg",
+    "date": "2024-02-18",
+    "latitude": "9.2067384",
+    "longitude": "-83.450928",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557188788/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "8.3938838943",
+    "longitude": "-82.3188730383",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557168532/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-5.148450633",
+    "longitude": "-39.8109875916",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila malura",
+    "common name": "Dusky-tailed Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/557171899/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-22.30976952",
+    "longitude": "-44.505841881",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus palliatus",
+    "common name": "Chestnut-backed Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557153941/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-18.8371341319",
+    "longitude": "-41.9146329555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus palliatus",
+    "common name": "Chestnut-backed Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557153935/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-18.8371150928",
+    "longitude": "-41.9146423433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus palliatus",
+    "common name": "Chestnut-backed Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/557069413/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-10.5950822915",
+    "longitude": "-75.4402566701",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557006658/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-28.5459610654",
+    "longitude": "-57.1949445829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula schisticolor",
+    "common name": "Slaty Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556996016/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "5.1384927702",
+    "longitude": "-74.194380514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Formicivora melanogaster",
+    "common name": "Black-bellied Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556986296/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-5.7559833333",
+    "longitude": "-36.1723366667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus bridgesi",
+    "common name": "Black-hooded Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556900330/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "8.5408354",
+    "longitude": "-83.570964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dysithamnus mentalis",
+    "common name": "Plain Antvireo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556821484/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "4.632147",
+    "longitude": "-74.463014",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus atrinucha",
+    "common name": "Black-crowned Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556683079/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "9.1363333333",
+    "longitude": "-79.7235516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Microrhopias quixensis",
+    "common name": "Dot-winged Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556683070/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "9.1363266667",
+    "longitude": "-79.7235283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cymbilaimus lineatus",
+    "common name": "Fasciated Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556683044/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "9.1381983333",
+    "longitude": "-79.7234933333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila striaticeps",
+    "common name": "Streak-headed Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556680581/square.jpg",
+    "date": "2014-01-05",
+    "latitude": "-0.6076582425",
+    "longitude": "-77.879853388",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila striaticeps",
+    "common name": "Streak-headed Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556680565/square.jpg",
+    "date": "2014-01-03",
+    "latitude": "-0.5989898223",
+    "longitude": "-77.8854323839",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556671755/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-15.7288617187",
+    "longitude": "-47.8842429741",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556494072/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "-31.5480861111",
+    "longitude": "-61.0731555556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus palliatus",
+    "common name": "Chestnut-backed Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556576603/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-22.4481695161",
+    "longitude": "-42.7754028164",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556568969/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-15.1931981035",
+    "longitude": "-64.75603614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus atrinucha",
+    "common name": "Black-crowned Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556552424/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "9.7343116667",
+    "longitude": "-82.8320166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila ferruginea",
+    "common name": "Ferruginous Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556550097/square.jpg",
+    "date": "2025-08-04",
+    "latitude": "-23.8705374735",
+    "longitude": "-45.4228934611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus longirostris",
+    "common name": "Large-billed Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/556541016/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-20.5034576486",
+    "longitude": "-54.6168559095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556540934/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-20.5034576486",
+    "longitude": "-54.6168559095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556540632/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-20.5034576486",
+    "longitude": "-54.6168559095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Poliocrania exsul",
+    "common name": "Chestnut-backed Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556540031/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "9.2862531808",
+    "longitude": "-83.93567508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila ochropyga",
+    "common name": "Ochre-rumped Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556537606/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.9250827638",
+    "longitude": "-45.5848581754",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cymbilaimus sanctaemariae",
+    "common name": "Bamboo Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556537606/square.jpg",
+    "date": "2023-08-02",
+    "latitude": "-12.8479946648",
+    "longitude": "-71.4524844936",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mackenziaena severa",
+    "common name": "Tufted Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556525983/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.8059591861",
+    "longitude": "-45.3571607138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mackenziaena severa",
+    "common name": "Tufted Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556525946/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.8059591861",
+    "longitude": "-45.3571607138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila ochropyga",
+    "common name": "Ochre-rumped Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556525844/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.9535463625",
+    "longitude": "-45.4223559744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila ochropyga",
+    "common name": "Ochre-rumped Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556525864/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.8872375046",
+    "longitude": "-45.5460987932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila ferruginea",
+    "common name": "Ferruginous Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556525836/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.8546296787",
+    "longitude": "-45.403327932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Formicivora grisea",
+    "common name": "Southern White-fringed Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/556443138/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-12.7288674717",
+    "longitude": "-60.1432730461",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556426377/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-5.0439054497",
+    "longitude": "-39.6922139665",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556315532/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-16.7484218255",
+    "longitude": "-56.8575236946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556278961/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-29.2788293324",
+    "longitude": "-59.5946628947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556278891/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-29.2792878846",
+    "longitude": "-59.5937938589",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556246481/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-18.8115158308",
+    "longitude": "-41.9034055011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556246298/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-18.8115158308",
+    "longitude": "-41.9034055011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus capistratus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556246286/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-18.8115158308",
+    "longitude": "-41.9034055011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus capistratus",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556246208/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-18.8115158308",
+    "longitude": "-41.9034055011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus atricapillus",
+    "common name": "Black-capped Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556227684/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-19.9275990861",
+    "longitude": "-43.8769324979",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus multistriatus",
+    "common name": "Bar-crested Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556204711/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "5.427702823",
+    "longitude": "-74.2345905173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556204237/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-27.286265",
+    "longitude": "-55.495965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556192636/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "9.9009003686",
+    "longitude": "-84.2420191236",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556132777/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "10.454822291",
+    "longitude": "-84.0581112378",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus tenuepunctatus",
+    "common name": "Lined Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556069664/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-2.9649597254",
+    "longitude": "-78.4142157895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556104699/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.5153036775",
+    "longitude": "-54.6201035428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/556104660/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.5153036775",
+    "longitude": "-54.6201035428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dysithamnus mentalis",
+    "common name": "Plain Antvireo",
+    "observation photo url": "https://static.inaturalist.org/photos/556102939/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-25.6848859143",
+    "longitude": "-54.4457833063",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus rufimarginatus",
+    "common name": "Rufous-margined Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556097064/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.0555183056",
+    "longitude": "-40.145815",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula axillaris",
+    "common name": "White-flanked Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/556077733/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-19.056324644",
+    "longitude": "-40.1472450532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmelastes leucostigma",
+    "common name": "Spot-winged Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556048886/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-2.9928516667",
+    "longitude": "-78.4311066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmelastes leucostigma",
+    "common name": "Spot-winged Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/556048809/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-2.9928516667",
+    "longitude": "-78.4311066667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila squamata",
+    "common name": "Scaled Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556032950/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.9282646101",
+    "longitude": "-43.9993224666",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus longirostris",
+    "common name": "Large-billed Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556003090/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-15.8723906998",
+    "longitude": "-52.2534617737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555980378/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-9.5310649563",
+    "longitude": "-35.8486489625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Microrhopias quixensis",
+    "common name": "Dot-winged Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555956534/square.jpg",
+    "date": "2023-08-26",
+    "latitude": "8.540492885",
+    "longitude": "-83.4123544045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Poliocrania exsul",
+    "common name": "Chestnut-backed Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555925151/square.jpg",
+    "date": "2023-08-22",
+    "latitude": "8.540492885",
+    "longitude": "-83.4123544045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus bridgesi",
+    "common name": "Black-hooded Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555913075/square.jpg",
+    "date": "2023-08-25",
+    "latitude": "8.540492885",
+    "longitude": "-83.4123544045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555867604/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-24.9766004274",
+    "longitude": "-60.9658592095",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555745320/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "7.891245703",
+    "longitude": "-72.4867938459",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/555737812/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-29.9598235409",
+    "longitude": "-51.7052926345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555657101/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "8.609561665",
+    "longitude": "-80.111683235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555657117/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "8.6096693583",
+    "longitude": "-80.1117456017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dysithamnus mentalis",
+    "common name": "Plain Antvireo",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555617617/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "10.358575",
+    "longitude": "-84.792953",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus longirostris",
+    "common name": "Large-billed Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555605253/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-18.8819887927",
+    "longitude": "-48.2592669712",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus longirostris",
+    "common name": "Large-billed Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555605207/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-18.8819966178",
+    "longitude": "-48.2592640656",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555599420/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.1091284658",
+    "longitude": "-59.2627543007",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Herpsilochmus longirostris",
+    "common name": "Large-billed Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/555581174/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-18.8748648149",
+    "longitude": "-48.2471714169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Willisornis vidua",
+    "common name": "Xingu Scale-backed Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555527811/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-9.5944535778",
+    "longitude": "-55.926639993",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmoderus ferrugineus",
+    "common name": "Ferruginous-backed Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555527811/square.jpg",
+    "date": "2025-06-01",
+    "latitude": "-7.7563104387",
+    "longitude": "-60.3683117102",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hylophylax punctulatus",
+    "common name": "Dot-backed Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555520102/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-9.5924765014",
+    "longitude": "-55.9252721848",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555401496/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-34.2268",
+    "longitude": "-58.899625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Epinecrophylla fulviventris",
+    "common name": "Checker-throated Stipplethroat",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555382013/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "8.6375605726",
+    "longitude": "-80.1153716488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula schisticolor",
+    "common name": "Slaty Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555381793/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "8.6375605726",
+    "longitude": "-80.1153716488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555380797/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-22.1273678841",
+    "longitude": "-42.6190781593",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555377790/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-14.8739533333",
+    "longitude": "-66.74296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555347576/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-14.8788916667",
+    "longitude": "-66.736875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus ruficapillus",
+    "common name": "Rufous-capped Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555316147/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-29.9724851165",
+    "longitude": "-51.0347066071",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyriglena leucoptera",
+    "common name": "White-shouldered Fire-eye",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555314819/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-25.8603977824",
+    "longitude": "-53.9823297411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyriglena leucoptera",
+    "common name": "White-shouldered Fire-eye",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555314593/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-25.8603977824",
+    "longitude": "-53.9823297411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555308069/square.jpg",
+    "date": "2024-03-21",
+    "latitude": "10.465695",
+    "longitude": "-84.755056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Drymophila ferruginea",
+    "common name": "Ferruginous Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/555260301/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-22.9209767383",
+    "longitude": "-44.2348565112",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555238485/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-29.2785143",
+    "longitude": "-59.5962718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555238280/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-29.2785143",
+    "longitude": "-59.5962718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Microrhopias quixensis",
+    "common name": "Dot-winged Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555224136/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "9.1341872067",
+    "longitude": "-79.721747995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmorchilus strigilatus",
+    "common name": "Stripe-backed Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555224136/square.jpg",
+    "date": "2023-04-22",
+    "latitude": "-13.0072518919",
+    "longitude": "-41.4027017625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Gymnopithys bicolor",
+    "common name": "Bicolored Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555205572/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "9.1314425833",
+    "longitude": "-79.7245323467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mackenziaena severa",
+    "common name": "Tufted Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555142653/square.jpg",
+    "date": "2024-02-01",
+    "latitude": "-25.9743233333",
+    "longitude": "-54.1163533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555142394/square.jpg",
+    "date": "2024-02-08",
+    "latitude": "-25.9743233333",
+    "longitude": "-54.1163533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypocnemoides maculicauda",
+    "common name": "Band-tailed Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555137695/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-10.9387485972",
+    "longitude": "-66.5010635555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula axillaris",
+    "common name": "White-flanked Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/555117689/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.0076631",
+    "longitude": "-40.1165673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula axillaris",
+    "common name": "White-flanked Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/555117658/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.0076631",
+    "longitude": "-40.1165673",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus ambiguus",
+    "common name": "Sooretama Slaty-Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555082203/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.0557083333",
+    "longitude": "-40.145055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pyriglena leucoptera",
+    "common name": "White-shouldered Fire-eye",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555034795/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-23.5848798",
+    "longitude": "-45.8244277",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypocnemis striata",
+    "common name": "Spix's Warbling-Antbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554992767/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "-9.5952099585",
+    "longitude": "-55.9259921279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554876872/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-31.54815",
+    "longitude": "-61.0525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554948537/square.jpg",
+    "date": "2017-09-24",
+    "latitude": "-29.622072",
+    "longitude": "-60.661252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hypoedaleus guttatus",
+    "common name": "Spot-backed Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/554940809/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-27.1252035565",
+    "longitude": "-48.9238880575",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554906840/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "8.9876906",
+    "longitude": "-79.5259804",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus ambiguus",
+    "common name": "Sooretama Slaty-Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554891673/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.056920838",
+    "longitude": "-40.1443917032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula axillaris",
+    "common name": "White-flanked Antwren",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554880697/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-19.0553204284",
+    "longitude": "-40.1477171913",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/554880689/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-22.614871",
+    "longitude": "-47.8534069722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Taraba major",
+    "common name": "Great Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554873459/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-29.0016383866",
+    "longitude": "-60.3104319423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554834898/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "9.365785",
+    "longitude": "-79.9515983333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus caerulescens",
+    "common name": "Variable Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/554805089/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-15.7381676005",
+    "longitude": "-47.9274220316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mackenziaena severa",
+    "common name": "Tufted Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554786701/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-25.9968522",
+    "longitude": "-54.0761328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/554767426/square.jpg",
+    "date": "2025-07-16",
+    "latitude": "10.8942594717",
+    "longitude": "-84.7742118429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmotherula axillaris",
+    "common name": "White-flanked Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/554752928/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-22.4120427286",
+    "longitude": "-42.0302520359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus ambiguus",
+    "common name": "Sooretama Slaty-Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/554752679/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-22.4191931644",
+    "longitude": "-42.0377785951",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cymbilaimus lineatus",
+    "common name": "Fasciated Antshrike",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554744034/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "9.1315473183",
+    "longitude": "-79.7278661583",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Myrmoderus squamosus",
+    "common name": "Squamate Antbird",
+    "observation photo url": "https://static.inaturalist.org/photos/554713519/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-23.7344946",
+    "longitude": "-46.1817205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Rhopias gularis",
+    "common name": "Star-throated Antwren",
+    "observation photo url": "https://static.inaturalist.org/photos/554713315/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-23.7344946",
+    "longitude": "-46.1817205",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Thamnophilus doliatus",
+    "common name": "Barred Antshrike",
+    "observation photo url": "https://static.inaturalist.org/photos/554690244/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "7.8933425847",
+    "longitude": "-72.4861108884",
+    "quality_grade": "research"
+  }
+]

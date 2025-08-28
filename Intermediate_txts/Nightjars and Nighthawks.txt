@@ -1,0 +1,974 @@
+[
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/558125957/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.614944",
+    "longitude": "-72.0981055997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558115448/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.9296944444",
+    "longitude": "35.1662527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558073448/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "27.574512014",
+    "longitude": "-97.437563305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antrostomus vociferus",
+    "common name": "Eastern Whip-poor-will",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558041902/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9265934349",
+    "longitude": "-78.6794241601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antrostomus vociferus",
+    "common name": "Eastern Whip-poor-will",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558041902/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9265586634",
+    "longitude": "-78.679421568",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles nacunda",
+    "common name": "Nacunda Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558018020/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-22.436054711",
+    "longitude": "-47.4080312625",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus affinis affinis",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558009671/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-8.5960429203",
+    "longitude": "115.2520807005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus affinis affinis",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558009666/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-8.5958612529",
+    "longitude": "115.2519667066",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus affinis affinis",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558009663/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-8.5957807042",
+    "longitude": "115.251880876",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557953689/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "51.6187216667",
+    "longitude": "46.0722916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557948433/square.jpg",
+    "date": "2021-08-25",
+    "latitude": "40.873571421",
+    "longitude": "-73.5700088923",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557913995/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "54.744000172",
+    "longitude": "55.693749002",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557881270/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.0664064701",
+    "longitude": "-87.9372910783",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557865871/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "28.1108485",
+    "longitude": "-82.6948221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557865871/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "49.8340010564",
+    "longitude": "-123.1846308533",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557862779/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "10.4589171682",
+    "longitude": "-84.058178477",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557858290/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.3947269877",
+    "longitude": "61.7022913247",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phalaenoptilus nuttallii",
+    "common name": "Common Poorwill",
+    "observation photo url": "https://static.inaturalist.org/photos/557843803/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "33.1338389",
+    "longitude": "-117.2966887",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557837485/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "50.69812",
+    "longitude": "-109.28614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/557822647/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.5602466667",
+    "longitude": "-81.72935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydropsalis torquata",
+    "common name": "Scissor-tailed Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557815734/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-31.2917477767",
+    "longitude": "-60.9807921744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557815734/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-5.9306941999",
+    "longitude": "-35.223514773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phalaenoptilus nuttallii",
+    "common name": "Common Poorwill",
+    "observation photo url": "https://static.inaturalist.org/photos/557811561/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "42.0792520039",
+    "longitude": "-122.7075628819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557806988/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "46.788475",
+    "longitude": "-71.333725",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/557796562/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.6446283333",
+    "longitude": "-104.3423466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557795107/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.4210916667",
+    "longitude": "-78.2907416667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://static.inaturalist.org/photos/557790306/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-12.5687901",
+    "longitude": "-70.0996721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557789872/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "40.4943191195",
+    "longitude": "-80.1742634895",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557761983/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "50.697708",
+    "longitude": "-109.286964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557761975/square.jpg",
+    "date": "2025-06-24",
+    "latitude": "50.697708",
+    "longitude": "-109.286964",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557761975/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "41.5133501077",
+    "longitude": "13.750086017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557748965/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-29.7237626082",
+    "longitude": "-53.7255907067",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://static.inaturalist.org/photos/557666785/square.jpg",
+    "date": "2025-07-17",
+    "latitude": "8.701014",
+    "longitude": "-83.201614",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557562380/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "40.7082221",
+    "longitude": "-78.4517223",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557562113/square.jpg",
+    "date": "2025-07-09",
+    "latitude": "44.3898413907",
+    "longitude": "-65.3176234532",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557547908/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "44.1499499578",
+    "longitude": "76.9583865275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Systellura longirostris bifasciata",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557522743/square.jpg",
+    "date": "2017-12-31",
+    "latitude": "-33.358386",
+    "longitude": "-70.29058075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus ruficollis",
+    "common name": "Red-necked Nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/557487486/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "41.8605677946",
+    "longitude": "-0.9456700173",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557487611/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "45.076985",
+    "longitude": "-64.4164483333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus asiaticus",
+    "common name": "Indian Nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/557469594/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "26.1979921595",
+    "longitude": "74.8467699811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus affinis",
+    "common name": "Savanna Nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/557468851/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "26.2166048062",
+    "longitude": "74.8608257622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus macrurus",
+    "common name": "Large-tailed Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557452247/square.jpg",
+    "date": "2025-03-31",
+    "latitude": "2.590525",
+    "longitude": "102.0929861",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557446499/square.jpg",
+    "date": "2012-05-25",
+    "latitude": "51.7691544527",
+    "longitude": "29.9992658248",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557396925/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "41.0608221667",
+    "longitude": "-112.24392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557396883/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "29.2440680478",
+    "longitude": "-103.2384016737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557391096/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "55.12525519",
+    "longitude": "-118.7142810437",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/557385696/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "51.1476878305",
+    "longitude": "83.0325266982",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phalaenoptilus nuttallii",
+    "common name": "Common Poorwill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557375830/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "31.9489570042",
+    "longitude": "-109.4652287201",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antrostomus carolinensis",
+    "common name": "Chuck-will's-widow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557364234/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "26.137477357",
+    "longitude": "-97.173142853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557353748/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "43.7364406083",
+    "longitude": "-72.4528882967",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/557344557/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "26.5984916667",
+    "longitude": "-80.547395",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles acutipennis",
+    "common name": "Lesser Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557287493/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "31.7722029896",
+    "longitude": "-110.8852129954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557283268/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "42.9026510601",
+    "longitude": "-71.5582381674",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydropsalis torquata",
+    "common name": "Scissor-tailed Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557269886/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-24.962344",
+    "longitude": "-57.302423",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557262888/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-24.962208",
+    "longitude": "-57.301539",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phalaenoptilus nuttallii",
+    "common name": "Common Poorwill",
+    "observation photo url": "https://static.inaturalist.org/photos/557230949/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "31.828363413",
+    "longitude": "-109.4812408595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles acutipennis",
+    "common name": "Lesser Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557253365/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "31.7991766667",
+    "longitude": "-110.8006083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/557251224/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "46.8222123373",
+    "longitude": "-92.0893411751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Phalaenoptilus nuttallii",
+    "common name": "Common Poorwill",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557199347/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "37.9322133333",
+    "longitude": "-119.232155",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antrostomus arizonae",
+    "common name": "Mexican Whip-poor-will",
+    "observation photo url": "https://static.inaturalist.org/photos/557148340/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "24.0750986209",
+    "longitude": "-99.780319626",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557123745/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "58.6570390494",
+    "longitude": "37.277754877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557120263/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "56.2483453232",
+    "longitude": "44.1430864057",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles acutipennis",
+    "common name": "Lesser Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/557103636/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "30.9924984287",
+    "longitude": "-104.8707393191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557099240/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "50.4537140546",
+    "longitude": "-120.286795832",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/557093726/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.1556396148",
+    "longitude": "-106.5822136972",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557087604/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "25.404537412",
+    "longitude": "-80.6150099752",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557088284/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "42.2394840828",
+    "longitude": "-122.3734368455",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antrostomus carolinensis",
+    "common name": "Chuck-will's-widow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557087237/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "28.6799987836",
+    "longitude": "-81.2919302716",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557075212/square.jpg",
+    "date": "2025-07-30",
+    "latitude": "44.394451",
+    "longitude": "-68.6766042",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557025794/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "53.5850361542",
+    "longitude": "8.5846830931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Hydropsalis torquata",
+    "common name": "Scissor-tailed Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557024707/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-28.5383919761",
+    "longitude": "-57.1786380932",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557009962/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "56.389055",
+    "longitude": "61.70101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus ruficollis",
+    "common name": "Red-necked Nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/557004635/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "41.8797646693",
+    "longitude": "-0.9216788045",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus macrurus",
+    "common name": "Large-tailed Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557000094/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-5.4251533333",
+    "longitude": "105.18203",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556987727/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "57.896653236",
+    "longitude": "60.1314025372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556984977/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "57.3914549248",
+    "longitude": "52.148296237",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antrostomus carolinensis",
+    "common name": "Chuck-will's-widow",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556926908/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "32.6134269777",
+    "longitude": "-80.0018982422",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/556911722/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "42.6423946067",
+    "longitude": "9.4474606528",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus macrurus bimaculatus",
+    "common name": null,
+    "observation photo url": "https://static.inaturalist.org/photos/556865795/square.jpg",
+    "date": "2025-02-11",
+    "latitude": "1.3992745433",
+    "longitude": "103.9213239786",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556826179/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "55.1543861111",
+    "longitude": "72.665425",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/556824128/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "48.3807239809",
+    "longitude": "-89.2476822808",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556773134/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-28.537224711",
+    "longitude": "-57.1837409958",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556699086/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.5713916667",
+    "longitude": "-78.0981528333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556689391/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "39.7197163046",
+    "longitude": "-104.7359075743",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antrostomus vociferus",
+    "common name": "Eastern Whip-poor-will",
+    "observation photo url": "https://static.inaturalist.org/photos/556697225/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "44.5839275881",
+    "longitude": "-78.967022491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Antrostomus vociferus",
+    "common name": "Eastern Whip-poor-will",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556664825/square.jpg",
+    "date": "2025-05-30",
+    "latitude": "45.11041214",
+    "longitude": "-79.8583630758",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556664200/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "34.5065676732",
+    "longitude": "-103.1483025849",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556664200/square.jpg",
+    "date": "2014-10-08",
+    "latitude": "-28.3184911",
+    "longitude": "-51.1780773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lurocalis semitorquatus",
+    "common name": "Short-tailed Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556664200/square.jpg",
+    "date": "2015-10-21",
+    "latitude": "-28.3141979",
+    "longitude": "-52.1884616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556633862/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "58.8379936111",
+    "longitude": "36.4471805556",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556633471/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "46.1361361667",
+    "longitude": "-60.21598",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus aegyptius",
+    "common name": "Egyptian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556594112/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.8316163",
+    "longitude": "55.2531995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus aegyptius",
+    "common name": "Egyptian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556594611/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.8316163",
+    "longitude": "55.2531995",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556554070/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "56.0655945235",
+    "longitude": "44.2058198668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://static.inaturalist.org/photos/556521379/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "42.2538826447",
+    "longitude": "-122.3977631359",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556493571/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "42.4551388889",
+    "longitude": "-122.2500777778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles acutipennis",
+    "common name": "Lesser Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556488344/square.jpg",
+    "date": "2020-06-26",
+    "latitude": "34.4250827378",
+    "longitude": "-118.5643762529",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis",
+    "common name": "Common Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556488344/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-22.4126841177",
+    "longitude": "-46.944796882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus affinis",
+    "common name": "Savanna Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556467589/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.3151864983",
+    "longitude": "120.5514316163",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus affinis",
+    "common name": "Savanna Nightjar",
+    "observation photo url": "https://static.inaturalist.org/photos/556419081/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "24.3152527997",
+    "longitude": "120.5513732",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Caprimulgus europaeus",
+    "common name": "Eurasian Nightjar",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556346043/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "41.8654354161",
+    "longitude": "-8.8232814521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556300713/square.jpg",
+    "date": "2024-02-14",
+    "latitude": "38.0284014483",
+    "longitude": "-97.3489646986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556296718/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "40.2609362319",
+    "longitude": "-75.7853964225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556291449/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "27.5719727283",
+    "longitude": "-97.4399613328",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis merrilli",
+    "common name": "Merrill's Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556288724/square.jpg",
+    "date": "2023-12-08",
+    "latitude": "25.9059380699",
+    "longitude": "-100.1186757535",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Nyctidromus albicollis merrilli",
+    "common name": "Merrill's Pauraque",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556288724/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "25.9378987393",
+    "longitude": "-99.9895699695",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556266468/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "25.4050275006",
+    "longitude": "-80.6535177571",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Chordeiles minor",
+    "common name": "Common Nighthawk",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556264929/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "50.1177176164",
+    "longitude": "-113.7681648667",
+    "quality_grade": "research"
+  }
+]

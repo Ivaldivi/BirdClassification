@@ -1,0 +1,1748 @@
+[
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558181383/square.jpg",
+    "date": "2024-10-27",
+    "latitude": "-17.3552598161",
+    "longitude": "145.5860470222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558181248/square.jpg",
+    "date": "2024-10-27",
+    "latitude": "-17.3567730424",
+    "longitude": "145.5876039418",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173928/square.jpg",
+    "date": "2024-10-27",
+    "latitude": "-17.2858461991",
+    "longitude": "145.6294955948",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557969013/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-25.9006484517",
+    "longitude": "153.0917846499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557944516/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.8384844171",
+    "longitude": "151.1888504217",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557965662/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-22.8365833333",
+    "longitude": "150.671355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557959461/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-34.0593027889",
+    "longitude": "151.0770758986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557948145/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-27.386495",
+    "longitude": "153.00653055",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557947879/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.3870616667",
+    "longitude": "153.00555555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557936191/square.jpg",
+    "date": "2024-09-13",
+    "latitude": "-27.715481554",
+    "longitude": "152.3551282657",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557931328/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.5103241",
+    "longitude": "153.0946408",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557917846/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-24.86207",
+    "longitude": "152.3833916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557877748/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-15.7055633333",
+    "longitude": "145.22162",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557875987/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-27.5028630439",
+    "longitude": "153.0119480006",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557856384/square.jpg",
+    "date": "2024-02-15",
+    "latitude": "-16.8192481172",
+    "longitude": "145.6359793246",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557852551/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-12.4371495033",
+    "longitude": "130.833436735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557851602/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-12.4371495033",
+    "longitude": "130.833436735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://static.inaturalist.org/photos/557815495/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-16.8975830078",
+    "longitude": "145.7510070801",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557744899/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-16.89943",
+    "longitude": "145.7357633333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557484534/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-27.4701833333",
+    "longitude": "153.0342111667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557469491/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.8007502869",
+    "longitude": "151.2987770371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557469457/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.7999885701",
+    "longitude": "151.2982164484",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557448399/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.4991666667",
+    "longitude": "153.00971945",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557443817/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-16.9008058124",
+    "longitude": "145.7497334853",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557433524/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-27.5076609",
+    "longitude": "153.1156075",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557432098/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.6597783333",
+    "longitude": "151.1591805",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/557428350/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-27.6927479319",
+    "longitude": "152.8541108746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557413920/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-28.5863018",
+    "longitude": "153.2733761",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557407872/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-25.270007251",
+    "longitude": "152.7619852595",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/557409523/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.5103638889",
+    "longitude": "151.4175527778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/557408746/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.5099888889",
+    "longitude": "151.4120027778",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557397891/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-27.4954944444",
+    "longitude": "153.0536083333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557348995/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-25.809677",
+    "longitude": "153.051407",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/557349650/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-33.8355061568",
+    "longitude": "151.0791192763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557297108/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-33.7750956623",
+    "longitude": "151.1150112819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557278088/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.8963489444",
+    "longitude": "153.0618289444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557295801/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "-28.7695457154",
+    "longitude": "153.5231584344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557294583/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-26.55007",
+    "longitude": "153.0836028333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557283000/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-26.75834788",
+    "longitude": "152.85192252",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557281729/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "-26.38846728",
+    "longitude": "153.11524538",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557267205/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.7013631312",
+    "longitude": "150.9758637126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557250304/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.5716366498",
+    "longitude": "152.7826256585",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556941036/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.7676916667",
+    "longitude": "151.084275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556919402/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-26.6405489595",
+    "longitude": "152.9352690451",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leipoa ocellata",
+    "common name": "Malleefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556914863/square.jpg",
+    "date": "2025-01-20",
+    "latitude": "-34.6871763543",
+    "longitude": "142.2713381373",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leipoa ocellata",
+    "common name": "Malleefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556895601/square.jpg",
+    "date": "2025-01-19",
+    "latitude": "-34.6901229405",
+    "longitude": "142.2727742579",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556882482/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.3791229315",
+    "longitude": "153.033506762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556864519/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-28.2312773914",
+    "longitude": "153.1357066628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556864451/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-28.2312773914",
+    "longitude": "153.1357066628",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556863395/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-28.2305536458",
+    "longitude": "153.1359674641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556863034/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-28.2305536458",
+    "longitude": "153.1359674641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556863065/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-28.2305536458",
+    "longitude": "153.1359674641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556863001/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-28.2305536458",
+    "longitude": "153.1359674641",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556862593/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2307232143",
+    "longitude": "153.1360780969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556862460/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2307232143",
+    "longitude": "153.1360780969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556862438/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2307232143",
+    "longitude": "153.1360780969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556861161/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2302900659",
+    "longitude": "153.1354549032",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556860842/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-27.9365361111",
+    "longitude": "153.1773694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556860782/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-27.9364444444",
+    "longitude": "153.1773694444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556860762/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-27.9363916667",
+    "longitude": "153.1773388889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556860656/square.jpg",
+    "date": "2025-08-07",
+    "latitude": "-28.2305305556",
+    "longitude": "153.1360166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556860216/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2306666667",
+    "longitude": "153.1365666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556860074/square.jpg",
+    "date": "2025-08-05",
+    "latitude": "-28.2311166667",
+    "longitude": "153.1357722222",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556871513/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-33.0799131557",
+    "longitude": "151.4523663522",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556869644/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-33.6886492889",
+    "longitude": "151.1557243306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556868937/square.jpg",
+    "date": "2020-05-21",
+    "latitude": "-28.8523033",
+    "longitude": "153.2879372",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556862001/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-27.5600216667",
+    "longitude": "152.951875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556849065/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-27.2300033333",
+    "longitude": "153.1153721667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556844316/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-16.8171739452",
+    "longitude": "145.6863348224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556833661/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-26.3819621848",
+    "longitude": "153.0996096565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556833559/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-26.3819621848",
+    "longitude": "153.0996096565",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556832815/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-26.3862777778",
+    "longitude": "153.0911861111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556832747/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-26.682975",
+    "longitude": "153.1210944444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556832753/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-26.383733633",
+    "longitude": "153.1002088901",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556833794/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-30.3686233333",
+    "longitude": "152.898735",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556831327/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-16.8990213684",
+    "longitude": "145.7483016618",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556829935/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-16.8993044269",
+    "longitude": "145.74777587",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556822038/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "-33.50567",
+    "longitude": "151.3002466667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556818957/square.jpg",
+    "date": "2025-05-18",
+    "latitude": "-33.5056290404",
+    "longitude": "151.3002960931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556784046/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-17.3564466667",
+    "longitude": "145.587845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556776504/square.jpg",
+    "date": "2019-06-03",
+    "latitude": "-12.5549562884",
+    "longitude": "131.3144955419",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556771503/square.jpg",
+    "date": "2019-06-03",
+    "latitude": "-12.5684399913",
+    "longitude": "131.3063965863",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556731601/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-26.6649643374",
+    "longitude": "153.1061181799",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/556711915/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.3679471",
+    "longitude": "153.0995008",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://static.inaturalist.org/photos/556652197/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-16.5201658997",
+    "longitude": "145.4709981",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556587914/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.61259",
+    "longitude": "152.870316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556297676/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-17.4952389656",
+    "longitude": "145.6107000467",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/556419497/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.539976",
+    "longitude": "153.059813",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556408870/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-25.8097534804",
+    "longitude": "153.049686011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/556363123/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-33.845075",
+    "longitude": "151.2398833333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556351768/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.5364266667",
+    "longitude": "152.9909966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556351733/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.5360494931",
+    "longitude": "152.9917637048",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/556352574/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-16.8360611915",
+    "longitude": "145.6415509351",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556337417/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.5131738326",
+    "longitude": "153.038410591",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556335221/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.5334998721",
+    "longitude": "152.9696675017",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556334999/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.5068766667",
+    "longitude": "153.0000516667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556333659/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.8792208963",
+    "longitude": "153.3843024448",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556332753/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-34.0520945",
+    "longitude": "151.0233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556331555/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-20.259034194",
+    "longitude": "148.6586005613",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556330330/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-30.2864633333",
+    "longitude": "153.1387333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556322496/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-26.6728017797",
+    "longitude": "153.1128049269",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556317293/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-10.6921737827",
+    "longitude": "142.5316626952",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556317031/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.5916381997",
+    "longitude": "151.3235718997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556313615/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-26.6754085484",
+    "longitude": "153.1149902567",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/556305279/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.7630083333",
+    "longitude": "151.0638278333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://static.inaturalist.org/photos/556298598/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-12.4651107",
+    "longitude": "130.8395404",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556286930/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.7314339",
+    "longitude": "151.06082167",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556282528/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.4827981039",
+    "longitude": "153.0952127893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556280654/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-33.7979872946",
+    "longitude": "151.2866462101",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556241906/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-16.81884566",
+    "longitude": "145.63879204",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556235104/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.5108987596",
+    "longitude": "152.9519206433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556213133/square.jpg",
+    "date": "2024-10-20",
+    "latitude": "-28.8009679321",
+    "longitude": "153.2941558077",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556212744/square.jpg",
+    "date": "2024-10-18",
+    "latitude": "-28.8399305252",
+    "longitude": "153.2864873956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556209881/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-27.5576110005",
+    "longitude": "152.8241034619",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556098238/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-25.6127528935",
+    "longitude": "152.8708438874",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556002535/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-33.7563535",
+    "longitude": "151.1110537",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555945334/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-34.4114332997",
+    "longitude": "150.8762865997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555930402/square.jpg",
+    "date": "2024-02-22",
+    "latitude": "-27.4168500512",
+    "longitude": "153.0352062114",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555903280/square.jpg",
+    "date": "2023-08-12",
+    "latitude": "-19.1910136808",
+    "longitude": "146.7734233926",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555898990/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.1912323784",
+    "longitude": "146.7734908722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/555882836/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-25.9035189997",
+    "longitude": "153.0920733",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/555876061/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.3152219599",
+    "longitude": "153.0648819499",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555868183/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "-16.900825",
+    "longitude": "145.749755",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555856772/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-16.8249033333",
+    "longitude": "145.6344333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555854057/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "-27.3922963",
+    "longitude": "152.8590362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555798067/square.jpg",
+    "date": "1983-08-08",
+    "latitude": "-28.23202723",
+    "longitude": "153.1386852667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555780421/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-16.8999488611",
+    "longitude": "145.7489724722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555780363/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-16.9001558333",
+    "longitude": "145.7496524722",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/555781585/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-27.3762187778",
+    "longitude": "153.0376891944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://static.inaturalist.org/photos/555569589/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-16.8182490477",
+    "longitude": "145.6879263371",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555551020/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "-16.9020829181",
+    "longitude": "145.7528599338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt tumulus",
+    "common name": "Western Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555448902/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-12.5645470361",
+    "longitude": "131.3135617062",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555492338/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-16.8309205278",
+    "longitude": "145.7035088611",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555468471/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-25.612704653",
+    "longitude": "152.8706181344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/555455798/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-33.9602247887",
+    "longitude": "150.9565304965",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/555454147/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-30.2798416667",
+    "longitude": "153.1334444444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555438977/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-27.563180315",
+    "longitude": "153.0950611875",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555429415/square.jpg",
+    "date": "2024-03-20",
+    "latitude": "-27.5797340644",
+    "longitude": "152.6940241137",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555419916/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-17.5169616667",
+    "longitude": "145.6063383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555419565/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-28.2306166667",
+    "longitude": "153.1353305",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/555396527/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "-33.8911948",
+    "longitude": "151.192933",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555328374/square.jpg",
+    "date": "2016-09-22",
+    "latitude": "-12.4406447295",
+    "longitude": "130.8087766745",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555327459/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.7011952444",
+    "longitude": "153.1877811969",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555307174/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-27.6302116667",
+    "longitude": "152.903755",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555307043/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-27.6301283333",
+    "longitude": "152.9037",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555081231/square.jpg",
+    "date": "2016-08-13",
+    "latitude": "-28.2441067546",
+    "longitude": "153.1049976865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555063365/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-17.3670105215",
+    "longitude": "145.3891483694",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555048042/square.jpg",
+    "date": "2025-07-11",
+    "latitude": "-26.3901233333",
+    "longitude": "153.0896966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555048381/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-33.9820166667",
+    "longitude": "151.0711666667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/555047391/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-28.7078218228",
+    "longitude": "153.6146971956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/555045950/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-28.1988222222",
+    "longitude": "153.5018361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555039219/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-27.4973910692",
+    "longitude": "153.0140640574",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554749133/square.jpg",
+    "date": "2025-06-23",
+    "latitude": "-17.3553836732",
+    "longitude": "145.585888255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554948939/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-33.8844583152",
+    "longitude": "151.1805032081",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554934532/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-27.5661281915",
+    "longitude": "153.0909378827",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554929136/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.7719104855",
+    "longitude": "151.1196901479",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554924424/square.jpg",
+    "date": "2025-08-14",
+    "latitude": "-33.8074661989",
+    "longitude": "151.1015643845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554886415/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "-33.524125",
+    "longitude": "150.62393",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554763105/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-16.0775587701",
+    "longitude": "145.47033898",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554536060/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-17.2030594422",
+    "longitude": "145.6772092888",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554719019/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.3424146112",
+    "longitude": "145.8692154998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554718502/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.1265187704",
+    "longitude": "145.4423769296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/554684512/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-28.3374666667",
+    "longitude": "153.5749361111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554622578/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-33.7751244582",
+    "longitude": "151.1150564941",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/554621831/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-32.932185231",
+    "longitude": "151.6987060668",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554610074/square.jpg",
+    "date": "2025-08-13",
+    "latitude": "-26.6834533333",
+    "longitude": "153.1220555",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554595072/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-33.7976140997",
+    "longitude": "151.159816",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554578918/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-16.892490292",
+    "longitude": "145.7498146221",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554573999/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-27.566484854",
+    "longitude": "153.1055380225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554574005/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-27.566484854",
+    "longitude": "153.1055380225",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554573350/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-27.5658454008",
+    "longitude": "153.105194605",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554566960/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-27.5715333333",
+    "longitude": "152.7826383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554546002/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-25.61259",
+    "longitude": "152.870316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554545124/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-27.4990619557",
+    "longitude": "153.012468215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554542500/square.jpg",
+    "date": "2025-01-02",
+    "latitude": "-33.5297191892",
+    "longitude": "151.2011089643",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554510619/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-17.2015424001",
+    "longitude": "145.6728336405",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554489705/square.jpg",
+    "date": "2019-06-02",
+    "latitude": "-12.6752013",
+    "longitude": "132.8170751",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555701728/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-33.8865805247",
+    "longitude": "151.1878085152",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leipoa ocellata",
+    "common name": "Malleefowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554417527/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "-35.25844999",
+    "longitude": "142.4039916667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554407126/square.jpg",
+    "date": "2019-06-01",
+    "latitude": "-12.8301693225",
+    "longitude": "132.8717242721",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Megapodius reinwardt",
+    "common name": "Orange-footed Scrubfowl",
+    "observation photo url": "https://static.inaturalist.org/photos/554315345/square.jpg",
+    "date": "2025-03-08",
+    "latitude": "-2.6854990711",
+    "longitude": "133.323172906",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554229638/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-16.8987305156",
+    "longitude": "145.7475923894",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://static.inaturalist.org/photos/554192376/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.3433146646",
+    "longitude": "145.9223388797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554173358/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-19.1151007294",
+    "longitude": "144.5404081109",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554156399/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "-25.8179083333",
+    "longitude": "153.0705861667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554106535/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.5063171916",
+    "longitude": "153.0357572845",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami lathami",
+    "common name": "Yellow-pouched Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554104817/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-27.5028759101",
+    "longitude": "153.012712514",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553973389/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-17.3419269243",
+    "longitude": "145.8694780883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553970945/square.jpg",
+    "date": "2025-08-18",
+    "latitude": "-25.6126209451",
+    "longitude": "152.8707629737",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553658504/square.jpg",
+    "date": "2025-06-18",
+    "latitude": "-17.2036286521",
+    "longitude": "145.6769693107",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553516136/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-17.2035484676",
+    "longitude": "145.6789673787",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553509439/square.jpg",
+    "date": "2025-06-17",
+    "latitude": "-17.2035887191",
+    "longitude": "145.6789246478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Leipoa ocellata",
+    "common name": "Malleefowl",
+    "observation photo url": "https://static.inaturalist.org/photos/553862523/square.jpg",
+    "date": "2024-11-29",
+    "latitude": "-34.649013",
+    "longitude": "142.260348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alectura lathami",
+    "common name": "Australian Brushturkey",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553656142/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-33.895568224",
+    "longitude": "151.1489240627",
+    "quality_grade": "research"
+  }
+]

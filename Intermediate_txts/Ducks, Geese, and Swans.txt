@@ -1,0 +1,884 @@
+[
+  {
+    "species": "Alopochen aegyptiaca",
+    "common name": "Egyptian Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558198284/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "24.8446749122",
+    "longitude": "55.3514878842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Amazonetta brasiliensis",
+    "common name": "Brazilian Teal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558196173/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "-34.8501973954",
+    "longitude": "-58.111920191",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta leucopsis",
+    "common name": "Barnacle Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558195791/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "60.1564611667",
+    "longitude": "24.9571533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191962/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9775961522",
+    "longitude": "-77.2161095713",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191978/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9776698338",
+    "longitude": "-77.2156549551",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191957/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.977480825",
+    "longitude": "-77.2157718108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191942/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9774516715",
+    "longitude": "-77.2146266696",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191938/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9763534734",
+    "longitude": "-77.2040221347",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191908/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9736289481",
+    "longitude": "-77.1995799207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191910/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.9721974018",
+    "longitude": "-77.1972187824",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191912/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "38.86215862",
+    "longitude": "-77.1156855417",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/558174704/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.2579265882",
+    "longitude": "-105.4426993337",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://static.inaturalist.org/photos/558173476/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.3563356112",
+    "longitude": "-105.4265754882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/558173170/square.jpg",
+    "date": "2024-08-08",
+    "latitude": "40.2529052055",
+    "longitude": "-105.5726916411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558194836/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.8806949735",
+    "longitude": "-77.3574314238",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mergellus albellus",
+    "common name": "Smew",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193464/square.jpg",
+    "date": "2013-02-25",
+    "latitude": "54.35958579",
+    "longitude": "18.71924727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dendrocygna autumnalis",
+    "common name": "Black-bellied Whistling-Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185125/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "15.8706997959",
+    "longitude": "-97.1031975746",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anser anser",
+    "common name": "Greylag Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558193327/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.0706488005",
+    "longitude": "-3.6134756729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas crecca",
+    "common name": "Green-winged Teal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191084/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "52.9562612101",
+    "longitude": "1.0580587358",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558192696/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "54.6463462819",
+    "longitude": "39.699061811",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://static.inaturalist.org/photos/558190566/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.4995566667",
+    "longitude": "6.3646133333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alopochen aegyptiaca",
+    "common name": "Egyptian Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558189432/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.4229737",
+    "longitude": "-98.486034",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus buccinator",
+    "common name": "Trumpeter Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558188067/square.jpg",
+    "date": "2025-08-21",
+    "latitude": "43.8125135719",
+    "longitude": "-79.0956744727",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://static.inaturalist.org/photos/558186179/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "46.8369697802",
+    "longitude": "6.3332899453",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://static.inaturalist.org/photos/558186963/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.3515987161",
+    "longitude": "-73.9795650942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aythya ferina",
+    "common name": "Common Pochard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558186769/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.7500082337",
+    "longitude": "-1.3977711882",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185332/square.jpg",
+    "date": "2024-12-18",
+    "latitude": "36.1346666667",
+    "longitude": "-115.3100883333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cairina moschata",
+    "common name": "Muscovy Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558185207/square.jpg",
+    "date": "2025-01-06",
+    "latitude": "36.2055273699",
+    "longitude": "-115.2670506362",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182126/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "45.4669652329",
+    "longitude": "-75.72986634",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558184197/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "54.0943107",
+    "longitude": "12.1134976",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558173677/square.jpg",
+    "date": "2025-08-19",
+    "latitude": "53.9099226394",
+    "longitude": "27.5538271265",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558183832/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "41.5727116667",
+    "longitude": "-88.2142033333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Amazonetta brasiliensis",
+    "common name": "Brazilian Teal",
+    "observation photo url": "https://static.inaturalist.org/photos/558182827/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-6.0353638333",
+    "longitude": "-77.02005",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mareca penelope",
+    "common name": "Eurasian Wigeon",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558182693/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "48.2358921513",
+    "longitude": "7.6867246702",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Amazonetta brasiliensis",
+    "common name": "Brazilian Teal",
+    "observation photo url": "https://static.inaturalist.org/photos/558182620/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-5.9912552619",
+    "longitude": "-77.010082364",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://static.inaturalist.org/photos/558163599/square.jpg",
+    "date": "2025-06-26",
+    "latitude": "46.7259913706",
+    "longitude": "1.2134283536",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://static.inaturalist.org/photos/558163532/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "48.6525852784",
+    "longitude": "6.2341771908",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Amazonetta brasiliensis",
+    "common name": "Brazilian Teal",
+    "observation photo url": "https://static.inaturalist.org/photos/558182000/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-5.9730835711",
+    "longitude": "-77.0140936954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558176964/square.jpg",
+    "date": "2025-07-13",
+    "latitude": "57.682541789",
+    "longitude": "-3.2783829819",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dendrocygna bicolor",
+    "common name": "Fulvous Whistling-Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558175458/square.jpg",
+    "date": "2025-04-08",
+    "latitude": "29.8238638889",
+    "longitude": "-94.7430194444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alopochen aegyptiaca",
+    "common name": "Egyptian Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/558175904/square.jpg",
+    "date": "2024-08-26",
+    "latitude": "49.8176951922",
+    "longitude": "7.8516247496",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558172443/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.3585760208",
+    "longitude": "14.0863522142",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://static.inaturalist.org/photos/558171583/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.2290048194",
+    "longitude": "-2.8791795398",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558170763/square.jpg",
+    "date": "2024-02-19",
+    "latitude": "52.3404783769",
+    "longitude": "0.5138827947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tadorna tadorna",
+    "common name": "Common Shelduck",
+    "observation photo url": "https://static.inaturalist.org/photos/558166871/square.jpg",
+    "date": "2024-08-03",
+    "latitude": "57.3318688678",
+    "longitude": "-1.9991292306",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Dendrocygna autumnalis",
+    "common name": "Black-bellied Whistling-Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558168541/square.jpg",
+    "date": "2025-01-16",
+    "latitude": "17.9907160895",
+    "longitude": "-94.6926419324",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153456/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "49.8732891247",
+    "longitude": "-97.2318530023",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Spatula clypeata",
+    "common name": "Northern Shoveler",
+    "observation photo url": "https://static.inaturalist.org/photos/558168140/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "56.2285524682",
+    "longitude": "37.9961467534",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558166789/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "47.8079809042",
+    "longitude": "-122.3104800731",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558166383/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "63.0828189981",
+    "longitude": "21.6140113771",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aythya ferina",
+    "common name": "Common Pochard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141803/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.6797963937",
+    "longitude": "5.9297156554",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mareca strepera",
+    "common name": "Gadwall",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558141434/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.6794547802",
+    "longitude": "5.930302491",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alopochen aegyptiaca",
+    "common name": "Egyptian Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140153/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.6804496077",
+    "longitude": "5.9296175345",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas diazi",
+    "common name": "Mexican Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558149939/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "28.2625352412",
+    "longitude": "-105.4757196707",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas crecca",
+    "common name": "Green-winged Teal",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558163379/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.697393093",
+    "longitude": "-0.439414233",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/558163259/square.jpg",
+    "date": "2023-03-14",
+    "latitude": "33.7723366667",
+    "longitude": "-86.4728383333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mergus merganser",
+    "common name": "Common Merganser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558162931/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "37.1850817606",
+    "longitude": "-121.7783799343",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://static.inaturalist.org/photos/558175770/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "40.7065353394",
+    "longitude": "-74.0381393433",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558162167/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "50.3981571567",
+    "longitude": "30.6539389784",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Tadorna variegata",
+    "common name": "Paradise Shelduck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558161718/square.jpg",
+    "date": "2025-08-27",
+    "latitude": "-35.2486811435",
+    "longitude": "173.9054903446",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cairina moschata",
+    "common name": "Muscovy Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558160576/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "32.6455529015",
+    "longitude": "-16.914496342",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159917/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.2012748611",
+    "longitude": "3.227216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Spatula clypeata",
+    "common name": "Northern Shoveler",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159494/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.2195737478",
+    "longitude": "-122.0526428699",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159659/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "53.0922222222",
+    "longitude": "8.2108333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159638/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.2012748611",
+    "longitude": "3.227216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558159381/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.2012748611",
+    "longitude": "3.227216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alopochen aegyptiaca",
+    "common name": "Egyptian Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157285/square.jpg",
+    "date": "2025-05-25",
+    "latitude": "50.3739412357",
+    "longitude": "8.8800698844",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153055/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "51.5746014058",
+    "longitude": "-2.6533946621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558153048/square.jpg",
+    "date": "2025-08-10",
+    "latitude": "51.5742564825",
+    "longitude": "-2.6537043065",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558157683/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.2012748611",
+    "longitude": "3.227216",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152544/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "45.4756192605",
+    "longitude": "-73.7718093429",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155779/square.jpg",
+    "date": "2025-02-02",
+    "latitude": "50.4185333333",
+    "longitude": "2.8296866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos domesticus",
+    "common name": "Domestic Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155736/square.jpg",
+    "date": "2023-09-10",
+    "latitude": "50.5804716667",
+    "longitude": "-3.4684283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155691/square.jpg",
+    "date": "2025-02-02",
+    "latitude": "50.4185466667",
+    "longitude": "2.8297",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus atratus",
+    "common name": "Black Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155635/square.jpg",
+    "date": "2023-09-10",
+    "latitude": "50.5806383333",
+    "longitude": "-3.4695966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155558/square.jpg",
+    "date": "2023-09-13",
+    "latitude": "50.6301833333",
+    "longitude": "-3.648175",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155450/square.jpg",
+    "date": "2025-02-28",
+    "latitude": "51.2092583333",
+    "longitude": "-2.6440583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aix sponsa",
+    "common name": "Wood Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558155083/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "38.8679758702",
+    "longitude": "-77.2202987242",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558154885/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "52.300924",
+    "longitude": "-1.5737601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alopochen aegyptiaca",
+    "common name": "Egyptian Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558152069/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "52.3575966667",
+    "longitude": "4.8704966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151585/square.jpg",
+    "date": "2025-08-25",
+    "latitude": "37.6937127668",
+    "longitude": "-121.904394714",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mergus merganser",
+    "common name": "Common Merganser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558151509/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "45.4634216667",
+    "longitude": "-78.4585283333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Lophodytes cucullatus",
+    "common name": "Hooded Merganser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558145113/square.jpg",
+    "date": "2025-08-20",
+    "latitude": "50.1759529302",
+    "longitude": "-61.2677627443",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mareca americana",
+    "common name": "American Wigeon",
+    "observation photo url": "https://static.inaturalist.org/photos/558148935/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "44.8993018831",
+    "longitude": "-93.0140100047",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558148926/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "46.0161117997",
+    "longitude": "-74.1922428",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cygnus olor",
+    "common name": "Mute Swan",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558146984/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "52.0719510964",
+    "longitude": "21.2855482631",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558146767/square.jpg",
+    "date": "2025-08-16",
+    "latitude": "42.2806797",
+    "longitude": "18.8378316",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Amazonetta brasiliensis",
+    "common name": "Brazilian Teal",
+    "observation photo url": "https://static.inaturalist.org/photos/558138826/square.jpg",
+    "date": "2025-08-09",
+    "latitude": "-23.4915362973",
+    "longitude": "-46.518221946",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Aythya fuligula",
+    "common name": "Tufted Duck",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558142834/square.jpg",
+    "date": "2023-10-01",
+    "latitude": "48.335030659",
+    "longitude": "11.9142667012",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mergus merganser",
+    "common name": "Common Merganser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558143220/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "47.4767942914",
+    "longitude": "-123.832721802",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Mergus merganser",
+    "common name": "Common Merganser",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558142022/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "47.4772239864",
+    "longitude": "-123.8322495862",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140903/square.jpg",
+    "date": "2018-08-02",
+    "latitude": "53.8015633333",
+    "longitude": "-0.3745583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140709/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "51.5793416667",
+    "longitude": "0.7104966667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Alopochen aegyptiaca",
+    "common name": "Egyptian Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140690/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "29.9716139627",
+    "longitude": "-98.6745280083",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Branta canadensis",
+    "common name": "Canada Goose",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558140070/square.jpg",
+    "date": "2025-08-15",
+    "latitude": "47.4765511598",
+    "longitude": "-123.8333246033",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://static.inaturalist.org/photos/558138818/square.jpg",
+    "date": "2025-05-31",
+    "latitude": "46.6690405",
+    "longitude": "0.3668329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558138415/square.jpg",
+    "date": "2025-08-26",
+    "latitude": "39.0706488005",
+    "longitude": "-3.6134756729",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "common name": "Mallard",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558134809/square.jpg",
+    "date": "2025-08-22",
+    "latitude": "55.8325852753",
+    "longitude": "37.6074767181",
+    "quality_grade": "research"
+  }
+]

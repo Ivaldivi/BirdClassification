@@ -1,0 +1,1685 @@
+[
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557827641/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-23.8165908",
+    "longitude": "-45.3667925",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops nigrifrons",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557503269/square.jpg",
+    "date": "2025-08-23",
+    "latitude": "-9.531774301",
+    "longitude": "-35.8493880914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557302906/square.jpg",
+    "date": "2025-08-24",
+    "latitude": "-23.3811315794",
+    "longitude": "-46.5251499787",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556526003/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.8059591861",
+    "longitude": "-45.3571607138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556525939/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.8059591861",
+    "longitude": "-45.3571607138",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556190686/square.jpg",
+    "date": "2017-12-11",
+    "latitude": "-23.1569874708",
+    "longitude": "-44.3163036255",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555847033/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-9.531723989",
+    "longitude": "-35.8472669645",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pittasoma michleri",
+    "common name": "Black-crowned Antpitta",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555382092/square.jpg",
+    "date": "2025-08-08",
+    "latitude": "8.6375605726",
+    "longitude": "-80.1153716488",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555142630/square.jpg",
+    "date": "2024-02-01",
+    "latitude": "-25.9743233333",
+    "longitude": "-54.1163533333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553982483/square.jpg",
+    "date": "2025-08-17",
+    "latitude": "-23.7784281514",
+    "longitude": "-46.3143498078",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553982483/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-9.531774301",
+    "longitude": "-35.8493880914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/552742525/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-19.07479992",
+    "longitude": "-39.900975235",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552512509/square.jpg",
+    "date": "2021-12-26",
+    "latitude": "-22.9608754",
+    "longitude": "-43.2743381",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops nigrifrons",
+    "common name": null,
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552020358/square.jpg",
+    "date": "2025-08-12",
+    "latitude": "-9.531774301",
+    "longitude": "-35.8493880914",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga snethlageae",
+    "common name": "Black-breasted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551595840/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-9.5947521074",
+    "longitude": "-55.9274023353",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga snethlageae",
+    "common name": "Black-breasted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551594091/square.jpg",
+    "date": "2025-07-24",
+    "latitude": "-9.5947493387",
+    "longitude": "-55.9274028382",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550674614/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.4436633327",
+    "longitude": "-46.6235231355",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550623627/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-23.4430976238",
+    "longitude": "-46.6231239441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550623584/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-23.4430976238",
+    "longitude": "-46.6231239441",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/549359947/square.jpg",
+    "date": "2002-11-30",
+    "latitude": "-24.0563091235",
+    "longitude": "-47.9935320094",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga aurita",
+    "common name": "Chestnut-belted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549313536/square.jpg",
+    "date": "2025-07-25",
+    "latitude": "4.3050571763",
+    "longitude": "-52.3537542649",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548532762/square.jpg",
+    "date": "2025-08-06",
+    "latitude": "-23.5834138",
+    "longitude": "-46.4782842",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/548451548/square.jpg",
+    "date": "2025-08-03",
+    "latitude": "-23.571975",
+    "longitude": "-45.8244138889",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548383208/square.jpg",
+    "date": "2025-08-02",
+    "latitude": "-24.0301842094",
+    "longitude": "-47.3538725654",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548353839/square.jpg",
+    "date": "2019-09-25",
+    "latitude": "-23.2788681848",
+    "longitude": "-44.9093723084",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547025995/square.jpg",
+    "date": "2024-11-23",
+    "latitude": "-20.7516838249",
+    "longitude": "-44.4706225569",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/546852276/square.jpg",
+    "date": "2013-01-01",
+    "latitude": "-22.4204364554",
+    "longitude": "-44.3813224646",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546224655/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-24.2693988787",
+    "longitude": "-48.4213268298",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/546109627/square.jpg",
+    "date": "2021-02-28",
+    "latitude": "-22.7425860866",
+    "longitude": "-46.8984511122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546089654/square.jpg",
+    "date": "2025-07-31",
+    "latitude": "-22.4526755126",
+    "longitude": "-43.0006333756",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546062630/square.jpg",
+    "date": "2025-07-27",
+    "latitude": "-24.6333152828",
+    "longitude": "-48.4030312742",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/545998606/square.jpg",
+    "date": "2025-08-01",
+    "latitude": "-23.8090814942",
+    "longitude": "-45.3578066841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/545998606/square.jpg",
+    "date": "2025-05-19",
+    "latitude": "-27.151279772",
+    "longitude": "-53.9000635546",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545771928/square.jpg",
+    "date": "2013-12-15",
+    "latitude": "-28.3141979",
+    "longitude": "-52.1884616",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545771836/square.jpg",
+    "date": "2013-01-20",
+    "latitude": "-27.8884044",
+    "longitude": "-52.2258411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545771830/square.jpg",
+    "date": "2025-06-14",
+    "latitude": "-29.8310156",
+    "longitude": "-50.5236775",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545771835/square.jpg",
+    "date": "2017-06-05",
+    "latitude": "-27.8884044",
+    "longitude": "-52.2258411",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545771835/square.jpg",
+    "date": "2025-07-29",
+    "latitude": "-23.6156199",
+    "longitude": "-45.7743655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga roberti",
+    "common name": "Hooded Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545486703/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-3.618315",
+    "longitude": "-40.4054166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/545061004/square.jpg",
+    "date": "2025-07-26",
+    "latitude": "-21.1909909931",
+    "longitude": "-45.2595312148",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544967637/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-22.9943209786",
+    "longitude": "-44.5712692954",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544823855/square.jpg",
+    "date": "2020-04-06",
+    "latitude": "-22.7425860866",
+    "longitude": "-46.8984511122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544683988/square.jpg",
+    "date": "2021-02-22",
+    "latitude": "-28.0213116491",
+    "longitude": "-48.6325377971",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544148172/square.jpg",
+    "date": "2020-04-06",
+    "latitude": "-22.7425860866",
+    "longitude": "-46.8984511122",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543958401/square.jpg",
+    "date": "2019-02-14",
+    "latitude": "-24.2653963",
+    "longitude": "-48.4126718",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543951407/square.jpg",
+    "date": "2019-02-11",
+    "latitude": "-23.396214936",
+    "longitude": "-45.0646201291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543950942/square.jpg",
+    "date": "2019-02-10",
+    "latitude": "-23.396214936",
+    "longitude": "-45.0646201291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543950937/square.jpg",
+    "date": "2019-02-10",
+    "latitude": "-23.396214936",
+    "longitude": "-45.0646201291",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542340645/square.jpg",
+    "date": "2019-02-12",
+    "latitude": "-23.557089",
+    "longitude": "-45.841935",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541774963/square.jpg",
+    "date": "2025-07-23",
+    "latitude": "-23.4025376395",
+    "longitude": "-46.5930499009",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga castaneiceps",
+    "common name": "Chestnut-crowned Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541077260/square.jpg",
+    "date": "2025-07-05",
+    "latitude": "6.8452934391",
+    "longitude": "-73.3849258348",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541046385/square.jpg",
+    "date": "2025-07-22",
+    "latitude": "-23.8147398672",
+    "longitude": "-46.7225585271",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/541005334/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-15.5672677624",
+    "longitude": "-47.7648700092",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540437327/square.jpg",
+    "date": "2025-07-18",
+    "latitude": "-23.8110108281",
+    "longitude": "-46.7235206307",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539969036/square.jpg",
+    "date": "2025-03-13",
+    "latitude": "-27.7796384217",
+    "longitude": "-48.5012264655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539851391/square.jpg",
+    "date": "2025-07-20",
+    "latitude": "-22.792759899",
+    "longitude": "-45.7162848765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539397152/square.jpg",
+    "date": "2025-07-19",
+    "latitude": "-19.8132509234",
+    "longitude": "-43.3462319485",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538258224/square.jpg",
+    "date": "2025-07-15",
+    "latitude": "-23.6156199",
+    "longitude": "-45.7743655",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536669451/square.jpg",
+    "date": "2025-02-05",
+    "latitude": "-26.2539169157",
+    "longitude": "-48.896224683",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/536150126/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-22.3349905552",
+    "longitude": "-42.4130678927",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535970259/square.jpg",
+    "date": "2025-07-12",
+    "latitude": "-22.4517435994",
+    "longitude": "-43.0035050466",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534150613/square.jpg",
+    "date": "2025-07-06",
+    "latitude": "-24.0301310217",
+    "longitude": "-47.3525346089",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pittasoma michleri",
+    "common name": "Black-crowned Antpitta",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533964886/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "8.6381666667",
+    "longitude": "-80.1163866667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga aurita",
+    "common name": "Chestnut-belted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533604064/square.jpg",
+    "date": "2023-07-25",
+    "latitude": "4.6480456342",
+    "longitude": "-54.3119630847",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533108428/square.jpg",
+    "date": "2013-02-02",
+    "latitude": "-19.9652541",
+    "longitude": "-40.5404874",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/533101516/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-25.4244213278",
+    "longitude": "-49.3082993126",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532048814/square.jpg",
+    "date": "2025-06-29",
+    "latitude": "-23.5950438646",
+    "longitude": "-45.4288969561",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530770253/square.jpg",
+    "date": "2024-11-24",
+    "latitude": "-21.9559471895",
+    "longitude": "-42.0090707392",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/529982528/square.jpg",
+    "date": "2024-04-01",
+    "latitude": "-27.3722130154",
+    "longitude": "-55.64949397",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/530450045/square.jpg",
+    "date": "2025-07-01",
+    "latitude": "-22.4546416667",
+    "longitude": "-42.78835",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga roberti",
+    "common name": "Hooded Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/528970286/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "-1.2270315726",
+    "longitude": "-48.2959966734",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/527618590/square.jpg",
+    "date": "2015-09-03",
+    "latitude": "-24.087089293",
+    "longitude": "-46.6233861296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525315722/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-20.4843816458",
+    "longitude": "-41.0484885508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525315692/square.jpg",
+    "date": "2025-06-20",
+    "latitude": "-20.4843816458",
+    "longitude": "-41.0484885508",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525298125/square.jpg",
+    "date": "2025-06-22",
+    "latitude": "-19.0561981379",
+    "longitude": "-40.1446906389",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525228160/square.jpg",
+    "date": "2015-09-14",
+    "latitude": "-24.264059",
+    "longitude": "-48.4169124",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523572724/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "-22.2626636364",
+    "longitude": "-43.0126366768",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523571304/square.jpg",
+    "date": "2025-06-19",
+    "latitude": "-22.2628647",
+    "longitude": "-43.0126313124",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/522464627/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "-17.5533791555",
+    "longitude": "-43.036772239",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/522121909/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-23.4467297",
+    "longitude": "-46.6273942",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522073016/square.jpg",
+    "date": "2025-05-22",
+    "latitude": "-23.1218151495",
+    "longitude": "-46.7095387883",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/521996358/square.jpg",
+    "date": "2025-06-16",
+    "latitude": "-23.6315426992",
+    "longitude": "-45.7406487688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/521016444/square.jpg",
+    "date": "2025-06-10",
+    "latitude": "-25.5345818",
+    "longitude": "-49.2032653",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pittasoma michleri",
+    "common name": "Black-crowned Antpitta",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517388361/square.jpg",
+    "date": "2025-03-03",
+    "latitude": "8.6425356",
+    "longitude": "-80.0339312",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517066664/square.jpg",
+    "date": "2025-05-15",
+    "latitude": "-23.7743145708",
+    "longitude": "-46.312999974",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515862197/square.jpg",
+    "date": "2025-06-04",
+    "latitude": "-22.9373823003",
+    "longitude": "-43.5371383829",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga aurita",
+    "common name": "Chestnut-belted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514351498/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "3.5947833333",
+    "longitude": "-53.18185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga aurita",
+    "common name": "Chestnut-belted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514040155/square.jpg",
+    "date": "2023-03-09",
+    "latitude": "3.953735122",
+    "longitude": "-54.2843058091",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/513450530/square.jpg",
+    "date": "2024-11-02",
+    "latitude": "-23.8387900824",
+    "longitude": "-45.3590816944",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/511658347/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "-15.9792197865",
+    "longitude": "-47.6676392365",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/511658298/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "-15.9798370574",
+    "longitude": "-47.6674935763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/511657781/square.jpg",
+    "date": "2025-05-16",
+    "latitude": "-23.4422380214",
+    "longitude": "-46.6252930354",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509819533/square.jpg",
+    "date": "2025-03-29",
+    "latitude": "-22.3810284679",
+    "longitude": "-42.5449336601",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509016912/square.jpg",
+    "date": "2025-05-12",
+    "latitude": "-15.8247698",
+    "longitude": "-48.9915215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508495268/square.jpg",
+    "date": "2025-04-03",
+    "latitude": "-20.5020853",
+    "longitude": "-41.0425986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507739931/square.jpg",
+    "date": "2025-03-28",
+    "latitude": "-22.3105114424",
+    "longitude": "-42.4992523011",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507264299/square.jpg",
+    "date": "2023-05-04",
+    "latitude": "-23.9632471",
+    "longitude": "-47.5071671",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507262417/square.jpg",
+    "date": "2023-08-12",
+    "latitude": "-22.4313261",
+    "longitude": "-46.826323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/506874498/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "-31.7685633359",
+    "longitude": "-52.5385134106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga snethlageae",
+    "common name": "Black-breasted Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/506874498/square.jpg",
+    "date": "2025-05-17",
+    "latitude": "-6.0775582",
+    "longitude": "-50.0471688",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/506874498/square.jpg",
+    "date": "2023-10-14",
+    "latitude": "-25.5331212404",
+    "longitude": "-54.134922344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/504833091/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "-27.7445757102",
+    "longitude": "-48.5187618434",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504549158/square.jpg",
+    "date": "2025-05-13",
+    "latitude": "-22.9488344428",
+    "longitude": "-43.2205688953",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/504541594/square.jpg",
+    "date": "2025-05-10",
+    "latitude": "-22.3354857657",
+    "longitude": "-42.4122421563",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504522453/square.jpg",
+    "date": "2020-05-19",
+    "latitude": "-26.816405",
+    "longitude": "-49.2219183056",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga castaneiceps",
+    "common name": "Chestnut-crowned Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503556457/square.jpg",
+    "date": "2025-04-13",
+    "latitude": "3.9976136887",
+    "longitude": "-76.4563329018",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503299759/square.jpeg",
+    "date": "2017-10-12",
+    "latitude": "-26.8049882778",
+    "longitude": "-49.2884316111",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga cearae",
+    "common name": "Ceara Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/502748563/square.jpeg",
+    "date": "2025-05-10",
+    "latitude": "-6.9685015696",
+    "longitude": "-35.7028650865",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/502470689/square.jpg",
+    "date": "2025-05-03",
+    "latitude": "-15.846433651",
+    "longitude": "-47.7155701169",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501495178/square.jpg",
+    "date": "2018-02-25",
+    "latitude": "-24.0041354",
+    "longitude": "-47.5618764",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501481802/square.jpeg",
+    "date": "2012-06-28",
+    "latitude": "-24.8725620549",
+    "longitude": "-47.8743627956",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501477655/square.jpeg",
+    "date": "2012-07-18",
+    "latitude": "-24.8767296004",
+    "longitude": "-47.8708535947",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga roberti",
+    "common name": "Hooded Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/501067814/square.jpg",
+    "date": "2024-01-29",
+    "latitude": "-4.4331236435",
+    "longitude": "-47.4964741341",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499382025/square.jpg",
+    "date": "2025-05-02",
+    "latitude": "-23.8153979628",
+    "longitude": "-46.7238644323",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/498848954/square.jpeg",
+    "date": "2025-05-02",
+    "latitude": "-23.8013102448",
+    "longitude": "-45.350994207",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498350385/square.jpeg",
+    "date": "2025-04-26",
+    "latitude": "-27.7432015342",
+    "longitude": "-48.5181301602",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga cearae",
+    "common name": "Ceara Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497669758/square.jpg",
+    "date": "2024-08-28",
+    "latitude": "-4.2294766044",
+    "longitude": "-38.9572221877",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/497578485/square.jpg",
+    "date": "2022-03-16",
+    "latitude": "-26.2781139545",
+    "longitude": "-48.5675686493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497152829/square.jpg",
+    "date": "2025-04-26",
+    "latitude": "-22.5641427463",
+    "longitude": "-43.3092056185",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/496535487/square.jpg",
+    "date": "2006-08-26",
+    "latitude": "-22.7696993099",
+    "longitude": "-45.6024855893",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga aurita",
+    "common name": "Chestnut-belted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495957719/square.jpg",
+    "date": "2025-04-28",
+    "latitude": "4.2922162329",
+    "longitude": "-52.4677122765",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495929164/square.png",
+    "date": "2025-04-27",
+    "latitude": "-19.8880341",
+    "longitude": "-40.5477338",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga aurita",
+    "common name": "Chestnut-belted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495929164/square.png",
+    "date": "2025-04-28",
+    "latitude": "4.2786258392",
+    "longitude": "-52.4693298224",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493590735/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-19.0201218555",
+    "longitude": "-40.1463478661",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492439575/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-18.99015672",
+    "longitude": "-40.128769068",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/491551682/square.jpg",
+    "date": "2025-04-25",
+    "latitude": "-23.8016135048",
+    "longitude": "-46.654505079",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/490549590/square.jpg",
+    "date": "2022-01-29",
+    "latitude": "-23.5272131",
+    "longitude": "-47.114493",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490508003/square.jpeg",
+    "date": "2024-08-23",
+    "latitude": "-22.501435187",
+    "longitude": "-42.9861370986",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490173232/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "-23.4432905471",
+    "longitude": "-46.6234673622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490173209/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "-23.4432905471",
+    "longitude": "-46.6234673622",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490184464/square.jpg",
+    "date": "2025-04-20",
+    "latitude": "-25.8603978",
+    "longitude": "-53.9823296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490176300/square.jpg",
+    "date": "2025-04-19",
+    "latitude": "-25.8603978",
+    "longitude": "-53.9823296",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490160685/square.jpg",
+    "date": "2025-04-13",
+    "latitude": "-23.4434736655",
+    "longitude": "-46.6242182854",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490160644/square.jpg",
+    "date": "2025-04-13",
+    "latitude": "-23.4434736655",
+    "longitude": "-46.6242182854",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490000747/square.jpg",
+    "date": "2024-10-16",
+    "latitude": "-23.6219200388",
+    "longitude": "-45.6950566198",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489968223/square.jpg",
+    "date": "2025-04-11",
+    "latitude": "-23.6156",
+    "longitude": "-45.7744",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489864491/square.jpeg",
+    "date": "2025-03-18",
+    "latitude": "-22.8522017801",
+    "longitude": "-47.937472149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489715574/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "-23.8151755172",
+    "longitude": "-46.726217187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489715414/square.jpg",
+    "date": "2025-04-21",
+    "latitude": "-23.8151755172",
+    "longitude": "-46.726217187",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/488244170/square.jpeg",
+    "date": "2025-04-16",
+    "latitude": "-23.1548486",
+    "longitude": "-44.1741895997",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pittasoma michleri",
+    "common name": "Black-crowned Antpitta",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486809918/square.jpg",
+    "date": "2025-04-15",
+    "latitude": "8.7875616317",
+    "longitude": "-80.1330751431",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486448043/square.jpg",
+    "date": "2025-03-27",
+    "latitude": "-23.1507116667",
+    "longitude": "-44.1682716667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/486745965/square.jpeg",
+    "date": "2024-12-20",
+    "latitude": "-23.9056709883",
+    "longitude": "-46.490657106",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485976773/square.jpeg",
+    "date": "2025-03-29",
+    "latitude": "-22.2346763936",
+    "longitude": "-42.576120841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485269928/square.jpg",
+    "date": "2025-03-21",
+    "latitude": "-23.77465",
+    "longitude": "-46.3127816667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485269507/square.jpg",
+    "date": "2025-03-19",
+    "latitude": "-23.774685",
+    "longitude": "-46.3127783333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485248433/square.jpeg",
+    "date": "2018-04-29",
+    "latitude": "-27.7558431261",
+    "longitude": "-48.4902262394",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pittasoma michleri",
+    "common name": "Black-crowned Antpitta",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484341840/square.jpg",
+    "date": "2025-04-08",
+    "latitude": "8.6349366667",
+    "longitude": "-80.1149583333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/484010246/square.jpg",
+    "date": "2024-07-09",
+    "latitude": "-21.9670122318",
+    "longitude": "-48.169697763",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483801057/square.jpeg",
+    "date": "2025-04-06",
+    "latitude": "-26.803912535",
+    "longitude": "-48.600938108",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483746122/square.jpg",
+    "date": "2024-08-16",
+    "latitude": "-24.172153476",
+    "longitude": "-46.9300404773",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482880928/square.jpeg",
+    "date": "2025-03-30",
+    "latitude": "-26.1880288245",
+    "longitude": "-49.3637842621",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482490440/square.jpeg",
+    "date": "2025-03-09",
+    "latitude": "-23.7785131245",
+    "longitude": "-46.3115068139",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482488918/square.jpeg",
+    "date": "2025-03-09",
+    "latitude": "-23.7748248901",
+    "longitude": "-46.3124959072",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481978313/square.jpg",
+    "date": "2025-03-29",
+    "latitude": "-22.8873233",
+    "longitude": "-48.444658",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga aurita",
+    "common name": "Chestnut-belted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481558235/square.jpg",
+    "date": "2024-09-19",
+    "latitude": "4.1528954411",
+    "longitude": "-52.526307505",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/480763844/square.jpeg",
+    "date": "2025-03-29",
+    "latitude": "-22.4181932246",
+    "longitude": "-44.7156275064",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga aurita",
+    "common name": "Chestnut-belted Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480735609/square.jpeg",
+    "date": "2025-03-12",
+    "latitude": "-0.440136134",
+    "longitude": "-76.2887004309",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanogaster",
+    "common name": "Black-bellied Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479851860/square.jpg",
+    "date": "2024-06-28",
+    "latitude": "-4.3789679",
+    "longitude": "-56.780347",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga roberti",
+    "common name": "Hooded Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479850524/square.jpg",
+    "date": "2024-12-02",
+    "latitude": "-4.5959192077",
+    "longitude": "-43.1161729202",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/479423754/square.jpeg",
+    "date": "2025-03-23",
+    "latitude": "-20.7561402101",
+    "longitude": "-42.8800279275",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/479183558/square.jpg",
+    "date": "2024-08-26",
+    "latitude": "-24.0041168267",
+    "longitude": "-47.56187521",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478765157/square.jpeg",
+    "date": "2025-03-22",
+    "latitude": "-23.8610416667",
+    "longitude": "-46.4549299444",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pittasoma michleri",
+    "common name": "Black-crowned Antpitta",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477698517/square.jpg",
+    "date": "2025-02-25",
+    "latitude": "9.1682566",
+    "longitude": "-79.273304",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477306834/square.jpeg",
+    "date": "2025-03-15",
+    "latitude": "-15.5643751292",
+    "longitude": "-47.764762188",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477113341/square.jpeg",
+    "date": "2025-03-09",
+    "latitude": "-24.2816707769",
+    "longitude": "-48.4131867841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477055187/square.jpeg",
+    "date": "2025-03-08",
+    "latitude": "-24.2816707769",
+    "longitude": "-48.4131867841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477046785/square.jpeg",
+    "date": "2025-03-08",
+    "latitude": "-24.2816707769",
+    "longitude": "-48.4131867841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476483545/square.jpeg",
+    "date": "2025-03-08",
+    "latitude": "-24.2816707769",
+    "longitude": "-48.4131867841",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/476276558/square.jpeg",
+    "date": "2024-10-16",
+    "latitude": "-23.6400738071",
+    "longitude": "-45.7876943797",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga cearae",
+    "common name": "Ceara Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/475869202/square.jpeg",
+    "date": "2025-03-11",
+    "latitude": "-8.3338996113",
+    "longitude": "-36.7524121329",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474561658/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-23.4469006903",
+    "longitude": "-46.6386141998",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474561605/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-23.4479302923",
+    "longitude": "-46.6375257899",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474513682/square.jpeg",
+    "date": "2025-02-15",
+    "latitude": "-24.5616808735",
+    "longitude": "-50.4103919517",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474222215/square.jpg",
+    "date": "2025-03-02",
+    "latitude": "-23.3849388",
+    "longitude": "-46.63215",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473670160/square.jpg",
+    "date": "2019-09-02",
+    "latitude": "-15.3818266667",
+    "longitude": "-39.56963",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Pittasoma michleri",
+    "common name": "Black-crowned Antpitta",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473533674/square.jpg",
+    "date": "2021-07-22",
+    "latitude": "8.6361431895",
+    "longitude": "-80.1160051464",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473043307/square.jpg",
+    "date": "2025-02-15",
+    "latitude": "-22.94915",
+    "longitude": "-45.67858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473043303/square.jpg",
+    "date": "2025-02-15",
+    "latitude": "-22.94915",
+    "longitude": "-45.67858",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472634980/square.jpg",
+    "date": "2019-09-01",
+    "latitude": "-14.2543883333",
+    "longitude": "-39.1818333333",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472482263/square.jpg",
+    "date": "2015-03-04",
+    "latitude": "-23.164430186",
+    "longitude": "-44.1397227149",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472093206/square.jpg",
+    "date": "2025-02-23",
+    "latitude": "-22.9459612348",
+    "longitude": "-43.2914388059",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga melanops",
+    "common name": "Black-cheeked Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/471651944/square.jpg",
+    "date": "2025-02-21",
+    "latitude": "-22.9736221787",
+    "longitude": "-43.252976279",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/471628380/square.jpg",
+    "date": "2025-02-05",
+    "latitude": "-23.7975834946",
+    "longitude": "-46.420682674",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga lineata",
+    "common name": "Rufous Gnateater",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471611493/square.jpg",
+    "date": "2019-08-28",
+    "latitude": "-16.8564083333",
+    "longitude": "-43.0283166667",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga roberti",
+    "common name": "Hooded Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/471588104/square.jpeg",
+    "date": "2024-11-23",
+    "latitude": "-5.0398441",
+    "longitude": "-42.4592478",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Conopophaga roberti",
+    "common name": "Hooded Gnateater",
+    "observation photo url": "https://static.inaturalist.org/photos/471587640/square.jpeg",
+    "date": "2024-11-23",
+    "latitude": "-5.0398441",
+    "longitude": "-42.4592478",
+    "quality_grade": "research"
+  }
+]

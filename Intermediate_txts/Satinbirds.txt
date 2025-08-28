@@ -1,0 +1,164 @@
+[
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481676162/square.jpg",
+    "date": "2024-10-23",
+    "latitude": "-5.83763",
+    "longitude": "143.990525",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus macgregorii",
+    "common name": "Crested Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449330970/square.jpeg",
+    "date": "2017-10-14",
+    "latitude": "-4.1292927012",
+    "longitude": "138.7140789916",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus macgregorii",
+    "common name": "Crested Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391223565/square.jpg",
+    "date": "2009-08-09",
+    "latitude": "-5.7926153",
+    "longitude": "143.973856",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341143490/square.jpeg",
+    "date": "2023-09-04",
+    "latitude": "-5.839523633",
+    "longitude": "143.9848251052",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335852563/square.jpg",
+    "date": "2017-07-16",
+    "latitude": "-5.9618161089",
+    "longitude": "143.067042394",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus macgregorii",
+    "common name": "Crested Satinbird",
+    "observation photo url": "https://static.inaturalist.org/photos/305250768/square.jpg",
+    "date": "2011-11-25",
+    "latitude": "-5.7915085563",
+    "longitude": "143.973227127",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://static.inaturalist.org/photos/247958492/square.jpeg",
+    "date": "2022-10-07",
+    "latitude": "-4.1431183118",
+    "longitude": "137.091240543",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232193633/square.jpeg",
+    "date": "2013-07-04",
+    "latitude": "-5.9601273744",
+    "longitude": "143.0645146749",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232193633/square.jpeg",
+    "date": "1993-10-03",
+    "latitude": "-5.9618536",
+    "longitude": "143.067762",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus macgregorii",
+    "common name": "Crested Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232193633/square.jpeg",
+    "date": "1993-10-02",
+    "latitude": "-5.9625344508",
+    "longitude": "143.1313071386",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Loboparadisea sericea",
+    "common name": "Yellow-breasted Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82240750/square.jpg",
+    "date": "2004-09-01",
+    "latitude": "-6.6544658539",
+    "longitude": "145.2239721774",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61220387/square.jpg",
+    "date": "2006-10-15",
+    "latitude": "-4.0983284061",
+    "longitude": "138.9294404886",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus macgregorii",
+    "common name": "Crested Satinbird",
+    "observation photo url": "https://static.inaturalist.org/photos/51253848/square.jpeg",
+    "date": "2019-07-12",
+    "latitude": "-5.9361127045",
+    "longitude": "143.0691789344",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus macgregorii",
+    "common name": "Crested Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44939064/square.jpg",
+    "date": "2008-06-24",
+    "latitude": "-5.7937255442",
+    "longitude": "143.9735407709",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus macgregorii",
+    "common name": "Crested Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9538705/square.jpeg",
+    "date": "2013-08-20",
+    "latitude": "-5.7943978861",
+    "longitude": "143.970980664",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9520018/square.jpeg",
+    "date": "2013-08-17",
+    "latitude": "-5.9599086446",
+    "longitude": "143.0955355931",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus loriae",
+    "common name": "Loria's Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3080300/square.jpg",
+    "date": "2015-08-10",
+    "latitude": "-4.237198",
+    "longitude": "138.7399",
+    "quality_grade": "research"
+  },
+  {
+    "species": "Cnemophilus macgregorii",
+    "common name": "Crested Satinbird",
+    "observation photo url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2639604/square.jpg",
+    "date": "2010-05-26",
+    "latitude": "-5.792952",
+    "longitude": "143.973769",
+    "quality_grade": "research"
+  }
+]
