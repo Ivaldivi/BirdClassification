@@ -1,0 +1,21 @@
+There are 29 labels
+Classes: ['Albatrosses', 'Barn Owls', 'Bee-Eaters', 'Cranes', 'Cuckoos'] ... (29 total)
+Training on mps
+Dataset: 10514 train / 3004 val / 1502 test images across 29 classes
+Epoch 1/10 | train loss 1.8828, acc 0.4713 | val loss 1.4734, acc 0.5652
+Saved new best model to model/checkpoints/family_classifier.pth
+Epoch 2/10 | train loss 1.3090, acc 0.6210 | val loss 1.2154, acc 0.6308
+Saved new best model to model/checkpoints/family_classifier.pth
+Epoch 3/10 | train loss 1.1395, acc 0.6643 | val loss 1.1800, acc 0.6421
+Saved new best model to model/checkpoints/family_classifier.pth
+Epoch 4/10 | train loss 1.0346, acc 0.6916 | val loss 1.1449, acc 0.6591
+Saved new best model to model/checkpoints/family_classifier.pth
+Epoch 5/10 | train loss 0.9364, acc 0.7184 | val loss 1.1954, acc 0.6511
+Epoch 6/10 | train loss 0.8589, acc 0.7413 | val loss 1.2392, acc 0.6435
+Epoch 7/10 | train loss 0.7925, acc 0.7626 | val loss 1.1454, acc 0.6674
+Saved new best model to model/checkpoints/family_classifier.pth
+Epoch 8/10 | train loss 0.7417, acc 0.7747 | val loss 1.1179, acc 0.6851
+Saved new best model to model/checkpoints/family_classifier.pth
+Epoch 9/10 | train loss 0.6973, acc 0.7902 | val loss 1.1745, acc 0.6771
+Epoch 10/10 | train loss 0.6477, acc 0.8069 | val loss 1.1437, acc 0.6781
+Test loss 1.1473, acc 0.6664

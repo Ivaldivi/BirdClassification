@@ -1,0 +1,361 @@
+There are 29 labels
+Found 29 family folders under /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/data/species
+Skipping Albatrosses: only 1 species folders
+Training species model for Barn Owls (5 species, 518 images)
+Training on mps
+Dataset: 362 train / 103 val / 53 test images across 11 classes
+Epoch 1/8 | train loss 2.5803, acc 0.1436 | val loss 2.0269, acc 0.4272
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/barn_owls.pth
+Epoch 2/8 | train loss 1.5074, acc 0.6022 | val loss 1.5387, acc 0.6408
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/barn_owls.pth
+Epoch 3/8 | train loss 1.0223, acc 0.7210 | val loss 1.4152, acc 0.6602
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/barn_owls.pth
+Epoch 4/8 | train loss 0.7113, acc 0.8011 | val loss 1.3648, acc 0.6117
+Epoch 5/8 | train loss 0.5200, acc 0.8646 | val loss 1.0136, acc 0.7087
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/barn_owls.pth
+Epoch 6/8 | train loss 0.4784, acc 0.8564 | val loss 1.0394, acc 0.6893
+Epoch 7/8 | train loss 0.4157, acc 0.8785 | val loss 1.2153, acc 0.6505
+Epoch 8/8 | train loss 0.3025, acc 0.9254 | val loss 1.0958, acc 0.6990
+Test loss 0.9818, acc 0.6792
+Training species model for Bee-Eaters (7 species, 560 images)
+Training on mps
+Dataset: 392 train / 112 val / 56 test images across 22 classes
+Epoch 1/8 | train loss 2.4988, acc 0.3291 | val loss 1.8241, acc 0.6696
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/bee-eaters.pth
+Epoch 2/8 | train loss 1.6291, acc 0.6224 | val loss 1.3243, acc 0.7054
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/bee-eaters.pth
+Epoch 3/8 | train loss 1.1516, acc 0.7092 | val loss 1.3091, acc 0.6875
+Epoch 4/8 | train loss 0.9191, acc 0.7679 | val loss 1.0115, acc 0.7411
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/bee-eaters.pth
+Epoch 5/8 | train loss 0.7037, acc 0.8316 | val loss 1.0439, acc 0.7321
+Epoch 6/8 | train loss 0.5771, acc 0.8520 | val loss 1.0349, acc 0.7232
+Epoch 7/8 | train loss 0.5660, acc 0.8648 | val loss 1.0835, acc 0.7232
+Epoch 8/8 | train loss 0.4597, acc 0.9031 | val loss 1.0593, acc 0.7321
+Test loss 1.5999, acc 0.5536
+Skipping Cranes: not enough species with minimum image counts
+Training species model for Cuckoos (11 species, 559 images)
+Training on mps
+Dataset: 391 train / 111 val / 57 test images across 55 classes
+Epoch 1/8 | train loss 3.5017, acc 0.2327 | val loss 2.9341, acc 0.3604
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/cuckoos.pth
+Epoch 2/8 | train loss 2.3067, acc 0.4987 | val loss 2.6041, acc 0.4054
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/cuckoos.pth
+Epoch 3/8 | train loss 1.8147, acc 0.5601 | val loss 2.4003, acc 0.3874
+Epoch 4/8 | train loss 1.4898, acc 0.6394 | val loss 2.2926, acc 0.4955
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/cuckoos.pth
+Epoch 5/8 | train loss 1.2930, acc 0.6905 | val loss 2.1851, acc 0.4685
+Epoch 6/8 | train loss 1.0882, acc 0.7187 | val loss 2.2637, acc 0.4685
+Epoch 7/8 | train loss 0.9203, acc 0.7826 | val loss 2.2040, acc 0.5045
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/cuckoos.pth
+Epoch 8/8 | train loss 0.8739, acc 0.7954 | val loss 2.2225, acc 0.4955
+Test loss 2.1606, acc 0.5088
+Training species model for Ducks, Geese, and Swans (11 species, 501 images)
+Training on mps
+Dataset: 350 train / 100 val / 51 test images across 74 classes
+Epoch 1/8 | train loss 4.3743, acc 0.0314 | val loss 3.9947, acc 0.1200
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/ducks_geese_and_swans.pth
+Epoch 2/8 | train loss 3.3191, acc 0.2857 | val loss 3.4939, acc 0.3000
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/ducks_geese_and_swans.pth
+Epoch 3/8 | train loss 2.6776, acc 0.4343 | val loss 3.2812, acc 0.3100
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/ducks_geese_and_swans.pth
+Epoch 4/8 | train loss 2.2042, acc 0.4971 | val loss 3.2378, acc 0.3200
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/ducks_geese_and_swans.pth
+Epoch 5/8 | train loss 1.8567, acc 0.6200 | val loss 3.1672, acc 0.3100
+Epoch 6/8 | train loss 1.5765, acc 0.6600 | val loss 3.1476, acc 0.3000
+Epoch 7/8 | train loss 1.3507, acc 0.7314 | val loss 3.1064, acc 0.3200
+Epoch 8/8 | train loss 1.2284, acc 0.7400 | val loss 3.0755, acc 0.3100
+Test loss 2.6905, acc 0.4314
+Training species model for Falcons and Caracaras (9 species, 554 images)
+Training on mps
+Dataset: 387 train / 110 val / 57 test images across 29 classes
+Epoch 1/8 | train loss 3.3717, acc 0.0904 | val loss 2.8315, acc 0.3000
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/falcons_and_caracaras.pth
+Epoch 2/8 | train loss 2.3663, acc 0.3979 | val loss 2.4108, acc 0.3727
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/falcons_and_caracaras.pth
+Epoch 3/8 | train loss 1.8479, acc 0.5116 | val loss 2.3202, acc 0.3364
+Epoch 4/8 | train loss 1.4730, acc 0.6047 | val loss 2.1329, acc 0.4273
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/falcons_and_caracaras.pth
+Epoch 5/8 | train loss 1.3089, acc 0.6279 | val loss 1.9922, acc 0.4636
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/falcons_and_caracaras.pth
+Epoch 6/8 | train loss 1.1823, acc 0.6615 | val loss 2.1259, acc 0.4455
+Epoch 7/8 | train loss 1.0856, acc 0.6822 | val loss 2.0655, acc 0.4545
+Epoch 8/8 | train loss 0.8874, acc 0.7649 | val loss 2.0326, acc 0.4455
+Test loss 1.9779, acc 0.4912
+Training species model for Grebes (9 species, 556 images)
+Training on mps
+Dataset: 389 train / 111 val / 56 test images across 14 classes
+Epoch 1/8 | train loss 2.3707, acc 0.2931 | val loss 1.9775, acc 0.4595
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/grebes.pth
+Epoch 2/8 | train loss 1.6703, acc 0.5424 | val loss 1.7204, acc 0.5315
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/grebes.pth
+Epoch 3/8 | train loss 1.3385, acc 0.6015 | val loss 1.6296, acc 0.5135
+Epoch 4/8 | train loss 1.1611, acc 0.6247 | val loss 1.5616, acc 0.5405
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/grebes.pth
+Epoch 5/8 | train loss 0.9901, acc 0.7275 | val loss 1.5281, acc 0.5586
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/grebes.pth
+Epoch 6/8 | train loss 0.8080, acc 0.7763 | val loss 1.5104, acc 0.5495
+Epoch 7/8 | train loss 0.7974, acc 0.7918 | val loss 1.6311, acc 0.5676
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/grebes.pth
+Epoch 8/8 | train loss 0.6791, acc 0.8201 | val loss 1.6466, acc 0.5495
+Test loss 1.7062, acc 0.4464
+Training species model for Hawks, Eagles, and Kites (13 species, 552 images)
+Training on mps
+Dataset: 386 train / 110 val / 56 test images across 68 classes
+Epoch 1/8 | train loss 4.1276, acc 0.0596 | val loss 3.8551, acc 0.1636
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hawks_eagles_and_kites.pth
+Epoch 2/8 | train loss 3.1352, acc 0.2642 | val loss 3.4340, acc 0.2000
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hawks_eagles_and_kites.pth
+Epoch 3/8 | train loss 2.6373, acc 0.3497 | val loss 3.2323, acc 0.2545
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hawks_eagles_and_kites.pth
+Epoch 4/8 | train loss 2.3100, acc 0.4197 | val loss 3.1803, acc 0.2364
+Epoch 5/8 | train loss 2.0770, acc 0.4793 | val loss 3.1429, acc 0.2273
+Epoch 6/8 | train loss 1.8682, acc 0.5285 | val loss 3.1477, acc 0.2455
+Epoch 7/8 | train loss 1.7546, acc 0.5570 | val loss 3.1229, acc 0.2545
+Epoch 8/8 | train loss 1.5357, acc 0.6451 | val loss 3.0392, acc 0.2727
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hawks_eagles_and_kites.pth
+Test loss 3.1806, acc 0.3036
+Training species model for Herons, Egrets, and Bitterns (11 species, 556 images)
+Training on mps
+Dataset: 389 train / 111 val / 56 test images across 26 classes
+Epoch 1/8 | train loss 2.9271, acc 0.2159 | val loss 2.6246, acc 0.2613
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/herons_egrets_and_bitterns.pth
+Epoch 2/8 | train loss 1.9693, acc 0.4936 | val loss 2.4276, acc 0.3153
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/herons_egrets_and_bitterns.pth
+Epoch 3/8 | train loss 1.5051, acc 0.5733 | val loss 2.2958, acc 0.3694
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/herons_egrets_and_bitterns.pth
+Epoch 4/8 | train loss 1.2745, acc 0.6452 | val loss 2.1156, acc 0.3964
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/herons_egrets_and_bitterns.pth
+Epoch 5/8 | train loss 1.1085, acc 0.6992 | val loss 2.0926, acc 0.3964
+Epoch 6/8 | train loss 0.9602, acc 0.7481 | val loss 2.0579, acc 0.4234
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/herons_egrets_and_bitterns.pth
+Epoch 7/8 | train loss 0.7967, acc 0.8123 | val loss 2.0787, acc 0.4414
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/herons_egrets_and_bitterns.pth
+Epoch 8/8 | train loss 0.7402, acc 0.8098 | val loss 2.1441, acc 0.4595
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/herons_egrets_and_bitterns.pth
+Test loss 2.0036, acc 0.4286
+Training species model for Hornbills (14 species, 539 images)
+Training on mps
+Dataset: 377 train / 107 val / 55 test images across 41 classes
+Epoch 1/8 | train loss 3.5498, acc 0.0928 | val loss 3.1198, acc 0.2617
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hornbills.pth
+Epoch 2/8 | train loss 2.7082, acc 0.3793 | val loss 2.6848, acc 0.2991
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hornbills.pth
+Epoch 3/8 | train loss 2.1626, acc 0.4695 | val loss 2.4587, acc 0.3738
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hornbills.pth
+Epoch 4/8 | train loss 1.8240, acc 0.5332 | val loss 2.3423, acc 0.3832
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hornbills.pth
+Epoch 5/8 | train loss 1.5619, acc 0.6313 | val loss 2.2522, acc 0.3645
+Epoch 6/8 | train loss 1.2965, acc 0.6976 | val loss 2.1616, acc 0.4112
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hornbills.pth
+Epoch 7/8 | train loss 1.1462, acc 0.7480 | val loss 2.1752, acc 0.4299
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hornbills.pth
+Epoch 8/8 | train loss 1.0091, acc 0.8090 | val loss 2.2160, acc 0.4673
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hornbills.pth
+Test loss 1.8045, acc 0.5091
+Training species model for Hummingbirds (8 species, 559 images)
+Training on mps
+Dataset: 391 train / 111 val / 57 test images across 119 classes
+Epoch 1/8 | train loss 4.8996, acc 0.0205 | val loss 4.6944, acc 0.0541
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hummingbirds.pth
+Epoch 2/8 | train loss 3.8306, acc 0.2583 | val loss 4.0499, acc 0.2613
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hummingbirds.pth
+Epoch 3/8 | train loss 3.1540, acc 0.3581 | val loss 3.8470, acc 0.2793
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hummingbirds.pth
+Epoch 4/8 | train loss 2.7407, acc 0.3504 | val loss 3.8007, acc 0.2342
+Epoch 5/8 | train loss 2.4038, acc 0.4604 | val loss 3.6589, acc 0.2793
+Epoch 6/8 | train loss 2.1607, acc 0.4936 | val loss 3.6504, acc 0.2703
+Epoch 7/8 | train loss 1.9359, acc 0.5754 | val loss 3.6760, acc 0.2973
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hummingbirds.pth
+Epoch 8/8 | train loss 1.7613, acc 0.6189 | val loss 3.6578, acc 0.3063
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/hummingbirds.pth
+Test loss 4.2557, acc 0.1754
+Skipping Limpkins: only 1 species folders
+Training species model for New World Sparrows (14 species, 516 images)
+Training on mps
+Dataset: 361 train / 103 val / 52 test images across 52 classes
+Epoch 1/8 | train loss 4.0072, acc 0.0360 | val loss 3.7030, acc 0.1553
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_sparrows.pth
+Epoch 2/8 | train loss 2.9502, acc 0.3573 | val loss 3.2632, acc 0.2621
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_sparrows.pth
+Epoch 3/8 | train loss 2.3408, acc 0.4626 | val loss 3.0493, acc 0.2816
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_sparrows.pth
+Epoch 4/8 | train loss 1.8787, acc 0.5429 | val loss 2.9507, acc 0.3398
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_sparrows.pth
+Epoch 5/8 | train loss 1.6177, acc 0.6177 | val loss 2.9077, acc 0.3398
+Epoch 6/8 | train loss 1.3946, acc 0.6510 | val loss 2.8301, acc 0.3398
+Epoch 7/8 | train loss 1.2425, acc 0.7008 | val loss 2.8862, acc 0.3592
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_sparrows.pth
+Epoch 8/8 | train loss 1.0657, acc 0.7673 | val loss 2.8190, acc 0.3592
+Test loss 2.3228, acc 0.4808
+Training species model for New World Vultures (2 species, 547 images)
+Training on mps
+Dataset: 382 train / 109 val / 56 test images across 6 classes
+Epoch 1/8 | train loss 1.3907, acc 0.5314 | val loss 1.0551, acc 0.6972
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_vultures.pth
+Epoch 2/8 | train loss 0.8006, acc 0.7696 | val loss 0.6007, acc 0.8257
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_vultures.pth
+Epoch 3/8 | train loss 0.4991, acc 0.8298 | val loss 0.4957, acc 0.8440
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_vultures.pth
+Epoch 4/8 | train loss 0.4334, acc 0.8482 | val loss 0.4620, acc 0.8257
+Epoch 5/8 | train loss 0.3504, acc 0.8848 | val loss 0.4652, acc 0.8440
+Epoch 6/8 | train loss 0.2769, acc 0.9058 | val loss 0.5088, acc 0.7798
+Epoch 7/8 | train loss 0.2538, acc 0.9188 | val loss 0.4579, acc 0.8624
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/new_world_vultures.pth
+Epoch 8/8 | train loss 0.2133, acc 0.9319 | val loss 0.4160, acc 0.8624
+Test loss 0.7007, acc 0.7857
+Training species model for Nightjars and Nighthawks (10 species, 558 images)
+Training on mps
+Dataset: 390 train / 111 val / 57 test images across 41 classes
+Epoch 1/8 | train loss 3.0403, acc 0.2538 | val loss 2.4606, acc 0.3694
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/nightjars_and_nighthawks.pth
+Epoch 2/8 | train loss 2.0925, acc 0.4744 | val loss 2.1246, acc 0.4595
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/nightjars_and_nighthawks.pth
+Epoch 3/8 | train loss 1.6674, acc 0.5410 | val loss 2.0258, acc 0.4865
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/nightjars_and_nighthawks.pth
+Epoch 4/8 | train loss 1.4111, acc 0.6256 | val loss 1.9846, acc 0.5045
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/nightjars_and_nighthawks.pth
+Epoch 5/8 | train loss 1.2061, acc 0.6949 | val loss 2.0229, acc 0.4505
+Epoch 6/8 | train loss 1.0087, acc 0.7333 | val loss 1.9606, acc 0.4775
+Epoch 7/8 | train loss 0.9339, acc 0.7513 | val loss 1.9377, acc 0.5045
+Epoch 8/8 | train loss 0.7621, acc 0.8385 | val loss 2.0335, acc 0.4955
+Test loss 1.9527, acc 0.5263
+Skipping Ospreys: only 1 species folders
+Training species model for Petrels, Shearwaters, and Diving Petrels (8 species, 536 images)
+Training on mps
+Dataset: 375 train / 107 val / 54 test images across 26 classes
+Epoch 1/8 | train loss 2.6738, acc 0.2800 | val loss 2.0235, acc 0.4393
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/petrels_shearwaters_and_diving_petrels.pth
+Epoch 2/8 | train loss 1.5533, acc 0.5973 | val loss 1.4637, acc 0.6075
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/petrels_shearwaters_and_diving_petrels.pth
+Epoch 3/8 | train loss 1.0509, acc 0.7040 | val loss 1.3968, acc 0.6262
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/petrels_shearwaters_and_diving_petrels.pth
+Epoch 4/8 | train loss 0.8530, acc 0.7627 | val loss 1.2931, acc 0.6449
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/petrels_shearwaters_and_diving_petrels.pth
+Epoch 5/8 | train loss 0.6895, acc 0.8080 | val loss 1.1573, acc 0.6822
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/petrels_shearwaters_and_diving_petrels.pth
+Epoch 6/8 | train loss 0.5782, acc 0.8507 | val loss 1.1250, acc 0.6916
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/petrels_shearwaters_and_diving_petrels.pth
+Epoch 7/8 | train loss 0.4538, acc 0.8853 | val loss 1.1185, acc 0.7009
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/petrels_shearwaters_and_diving_petrels.pth
+Epoch 8/8 | train loss 0.4413, acc 0.8880 | val loss 1.1203, acc 0.7103
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/petrels_shearwaters_and_diving_petrels.pth
+Test loss 1.2449, acc 0.6481
+Training species model for Rails, Crakes, Gallinules, and Coots (8 species, 547 images)
+Training on mps
+Dataset: 382 train / 109 val / 56 test images across 33 classes
+Epoch 1/8 | train loss 3.4638, acc 0.0942 | val loss 2.6645, acc 0.3394
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rails_crakes_gallinules_and_coots.pth
+Epoch 2/8 | train loss 2.3445, acc 0.4529 | val loss 2.2221, acc 0.3945
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rails_crakes_gallinules_and_coots.pth
+Epoch 3/8 | train loss 1.7397, acc 0.5576 | val loss 2.0557, acc 0.4587
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rails_crakes_gallinules_and_coots.pth
+Epoch 4/8 | train loss 1.3038, acc 0.6675 | val loss 2.0178, acc 0.4312
+Epoch 5/8 | train loss 1.0727, acc 0.7225 | val loss 1.9906, acc 0.3945
+Epoch 6/8 | train loss 0.9617, acc 0.7487 | val loss 2.0118, acc 0.4220
+Epoch 7/8 | train loss 0.8171, acc 0.7880 | val loss 1.9355, acc 0.4495
+Epoch 8/8 | train loss 0.7509, acc 0.8089 | val loss 1.9254, acc 0.4312
+Test loss 1.9851, acc 0.4643
+Training species model for Rollers (7 species, 543 images)
+Training on mps
+Dataset: 380 train / 108 val / 55 test images across 10 classes
+Epoch 1/8 | train loss 2.3762, acc 0.1632 | val loss 1.6838, acc 0.5463
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rollers.pth
+Epoch 2/8 | train loss 1.4335, acc 0.6105 | val loss 1.2251, acc 0.6481
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rollers.pth
+Epoch 3/8 | train loss 0.9777, acc 0.7184 | val loss 1.0068, acc 0.6944
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rollers.pth
+Epoch 4/8 | train loss 0.7368, acc 0.7895 | val loss 0.8793, acc 0.7500
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rollers.pth
+Epoch 5/8 | train loss 0.5632, acc 0.8211 | val loss 0.8179, acc 0.7593
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rollers.pth
+Epoch 6/8 | train loss 0.4540, acc 0.8842 | val loss 0.7866, acc 0.7778
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/rollers.pth
+Epoch 7/8 | train loss 0.4214, acc 0.8895 | val loss 0.7930, acc 0.7593
+Epoch 8/8 | train loss 0.3870, acc 0.8921 | val loss 0.8551, acc 0.7315
+Test loss 1.0218, acc 0.6727
+Training species model for Storks (9 species, 526 images)
+Training on mps
+Dataset: 368 train / 105 val / 53 test images across 18 classes
+Epoch 1/8 | train loss 2.2502, acc 0.4429 | val loss 1.7489, acc 0.5524
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/storks.pth
+Epoch 2/8 | train loss 1.4004, acc 0.6875 | val loss 1.6252, acc 0.5714
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/storks.pth
+Epoch 3/8 | train loss 1.0552, acc 0.7310 | val loss 1.4058, acc 0.6476
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/storks.pth
+Epoch 4/8 | train loss 0.8794, acc 0.7690 | val loss 1.3021, acc 0.6476
+Epoch 5/8 | train loss 0.7082, acc 0.8071 | val loss 1.3068, acc 0.6190
+Epoch 6/8 | train loss 0.5611, acc 0.8505 | val loss 1.3109, acc 0.6381
+Epoch 7/8 | train loss 0.4469, acc 0.9103 | val loss 1.3006, acc 0.6571
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/storks.pth
+Epoch 8/8 | train loss 0.3832, acc 0.9212 | val loss 1.2710, acc 0.6476
+Test loss 1.4109, acc 0.5283
+Training species model for Swallows and Martins (4 species, 565 images)
+Training on mps
+Dataset: 395 train / 113 val / 57 test images across 4 classes
+Epoch 1/8 | train loss 1.2642, acc 0.4354 | val loss 1.0729, acc 0.5752
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/swallows_and_martins.pth
+Epoch 2/8 | train loss 0.7629, acc 0.7266 | val loss 1.1862, acc 0.5575
+Epoch 3/8 | train loss 0.6435, acc 0.7620 | val loss 1.1305, acc 0.5752
+Epoch 4/8 | train loss 0.5157, acc 0.8177 | val loss 1.2625, acc 0.4956
+Epoch 5/8 | train loss 0.4502, acc 0.8430 | val loss 1.3237, acc 0.5398
+Epoch 6/8 | train loss 0.3690, acc 0.8810 | val loss 1.1765, acc 0.5664
+Epoch 7/8 | train loss 0.2921, acc 0.8962 | val loss 1.4944, acc 0.5664
+Epoch 8/8 | train loss 0.2589, acc 0.9190 | val loss 1.5289, acc 0.5310
+Test loss 0.9758, acc 0.5789
+Training species model for Swifts (8 species, 560 images)
+Training on mps
+Dataset: 392 train / 112 val / 56 test images across 28 classes
+Epoch 1/8 | train loss 3.0940, acc 0.2423 | val loss 3.0253, acc 0.4375
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/swifts.pth
+Epoch 2/8 | train loss 1.8775, acc 0.5587 | val loss 1.7560, acc 0.6429
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/swifts.pth
+Epoch 3/8 | train loss 1.4629, acc 0.6378 | val loss 1.6475, acc 0.6696
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/swifts.pth
+Epoch 4/8 | train loss 1.1315, acc 0.6913 | val loss 1.4116, acc 0.6786
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/swifts.pth
+Epoch 5/8 | train loss 1.0492, acc 0.7117 | val loss 1.4063, acc 0.6607
+Epoch 6/8 | train loss 0.9773, acc 0.7270 | val loss 1.4624, acc 0.6607
+Epoch 7/8 | train loss 0.8752, acc 0.7449 | val loss 1.5579, acc 0.6071
+Epoch 8/8 | train loss 0.7921, acc 0.7628 | val loss 1.3876, acc 0.7054
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/swifts.pth
+Test loss 1.6800, acc 0.5893
+Skipping Tanagers and Allies: only 1 species folders
+Skipping Trogons: only 1 species folders
+Training species model for Typical Antbirds (10 species, 541 images)
+Training on mps
+Dataset: 378 train / 108 val / 55 test images across 123 classes
+Epoch 1/8 | train loss 4.8765, acc 0.0238 | val loss 4.5304, acc 0.0648
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/typical_antbirds.pth
+Epoch 2/8 | train loss 4.0579, acc 0.2222 | val loss 4.1072, acc 0.1944
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/typical_antbirds.pth
+Epoch 3/8 | train loss 3.4650, acc 0.2937 | val loss 3.7892, acc 0.2222
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/typical_antbirds.pth
+Epoch 4/8 | train loss 3.0497, acc 0.3651 | val loss 3.6977, acc 0.2685
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/typical_antbirds.pth
+Epoch 5/8 | train loss 2.6879, acc 0.4339 | val loss 3.6130, acc 0.2778
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/typical_antbirds.pth
+Epoch 6/8 | train loss 2.4268, acc 0.4841 | val loss 3.6127, acc 0.2870
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/typical_antbirds.pth
+Epoch 7/8 | train loss 2.2029, acc 0.5159 | val loss 3.6205, acc 0.2963
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/typical_antbirds.pth
+Epoch 8/8 | train loss 1.9561, acc 0.6164 | val loss 3.5830, acc 0.3148
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/typical_antbirds.pth
+Test loss 4.1824, acc 0.1818
+Skipping Tyrant Flycatchers: only 1 species folders
+Skipping Vireos: only 1 species folders
+Training species model for Woodpeckers (12 species, 561 images)
+Training on mps
+Dataset: 392 train / 112 val / 57 test images across 64 classes
+Epoch 1/8 | train loss 3.9811, acc 0.0816 | val loss 3.7237, acc 0.1875
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/woodpeckers.pth
+Epoch 2/8 | train loss 2.9957, acc 0.3138 | val loss 3.4350, acc 0.2232
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/woodpeckers.pth
+Epoch 3/8 | train loss 2.4675, acc 0.3903 | val loss 3.2519, acc 0.2589
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/species/woodpeckers.pth
+Epoch 4/8 | train loss 2.1224, acc 0.4770 | val loss 3.1405, acc 0.2321
+Epoch 5/8 | train loss 1.8225, acc 0.5459 | val loss 3.1111, acc 0.2589
+Epoch 6/8 | train loss 1.6591, acc 0.5842 | val loss 3.1545, acc 0.2589
+Epoch 7/8 | train loss 1.4874, acc 0.6429 | val loss 3.1704, acc 0.2500
+Epoch 8/8 | train loss 1.2951, acc 0.6888 | val loss 3.2219, acc 0.2589
+Test loss 3.2008, acc 0.2281
+Trained 21 species models
