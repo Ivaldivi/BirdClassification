@@ -1,0 +1,23 @@
+There are 100 labels
+Classes: ['African and Green Broadbills', 'Auks, Murres, Guillemots, and Puffins', 'Australasian Treecreepers', 'Australian Mudnesters', 'Bee-Eaters'] ... (100 total)
+Training on mps
+Dataset: 10443 train / 2983 val / 1493 test images across 100 classes
+Epoch 1/10 | train loss 3.4546, acc 0.2442 | val loss 2.5548, acc 0.4123
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/bird_classifier.pth
+Epoch 2/10 | train loss 2.4079, acc 0.4567 | val loss 2.1410, acc 0.4874
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/bird_classifier.pth
+Epoch 3/10 | train loss 1.9945, acc 0.5343 | val loss 1.8713, acc 0.5320
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/bird_classifier.pth
+Epoch 4/10 | train loss 1.7613, acc 0.5781 | val loss 1.8227, acc 0.5464
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/bird_classifier.pth
+Epoch 5/10 | train loss 1.5638, acc 0.6201 | val loss 1.7361, acc 0.5605
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/bird_classifier.pth
+Epoch 6/10 | train loss 1.3981, acc 0.6589 | val loss 1.7358, acc 0.5515
+Epoch 7/10 | train loss 1.2598, acc 0.6910 | val loss 1.6825, acc 0.5840
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/bird_classifier.pth
+Epoch 8/10 | train loss 1.1498, acc 0.7197 | val loss 1.6571, acc 0.5903
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/bird_classifier.pth
+Epoch 9/10 | train loss 1.0788, acc 0.7370 | val loss 1.6822, acc 0.5783
+Epoch 10/10 | train loss 0.9754, acc 0.7677 | val loss 1.6281, acc 0.5977
+Saved new best model to /Users/izzyvaldivia/Documents/personalProjects/BirdClassification/model/checkpoints/bird_classifier.pth
+Test loss 1.6146, acc 0.6055

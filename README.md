@@ -8,3 +8,5 @@ This tool helps classify pictures of birds. It is built off of research-grade pi
 
 I am currently a masters in data sceince student who is interested in classification models and am lucky enough to have parents that live in a gorgeous area filled with a wide variety of different birds. My late grandfather was an birdwatcher in the pacific northwest. I did not learn the craft from him before he passed, but I wanted lean into both my connection to him and my interest in image classification models and decided to create this tool. 
 
+## Dataset: 
+##### 14919 total images across 100 different groups of birds

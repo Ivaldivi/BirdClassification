@@ -1,0 +1,158 @@
+Herons, Egrets, and Bitterns: saved 600 observations (27 species) -> Herons, Egrets, and Bitterns.txt
+Ibises and Spoonbills: saved 600 observations (25 species) -> Ibises and Spoonbills.txt
+Pelicans: saved 600 observations (8 species) -> Pelicans.txt
+Storks: saved 600 observations (19 species) -> Storks.txt
+Cranes: saved 600 observations (12 species) -> Cranes.txt
+Rails, Crakes, Gallinules, and Coots: saved 600 observations (33 species) -> Rails, Crakes, Gallinules, and Coots.txt
+Limpkins: saved 600 observations (1 species) -> Limpkins.txt
+Ducks, Geese, and Swans: saved 600 observations (75 species) -> Ducks, Geese, and Swans.txt
+Hawks, Eagles, and Kites: saved 600 observations (72 species) -> Hawks, Eagles, and Kites.txt
+Ospreys: saved 600 observations (1 species) -> Ospreys.txt
+Falcons and Caracaras: saved 600 observations (31 species) -> Falcons and Caracaras.txt
+New World Vultures: saved 600 observations (6 species) -> New World Vultures.txt
+Typical Owls: saved 600 observations (56 species) -> Typical Owls.txt
+Barn Owls: saved 600 observations (11 species) -> Barn Owls.txt
+Nightjars and Nighthawks: saved 600 observations (41 species) -> Nightjars and Nighthawks.txt
+Error fetching Swifts (page 1): 422
+Swifts: saved 0 observations (0 species) -> Swifts.txt
+Hummingbirds: saved 600 observations (124 species) -> Hummingbirds.txt
+Kingfishers: saved 600 observations (38 species) -> Kingfishers.txt
+Woodpeckers: saved 600 observations (66 species) -> Woodpeckers.txt
+Pigeons and Doves: saved 600 observations (43 species) -> Pigeons and Doves.txt
+Cuckoos: saved 600 observations (57 species) -> Cuckoos.txt
+Typical Antbirds: saved 600 observations (126 species) -> Typical Antbirds.txt
+Bee-Eaters: saved 600 observations (22 species) -> Bee-Eaters.txt
+Rollers: saved 600 observations (10 species) -> Rollers.txt
+Hornbills: saved 600 observations (41 species) -> Hornbills.txt
+Trogons: saved 595 observations (1 species) -> Trogons.txt
+Crows, Jays, and Magpies: saved 600 observations (41 species) -> Crows, Jays, and Magpies.txt
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.inaturalist.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/izzyvaldivia/Documents/personalProjects/BirdClassification/inaturalistAPItest.py", line 208, in <module>
+    main()
+  File "/Users/izzyvaldivia/Documents/personalProjects/BirdClassification/inaturalistAPItest.py", line 199, in main
+    query_inaturalist(taxon_file=args.taxon_file, per_page=args.per_page, pages=args.pages)
+  File "/Users/izzyvaldivia/Documents/personalProjects/BirdClassification/inaturalistAPItest.py", line 67, in query_inaturalist
+    response = requests.get(OBSERVATIONS_URL, params=params, timeout=30)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/birdClassification/lib/python3.12/site-packages/requests/adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.inaturalist.org', port=443): Read timed out. (read timeout=30)
+Skipping Herons, Egrets, and Bitterns: already fetched -> Herons, Egrets, and Bitterns.txt
+Skipping Ibises and Spoonbills: already fetched -> Ibises and Spoonbills.txt
+Skipping Pelicans: already fetched -> Pelicans.txt
+Skipping Storks: already fetched -> Storks.txt
+Skipping Cranes: already fetched -> Cranes.txt
+Skipping Rails, Crakes, Gallinules, and Coots: already fetched -> Rails, Crakes, Gallinules, and Coots.txt
+Skipping Limpkins: already fetched -> Limpkins.txt
+Skipping Ducks, Geese, and Swans: already fetched -> Ducks, Geese, and Swans.txt
+Skipping Hawks, Eagles, and Kites: already fetched -> Hawks, Eagles, and Kites.txt
+Skipping Ospreys: already fetched -> Ospreys.txt
+Skipping Falcons and Caracaras: already fetched -> Falcons and Caracaras.txt
+Skipping New World Vultures: already fetched -> New World Vultures.txt
+Skipping Typical Owls: already fetched -> Typical Owls.txt
+Skipping Barn Owls: already fetched -> Barn Owls.txt
+Skipping Nightjars and Nighthawks: already fetched -> Nightjars and Nighthawks.txt
+Swifts: saved 600 observations (29 species) -> Swifts.txt
+Skipping Hummingbirds: already fetched -> Hummingbirds.txt
+Skipping Kingfishers: already fetched -> Kingfishers.txt
+Skipping Woodpeckers: already fetched -> Woodpeckers.txt
+Skipping Pigeons and Doves: already fetched -> Pigeons and Doves.txt
+Skipping Cuckoos: already fetched -> Cuckoos.txt
+Skipping Typical Antbirds: already fetched -> Typical Antbirds.txt
+Skipping Bee-Eaters: already fetched -> Bee-Eaters.txt
+Skipping Rollers: already fetched -> Rollers.txt
+Skipping Hornbills: already fetched -> Hornbills.txt
+Skipping Trogons: already fetched -> Trogons.txt
+Skipping Crows, Jays, and Magpies: already fetched -> Crows, Jays, and Magpies.txt
+Swallows and Martins: saved 600 observations (4 species) -> Swallows and Martins.txt
+Error fetching Wrens (page 1): 422
+Wrens: saved 0 observations (0 species) -> Wrens.txt
+Error fetching Thrushes (page 1): 422
+Thrushes: saved 0 observations (0 species) -> Thrushes.txt
+Error fetching Old World Flycatchers (page 1): 422
+Old World Flycatchers: saved 0 observations (0 species) -> Old World Flycatchers.txt
+Tyrant Flycatchers: saved 600 observations (1 species) -> Tyrant Flycatchers.txt
+Vireos: saved 600 observations (1 species) -> Vireos.txt
+New World Warblers: saved 600 observations (56 species) -> New World Warblers.txt
+Skipping Cardinals and Allies: already fetched -> Cardinals and Allies.txt
+Retry 1/3 for Tanagers and Allies page 2: HTTPSConnectionPool(host='api.inaturalist.org', port=443): Read timed out. (read timeout=60)
+Tanagers and Allies: saved 600 observations (1 species) -> Tanagers and Allies.txt
+Retry 1/3 for Finches, Euphonias, and Allies page 1: HTTPSConnectionPool(host='api.inaturalist.org', port=443): Read timed out. (read timeout=60)
+Error fetching Finches, Euphonias, and Allies (page 1): 422
+Finches, Euphonias, and Allies: saved 0 observations (0 species) -> Finches, Euphonias, and Allies.txt
+New World Sparrows: saved 600 observations (53 species) -> New World Sparrows.txt
+Skipping Gulls, Terns, and Skimmers: already fetched -> Gulls, Terns, and Skimmers.txt
+Skipping Skuas and Jaegers: already fetched -> Skuas and Jaegers.txt
+Skipping Auks, Murres, Guillemots, and Puffins: already fetched -> Auks, Murres, Guillemots, and Puffins.txt
+Skipping Sandpipers and Allies: already fetched -> Sandpipers and Allies.txt
+Skipping Plovers and Lapwings: already fetched -> Plovers and Lapwings.txt
+Skipping Oystercatchers: already fetched -> Oystercatchers.txt
+Error fetching Cormorants and Shags (page 1): 422
+Cormorants and Shags: saved 0 observations (0 species) -> Cormorants and Shags.txt
+Skipping Loons: already fetched -> Loons.txt
+Grebes: saved 600 observations (14 species) -> Grebes.txt
+Albatrosses: saved 54 observations (1 species) -> Albatrosses.txt
+Petrels, Shearwaters, and Diving Petrels: saved 600 observations (26 species) -> Petrels, Shearwaters, and Diving Petrels.txt

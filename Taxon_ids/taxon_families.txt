@@ -1,0 +1,55 @@
+# Bird families for family-level classification.
+# Each line: Common Name: iNaturalist taxon_id
+# Querying a family returns all species in that family; images are stored under the family name.
+#
+# Use with: python inaturalistAPItest.py query --taxon-file Taxon_ids/taxon_families.txt --label-mode family
+
+Herons, Egrets, and Bitterns: 4929
+Ibises and Spoonbills: 3727
+Pelicans: 4323
+Storks: 3726
+Cranes: 23
+Rails, Crakes, Gallinules, and Coots: 154
+Limpkins: 5
+Ducks, Geese, and Swans: 6912
+Hawks, Eagles, and Kites: 5067
+Ospreys: 200958
+Falcons and Caracaras: 67570
+New World Vultures: 71306
+Typical Owls: 19728
+Barn Owls: 20413
+Nightjars and Nighthawks: 19376
+Swifts: 6544
+Hummingbirds: 5562
+Kingfishers: 2314
+Woodpeckers: 17599
+Pigeons and Doves: 2708
+Cuckoos: 1623
+Typical Antbirds: 15726
+Bee-Eaters: 2183
+Rollers: 2262
+Hornbills: 5438
+Trogons: 19482
+Crows, Jays, and Magpies: 7823
+Swallows and Martins: 7131
+Wrens: 7583
+Thrushes: 12702
+Old World Flycatchers: 71335
+Tyrant Flycatchers: 17092
+Vireos: 891696
+New World Warblers: 71349
+Cardinals and Allies: 71305
+Tanagers and Allies: 71351
+Finches, Euphonias, and Allies: 71352
+New World Sparrows: 71354
+Gulls, Terns, and Skimmers: 4342
+Skuas and Jaegers: 71367
+Auks, Murres, Guillemots, and Puffins: 71295
+Sandpipers and Allies: 3835
+Plovers and Lapwings: 4783
+Oystercatchers: 71325
+Cormorants and Shags: 71269
+Loons: 67562
+Grebes: 67563
+Albatrosses: 71271
+Petrels, Shearwaters, and Diving Petrels: 71272

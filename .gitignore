@@ -1,2 +1,6 @@
 .DS_store
 data/
+model/checkpoints/
+model/reports/
+__pycache__/
+*.pyc

@@ -1,0 +1,6 @@
+# Species-level classification for herons and egrets.
+# Query the heron family, but store each image under its species/common name.
+#
+# Use with: python inaturalistAPItest.py query --taxon-file Taxon_ids/taxon_species_herons.txt --label-mode species
+
+Herons, Egrets, and Bitterns: 4929
